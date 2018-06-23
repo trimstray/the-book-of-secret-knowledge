@@ -37,6 +37,12 @@
 
 ## Who is Ninja Admin?
 
-## Ninja Admins Collection
+Your [contributions](contributing.md) are always welcome!
+
+## Ninja Admin Collections
+
+Repository | Description
+---- | ----
+[Test](https://github.com/trimstray/awesome-ninja-admins) | Testing resource
 
 ### :bangbang: **This documentation is incomplete and constantly developed.**
