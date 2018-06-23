@@ -46,8 +46,8 @@
 
 ## Ninja Admin Collections
 
-Repository | Description
----- | ----
-[Test](https://github.com/trimstray/awesome-ninja-admins) | Testing resource
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;:small_red_triangle_down: <a href="https://github.com/jkbrzt/httpie">HTTPie</a><br>
+</p>
 
 ### :bangbang: **This documentation is incomplete and constantly developed.**
