@@ -35,8 +35,6 @@
 
 ***
 
-# Who is ninja-admin?
-
-
+## Who is ninja-admin?
 
 ### :bangbang: **This documentation is incomplete and constantly developed.**
