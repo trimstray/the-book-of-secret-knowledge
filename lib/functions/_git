@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+
+function _ana_git_pull() {
+
+  local _arg=("$@")
+
+  for _i in "${_arg[@]}" ; do
+
+    printf "%s" "$_i"
+
+    git pull origin "$_i" && git fetch --all && git fetch --prune --tags
+
+  done
+
+}

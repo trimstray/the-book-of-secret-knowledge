@@ -1,0 +1,1 @@
+alias ssh.nonpass='ssh -o PreferredAuthentications=password -o PubkeyAuthentication=no'

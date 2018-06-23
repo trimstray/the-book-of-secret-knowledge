@@ -1,0 +1,33 @@
+notifications:
+  email:
+    recipients:
+      - git@nslab.at
+    on_success: always
+    on_failure: always
+
+branches:
+  only:
+    - master
+    - testing
+
+language: bash
+
+sudo: required
+
+addons:
+  apt:
+    packages:
+      - bash
+
+before_install:
+  - curl -sSL "https://ftp-master.debian.org/keys/archive-key-7.0.asc" | sudo -E apt-key add -
+  - echo "deb http://ftp.us.debian.org/debian unstable main contrib non-free" | sudo tee -a /etc/apt/sources.list > /dev/null
+  - sudo apt-get update
+  - sudo apt-get install shellcheck
+
+# after_success:
+#   - test $TRAVIS_PULL_REQUEST = false && git push
+
+script:
+  - shellcheck --version
+  - shellcheck -s bash -e 1072,1094 -x src/* -x lib/* bin/git-template-full

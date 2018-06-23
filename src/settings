@@ -1,0 +1,26 @@
+# shellcheck shell=bash
+
+################################################################################
+################## The configuration parameters of the script ##################
+################################################################################
+
+# Bash 'Strict Mode':
+#   errexit  - exit the script if any statement returns a non-true return value
+#   pipefail - exit the script if any command in a pipeline errors
+#   nounset  - exit the script if you try to use an uninitialised variable
+#   xtrace   - display debugging information
+set -o pipefail
+
+# Internal field separator (more flexible):
+#   IFS_ORIG="$IFS"
+#   IFS_HACK=$'\n\t'
+#   IFS="$IFS_HACK"
+
+# PATH env variable setup:
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+
+# Setting permissions in the script environment:
+#   0022 - less restrictive settings (default value)
+#   0027 - for better security than above
+#   0077 - only for user access (more restrictive)
+umask 0027

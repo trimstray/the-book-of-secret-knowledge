@@ -1,0 +1,84 @@
+#!/usr/bin/env bash
+
+### BEG SCRIPT INFO
+#
+# Header:
+#
+#         fname : "ana-init"
+#         cdate : "24.05.2018"
+#        author : "Michał Żurawski <trimstray@gmail.com>"
+#      tab_size : "2"
+#     soft_tabs : "yes"
+#
+# Description:
+#
+#   See README.md file for more information.
+#
+# License:
+#
+#   awesome-ninja-admins, Copyright (C) 2018  Michał Żurawski
+#
+#   This program is free software: you can redistribute it and/or modify
+#   it under the terms of the GNU General Public License as published by
+#   the Free Software Foundation, either version 3 of the License, or
+#   (at your option) any later version.
+#
+#   This program is distributed in the hope that it will be useful,
+#   but WITHOUT ANY WARRANTY; without even the implied warranty of
+#   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+#   GNU General Public License for more details.
+#
+#   You should have received a copy of the GNU General Public License
+#   along with this program. If not, see <http://www.gnu.org/licenses/>.
+#
+### END SCRIPT INFO
+
+# The array that store call parameters.
+# shellcheck disable=SC2034
+__init_params=()
+__script_params=("$@")
+
+# Store the name of the script and directory call.
+readonly _ana_dir="${HOME}/.awesome-ninja-admins"
+
+# Directory structure.
+# shellcheck disable=SC2154
+readonly _ana_src="${_ana_dir}/src"
+readonly _ana_lib="${_ana_dir}/lib"
+
+# shellcheck disable=SC1090,SC1091
+source "${_ana_src}/settings"
+# shellcheck disable=SC1090
+source "${_ana_src}/helpers"
+
+# Include main configuration file.
+# shellcheck disable=SC1090
+source "${_ana_dir}/ana.conf" || (printf "%s\\n" "file not found" ; exit)
+
+# shellcheck disable=SC2154
+for _i in "${_functions[@]}" ; do
+
+  _fd="${_ana_lib}/functions/${_i}"
+  if [[ ! -z "$_fd" ]] && [[ -e "$_fd" ]] ; then
+
+      # If the file exists is loaded.
+      # shellcheck disable=SC1090
+      source "${_fd}"
+
+  fi
+
+done
+
+# shellcheck disable=SC2154
+for _i in "${_aliases[@]}" ; do
+
+  _fd="${_ana_lib}/aliases/${_i}"
+  if [[ ! -z "$_fd" ]] && [[ -e "$_fd" ]] ; then
+
+      # If the file exists is loaded.
+      # shellcheck disable=SC1090
+      source "${_fd}"
+
+  fi
+
+done

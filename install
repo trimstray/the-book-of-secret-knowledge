@@ -1,0 +1,205 @@
+#!/usr/bin/env bash
+
+### BEG SCRIPT INFO
+#
+# Header:
+#
+#         fname : "awesome-ninja-admins"
+#         cdate : "24.05.2018"
+#        author : "Michał Żurawski <trimstray@gmail.com>"
+#      tab_size : "2"
+#     soft_tabs : "yes"
+#
+# Description:
+#
+#   See README.md file for more information.
+#
+# License:
+#
+#   awesome-ninja-admins, Copyright (C) 2018  Michał Żurawski
+#
+#   This program is free software: you can redistribute it and/or modify
+#   it under the terms of the GNU General Public License as published by
+#   the Free Software Foundation, either version 3 of the License, or
+#   (at your option) any later version.
+#
+#   This program is distributed in the hope that it will be useful,
+#   but WITHOUT ANY WARRANTY; without even the implied warranty of
+#   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+#   GNU General Public License for more details.
+#
+#   You should have received a copy of the GNU General Public License
+#   along with this program. If not, see <http://www.gnu.org/licenses/>.
+#
+### END SCRIPT INFO
+
+
+# The array that store call parameters.
+# shellcheck disable=SC2034
+__init_params=()
+__script_params=("$@")
+
+# Store the name of the script and directory call.
+readonly _init_name="$(basename "$0")"
+readonly _init_directory="$(dirname "$(readlink -f "$0")")"
+
+# Set root directory.
+readonly _rel="${_init_directory}"
+
+# Directory structure.
+# shellcheck disable=SC2154
+readonly _src="${_rel}/src"
+readonly _lib="${_rel}/lib"
+readonly _cfg="${_rel}/etc"
+
+# shellcheck disable=SC1090,SC1091
+source "${_src}/settings"
+# shellcheck disable=SC1090
+source "${_src}/helpers"
+
+
+################################################################################
+######################### Main function (script init) ##########################
+################################################################################
+
+function __main__() {
+
+  local _FUNCTION_ID="__main__"
+  local _STATE="0"
+
+  # Stores the current date.
+  readonly _cdate=$(date +%Y%m%d)
+
+  # External configuration file (-c|--config script param).
+  config=""
+  load_state="0"
+
+  # Declaration of output variables (--debug and --verbose params).
+  stdout_mode=""
+  printf_mode=""
+  # Enable/disable output colors.
+  # shellcheck disable=SC2034
+  s_color="true"
+
+  # We place here used commands at script runtime, as strings to anything
+  # unnecessarily run.
+  readonly commands=("basename" "dirname" "stat" "date" "grep" "egrep" "cut" \
+                     "sed" "gzip" "tar")
+
+  # If you intend to specify the full path to the command we do it like:
+  # readonly exec_gzip="/bin/gzip"
+
+  # Stores the names of the missing commands.
+  missing_hash=()
+  missing_counter="0"
+
+  for i in "${commands[@]}" ; do
+
+    if [[ ! -z "$i" ]] ; then
+
+      hash "$i" >/dev/null 2>&1 ; state="$?"
+
+      # If the command was not found put it in the array
+      if [[ "$state" -ne 0 ]] ; then
+
+        missing_hash+=("$i")
+        ((missing_counter++))
+
+      fi
+
+    fi
+
+  done
+
+  # It is a good idea to terminate the script at this stage
+  # with information for the user to fix the errors if at least one
+  # of the required commands in the commands array is not found.
+  if [[ "$missing_counter" -gt 0 ]] ; then
+
+    printf "not found in PATH: %s\\n" "${missing_hash[*]}" >&2
+    exit 1
+
+  fi
+
+  # Specifies the call parameters of the script, the exact description
+  # can be found in _help_ and file README.md.
+  local _short_opt=""
+  local _long_opt="help"
+
+  _GETOPT_PARAMS=$(getopt -o "${_short_opt}" --long "${_long_opt}" \
+                   -n "${_init_name}" -- "${__script_params[@]}")
+
+  # With this structure, in the case of problems with the parameters placed
+  # in the _GETOPT_PARAMS variable we finish the script. Keep this in mind
+  # because it has some consequences - the __main __() function will not be
+  # executed.
+
+  # Ends an error if the parameter or its argument is not valid.
+  _getopt_state="$?"
+  if [ "$_getopt_state" != 0 ] ; then
+    exit 1
+  fi
+
+  eval set -- "$_GETOPT_PARAMS"
+  while true ; do
+
+    case $1 in
+
+      --help)
+
+        _help_
+
+        shift ; exit 0 ;;
+
+      *)
+
+        if [[ "$2" == "-" ]] || [[ ! -z "$2" ]] ; then
+
+          printf "%s: invalid option -- '%s'\\n" "$_init_name" "$2"
+          exit 1
+
+        # elif [[ -z "$2" ]] ; then break ; fi
+        else break ; fi
+
+        ;;
+
+    esac
+
+  done
+
+  ################################# USER SPACE #################################
+  # ````````````````````````````````````````````````````````````````````````````
+  # Put here all your variable declarations, function calls
+  # and all the other code blocks.
+
+  # In this section we add external file (for -c|--config script param).
+  if [[ "$load_state" -eq 1 ]] ; then _load "head" "$config" ; fi
+
+  # shellcheck disable=SC2034
+  # Generate random value.
+  _random=$(date +"%s")
+
+  local _user
+
+  _user=$(whoami)
+
+  _sprintf "head" "Awesome-Ninja-Admins"
+
+  _sprintf "info" "tasks:"
+
+  _init_skel
+
+  echo
+
+  # ````````````````````````````````````````````````````````````````````````````
+
+  return "$_STATE"
+
+}
+
+
+# We pass arguments to the __main__ function.
+# It is required if you want to run on arguments type $1, $2, ...
+__main__ "${__script_params[@]}"
+
+exit 0

@@ -1,0 +1,234 @@
+#!/usr/bin/env bash
+
+# shellcheck shell=bash
+
+################################################################################
+####################### Definitions of global functions ########################
+################################################################################
+
+# ``````````````````````````````````````````````````````````````````````````````
+# Function name: _sprintf()
+#
+# Description:
+#   Function designed to output to the screen in a clear format.
+#
+# Usage:
+#   _sprintf "type" "message"
+#
+# Examples:
+#   _sprintf "head" "correct certificate: $_ssl_cert_file"
+#
+
+function _sprintf() {
+
+  local _FUNCTION_ID="_sprintf"
+  local _STATE="0"
+
+  local _s_type="$1"
+  local _s_info="$2"
+
+  # Determine the type of character and color for each type
+  # of output information.
+  if [[ "$_s_type" == "head" ]] ; then
+
+    s_char="::"
+    s_trgb="1;32"
+
+  elif [[ "$_s_type" == "info" ]] ; then
+
+    s_char="»"
+    s_trgb="0;33"
+
+  elif [[ "$_s_type" == "warn" ]] ; then
+
+    s_char="!"
+    s_trgb="1;37"
+
+  elif [[ "$_s_type" == "stop" ]] ; then
+
+    s_char="!"
+    s_trgb="1;31"
+
+  else
+
+    s_char="-"
+    s_trgb="0;37"
+
+  fi
+
+  # If verbose mode is enabled, display info message.
+  # shellcheck disable=SC2154
+  if [[ "$_s_type" == "info" ]] ; then
+
+    printf ' \e['${s_trgb}'m%s\e[m %s\n\n' "$s_char" "$_s_info"
+
+  elif [[ "$_s_type" == "light-red" ]] ; then
+
+    s_char="»"
+    printf '   \e[1;49;31m%s\e[m %s\n' "$s_char" "$_s_info"
+
+  elif [[ "$_s_type" == "light-green" ]] ; then
+
+    s_char="»"
+    printf '   \e[1;49;32m%s\e[m %s\n' "$s_char" "$_s_info"
+
+  elif [[ "$_s_type" == "light-cyan" ]] ; then
+
+    s_char="»"
+    printf '   \e[1;49;36m%s\e[m %s\n' "$s_char" "$_s_info"
+
+  else
+
+    # If not, just display only the head, warn or stop string.
+    # shellcheck disable=SC2154
+    if [[ "$_s_type" == "head" ]] ; then
+
+      if [[ "$s_color" == "true" ]] ; then
+
+        c_trgb="1;38"
+
+        printf '\e['${s_trgb}'m%s\e[m \e['${c_trgb}'m%s\e[m\n\n' "$s_char" "$_s_info"
+
+      else
+
+        printf '\e['${s_trgb}'m%s\e[m %s\n\n' "$s_char" "$_s_info"
+
+      fi
+
+    elif [[ "$_s_type" == "warn" ]] ; then
+
+      if [[ "$s_color" == "true" ]] ; then
+
+        c_trgb="1;43"
+
+        printf ' \e['${s_trgb}'m%s\e[m \e['${c_trgb}'m%s\e[m\n' "$s_char" "$_s_info"
+
+      else
+
+        printf ' \e['${s_trgb}'m%s\e[m %s\n' "$s_char" "$_s_info"
+
+      fi
+
+    elif [[ "$_s_type" == "stop" ]] ; then
+
+      if [[ "$s_color" == "true" ]] ; then
+
+        c_trgb="1;41"
+
+        printf ' \e['${s_trgb}'m%s\e[m \e['${c_trgb}'m%s\e[m\n' "$s_char" "$_s_info"
+
+      else
+
+        printf ' \e['${s_trgb}'m%s\e[m %s\n' "$s_char" "$_s_info"
+
+      fi
+
+    fi
+
+  fi
+
+  return "$_STATE"
+
+}
+
+# ``````````````````````````````````````````````````````````````````````````````
+# Function name: _load()
+#
+# Description:
+#   Responsible for loading the configuration file, $config variable
+#   parameter is defined in the script call.
+#
+# Usage:
+#   _load "type" "path_to_config_file"
+#
+# Examples:
+#   _load "info" "$config"
+#   _load "head" "/tmp/file.cfg"
+#
+
+function _load() {
+
+  local _FUNCTION_ID="_load"
+  local _STATE="0"
+
+  local _type="$1"
+  local _filename="$2"
+
+  if [[ ! -z "$_filename" ]] && [[ -e "$_filename" ]] ; then
+
+    # If we do not want to inform that the file is loaded,
+    # the value is 'null', otherwise:
+    if [[ "$_type" == "head" ]] ; then
+
+      _sprintf "info" "load configuration: '$_filename'"
+
+    elif [[ "$_type" == "info" ]] ; then
+
+      _sprintf "info" "load configuration: '$_filename'"
+
+    fi
+
+    # shellcheck disable=SC1090
+    # If the file exists is loaded.
+    . "$_filename" && \
+    _logger "info" \
+      "${_FUNCTION_ID}()" \
+      "configuration file: '$_filename'"
+
+  elif [ -z "$_filename" ] ; then
+
+    _sprintf "stop" "incorrectly loaded '$_filename' file (incorrect filename)"
+
+  else
+
+    _sprintf "stop" "incorrectly loaded '$_filename' file (does not exist?)"
+
+  fi
+
+  return "$_STATE"
+
+}
+
+# ``````````````````````````````````````````````````````````````````````````````
+# Function name: _init_skel()
+#
+# Description:
+#   Init user skel:
+#     - create directory structure
+#
+# Usage:
+#   _init_skel
+#
+# Examples:
+#   _init_skel
+#
+
+function _init_skel() {
+
+  local _FUNCTION_ID="_init_skel"
+  local _STATE="0"
+
+  local _shell_config="${HOME}/.bashrc"
+  local _ana_string="source \"${HOME}/.awesome-ninja-admins/awesome-ninja-admins\""
+
+  # shellcheck disable=SC2154
+  _sprintf "light-cyan" "init user skel"
+
+  # shellcheck disable=SC2154
+  rsync -a "${HOME}/.awesome-ninja-admins/skel/" "${HOME}" > /dev/null 2>&1
+
+  # shellcheck disable=SC2154
+  _sprintf "light-cyan" "enable awesome-ninja-admins"
+
+  _if_exist=$(grep -q "${_ana_string}" "${_shell_config}" ; echo "$?")
+
+  if [[ "$_if_exist" -ne 0 ]] ; then
+
+    echo "source \"${HOME}/.awesome-ninja-admins/awesome-ninja-admins\"" \
+    >> "${_shell_config}"
+
+  fi
+
+  return "$_STATE"
+
+}

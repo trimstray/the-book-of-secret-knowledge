@@ -1,0 +1,5 @@
+function scl() {
+
+  /usr/bin/keychain --clear
+
+}
