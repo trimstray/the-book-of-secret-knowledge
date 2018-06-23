@@ -5,22 +5,20 @@
 
 <br>
 
-<h4 align="center">A collection of awesome lists, manuals, hacks and tools for <b>Awesome Ninja Admins.</h4>
+<h4 align="center">A collection of awesome lists, manuals, hacks and tools for <b>Awesome Ninja Admins</b>.</h4>
 
 <br>
 
-### :bangbang: **This documentation is incomplete and constantly developed.**
-
 <p align="center">
   <a href="https://github.com/trimstray/awesome-ninja-admins/tree/master">
-    <img src="https://img.shields.io/badge/Branch-master-green.svg?longCache=true&style=for-the-badge"
+    <img src="https://img.shields.io/badge/Branch-master-green.svg?longCache=true"
         alt="Branch">
   </a>
   <a href="https://awesome.re">
-    <img src="https://awesome.re/badge-flat.svg"
+    <img src="https://awesome.re/badge.svg"
         alt="Awesome">
   <a href="http://www.gnu.org/licenses/">
-    <img src="https://img.shields.io/badge/license-GNU-blue.svg?longCache=true&style=for-the-badge"
+    <img src="https://img.shields.io/badge/license-GNU-blue.svg?longCache=true"
         alt="License">
   </a>
 </p>
@@ -37,3 +35,4 @@
 
 ***
 
+### :bangbang: **This documentation is incomplete and constantly developed.**
