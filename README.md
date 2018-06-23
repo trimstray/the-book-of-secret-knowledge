@@ -42,12 +42,15 @@
 - they know very nasty piece of code like a fork bombs
 - they can make dd is not a disk destroyer
 - they are total badasses
+- the always start from /bin/bash
 - they love the old admin nix-world school (devops? blaah...)
 
 ## Ninja Admin Collections
 
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;:small_red_triangle_down: <a href="https://github.com/jkbrzt/httpie"><b>HTTPie</b></a> - A user-friendly HTTP client.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;:small_red_triangle_down: <a href="https://ohmyz.sh/"><b>Oh My ZSH!</b></a> - the best framework for managing your Zsh configuration.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;:small_red_triangle_down: <a href="https://github.com/Bash-it/bash-it"><b>bash-it</b></a> - a community Bash framework.<br>
 </p>
 
 ### :bangbang: **This documentation is incomplete and constantly developed.**
