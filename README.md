@@ -42,7 +42,7 @@
 - they know very nasty piece of code like a fork bombs
 - they can make dd is not a disk destroyer
 - they are total badasses
-- they know that #!/usr/bin/env bash superior to #!/bin/bash?
+- they know that #!/usr/bin/env bash superior to #!/bin/bash
 - they love the old admin nix-world school
 
 ## Ninja Admin Collections
