@@ -47,10 +47,16 @@
 
 ## Ninja Admin Collections
 
+#### Tools
+
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://ohmyz.sh/"><b>Oh My ZSH!</b></a> - the best framework for managing your Zsh configuration.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Bash-it/bash-it"><b>bash-it</b></a> - a community Bash framework.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jkbrzt/httpie"><b>HTTPie</b></a> - A user-friendly HTTP client.<br>
 </p>
+
+#### Lists
+
+#### One-liners
 
 ### :bangbang: **This documentation is incomplete and constantly developed.**
