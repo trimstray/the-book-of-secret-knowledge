@@ -47,7 +47,7 @@
 ## Ninja Admin Collections
 
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;:small_red_triangle_down: <a href="https://github.com/jkbrzt/httpie">HTTPie</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;:small_red_triangle_down: <a href="https://github.com/jkbrzt/httpie"><b>HTTPie</b></a> - A user-friendly HTTP client.<br>
 </p>
 
 ### :bangbang: **This documentation is incomplete and constantly developed.**
