@@ -37,9 +37,15 @@
 
 ## Who is Ninja Admin?
 
-Your [contributions](contributing.md) are always welcome!
+- race of pure evil, who rule the network through a Monarchistic feudelic system
+- they never opened the door for strangers (or anyone at all)
+- they are total badasses
+- they know very nasty piece of code like a fork bombs...
+- they can make dd is not a disk destroyer
 
 ## Ninja Admin Collections
+
+Your [contributions](contributing.md) are always welcome!
 
 Repository | Description
 ---- | ----
