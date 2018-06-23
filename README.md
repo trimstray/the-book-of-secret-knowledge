@@ -37,15 +37,14 @@
 
 ## Who is Ninja Admin?
 
-- race of pure evil, who rule the network through a Monarchistic feudelic system
+- race of pure evil who rule the network through a monarchistic feudelic system
 - they never opened the door for strangers (or anyone at all)
-- they are total badasses
-- they know very nasty piece of code like a fork bombs...
+- they know very nasty piece of code like a fork bombs
 - they can make dd is not a disk destroyer
+- they are total badasses
+- they love the old admin nix-world school (devops? blaah...)
 
 ## Ninja Admin Collections
-
-Your [contributions](contributing.md) are always welcome!
 
 Repository | Description
 ---- | ----
