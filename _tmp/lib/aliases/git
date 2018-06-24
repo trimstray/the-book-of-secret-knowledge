@@ -1,4 +1,0 @@
-alias git.a='git add'
-alias git.show='git log --oneline --decorate --graph --all'
-
-alias git.pm='_ana_git_pull master'

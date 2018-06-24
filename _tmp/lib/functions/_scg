@@ -1,6 +1,0 @@
-function scg() {
-
-  /usr/bin/keychain $HOME/.ssh/id_rsa.blueservices.pl
-  source $HOME/.keychain/$HOSTNAME-sh
-
-}
