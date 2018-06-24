@@ -55,8 +55,8 @@
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Bash-it/bash-it"><b>bash-it</b></a> - a community Bash framework.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://curl.haxx.se/"><b>Curl</b></a> - command line tool and library
 for transferring data with URLs.<br>
-</p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jkbrzt/httpie"><b>HTTPie</b></a> - a user-friendly HTTP client.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dbcli/pgcli"><b>pgcli</b></a> - Postgres CLI with autocompletion and syntax highlighting.<br>
 </p>
 
 #### Manuals
