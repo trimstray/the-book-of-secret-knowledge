@@ -33,6 +33,10 @@
 
 <br>
 
+<p>
+<b>!!! This documentation is incomplete and constantly developed. !!!</b>
+</p>
+
 ***
 
 ## Who is Ninja Admins?
@@ -56,13 +60,17 @@
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://curl.haxx.se/"><b>Curl</b></a> - command line tool and library
 for transferring data with URLs.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jkbrzt/httpie"><b>HTTPie</b></a> - a user-friendly HTTP client.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://gnutls.org/manual/html_node/gnutls_002dcli-Invocation.html"><b>gnutls-cli</b></a> - client program to set up a TLS connection to some other computer.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dbcli/pgcli"><b>pgcli</b></a> - Postgres CLI with autocompletion and syntax highlighting.<br>
 </p>
 
-#### Manuals
+#### Manuals/Howtos/Tutorials
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dylanaraps/pure-bash-bible"><b>pure-bash-bible</b></a> - a collection of pure bash alternatives to external processes.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.cyberciti.biz/"><b>nixCraft</b></a> - Linux and Unix tutorials for new and seasoned sysadmin.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.tecmint.com/"><b>TecMint</b></a> - the ideal Linux blog for Sysadmins & Geeks.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://www.hackingarticles.in/"><b>Hacking Articles</b></a> - LRaj Chandel's Security&Hacking Blog.<br>
 </p>
 
 #### Blogs
@@ -85,12 +93,10 @@ for transferring data with URLs.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://varnish-cache.org/"><b>Varnish HTTP Cache</b></a> - HTTP accelerator designed for content-heavy dynamic web sites.<br>
 </p>
 
-#### Lists
-
 #### One-liners
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.commandlinefu.com/commands/browse"><b>commandlinefu.com</b></a> - Command line diamonds, created and voted on by our members.<br>
 </p>
 
-### :bangbang: **This documentation is incomplete and constantly developed.**
+#### Lists
