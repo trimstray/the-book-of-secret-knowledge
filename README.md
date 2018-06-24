@@ -35,24 +35,34 @@
 
 ***
 
-## Who is Ninja Admin?
+## Who is Ninja Admins?
 
 - race of pure evil who rule the network through a monarchistic feudelic system
 - they never opened the door for strangers (or anyone at all)
 - they know very nasty piece of code like a fork bombs
 - they can make dd is not a disk destroyer
+- they know that `#!/usr/bin/env bash` superior to `#!/bin/bash`
+- they know that `su -` logs you in completely as root
 - they are total badasses
-- they know that #!/usr/bin/env bash superior to #!/bin/bash
 - they love the old admin nix-world school
 
-## Ninja Admin Collections
+## Ninja Admins Collection
 
 #### Tools
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://ohmyz.sh/"><b>Oh My ZSH!</b></a> - the best framework for managing your Zsh configuration.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Bash-it/bash-it"><b>bash-it</b></a> - a community Bash framework.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jkbrzt/httpie"><b>HTTPie</b></a> - A user-friendly HTTP client.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://curl.haxx.se/"><b>Curl</b></a> - command line tool and library
+for transferring data with URLs.<br>
+</p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jkbrzt/httpie"><b>HTTPie</b></a> - a user-friendly HTTP client.<br>
+</p>
+
+#### Manuals
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dylanaraps/pure-bash-bible"><b>pure-bash-bible</b></a> - a collection of pure bash alternatives to external processes.<br>
 </p>
 
 #### Lists
