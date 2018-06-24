@@ -51,11 +51,11 @@
 - they can make dd is not a disk destroyer
 - they know that `#!/usr/bin/env bash` superior to `#!/bin/bash`
 - they know that `su -` logs in completely as root
-- they love the old admin nix-world school
+- they love the old admin nix-world world
 
 ## Ninja Admins Collection
 
-#### Tools
+#### CLI Tools
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://ohmyz.sh/"><b>Oh My ZSH!</b></a> - the best framework for managing your Zsh configuration.<br>
@@ -66,6 +66,8 @@ for transferring data with URLs.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://gnutls.org/manual/html_node/gnutls_002dcli-Invocation.html"><b>gnutls-cli</b></a> - client program to set up a TLS connection to some other computer.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dbcli/pgcli"><b>pgcli</b></a> - Postgres CLI with autocompletion and syntax highlighting.<br>
 </p>
+
+#### Web Tools
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.ssllabs.com/ssltest/"><b>SSL Server Test</b></a> - free online service performs a deep analysis of the configuration of any SSL web server.<br>
