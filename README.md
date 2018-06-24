@@ -5,7 +5,7 @@
 
 <br>
 
-<h4 align="center">A collection of awesome lists, manuals, hacks and tools for <b>Awesome Ninja Admins</b>.</h4>
+<h4 align="center">A collection of awesome lists, manuals, blogs, hacks and tools for <b>Awesome Ninja Admins</b>.</h4>
 
 <br>
 
