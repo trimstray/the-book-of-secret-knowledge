@@ -51,7 +51,7 @@
 - they can make dd is not a disk destroyer
 - they know that `#!/usr/bin/env bash` superior to `#!/bin/bash`
 - they know that `su -` logs in completely as root
-- they love the old admin nix-world world
+- they love the old admin nix-world
 
 ## Ninja Admins Collection
 
