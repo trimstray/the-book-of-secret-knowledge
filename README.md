@@ -17,6 +17,10 @@
   <a href="https://awesome.re">
     <img src="https://awesome.re/badge.svg"
         alt="Awesome">
+  <a href="https://github.com/trimstray/awesome-ninja-admins">
+    <img src="https://img.shields.io/badge/Status-Ninja-red.svg?longCache=true"
+        alt="Status">
+  </a>
   <a href="http://www.gnu.org/licenses/">
     <img src="https://img.shields.io/badge/license-GNU-blue.svg?longCache=true"
         alt="License">
@@ -34,7 +38,7 @@
 <br>
 
 <p align="center">
-<b>!!! This documentation is incomplete and constantly developed. !!!</b>
+<b>!!! This documentation is incomplete and constantly developed !!!</b>
 </p>
 
 ***
