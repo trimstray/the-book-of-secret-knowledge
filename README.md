@@ -79,6 +79,10 @@ for transferring data with URLs.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://csp-evaluator.withgoogle.com/"><b>CSP Evaluator</b></a> - allows developers and security experts to check if a Content Security Policy.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://ccadb.org/resources"><b>Common CA Database</b></a> - repository of information about CAs, and their root and intermediate certificates.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://certstream.calidog.io/"><b>CERTSTREAM</b></a> - Real-time certificate transparency log update stream.<br>
+
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://mxtoolbox.com/SuperTool.aspx"><b>MX Toolbox</b></a> - All of your MX record, DNS, blacklist and SMTP diagnostics in one integrated tool.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://viewdns.info/"><b>ViewDNS</b></a> - one source for free DNS related tools and information.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://dnsspy.io/"><b>DNS Spy</b></a> - Monitor, validate and verify your DNS configurations.<br>
 </p>
 
 #### Manuals/Howtos/Tutorials
