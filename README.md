@@ -22,7 +22,7 @@
         alt="Status">
   </a>
   <a href="http://www.gnu.org/licenses/">
-    <img src="https://img.shields.io/badge/license-GNU-blue.svg?longCache=true"
+    <img src="https://img.shields.io/badge/License-GNU-blue.svg?longCache=true"
         alt="License">
   </a>
 </p>
@@ -50,8 +50,7 @@
 - they know very nasty piece of code like a fork bombs
 - they can make dd is not a disk destroyer
 - they know that `#!/usr/bin/env bash` superior to `#!/bin/bash`
-- they know that `su -` logs you in completely as root
-- they are total badasses
+- they know that `su -` logs in completely as root
 - they love the old admin nix-world school
 
 ## Ninja Admins Collection
