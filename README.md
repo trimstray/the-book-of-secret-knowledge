@@ -67,6 +67,8 @@
 for transferring data with URLs.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jkbrzt/httpie"><b>HTTPie</b></a> - a user-friendly HTTP client.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://gnutls.org/manual/html_node/gnutls_002dcli-Invocation.html"><b>gnutls-cli</b></a> - client program to set up a TLS connection to some other computer.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://netcat.sourceforge.net/"><b>netcat</b></a> - networking utility which reads and writes data across network connections, using the TCP/IP protocol.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.tcpdump.org/"><b>tcpdump</b></a> - powerful command-line packet analyzer.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dbcli/pgcli"><b>pgcli</b></a> - postgres CLI with autocompletion and syntax highlighting.<br>
 </p>
 
@@ -87,7 +89,7 @@ for transferring data with URLs.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://dnsspy.io/"><b>DNS Spy</b></a> - monitor, validate and verify your DNS configurations.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://censys.io/"><b>Censys</b></a> - platform that helps information security practitioners discover, monitor, and analyze devices.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.shodan.io/"><b>Shodan</b></a> - the world's first search engine for Internet-connected devices.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://viz.greynoise.io/table"><b>GreyNoise</b></a> - mass scanners (such as Shodan and Censys).<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://viz.greynoise.io/table"><b>GreyNoise</b></a> - mass scanner (such as Shodan and Censys).<br>
 </p>
 
 #### Manuals/Howtos/Tutorials
@@ -127,6 +129,7 @@ for transferring data with URLs.<br>
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.commandlinefu.com/commands/browse"><b>commandlinefu.com</b></a> - command line diamonds, created and voted on by our members.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://www.bashoneliners.com/"><b>Bash One-Liners</b></a> - practical, well-explained Bash one-liners, and promote best practices in Bash shell scripting.<br>
 </p>
 
 #### Lists
