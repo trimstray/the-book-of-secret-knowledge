@@ -60,17 +60,13 @@
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://ohmyz.sh/"><b>Oh My ZSH!</b></a> - the best framework for managing your Zsh configuration.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Bash-it/bash-it"><b>bash-it</b></a> - a community Bash framework.<br>
-
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://midnight-commander.org/"><b>Midnight Commander</b></a> - visual file manager, licensed under GNU General Public License.<br>
-
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.gnu.org/software/screen/"><b>screen</b></a> - full-screen window manager that multiplexes a physical terminal.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/tmux/tmux/wiki"><b>tmux</b></a> - terminal multiplexer, lets you switch easily between several programs in one terminal.<br>
-
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://curl.haxx.se/"><b>Curl</b></a> - command line tool and library
 for transferring data with URLs.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jkbrzt/httpie"><b>HTTPie</b></a> - a user-friendly HTTP client.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://gnutls.org/manual/html_node/gnutls_002dcli-Invocation.html"><b>gnutls-cli</b></a> - client program to set up a TLS connection to some other computer.<br>
-
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dbcli/pgcli"><b>pgcli</b></a> - Postgres CLI with autocompletion and syntax highlighting.<br>
 </p>
 
@@ -86,7 +82,6 @@ for transferring data with URLs.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://csp-evaluator.withgoogle.com/"><b>CSP Evaluator</b></a> - allows developers and security experts to check if a Content Security Policy.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://ccadb.org/resources"><b>Common CA Database</b></a> - repository of information about CAs, and their root and intermediate certificates.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://certstream.calidog.io/"><b>CERTSTREAM</b></a> - Real-time certificate transparency log update stream.<br>
-
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://mxtoolbox.com/SuperTool.aspx"><b>MX Toolbox</b></a> - All of your MX record, DNS, blacklist and SMTP diagnostics in one integrated tool.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://viewdns.info/"><b>ViewDNS</b></a> - one source for free DNS related tools and information.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://dnsspy.io/"><b>DNS Spy</b></a> - Monitor, validate and verify your DNS configurations.<br>
