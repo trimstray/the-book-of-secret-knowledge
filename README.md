@@ -67,7 +67,7 @@
 for transferring data with URLs.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jkbrzt/httpie"><b>HTTPie</b></a> - a user-friendly HTTP client.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://gnutls.org/manual/html_node/gnutls_002dcli-Invocation.html"><b>gnutls-cli</b></a> - client program to set up a TLS connection to some other computer.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dbcli/pgcli"><b>pgcli</b></a> - Postgres CLI with autocompletion and syntax highlighting.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dbcli/pgcli"><b>pgcli</b></a> - postgres CLI with autocompletion and syntax highlighting.<br>
 </p>
 
 #### Web Tools
@@ -81,10 +81,10 @@ for transferring data with URLs.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://report-uri.com/home/tools"><b>Report URI</b></a> - monitoring security policies like CSP and HPKP.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://csp-evaluator.withgoogle.com/"><b>CSP Evaluator</b></a> - allows developers and security experts to check if a Content Security Policy.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://ccadb.org/resources"><b>Common CA Database</b></a> - repository of information about CAs, and their root and intermediate certificates.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://certstream.calidog.io/"><b>CERTSTREAM</b></a> - Real-time certificate transparency log update stream.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://mxtoolbox.com/SuperTool.aspx"><b>MX Toolbox</b></a> - All of your MX record, DNS, blacklist and SMTP diagnostics in one integrated tool.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://certstream.calidog.io/"><b>CERTSTREAM</b></a> - real-time certificate transparency log update stream.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://mxtoolbox.com/SuperTool.aspx"><b>MX Toolbox</b></a> - all of your MX record, DNS, blacklist and SMTP diagnostics in one integrated tool.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://viewdns.info/"><b>ViewDNS</b></a> - one source for free DNS related tools and information.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://dnsspy.io/"><b>DNS Spy</b></a> - Monitor, validate and verify your DNS configurations.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://dnsspy.io/"><b>DNS Spy</b></a> - monitor, validate and verify your DNS configurations.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://censys.io/"><b>Censys</b></a> - platform that helps information security practitioners discover, monitor, and analyze devices.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.shodan.io/"><b>Shodan</b></a> - the world's first search engine for Internet-connected devices.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://viz.greynoise.io/table"><b>GreyNoise</b></a> - mass scanners (such as Shodan and Censys).<br>
@@ -95,7 +95,7 @@ for transferring data with URLs.<br>
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dylanaraps/pure-bash-bible"><b>pure-bash-bible</b></a> - a collection of pure bash alternatives to external processes.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://wiki.bash-hackers.org/start"><b>The Bash Hackers Wiki</b></a> - hold documentation of any kind about GNU Bash.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.cyberciti.biz/"><b>nixCraft</b></a> - Linux and Unix tutorials for new and seasoned sysadmin.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.cyberciti.biz/"><b>nixCraft</b></a> - linux and unix tutorials for new and seasoned sysadmin.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.tecmint.com/"><b>TecMint</b></a> - the ideal Linux blog for Sysadmins & Geeks.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.hackingarticles.in/"><b>Hacking Articles</b></a> - LRaj Chandel's Security & Hacking Blog.<br>
 </p>
@@ -126,7 +126,7 @@ for transferring data with URLs.<br>
 #### One-liners
 
 <p>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.commandlinefu.com/commands/browse"><b>commandlinefu.com</b></a> - Command line diamonds, created and voted on by our members.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.commandlinefu.com/commands/browse"><b>commandlinefu.com</b></a> - command line diamonds, created and voted on by our members.<br>
 </p>
 
 #### Lists
