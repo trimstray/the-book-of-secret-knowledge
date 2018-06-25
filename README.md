@@ -85,6 +85,10 @@ for transferring data with URLs.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://mxtoolbox.com/SuperTool.aspx"><b>MX Toolbox</b></a> - All of your MX record, DNS, blacklist and SMTP diagnostics in one integrated tool.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://viewdns.info/"><b>ViewDNS</b></a> - one source for free DNS related tools and information.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://dnsspy.io/"><b>DNS Spy</b></a> - Monitor, validate and verify your DNS configurations.<br>
+
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://censys.io/"><b>Censys</b></a> - platform that helps information security practitioners discover, monitor, and analyze devices.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.shodan.io/"><b>Shodany</b></a> - the world's first search engine for Internet-connected devices.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://viz.greynoise.io/table"><b>GreyNoise</b></a> - mass scanners (such as Shodan and Censys).<br>
 </p>
 
 #### Manuals/Howtos/Tutorials
@@ -114,6 +118,7 @@ for transferring data with URLs.<br>
 #### Services
 
 <p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.openbsd.org/"><b>OpenBSD</b></a> - multi-platform 4.4BSD-based UNIX-like operating system.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://hardenedbsd.org/"><b>HardenedBSD</b></a> - HardenedBSD aims to implement innovative exploit mitigation and security solutions.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://varnish-cache.org/"><b>Varnish HTTP Cache</b></a> - HTTP accelerator designed for content-heavy dynamic web sites.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://emeraldonion.org/"><b>Emerald Onion</b></a> - Seattle-based encrypted-transit internet service provider.<br>
