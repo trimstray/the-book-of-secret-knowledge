@@ -53,18 +53,35 @@
 
 #### CLI Tools
 
+##### Shells
+
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://ohmyz.sh/"><b>Oh My ZSH!</b></a> - the best framework for managing your Zsh configuration.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Bash-it/bash-it"><b>bash-it</b></a> - a community Bash framework.<br>
+</p>
+
+##### Managers
+
+<p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://midnight-commander.org/"><b>Midnight Commander</b></a> - visual file manager, licensed under GNU General Public License.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.gnu.org/software/screen/"><b>screen</b></a> - full-screen window manager that multiplexes a physical terminal.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/tmux/tmux/wiki"><b>tmux</b></a> - terminal multiplexer, lets you switch easily between several programs in one terminal.<br>
+</p>
+
+##### Network
+
+<p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://curl.haxx.se/"><b>Curl</b></a> - command line tool and library
 for transferring data with URLs.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jkbrzt/httpie"><b>HTTPie</b></a> - a user-friendly HTTP client.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://gnutls.org/manual/html_node/gnutls_002dcli-Invocation.html"><b>gnutls-cli</b></a> - client program to set up a TLS connection to some other computer.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://netcat.sourceforge.net/"><b>netcat</b></a> - networking utility which reads and writes data across network connections, using the TCP/IP protocol.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.tcpdump.org/"><b>tcpdump</b></a> - powerful command-line packet analyzer.<br>
+</p>
+
+##### Databases
+
+<p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dbcli/pgcli"><b>pgcli</b></a> - postgres CLI with autocompletion and syntax highlighting.<br>
 </p>
 
