@@ -88,7 +88,12 @@ for transferring data with URLs.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.shodan.io/"><b>Shodan</b></a> - the world's first search engine for Internet-connected devices.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://viz.greynoise.io/table"><b>GreyNoise</b></a> - mass scanner (such as Shodan and Censys).<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://toolbar.netcraft.com/site_report"><b>Netcraft</b></a> -  detailed report about the site, helping you to make informed choices about their integrity.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://securitytrails.com/"><b>Security Trails</b></a> -  APIs for Security Companies, Researchers and Teams.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://securitytrails.com/"><b>Security Trails</b></a> - APIs for Security Companies, Researchers and Teams.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://tools.keycdn.com/curl"><b>Online Curl</b></a> - curl test, analyze HTTP Response Headers.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.url-encode-decode.com/"><b>URL Encode/Decode</b></a> - tool from above to either encode or decode a string of text.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://gtmetrix.com/"><b>GTmetrix</b></a> - analyze your site’s speed and make it faster.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://performance.sucuri.net/"><b>Sucuri loadtimetester</b></a> - test here the
+performance of any of your sites from across the globe.<br>
 </p>
 
 #### Manuals/Howtos/Tutorials
@@ -115,7 +120,7 @@ for transferring data with URLs.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.troyhunt.com/"><b>Troy Hunt</b></a> -  Microsoft Regional Director and Microsoft Most Valuable Professional for Developer Security.<br>
 </p>
 
-#### Services
+#### Systems/Services
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.openbsd.org/"><b>OpenBSD</b></a> - multi-platform 4.4BSD-based UNIX-like operating system.<br>
