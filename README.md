@@ -37,10 +37,6 @@
 
 <br>
 
-<p align="center">
-<b>!!! This documentation is incomplete and constantly developed !!!</b>
-</p>
-
 ***
 
 ## Who is Ninja Admins?
@@ -87,9 +83,12 @@ for transferring data with URLs.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://mxtoolbox.com/SuperTool.aspx"><b>MX Toolbox</b></a> - all of your MX record, DNS, blacklist and SMTP diagnostics in one integrated tool.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://viewdns.info/"><b>ViewDNS</b></a> - one source for free DNS related tools and information.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://dnsspy.io/"><b>DNS Spy</b></a> - monitor, validate and verify your DNS configurations.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://dnslytics.com/"><b>DNSlytics</b></a> - online investigation tool.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://censys.io/"><b>Censys</b></a> - platform that helps information security practitioners discover, monitor, and analyze devices.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.shodan.io/"><b>Shodan</b></a> - the world's first search engine for Internet-connected devices.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://viz.greynoise.io/table"><b>GreyNoise</b></a> - mass scanner (such as Shodan and Censys).<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://toolbar.netcraft.com/site_report"><b>Netcraft</b></a> -  detailed report about the site, helping you to make informed choices about their integrity.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://securitytrails.com/"><b>Security Trails</b></a> -  APIs for Security Companies, Researchers and Teams.<br>
 </p>
 
 #### Manuals/Howtos/Tutorials
@@ -139,3 +138,8 @@ for transferring data with URLs.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/alebcay/awesome-shell"><b>Awesome Shell</b></a> - awesome command-line frameworks, toolkits, guides and gizmos.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Hack-with-Github/Awesome-Hacking"><b>Awesome-Hacking</b></a> - awesome lists for hackers, pentesters and security researchers.<br>
 </p>
+
+#### Other
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.openbugbounty.org/"><b>Openbugbounty</b></a> - allows any security researcher reporting a vulnerability on any website.</p>
