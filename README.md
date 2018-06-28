@@ -96,6 +96,9 @@ for transferring data with URLs.<br>
 performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://ping.eu/"><b>Ping.eu</b></a> - online Ping, Traceroute, DNS lookup, WHOIS and others.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://network-tools.com/"><b>Network-Tools</b></a> - network tools for webmasters, IT technicians & geeks.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.random.org/passwords/"><b>Random.org</b></a> - generate random passwords.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://gotcha.pw/"><b>Gotcha?</b></a> - list of 1.4 billion accounts circulates around the Internet.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://haveibeenpwned.com/"><b>have i been pwned?</b></a> - check if you have an account that has been compromised in a data breach.<br>
 </p>
 
 #### Manuals/Howtos/Tutorials
