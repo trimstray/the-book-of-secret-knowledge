@@ -94,6 +94,8 @@ for transferring data with URLs.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://gtmetrix.com/"><b>GTmetrix</b></a> - analyze your site’s speed and make it faster.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://performance.sucuri.net/"><b>Sucuri loadtimetester</b></a> - test here the
 performance of any of your sites from across the globe.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://ping.eu/"><b>Ping.eu</b></a> - online Ping, Traceroute, DNS lookup, WHOIS and others.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://network-tools.com/"><b>Network-Tools</b></a> - network tools for webmasters, IT technicians & geeks.<br>
 </p>
 
 #### Manuals/Howtos/Tutorials
