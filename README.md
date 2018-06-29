@@ -228,7 +228,23 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Hack-with-Github/Awesome-Hacking"><b>Awesome-Hacking</b></a> - awesome lists for hackers, pentesters and security researchers.<br>
 </p>
 
-#### Other
+#### Hacking/Penetration testing
+
+##### :black_small_square: Bounty programs
 
 <p>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.openbugbounty.org/"><b>Openbugbounty</b></a> - allows any security researcher reporting a vulnerability on any website.</p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.openbugbounty.org/"><b>Openbugbounty</b></a> - allows any security researcher reporting a vulnerability on any website.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hackerone.com/"><b>hackerone</b></a> - global hacker community to surface the most relevant security issues.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.bugcrowd.com/"><b>bugcrowd</b></a> - crowdsourced cybersecurity for the enterprise.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://crowdshield.com/"><b>Crowdshield</b></a> - crowdsourced Security & Bug Bounty Management.<br>
+</p>
+
+##### :black_small_square: Web Training Apps
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://www.dvwa.co.uk/"><b>DVWA</b></a> - PHP/MySQL web application that is damn vulnerable.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://sourceforge.net/projects/mutillidae/"><b>OWASP Mutillidae II</b></a> - free, open source, deliberately vulnerable web-application providing a target for web-security enthusiast.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.owasp.org/index.php/OWASP_Juice_Shop_Project"><b>OWASP Juice Shop Project</b></a> - the most bug-free vulnerable application in existence.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project"><b>OWASP WebGoat Project</b></a> - insecure web application maintained by OWASP designed to teach web application security lessons.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/opendns/Security_Ninjas_AppSec_Training"><b>Security Ninjas</b></a> - open source application security training program.<br>
+</p>
