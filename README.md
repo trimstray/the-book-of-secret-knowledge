@@ -5,7 +5,7 @@
 
 <br>
 
-<h4 align="center">A collection of awesome lists, manuals, blogs, hacks and tools for <b>Awesome Ninja Admins</b>.</h4>
+<h4 align="center">A collection of awesome lists, manuals, blogs, hacks, one-liners and tools for <b>Awesome Ninja Admins</b>.</h4>
 
 <br>
 
@@ -213,13 +213,6 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://emeraldonion.org/"><b>Emerald Onion</b></a> - Seattle-based encrypted-transit internet service provider.<br>
 </p>
 
-#### One-liners
-
-<p>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.commandlinefu.com/commands/browse"><b>commandlinefu.com</b></a> - command line diamonds, created and voted on by our members.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="http://www.bashoneliners.com/"><b>Bash One-Liners</b></a> - practical, well-explained Bash one-liners, and promote best practices in Bash shell scripting.<br>
-</p>
-
 #### Lists
 
 <p>
@@ -248,3 +241,455 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project"><b>OWASP WebGoat Project</b></a> - insecure web application maintained by OWASP designed to teach web app security.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/opendns/Security_Ninjas_AppSec_Training"><b>Security Ninjas</b></a> - open source application security training program.<br>
 </p>
+
+#### One-liners
+
+##### Table of Contents
+
+- **[System](#system)**
+  * [terminal](#tool-terminal)
+  * [mount](#tool-mount)
+  * [fuser](#tool-fuser)
+- **[HTTP/HTTPS](#http-https)**
+  * [curl](#tool-curl)
+  * [httpie](#tool-httpie)
+- **[Network](#network)**
+  * [openssh](#tool-openssh)
+  * [linux-dev](#tool-linux-dev)
+  * [tcpdump](#tool-tcpdump)
+  * [ngrep](#tool-ngrep)
+  * [hping3](#tool-hping3)
+  * [netcat](#tool-netcat)
+  * [socat](#tool-socat)
+  * [lsof](#tool-lsof)
+  * [netstat](#tool-nestat)
+- **[Programming](#programming)**
+  * [awk](#tool-awk)
+
+<a name="system"><b>System</b></a>
+
+##### Tool: [terminal](https://curl.haxx.se)
+
+###### Close shell keeping all subprocess running
+
+```bash
+disown -a && exit
+```
+
+###### Drop shell history
+
+```bash
+kill -9 $$
+```
+
+###### List of commands you use most often
+
+```bash
+history | awk '{ a[$2]++ } END { for(i in a) { print a[i] " " i } }' | sort -rn | head
+```
+
+###### Quickly backup a file
+
+```bash
+cp filename{,.orig}
+```
+
+###### Delete all files in a folder that don't match a certain file extension
+
+```bash
+rm !(*.foo|*.bar|*.baz)
+```
+
+###### Edit a file on a remote host using vim
+
+```bash
+vim scp://user@host//etc/fstab
+```
+___
+
+##### Tool: [mount](https://curl.haxx.se)
+
+###### Mount a temporary ram partition
+
+```bash
+mount -t tmpfs tmpfs /mnt -o size=64M
+```
+
+  * `-t` - filesystem type
+  * `-o` - mount options
+
+___
+
+##### Tool: [fuser](https://curl.haxx.se)
+
+###### Kills a process that is locking a file
+
+```bash
+fuser -k filename
+```
+
+<a name="http-https"><b>HTTP/HTTPS</b></a>
+
+##### Tool: [curl](https://curl.haxx.se)
+
+```bash
+curl -Iks https://www.google.com
+```
+
+  * `-I` - show response headers only
+  * `-k` - insecure connection when using ssl
+  * `-s` - silent mode (not display body)
+
+```bash
+curl -Iks --location -X GET -A "x-agent" https://www.google.com
+```
+
+  * `--location` - follow redirects
+  * `-X` - set method
+  * `-A` - set user-agent
+
+```bash
+curl -Iks --location -X GET -A "x-agent" --proxy http://127.0.0.1:16379 https://www.google.com
+```
+
+  * `--proxy [socks5://|http://]` - set proxy server
+
+___
+
+##### Tool: [httpie](https://httpie.org/)
+
+```bash
+http -p Hh https://www.google.com
+```
+
+  * `-p` - print request and response headers
+    * `H` - request headers
+    * `B` - request body
+    * `h` - response headers
+    * `b` - response body
+
+```bash
+http -p Hh --follow --max-redirects 5 --verify no https://www.google.com
+```
+
+  * `-F, --follow` - follow redirects
+  * `--max-redirects N` - maximum for `--follow`
+  * `--verify no` - skip SSL verification
+
+```bash
+http -p Hh --follow --max-redirects 5 --verify no --proxy http:http://127.0.0.1:16379 https://www.google.com
+```
+
+  * `--proxy [http:]` - set proxy server
+
+<a name="network"><b>Network</b></a>
+
+##### Tool: [openssh](https://www.openssh.com/)
+
+###### Compare a remote file with a local file
+
+```bash
+ssh user@host cat /path/to/remotefile | diff /path/to/localfile -
+```
+
+###### SSH connection through host in the middle
+
+```bash
+ssh -t reachable_host ssh unreachable_host
+```
+
+___
+
+##### Tool: [linux-dev](https://www.tldp.org/LDP/abs/html/devref1.html)
+
+###### Testing remote connection to port
+
+```bash
+timeout 1 bash -c "</dev/tcp/<host>/<port>" >/dev/null 2>&1 ; echo $?
+```
+
+  * `<host>` - set remote host
+  * `<port>` - set destination port
+
+___
+
+##### Tool: [tcpdump](http://www.tcpdump.org/)
+
+```bash
+tcpdump -ne -i eth0 -Q in host 192.168.252.1 and port 443
+```
+
+  * `-n` - don't convert addresses
+  * `-e` - print the link-level headers
+  * `-i [iface]` - set interface
+  * `-Q|-D [in|out|inout]` - choose send/receive direction (`-D` - for old tcpdump versions)
+  * `host [ip|hostname]` - set host, also `[host not]`
+  * `[and|or]` - set logic
+  * `port [1-65535]` - set port number, also `[port not]`
+
+```bash
+tcpdump -ne -i eth0 -Q in host 192.168.252.1 and port 443 -c 5 -w tcpdump.pcap
+```
+
+  * `-c [num]` - capture only num number of packets
+  * `-w [filename]` - write packets to file, `-r [filename]` - reading from file
+
+___
+
+##### Tool: [ngrep](http://ngrep.sourceforge.net/usage.html)
+
+```bash
+ngrep -d eth0 "www.google.com" port 443
+```
+
+  * `-d [iface|any]` - set interface
+  * `[domain]` - set hostname
+  * `port [1-65535]` - set port number
+
+```bash
+ngrep -d eth0 "www.google.com" (host 10.240.20.2) and (port 443)
+```
+
+  * `(host [ip|hostname])` - filter by ip or hostname
+  * `(port [1-65535])` - filter by port number
+
+```bash
+ngrep -d eth0 -qt -O ngrep.pcap "www.google.com" port 443
+```
+
+  * `-q` - quiet mode (only payloads)
+  * `-t` - added timestamps
+  * `-O [filename]` - save output to file, `-I [filename]` - reading from file
+
+```bash
+ngrep -d eth0 -qt 'HTTP' 'tcp'
+```
+
+  * `HTTP` - show http headers
+  * `tcp|udp` - set protocol
+  * `[src|dst] host [ip|hostname]` - set direction for specific node
+
+___
+
+##### Tool: [hping3](http://www.hping.org/)
+
+```bash
+hping3 -V -p 80 -s 5050 <scan_type> www.google.com
+```
+
+  * `-V|--verbose` - verbose mode
+  * `-p|--destport` - set destination port
+  * `-s|--baseport` - set source port
+  * `<scan_type>` - set scan type
+    * `-F|--fin` - set FIN flag, port open if no reply
+    * `-S|--syn` - set SYN flag
+    * `-P|--push` - set PUSH flag
+    * `-A|--ack` - set ACK flag (use when ping is blocked, RST response back if the port is open)
+    * `-U|--urg` - set URG flag
+    * `-Y|--ymas` - set Y unused flag (0x80 - nullscan), port open if no reply
+    * `-M 0 -UPF` - set TCP sequence number and scan type (URG+PUSH+FIN), port open if no reply
+
+```bash
+hping3 -V -c 1 -1 -C 8 www.google.com
+```
+
+  * `-c [num]` - packet count
+  * `-1` - set ICMP mode
+  * `-C|--icmptype [icmp-num]` - set icmp type (default icmp-echo = 8)
+
+```bash
+hping3 -V -c 1000000 -d 120 -S -w 64 -p 80 --flood --rand-source <remote_host>
+```
+
+  * `--flood` - sent packets as fast as possible (don't show replies)
+  * `--rand-source` - random source address mode
+  * `-d --data` - data size
+  * `-w|--win` - winsize (default 64)
+
+___
+
+##### Tool: [netcat](http://netcat.sourceforge.net/)
+
+```bash
+nc -kl 5000
+```
+
+  * `-l` - listen for an incoming connection
+  * `-k` - listening after client has disconnected
+  * `>filename.out` - save receive data to file (optional)
+
+```bash
+nc 192.168.0.1 5051 < filename.in
+```
+
+  * `< filename.in` - send data to remote host
+
+```bash
+nc -vz 10.240.30.3 5000
+```
+
+  * `-v` - verbose output
+  * `-z` - scan for listening daemons
+
+```bash
+nc -vzu 10.240.30.3 1-65535
+```
+
+  * `-u` - scan only udp ports
+
+###### Transfer data file (archive)
+
+```bash
+server> nc -l 5000 | tar xzvfp -
+client> tar czvfp - /path/to/dir | nc 10.240.30.3 5000
+```
+
+###### Launch remote shell
+
+```bash
+server> nc -l 5000 -e /bin/bash
+client> nc 10.240.30.3 5000
+```
+
+###### Simple HTTP Server
+
+  > Restarts web server after each request - remove `while` condition for only single connection.
+
+```bash
+cat > index.html << __EOF__
+<!doctype html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    </head>
+    <body>
+
+    <p>
+
+      Hello! It's a site.
+
+    </p>
+
+    </body>
+</html>
+__EOF__
+```
+
+```bash
+server> while : ; do \
+(echo -ne "HTTP/1.1 200 OK\r\nContent-Length: $(wc -c <index.html)\r\n\r\n" ; cat index.html;) \
+| nc -l -p 5000 \
+; done
+```
+
+  * `-p` - port number
+
+###### Simple HTTP Proxy (single connection)
+
+```bash
+#!/usr/bin/env bash
+
+if [[ $# != 2 ]] ; then
+  printf "%s\\n" \
+         "usage: ./nc-proxy listen-port bk_host:bk_port"
+fi
+
+_listen_port="$1"
+_bk_host=$(echo "$2" | cut -d ":" -f1)
+_bk_port=$(echo "$2" | cut -d ":" -f2)
+
+printf "  lport: %s\\nbk_host: %s\\nbk_port: %s\\n\\n" \
+       "$_listen_port" "$_bk_host" "$_bk_port"
+
+_tmp=$(mktemp -d)
+_back="$_tmp/pipe.back"
+_sent="$_tmp/pipe.sent"
+_recv="$_tmp/pipe.recv"
+
+trap 'rm -rf "$_tmp"' EXIT
+
+mkfifo -m 0600 "$_back" "$_sent" "$_recv"
+
+sed "s/^/=> /" <"$_sent" &
+sed "s/^/<=  /" <"$_recv" &
+nc -l -p "$_listen_port" <"$_back" \
+  | tee "$_sent" \
+  | nc "$_bk_host" "$_bk_port" \
+  | tee "$_recv" >"$_back"
+```
+
+```bash
+server> chmod +x nc-proxy && ./nc-proxy 8080 192.168.252.10:8000
+  lport: 8080
+bk_host: 192.168.252.10
+bk_port: 8000
+
+client> http -p h 10.240.30.3:8080
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Cache-Control: max-age=31536000
+Content-Length: 2748
+Content-Type: text/html; charset=utf-8
+Date: Sun, 01 Jul 2018 20:12:08 GMT
+Last-Modified: Sun, 01 Apr 2018 21:53:37 GMT
+```
+
+___
+
+##### Tool: [socat](http://www.dest-unreach.org/socat/doc/socat.html/)
+
+###### Testing remote connection to port
+
+```bash
+socat - TCP4:10.240.30.3:22
+```
+
+  * `-` - standard input (STDIO)
+  * `TCP4:<params>` - set tcp4 connection with specific params
+    * `[hostname|ip]` - set hostname/ip
+    * `[1-65535]` - set port number
+
+###### Redirecting TCP-traffic to a UNIX domain socket under Linux
+
+```bash
+socat TCP-LISTEN:1234,bind=127.0.0.1,reuseaddr,fork,su=nobody,range=127.0.0.0/8 UNIX-CLIENT:/tmp/foo
+```
+
+  * `TCP-LISTEN:<params>` - set tcp listen with specific params
+    * `[1-65535]` - set port number
+    * `bind=[hostname|ip]` - set bind hostname/ip
+    * `reuseaddr` -
+    * `fork` -
+    * `su=nobody` -
+    * `range=[ip-range]` -
+  * `UNIX-CLIENT:<params>`
+    * `filename` -
+
+##### Tool: [lsof](http://www.dest-unreach.org/socat/doc/socat.html/)
+
+###### Show process that use internet connection at the moment
+
+```bash
+lsof -P -i -n
+```
+
+**Tool: [netstat](http://www.dest-unreach.org/socat/doc/socat.html/)**
+
+###### Graph # of connections for each hosts
+
+```bash
+netstat -an | grep ESTABLISHED | awk '{print $5}' | awk -F: '{print $1}' | grep -v -e '^[[:space:]]*$' | sort | uniq -c | awk '{ printf("%s\t%s\t",$2,$1) ; for (i = 0; i < $1; i++) {printf("*")}; print "" }'
+```
+
+<a name="programming"><b>Programming</b></a>
+
+##### Tool: [awk](https://curl.haxx.se)
+
+###### Remove duplicate entries in a file without sorting
+
+```bash
+awk '!x[$0]++' filename
+```
