@@ -661,12 +661,12 @@ socat TCP-LISTEN:1234,bind=127.0.0.1,reuseaddr,fork,su=nobody,range=127.0.0.0/8 
   * `TCP-LISTEN:<params>` - set tcp listen with specific params
     * `[1-65535]` - set port number
     * `bind=[hostname|ip]` - set bind hostname/ip
-    * `reuseaddr` -
-    * `fork` -
-    * `su=nobody` -
-    * `range=[ip-range]` -
-  * `UNIX-CLIENT:<params>`
-    * `filename` -
+    * `reuseaddr` - allows other sockets to bind to an address
+    * `fork` - keeps the parent process attempting to produce more connections
+    * `su=nobody` - set user
+    * `range=[ip-range]` - ip range
+  * `UNIX-CLIENT:<params>` - communicates with the specified peer socket
+    * `filename` - define socket
 
 ##### Tool: [lsof](http://www.dest-unreach.org/socat/doc/socat.html/)
 
