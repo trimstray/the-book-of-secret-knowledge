@@ -256,6 +256,8 @@ performance of any of your sites from across the globe.<br>
   * [tail](#tool-tail)
   * [cpulimit](#tool-cpulimit)
   * [pwdx](#tool-pwdx)
+  * [tr](#tool-tr)
+  * [chmod](#tool-chmod)
 - **[HTTP/HTTPS](#http-https)**
   * [curl](#tool-curl)
   * [httpie](#tool-httpie)
@@ -269,6 +271,7 @@ performance of any of your sites from across the globe.<br>
   * [socat](#tool-socat)
   * [lsof](#tool-lsof)
   * [netstat](#tool-nestat)
+  * [rsync](#tool-rsync)
 - **[Programming](#programming)**
   * [awk](#tool-awk)
   * [sed](#tool-sed)
@@ -338,6 +341,12 @@ mkd () { mkdir -p "$@" && cd "$@"; }
 rename 'y/A-Z/a-z/' *
 ```
 
+###### Print a row of characters across the terminal
+
+```bash
+printf "%`tput cols`s" | tr ' ' '#'
+```
+
 ___
 
 ##### Tool: [mount](https://curl.haxx.se)
@@ -393,6 +402,12 @@ find / -mmin 60 -type f
 find / -type f -size +20M
 ```
 
+###### Find duplicate files (based on MD5 hash)
+
+```bash
+find -type f -exec md5sum '{}' ';' | sort | uniq --all-repeated=separate -w 33
+```
+
 ___
 
 ##### Tool: [diff](https://curl.haxx.se)
@@ -419,6 +434,8 @@ tail -f file | while read; do echo "$(date +%T.%N) $REPLY"; done
 tail -10000 access_log | awk '{print $1}' | sort | uniq -c | sort -n | tail
 ```
 
+___
+
 ##### Tool: [cpulimit](https://curl.haxx.se)
 
 ###### Limit the cpu usage of a process
@@ -435,12 +452,34 @@ cpulimit -p pid -l 50
 pwdx <pid>
 ```
 
+___
+
 ##### Tool: [taskset](https://curl.haxx.se)
 
 ###### Start a command on only one CPU core
 
 ```bash
 taskset -c 0 <command>
+```
+
+___
+
+##### Tool: [tr](https://curl.haxx.se)
+
+###### Show directories in the PATH, one per line
+
+```bash
+tr : '\n' <<<$PATH
+```
+
+___
+
+##### Tool: [chmod](https://curl.haxx.se)
+
+###### Remove executable bit from all files in the current directory
+
+```bash
+chmod -R -x+X *
 ```
 
 <a name="http-https"><b>HTTP/HTTPS</b></a>
@@ -837,11 +876,25 @@ lsof -i tcp:443
 lsof -Pan -i tcp -i udp
 ```
 
+###### List all open ports and their owning executables
+
+```bash
+lsof -i -P | grep -i "listen"
+```
+
+###### Show open ports
+
+```bash
+lsof -Pni4 | grep LISTEN | column -t
+```
+
 ###### List all files opened by a particular command
 
 ```bash
 lsof -c "process"
 ```
+
+___
 
 **Tool: [netstat](http://www.dest-unreach.org/socat/doc/socat.html/)**
 
@@ -849,6 +902,22 @@ lsof -c "process"
 
 ```bash
 netstat -an | grep ESTABLISHED | awk '{print $5}' | awk -F: '{print $1}' | grep -v -e '^[[:space:]]*$' | sort | uniq -c | awk '{ printf("%s\t%s\t",$2,$1) ; for (i = 0; i < $1; i++) {printf("*")}; print "" }'
+```
+
+###### Monitor open connections for specific port including listen, count and sort it per IP
+
+```bash
+watch "netstat -plan | grep :443 | awk {'print \$5'} | cut -d: -f 1 | sort | uniq -c | sort -nk 1"
+```
+
+___
+
+**Tool: [rsync](http://www.dest-unreach.org/socat/doc/socat.html/)**
+
+###### Rsync remote data as root using sudo
+
+```bash
+rsync --rsync-path 'sudo rsync' username@hostname:/path/to/dir/ /local/
 ```
 
 <a name="programming"><b>Programming</b></a>
@@ -881,6 +950,12 @@ sed -n 10p /path/to/file
 
 ```bash
 sed -i 10d /path/to/file
+```
+
+###### Remove a range of lines from a file
+
+```bash
+sed -i <file> -re '<start>,<end>d'
 ```
 
 ___
