@@ -370,6 +370,12 @@ ___
 fuser -k filename
 ```
 
+###### Show what PID is listening on specific port
+
+```bash
+fuser -v 53/udp
+```
+
 ___
 
 ##### Tool: [ps](https://curl.haxx.se)
@@ -894,6 +900,11 @@ lsof -Pni4 | grep LISTEN | column -t
 lsof -c "process"
 ```
 
+###### View user activity per directory
+
+```bash
+lsof -u username -a +D /etc
+```
 ___
 
 **Tool: [netstat](http://www.dest-unreach.org/socat/doc/socat.html/)**
