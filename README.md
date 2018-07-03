@@ -250,6 +250,9 @@ performance of any of your sites from across the globe.<br>
   * [terminal](#tool-terminal)
   * [mount](#tool-mount)
   * [fuser](#tool-fuser)
+  * [ps](#tool-ps)
+  * [find](#tool-find)
+  * [diff](#tool-diff)
 - **[HTTP/HTTPS](#http-https)**
   * [curl](#tool-curl)
   * [httpie](#tool-httpie)
@@ -265,6 +268,8 @@ performance of any of your sites from across the globe.<br>
   * [netstat](#tool-nestat)
 - **[Programming](#programming)**
   * [awk](#tool-awk)
+  * [sed](#tool-sed)
+  * [grep](#tool-grep)
 
 <a name="system"><b>System</b></a>
 
@@ -276,10 +281,16 @@ performance of any of your sites from across the globe.<br>
 disown -a && exit
 ```
 
-###### Drop shell history
+###### Exit without saving shell history
 
 ```bash
 kill -9 $$
+```
+
+###### Pipe stdout and stderr to separate commands
+
+```bash
+some_command > >(/bin/cmd_for_stdout) 2> >(/bin/cmd_for_stderr)
 ```
 
 ###### List of commands you use most often
@@ -307,6 +318,12 @@ vim scp://user@host//etc/fstab
 ```
 ___
 
+###### Create a directory and change into it at the same time
+
+```bash
+mkd () { mkdir -p "$@" && cd "$@"; }
+```
+
 ##### Tool: [mount](https://curl.haxx.se)
 
 ###### Mount a temporary ram partition
@@ -326,6 +343,42 @@ ___
 
 ```bash
 fuser -k filename
+```
+
+___
+
+##### Tool: [ps](https://curl.haxx.se)
+
+###### Show a 4-way scrollable process tree with full details
+
+```bash
+ps awwfux | less -S
+```
+
+___
+
+##### Tool: [find](https://curl.haxx.se)
+
+###### Find files that have been modified on your system in the past 60 minutes
+
+```bash
+find / -mmin 60 -type f
+```
+
+###### Find all files larger than 20M
+
+```bash
+find / -type f -size +20M
+```
+
+___
+
+##### Tool: [diff](https://curl.haxx.se)
+
+###### Compare two directory trees
+
+```bash
+diff <(cd directory1 && find | sort) <(cd directory2 && find | sort)
 ```
 
 <a name="http-https"><b>HTTP/HTTPS</b></a>
@@ -396,6 +449,16 @@ ssh user@host cat /path/to/remotefile | diff /path/to/localfile -
 
 ```bash
 ssh -t reachable_host ssh unreachable_host
+```
+
+###### Run command over ssh on remote host
+
+```bash
+cat > cmd.txt << __EOF__
+cat /etc/hosts
+__EOF__
+
+ssh host -l user $(<cmd.txt)
 ```
 
 ___
@@ -668,12 +731,26 @@ socat TCP-LISTEN:1234,bind=127.0.0.1,reuseaddr,fork,su=nobody,range=127.0.0.0/8 
   * `UNIX-CLIENT:<params>` - communicates with the specified peer socket
     * `filename` - define socket
 
+___
+
 ##### Tool: [lsof](http://www.dest-unreach.org/socat/doc/socat.html/)
 
 ###### Show process that use internet connection at the moment
 
 ```bash
 lsof -P -i -n
+```
+
+###### Show process that use specific port number
+
+```bash
+lsof -i tcp:443
+```
+
+###### Lists all listening ports together with the PID of the associated process
+
+```bash
+lsof -Pan -i tcp -i udp
 ```
 
 **Tool: [netstat](http://www.dest-unreach.org/socat/doc/socat.html/)**
@@ -692,4 +769,43 @@ netstat -an | grep ESTABLISHED | awk '{print $5}' | awk -F: '{print $1}' | grep 
 
 ```bash
 awk '!x[$0]++' filename
+```
+
+###### Exclude multiple columns using AWK
+
+```bash
+awk '{$1=$3=""}1' filename
+```
+
+___
+
+##### Tool: [sed](http://www.dest-unreach.org/socat/doc/socat.html/)
+
+###### To print a specific line from a file
+
+```bash
+sed -n 10p /path/to/file
+```
+
+###### Remove a specific line from a file
+
+```bash
+sed -i 10d /path/to/file
+```
+
+___
+
+##### Tool: [grep](http://www.dest-unreach.org/socat/doc/socat.html/)
+
+###### Search for a "pattern" inside all files in the current directory
+
+```bash
+grep -RnisI "pattern" *
+fgrep "pattern" * -R
+```
+
+###### Remove blank lines from a file and save output to new file
+
+```bash
+grep . filename > newfilename
 ```
