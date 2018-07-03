@@ -253,6 +253,9 @@ performance of any of your sites from across the globe.<br>
   * [ps](#tool-ps)
   * [find](#tool-find)
   * [diff](#tool-diff)
+  * [tail](#tool-tail)
+  * [cpulimit](#tool-cpulimit)
+  * [pwdx](#tool-pwdx)
 - **[HTTP/HTTPS](#http-https)**
   * [curl](#tool-curl)
   * [httpie](#tool-httpie)
@@ -287,6 +290,12 @@ disown -a && exit
 kill -9 $$
 ```
 
+###### Perform a branching conditional
+
+```bash
+true && { echo success;} || { echo failed; }
+```
+
 ###### Pipe stdout and stderr to separate commands
 
 ```bash
@@ -316,13 +325,20 @@ rm !(*.foo|*.bar|*.baz)
 ```bash
 vim scp://user@host//etc/fstab
 ```
-___
 
 ###### Create a directory and change into it at the same time
 
 ```bash
 mkd () { mkdir -p "$@" && cd "$@"; }
 ```
+
+###### Convert uppercase files to lowercase files
+
+```bash
+rename 'y/A-Z/a-z/' *
+```
+
+___
 
 ##### Tool: [mount](https://curl.haxx.se)
 
@@ -355,6 +371,12 @@ ___
 ps awwfux | less -S
 ```
 
+###### Processes per user counter
+
+```bash
+ps hax -o user | sort | uniq -c | sort -r
+```
+
 ___
 
 ##### Tool: [find](https://curl.haxx.se)
@@ -379,6 +401,46 @@ ___
 
 ```bash
 diff <(cd directory1 && find | sort) <(cd directory2 && find | sort)
+```
+
+___
+
+##### Tool: [tail](https://curl.haxx.se)
+
+###### Annotate tail -f with timestamps
+
+```bash
+tail -f file | while read; do echo "$(date +%T.%N) $REPLY"; done
+```
+
+###### Analyse an Apache access log for the most common IP addresses
+
+```bash
+tail -10000 access_log | awk '{print $1}' | sort | uniq -c | sort -n | tail
+```
+
+##### Tool: [cpulimit](https://curl.haxx.se)
+
+###### Limit the cpu usage of a process
+
+```bash
+cpulimit -p pid -l 50
+```
+
+##### Tool: [pwdx](https://curl.haxx.se)
+
+###### Show current working directory of a process
+
+```bash
+pwdx <pid>
+```
+
+##### Tool: [taskset](https://curl.haxx.se)
+
+###### Start a command on only one CPU core
+
+```bash
+taskset -c 0 <command>
 ```
 
 <a name="http-https"><b>HTTP/HTTPS</b></a>
@@ -614,6 +676,12 @@ server> nc -l 5000 -e /bin/bash
 client> nc 10.240.30.3 5000
 ```
 
+###### Simple file server
+
+```bash
+while true ; do nc -l 5000 | tar -xvf - ; done
+```
+
 ###### Simple HTTP Server
 
   > Restarts web server after each request - remove `while` condition for only single connection.
@@ -700,6 +768,22 @@ Date: Sun, 01 Jul 2018 20:12:08 GMT
 Last-Modified: Sun, 01 Apr 2018 21:53:37 GMT
 ```
 
+###### Create a single-use TCP or UDP proxy
+
+```bash
+### TCP -> TCP
+nc -l -p 2000 -c "nc [ip|hostname] 3000"
+
+### TCP -> UDP
+nc -l -p 2000 -c "nc -u [ip|hostname] 3000"
+
+### UDP -> UDP
+nc -l -u -p 2000 -c "nc -u [ip|hostname] 3000"
+
+### UDP -> TCP
+nc -l -u -p 2000 -c "nc [ip|hostname] 3000"
+```
+
 ___
 
 ##### Tool: [socat](http://www.dest-unreach.org/socat/doc/socat.html/)
@@ -751,6 +835,12 @@ lsof -i tcp:443
 
 ```bash
 lsof -Pan -i tcp -i udp
+```
+
+###### List all files opened by a particular command
+
+```bash
+lsof -c "process"
 ```
 
 **Tool: [netstat](http://www.dest-unreach.org/socat/doc/socat.html/)**
