@@ -263,7 +263,7 @@ performance of any of your sites from across the globe.<br>
   * [curl](#tool-curl)
   * [httpie](#tool-httpie)
 - **[Network](#network)**
-  * [openssh](#tool-openssh)
+  * [ssh](#tool-ssh)
   * [linux-dev](#tool-linux-dev)
   * [tcpdump](#tool-tcpdump)
   * [ngrep](#tool-ngrep)
@@ -280,7 +280,7 @@ performance of any of your sites from across the globe.<br>
 
 <a name="system"><b>System</b></a>
 
-##### Tool: [terminal](https://curl.haxx.se)
+##### Tool: [terminal](https://en.wikipedia.org/wiki/Linux_console)
 
 ###### Close shell keeping all subprocess running
 
@@ -350,7 +350,7 @@ printf "%`tput cols`s" | tr ' ' '#'
 
 ___
 
-##### Tool: [mount](https://curl.haxx.se)
+##### Tool: [mount](https://en.wikipedia.org/wiki/Mount_(Unix))
 
 ###### Mount a temporary ram partition
 
@@ -363,7 +363,7 @@ mount -t tmpfs tmpfs /mnt -o size=64M
 
 ___
 
-##### Tool: [fuser](https://curl.haxx.se)
+##### Tool: [fuser](https://en.wikipedia.org/wiki/Fuser_(Unix))
 
 ###### Kills a process that is locking a file
 
@@ -379,7 +379,7 @@ fuser -v 53/udp
 
 ___
 
-##### Tool: [ps](https://curl.haxx.se)
+##### Tool: [ps](https://en.wikipedia.org/wiki/Ps_(Unix))
 
 ###### Show a 4-way scrollable process tree with full details
 
@@ -395,7 +395,7 @@ ps hax -o user | sort | uniq -c | sort -r
 
 ___
 
-##### Tool: [find](https://curl.haxx.se)
+##### Tool: [find](https://en.wikipedia.org/wiki/Find_(Unix))
 
 ###### Find files that have been modified on your system in the past 60 minutes
 
@@ -417,7 +417,7 @@ find -type f -exec md5sum '{}' ';' | sort | uniq --all-repeated=separate -w 33
 
 ___
 
-##### Tool: [diff](https://curl.haxx.se)
+##### Tool: [diff](https://en.wikipedia.org/wiki/Diff)
 
 ###### Compare two directory trees
 
@@ -427,7 +427,7 @@ diff <(cd directory1 && find | sort) <(cd directory2 && find | sort)
 
 ___
 
-##### Tool: [tail](https://curl.haxx.se)
+##### Tool: [tail](https://en.wikipedia.org/wiki/Tail_(Unix))
 
 ###### Annotate tail -f with timestamps
 
@@ -443,7 +443,7 @@ tail -10000 access_log | awk '{print $1}' | sort | uniq -c | sort -n | tail
 
 ___
 
-##### Tool: [cpulimit](https://curl.haxx.se)
+##### Tool: [cpulimit](http://cpulimit.sourceforge.net/)
 
 ###### Limit the cpu usage of a process
 
@@ -451,7 +451,7 @@ ___
 cpulimit -p pid -l 50
 ```
 
-##### Tool: [pwdx](https://curl.haxx.se)
+##### Tool: [pwdx](https://www.cyberciti.biz/faq/unix-linux-pwdx-command-examples-usage-syntax/)
 
 ###### Show current working directory of a process
 
@@ -461,7 +461,7 @@ pwdx <pid>
 
 ___
 
-##### Tool: [taskset](https://curl.haxx.se)
+##### Tool: [taskset](https://www.cyberciti.biz/faq/taskset-cpu-affinity-command/)
 
 ###### Start a command on only one CPU core
 
@@ -471,7 +471,7 @@ taskset -c 0 <command>
 
 ___
 
-##### Tool: [tr](https://curl.haxx.se)
+##### Tool: [tr](https://en.wikipedia.org/wiki/Tr_(Unix))
 
 ###### Show directories in the PATH, one per line
 
@@ -481,7 +481,7 @@ tr : '\n' <<<$PATH
 
 ___
 
-##### Tool: [chmod](https://curl.haxx.se)
+##### Tool: [chmod](https://en.wikipedia.org/wiki/Chmod)
 
 ###### Remove executable bit from all files in the current directory
 
@@ -545,7 +545,7 @@ http -p Hh --follow --max-redirects 5 --verify no --proxy http:http://127.0.0.1:
 
 <a name="network"><b>Network</b></a>
 
-##### Tool: [openssh](https://www.openssh.com/)
+##### Tool: [ssh](https://www.openssh.com/)
 
 ###### Compare a remote file with a local file
 
@@ -863,7 +863,7 @@ socat TCP-LISTEN:1234,bind=127.0.0.1,reuseaddr,fork,su=nobody,range=127.0.0.0/8 
 
 ___
 
-##### Tool: [lsof](http://www.dest-unreach.org/socat/doc/socat.html/)
+##### Tool: [lsof](https://en.wikipedia.org/wiki/Lsof)
 
 ###### Show process that use internet connection at the moment
 
@@ -908,7 +908,7 @@ lsof -u username -a +D /etc
 ```
 ___
 
-**Tool: [netstat](http://www.dest-unreach.org/socat/doc/socat.html/)**
+**Tool: [netstat](https://en.wikipedia.org/wiki/Netstat)**
 
 ###### Graph # of connections for each hosts
 
@@ -924,7 +924,7 @@ watch "netstat -plan | grep :443 | awk {'print \$5'} | cut -d: -f 1 | sort | uni
 
 ___
 
-**Tool: [rsync](http://www.dest-unreach.org/socat/doc/socat.html/)**
+**Tool: [rsync](https://en.wikipedia.org/wiki/Rsync)**
 
 ###### Rsync remote data as root using sudo
 
@@ -934,7 +934,7 @@ rsync --rsync-path 'sudo rsync' username@hostname:/path/to/dir/ /local/
 
 <a name="programming"><b>Programming</b></a>
 
-##### Tool: [awk](https://curl.haxx.se)
+##### Tool: [awk](http://www.grymoire.com/Unix/Awk.html)
 
 ###### Remove duplicate entries in a file without sorting
 
@@ -950,7 +950,7 @@ awk '{$1=$3=""}1' filename
 
 ___
 
-##### Tool: [sed](http://www.dest-unreach.org/socat/doc/socat.html/)
+##### Tool: [sed](http://www.grymoire.com/Unix/Sed.html)
 
 ###### To print a specific line from a file
 
@@ -972,7 +972,7 @@ sed -i <file> -re '<start>,<end>d'
 
 ___
 
-##### Tool: [grep](http://www.dest-unreach.org/socat/doc/socat.html/)
+##### Tool: [grep](http://www.grymoire.com/Unix/Grep.html)
 
 ###### Search for a "pattern" inside all files in the current directory
 
