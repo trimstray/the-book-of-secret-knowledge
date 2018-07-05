@@ -47,7 +47,15 @@
 - they can make dd is not a disk destroyer
 - they know that `#!/usr/bin/env bash` superior to `#!/bin/bash`
 - they know that `su -` logs in completely as root
+- they miss and cry for **Slackware** on production
 - they love the old admin nix-world
+
+## :ballot_box_with_check: Todo
+
+- [ ] Add useful shell functions
+- [ ] Add one-liners for collection tools (eg. CLI Tools)
+- [ ] Add Ninja Admins T-Shirt stickers
+- [ ] Generate Awesome Ninja Admins book (eg. pdf format)
 
 ## Ninja Admins Collection
 
@@ -127,7 +135,6 @@ for transferring data with URLs.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://censys.io/"><b>Censys</b></a> - platform that helps information security practitioners discover, monitor, and analyze devices.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.shodan.io/"><b>Shodan</b></a> - the world's first search engine for Internet-connected devices.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://viz.greynoise.io/table"><b>GreyNoise</b></a> - mass scanner (such as Shodan and Censys).<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hardenize.com/"><b>Hardenize</b></a> - deploy the security standards.<br>
 </p>
 
 ##### :black_small_square: Net-tools
@@ -139,6 +146,7 @@ for transferring data with URLs.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://ping.eu/"><b>Ping.eu</b></a> - online Ping, Traceroute, DNS lookup, WHOIS and others.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://network-tools.com/"><b>Network-Tools</b></a> - network tools for webmasters, IT technicians & geeks.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.url-encode-decode.com/"><b>URL Encode/Decode</b></a> - tool from above to either encode or decode a string of text.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hardenize.com/"><b>Hardenize</b></a> - deploy the security standards.<br>
 </p>
 
 ##### :black_small_square: Performance
@@ -200,6 +208,7 @@ performance of any of your sites from across the globe.<br>
 ##### :black_small_square: Systems
 
 <p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://www.slackware.com/"><b>Slackware</b></a> - the most "Unix-like" Linux distribution.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.openbsd.org/"><b>OpenBSD</b></a> - multi-platform 4.4BSD-based UNIX-like operating system.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://hardenedbsd.org/"><b>HardenedBSD</b></a> - HardenedBSD aims to implement innovative exploit mitigation and security solutions.<br>
 </p>
@@ -254,6 +263,7 @@ performance of any of your sites from across the globe.<br>
   * [mount](#tool-mount)
   * [fuser](#tool-fuser)
   * [ps](#tool-ps)
+  * [top](#tool-top)
   * [find](#tool-find)
   * [diff](#tool-diff)
   * [tail](#tool-tail)
@@ -261,6 +271,10 @@ performance of any of your sites from across the globe.<br>
   * [pwdx](#tool-pwdx)
   * [tr](#tool-tr)
   * [chmod](#tool-chmod)
+  * [who](#tool-who)
+  * [screen](#tool-screen)
+  * [du](#tool-du)
+  * [inotifywait](#tool-inotifywait)
 - **[HTTP/HTTPS](#http-https)**
   * [curl](#tool-curl)
   * [httpie](#tool-httpie)
@@ -273,7 +287,7 @@ performance of any of your sites from across the globe.<br>
   * [netcat](#tool-netcat)
   * [socat](#tool-socat)
   * [lsof](#tool-lsof)
-  * [netstat](#tool-nestat)
+  * [netstat](#tool-netstat)
   * [rsync](#tool-rsync)
 - **[Programming](#programming)**
   * [awk](#tool-awk)
@@ -306,6 +320,12 @@ true && { echo success;} || { echo failed; }
 
 ```bash
 some_command > >(/bin/cmd_for_stdout) 2> >(/bin/cmd_for_stderr)
+```
+
+###### Pipe stdout and stderr to separate commands
+
+```bash
+(some_command 2>&1 1>&3 | tee errorlog ) 3>&1 1>&2 | tee stdoutlog
 ```
 
 ###### List of commands you use most often
@@ -419,6 +439,18 @@ find -type f -exec md5sum '{}' ';' | sort | uniq --all-repeated=separate -w 33
 
 ___
 
+##### Tool: [top](https://en.wikipedia.org/wiki/Top_(software))
+
+###### Use top to monitor only all processes with the specific string
+
+```bash
+top -p $(pgrep -d , <str>)
+```
+
+  * `<str>` - process containing str (eg. nginx, worker)
+
+___
+
 ##### Tool: [diff](https://en.wikipedia.org/wiki/Diff)
 
 ###### Compare two directory trees
@@ -481,14 +513,50 @@ ___
 tr : '\n' <<<$PATH
 ```
 
-___
-
 ##### Tool: [chmod](https://en.wikipedia.org/wiki/Chmod)
 
 ###### Remove executable bit from all files in the current directory
 
 ```bash
 chmod -R -x+X *
+```
+
+___
+
+##### Tool: [who](https://en.wikipedia.org/wiki/Who_(Unix))
+
+###### Find last reboot time
+
+```bash
+who -b
+```
+
+___
+
+##### Tool: [screen](https://en.wikipedia.org/wiki/GNU_Screen)
+
+###### Start screen in detached mode
+
+```bash
+screen -d -m [<command>]
+```
+
+___
+
+##### Tool: [du](https://en.wikipedia.org/wiki/GNU_Screen)
+
+###### Show 20 biggest directories with 'K M G'
+
+```bash
+du | sort -r -n | awk '{split("K M G",v); s=1; while($1>1024){$1/=1024; s++} print int($1)" "v[s]"\t"$2}' | head -n 20
+```
+
+##### Tool: [inotifywait](https://en.wikipedia.org/wiki/GNU_Screen)
+
+###### Init tool everytime a file in a directory is modified
+
+```bash
+while true ; do inotifywait -r -e MODIFY dir/ && ls dir/ ; done;
 ```
 
 <a name="http-https"><b>HTTP/HTTPS</b></a>
@@ -578,11 +646,18 @@ ___
 ###### Testing remote connection to port
 
 ```bash
-timeout 1 bash -c "</dev/tcp/<host>/<port>" >/dev/null 2>&1 ; echo $?
+timeout 1 bash -c "</dev/<proto>/<host>/<port>" >/dev/null 2>&1 ; echo $?
 ```
 
+  * `<proto` - set protocol (tcp/udp)
   * `<host>` - set remote host
   * `<port>` - set destination port
+
+###### Read and write to TCP or UDP sockets with common bash tools
+
+```bash
+exec 5<>/dev/tcp/<host>/<port>; cat <&5 & cat >&5; exec 5>&-
+```
 
 ___
 
@@ -987,4 +1062,10 @@ fgrep "pattern" * -R
 
 ```bash
 grep . filename > newfilename
+```
+
+###### Except multiple patterns
+
+```bash
+grep -vE '(error|critical|warning)' filename
 ```
