@@ -18,7 +18,7 @@
     <img src="https://awesome.re/badge.svg"
         alt="Awesome">
   <a href="https://github.com/trimstray/awesome-ninja-admins">
-    <img src="https://img.shields.io/badge/Status-09072018-red.svg?longCache=true"
+    <img src="https://img.shields.io/badge/Status-09-07-2018-red.svg?longCache=true"
         alt="Status">
   </a>
   <a href="http://www.gnu.org/licenses/">
@@ -223,6 +223,7 @@ performance of any of your sites from across the globe.<br>
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://emeraldonion.org/"><b>Emerald Onion</b></a> - Seattle-based encrypted-transit internet service provider.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.unbound.net/"><b>unbound</b></a> - validating, recursive, and caching DNS resolver (with TLS).<br>
 </p>
 
 #### Lists
@@ -514,6 +515,33 @@ tail -f file | while read; do echo "$(date +%T.%N) $REPLY"; done
 
 ```bash
 tail -10000 access_log | awk '{print $1}' | sort | uniq -c | sort -n | tail
+```
+
+___
+
+##### Tool: [tar](https://en.wikipedia.org/wiki/Tar_(computing))
+
+###### System backup with exclude specific directories
+
+```bash
+tar -czvpf /mnt/system$(date +%d%m%Y%s).tgz --directory=/ --exclude=proc/* --exclude=sys/* --exclude=dev/* --exclude=mnt/* .
+```
+
+___
+
+##### Tool: [dump](https://en.wikipedia.org/wiki/Dump_(program))
+
+###### System backup to file
+
+```bash
+dump -y -u -f /backup/system$(date +%d%m%Y%s).lzo /
+```
+
+###### Restore system from lzo file
+
+```bash
+cd /
+restore -rf /backup/system$(date +%d%m%Y%s).lzo
 ```
 
 ___
