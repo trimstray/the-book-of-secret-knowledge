@@ -222,8 +222,8 @@ performance of any of your sites from across the globe.<br>
 ##### :black_small_square: Security/hardening
 
 <p>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://emeraldonion.org/"><b>Emerald Onion</b></a> - Seattle-based encrypted-transit internet service provider.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.unbound.net/"><b>unbound</b></a> - validating, recursive, and caching DNS resolver (with TLS).<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://emeraldonion.org/"><b>Emerald Onion</b></a> - seattle-based encrypted-transit internet service provider.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.unbound.net/"><b>Unbound</b></a> - validating, recursive, and caching DNS resolver (with TLS).<br>
 </p>
 
 #### Lists
@@ -277,6 +277,7 @@ performance of any of your sites from across the globe.<br>
   * [du](#tool-du)
   * [inotifywait](#tool-inotifywait)
   * [openssl](#tool-openssl)
+  * [secure-delete](#tool-secure-delete)
 - **[HTTP/HTTPS](#http-https)**
   * [curl](#tool-curl)
   * [httpie](#tool-httpie)
@@ -378,6 +379,25 @@ printf "%`tput cols`s" | tr ' ' '#'
 ```bash
 history | cut -c 8-
 fc -l -n 1 | sed 's/^\s*//'
+```
+
+###### Run command(s) after exit session
+
+```bash
+cat > /etc/profile << __EOF__
+_after_logout() {
+
+  username=$(whoami)
+
+  for _pid in $(ps afx | grep sshd | grep "$username" | awk '{print $1}') ; do
+
+    kill -9 $_pid
+
+  done
+
+}
+trap _after_logout EXIT
+__EOF__
 ```
 
 ___
@@ -528,6 +548,14 @@ cd /
 tar -czvpf /mnt/system$(date +%d%m%Y%s).tgz --directory=/ --exclude=proc/* --exclude=sys/* --exclude=dev/* --exclude=mnt/* .
 ```
 
+###### System backup with exclude specific directories (pigz)
+
+```bash
+tar cvpf /backup/snapshot-$(date +%d%m%Y%s).tgz --directory=/ \
+--exclude=proc/* --exclude=sys/* --exclude=dev/* \
+--exclude=mnt/* --exclude=tmp/* --use-compress-program=pigz .
+```
+
 ___
 
 ##### Tool: [dump](https://en.wikipedia.org/wiki/Dump_(program))
@@ -591,6 +619,21 @@ tr : '\n' <<<$PATH
 chmod -R -x+X *
 ```
 
+###### Restore permission for /bin/chmod
+
+```bash
+# 1:
+cp /bin/ls chmod.01
+cp /bin/chmod chmod.01
+./chmod.01 700 file
+
+# 2:
+/bin/busybox chmod 0700 /bin/chmod
+
+# 3:
+setfacl --set u::rwx,g::---,o::--- /bin/chmod
+```
+
 ___
 
 ##### Tool: [who](https://en.wikipedia.org/wiki/Who_(Unix))
@@ -621,6 +664,8 @@ ___
 du | sort -r -n | awk '{split("K M G",v); s=1; while($1>1024){$1/=1024; s++} print int($1)" "v[s]"\t"$2}' | head -n 20
 ```
 
+___
+
 ##### Tool: [inotifywait](https://en.wikipedia.org/wiki/GNU_Screen)
 
 ###### Init tool everytime a file in a directory is modified
@@ -628,6 +673,8 @@ du | sort -r -n | awk '{split("K M G",v); s=1; while($1>1024){$1/=1024; s++} pri
 ```bash
 while true ; do inotifywait -r -e MODIFY dir/ && ls dir/ ; done;
 ```
+
+___
 
 ##### Tool: [openssl](https://www.openssl.org/)
 
@@ -747,6 +794,40 @@ openssl x509 -in ${_fd_pem} -outform der -out ${_fd_der} )
 
 ___
 
+##### Tool: [secure-delete](https://wiki.archlinux.org/index.php/Securely_wipe_disk)
+
+###### Secure delete with shred
+
+```bash
+shred -vfuz -n 10 file
+shred --verbose --random-source=/dev/urandom -n 1 /dev/sda
+```
+
+###### Secure delete with scrub
+
+```bash
+scrub -p dod /dev/sda
+scrub -p dod -r file
+```
+
+###### Secure delete with badblocks
+
+```bash
+badblocks -s -w -t random -v /dev/sda
+badblocks -c 10240 -s -w -t random -v /dev/sda
+```
+
+###### Secure delete with secure-delete
+
+```bash
+srm -vz /tmp/file
+sfill -vz /local
+sdmem -v
+swapoff /dev/sda5 && sswap -vz /dev/sda5
+```
+
+___
+
 ##### Tool: [gnutls-cli](https://gnutls.org/manual/html_node/gnutls_002dcli-Invocation.html)
 
 ###### Testing connection to remote host (with sni)
@@ -845,6 +926,24 @@ ssh host -l user $(<cmd.txt)
 
 ```bash
 ssh-keygen -y -f ~/.ssh/id_rsa
+```
+
+###### Get all fingerprints
+
+```bash
+ssh-keygen -l -f .ssh/known_hosts
+```
+
+###### Ssh authentication with user password
+
+```bash
+ssh -o PreferredAuthentications=password -o PubkeyAuthentication=no user@remote_host
+```
+
+###### Ssh authentication with publickey
+
+```bash
+ssh -o PreferredAuthentications=publickey -o PubkeyAuthentication=yes -i id_rsa user@remote_host
 ```
 
 ___
