@@ -1171,7 +1171,7 @@ lsof -u username -a +D /etc
 ```
 ___
 
-##### Tool: [netstat](https://en.wikipedia.org/wiki/Netstat)**
+##### Tool: [netstat](https://en.wikipedia.org/wiki/Netstat)
 
 ###### Graph # of connections for each hosts
 
@@ -1187,7 +1187,7 @@ watch "netstat -plan | grep :443 | awk {'print \$5'} | cut -d: -f 1 | sort | uni
 
 ___
 
-##### Tool: [rsync](https://en.wikipedia.org/wiki/Rsync)**
+##### Tool: [rsync](https://en.wikipedia.org/wiki/Rsync)
 
 ###### Rsync remote data as root using sudo
 
