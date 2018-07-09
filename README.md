@@ -524,6 +524,7 @@ ___
 ###### System backup with exclude specific directories
 
 ```bash
+cd /
 tar -czvpf /mnt/system$(date +%d%m%Y%s).tgz --directory=/ --exclude=proc/* --exclude=sys/* --exclude=dev/* --exclude=mnt/* .
 ```
 
