@@ -18,7 +18,7 @@
     <img src="https://awesome.re/badge.svg"
         alt="Awesome">
   <a href="https://github.com/trimstray/awesome-ninja-admins">
-    <img src="https://img.shields.io/badge/Status-Ninja-red.svg?longCache=true"
+    <img src="https://img.shields.io/badge/Status-09072018-red.svg?longCache=true"
         alt="Status">
   </a>
   <a href="http://www.gnu.org/licenses/">
@@ -275,6 +275,7 @@ performance of any of your sites from across the globe.<br>
   * [screen](#tool-screen)
   * [du](#tool-du)
   * [inotifywait](#tool-inotifywait)
+  * [openssl](#tool-openssl)
 - **[HTTP/HTTPS](#http-https)**
   * [curl](#tool-curl)
   * [httpie](#tool-httpie)
@@ -559,6 +560,124 @@ du | sort -r -n | awk '{split("K M G",v); s=1; while($1>1024){$1/=1024; s++} pri
 while true ; do inotifywait -r -e MODIFY dir/ && ls dir/ ; done;
 ```
 
+##### Tool: [openssl](https://www.openssl.org/)
+
+###### Testing connection to remote host
+
+```bash
+echo | openssl s_client -connect google.com:443 -showcerts
+```
+
+###### Testing connection to remote host with specific ssl version
+
+```bash
+openssl s_client -tls1_2 -connect google.com:443
+```
+
+###### Testing connection to remote host with specific ssl cipher
+
+```bash
+openssl s_client -cipher 'AES128-SHA' -connect google.com:443
+```
+
+###### Generate private key
+
+```bash
+# _ciph: des3, aes
+( _ciph="des3" ; _fd="private.key" ; _len="2048" ; \
+openssl genrsa -${_ciph} -out ${_fd} ${_len} )
+```
+
+###### Remove password from private key
+
+```bash
+( _fd="private.key" ; _fd_unp="private_unp.key" ; \
+openssl rsa -in ${_fd} -out ${_fd_unp} )
+```
+
+###### Get public key from private key
+
+```bash
+( _fd="private.key" ; _fd_pub="public.key" ; \
+openssl rsa -pubout -in ${_fd} -out ${_fd_pub} )
+```
+
+###### Generate private key + csr
+
+```bash
+( _fd="private.key" ; _fd_csr="request.csr" ; _len="2048" ; \
+openssl req -out ${_fd_csr} -new -newkey rsa:${_len} -nodes -keyout ${_fd} )
+```
+
+###### Generate csr
+
+```bash
+( _fd="private.key" ; _fd_csr="request.csr" ; \
+openssl req -out ${_fd_csr} -new -key ${_fd} )
+```
+
+###### Generate csr (metadata from exist certificate)
+
+```bash
+( _fd="private.key" ; _fd_csr="request.csr" ; _fd_crt="cert.crt" ; \
+openssl x509 -x509toreq -in ${_fd_crt} -out ${_fd_csr} -signkey ${_fd} )
+```
+
+###### Generate csr with -config param
+
+```bash
+( _fd="private.key" ; _fd_csr="request.csr" ; \
+openssl req -new -sha256 -key ${_fd} -out ${_fd_csr} \
+-config <(
+cat <<-EOF
+[req]
+default_bits = 2048
+prompt = no
+default_md = sha256
+req_extensions = req_ext
+distinguished_name = dn
+
+[ dn ]
+C=<two-letter ISO abbreviation for your country>
+ST=<state or province where your organization is legally located>
+L=<city where your organization is legally located>
+O=<legal name of your organization>
+OU=<section of the organization>
+CN=<fully qualified domain name>
+
+[ req_ext ]
+subjectAltName = @alt_names
+
+[ alt_names ]
+DNS.1 = <fully qualified domain name>
+DNS.2 = <next domain>
+DNS.3 = <next domain>
+EOF
+))
+```
+
+###### Checking whether the private key and the certificate match
+
+```bash
+(openssl rsa -noout -modulus -in private.key | openssl md5 ; openssl x509 -noout -modulus -in certificate.crt | openssl md5) | uniq
+```
+
+___
+
+##### Tool: [gnutls-cli](https://gnutls.org/manual/html_node/gnutls_002dcli-Invocation.html)
+
+###### Testing connection to remote host (with sni)
+
+```bash
+gnutls-cli -p 443 google.com
+```
+
+###### Testing connection to remote host (without sni)
+
+```bash
+gnutls-cli --disable-sni -p 443 google.com
+```
+
 <a name="http-https"><b>HTTP/HTTPS</b></a>
 
 ##### Tool: [curl](https://curl.haxx.se)
@@ -639,6 +758,12 @@ __EOF__
 ssh host -l user $(<cmd.txt)
 ```
 
+###### Get public key from private key
+
+```bash
+ssh-keygen -y -f ~/.ssh/id_rsa
+```
+
 ___
 
 ##### Tool: [linux-dev](https://www.tldp.org/LDP/abs/html/devref1.html)
@@ -716,6 +841,13 @@ ngrep -d eth0 -qt 'HTTP' 'tcp'
   * `HTTP` - show http headers
   * `tcp|udp` - set protocol
   * `[src|dst] host [ip|hostname]` - set direction for specific node
+
+```bash
+ngrep -l -q -d eth0 -i "User-Agent: curl*"
+```
+
+  * `-l` - stdout line buffered
+  * `-i` - case-insensitive search
 
 ___
 
