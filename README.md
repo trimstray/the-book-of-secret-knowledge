@@ -309,6 +309,7 @@ disown -a && exit
 
 ```bash
 kill -9 $$
+unset HISTFILE && exit
 ```
 
 ###### Perform a branching conditional
@@ -369,6 +370,13 @@ rename 'y/A-Z/a-z/' *
 
 ```bash
 printf "%`tput cols`s" | tr ' ' '#'
+```
+
+###### Show shell history without line numbers
+
+```bash
+history | cut -c 8-
+fc -l -n 1 | sed 's/^\s*//'
 ```
 
 ___
@@ -436,6 +444,38 @@ find / -type f -size +20M
 
 ```bash
 find -type f -exec md5sum '{}' ';' | sort | uniq --all-repeated=separate -w 33
+```
+
+###### Change permission only for files
+
+```bash
+cd /var/www/site && find . -type f -exec chmod 766 {} \;
+cd /var/www/site && find . -type f -exec chmod 664 {} +
+```
+
+###### Change permission only for directories
+
+```bash
+cd /var/www/site && find . -type d -exec chmod g+x {} \;
+cd /var/www/site && find . -type d -exec chmod g+rwx {} +
+```
+
+###### Find files and directories for specific user
+
+```bash
+find . -user <username> -print
+```
+
+###### Find files and directories for all without specific user
+
+```bash
+find . \!-user <username> -print
+```
+
+###### Delete older files than 60 days
+
+```bash
+find . -type f -mtime +60 -delete
 ```
 
 ___
@@ -654,6 +694,20 @@ DNS.2 = <next domain>
 DNS.3 = <next domain>
 EOF
 ))
+```
+
+###### Convert DER to PEM
+
+```bash
+( _fd_der="cert.crt" ; _fd_pem="cert.pem" ; \
+openssl x509 -in ${_fd_der} -inform der -outform pem -out ${_fd_pem} )
+```
+
+###### Convert PEM to DER
+
+```bash
+( _fd_der="cert.crt" ; _fd_pem="cert.pem" ; \
+openssl x509 -in ${_fd_pem} -outform der -out ${_fd_der} )
 ```
 
 ###### Checking whether the private key and the certificate match
@@ -1200,4 +1254,16 @@ grep . filename > newfilename
 
 ```bash
 grep -vE '(error|critical|warning)' filename
+```
+
+###### Show data from file without comments
+
+```bash
+grep -v ^[[:space:]]*# filename
+```
+
+###### Show data from file without comments and new lines
+
+```bash
+egrep -v '#|^$' filename
 ```
