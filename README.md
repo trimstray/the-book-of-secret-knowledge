@@ -529,7 +529,7 @@ ___
 ###### Annotate tail -f with timestamps
 
 ```bash
-tail -f file | while read; do echo "$(date +%T.%N) $REPLY"; done
+tail -f file | while read ; do echo "$(date +%T.%N) $REPLY" ; done
 ```
 
 ###### Analyse an Apache access log for the most common IP addresses
@@ -546,12 +546,14 @@ ___
 
 ```bash
 cd /
-tar -czvpf /mnt/system$(date +%d%m%Y%s).tgz --directory=/ --exclude=proc/* --exclude=sys/* --exclude=dev/* --exclude=mnt/* .
+tar -czvpf /mnt/system$(date +%d%m%Y%s).tgz --directory=/ \
+--exclude=proc/* --exclude=sys/* --exclude=dev/* --exclude=mnt/* .
 ```
 
 ###### System backup with exclude specific directories (pigz)
 
 ```bash
+cd /
 tar cvpf /backup/snapshot-$(date +%d%m%Y%s).tgz --directory=/ \
 --exclude=proc/* --exclude=sys/* --exclude=dev/* \
 --exclude=mnt/* --exclude=tmp/* --use-compress-program=pigz .
