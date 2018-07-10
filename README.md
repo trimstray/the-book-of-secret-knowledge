@@ -278,6 +278,7 @@ performance of any of your sites from across the globe.<br>
   * [du](#tool-du)
   * [inotifywait](#tool-inotifywait)
   * [openssl](#tool-openssl)
+  * [gnutls](#tool-gnutls)
   * [secure-delete](#tool-secure-delete)
 - **[HTTP/HTTPS](#http-https)**
   * [curl](#tool-curl)
@@ -797,6 +798,22 @@ openssl x509 -in ${_fd_pem} -outform der -out ${_fd_der} )
 
 ___
 
+##### Tool: [gnutls-cli](https://gnutls.org/manual/html_node/gnutls_002dcli-Invocation.html)
+
+###### Testing connection to remote host (with sni)
+
+```bash
+gnutls-cli -p 443 google.com
+```
+
+###### Testing connection to remote host (without sni)
+
+```bash
+gnutls-cli --disable-sni -p 443 google.com
+```
+
+___
+
 ##### Tool: [secure-delete](https://wiki.archlinux.org/index.php/Securely_wipe_disk)
 
 ###### Secure delete with shred
@@ -827,22 +844,6 @@ srm -vz /tmp/file
 sfill -vz /local
 sdmem -v
 swapoff /dev/sda5 && sswap -vz /dev/sda5
-```
-
-___
-
-##### Tool: [gnutls-cli](https://gnutls.org/manual/html_node/gnutls_002dcli-Invocation.html)
-
-###### Testing connection to remote host (with sni)
-
-```bash
-gnutls-cli -p 443 google.com
-```
-
-###### Testing connection to remote host (without sni)
-
-```bash
-gnutls-cli --disable-sni -p 443 google.com
 ```
 
 <a name="http-https"><b>HTTP/HTTPS</b></a>
