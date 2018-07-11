@@ -267,6 +267,7 @@ performance of any of your sites from across the globe.<br>
   * [fuser](#tool-fuser)
   * [ps](#tool-ps)
   * [top](#tool-top)
+  * [kill](#tool-kill)
   * [find](#tool-find)
   * [diff](#tool-diff)
   * [tail](#tool-tail)
@@ -281,6 +282,7 @@ performance of any of your sites from across the globe.<br>
   * [openssl](#tool-openssl)
   * [gnutls](#tool-gnutls)
   * [secure-delete](#tool-secure-delete)
+  * [dd](#tool-dd)
 - **[HTTP/HTTPS](#http-https)**
   * [curl](#tool-curl)
   * [httpie](#tool-httpie)
@@ -407,6 +409,16 @@ trap _after_logout EXIT
 __EOF__
 ```
 
+###### Generate a sequence of numbers
+
+```bash
+for ((i=1; i<=10; i+=2)) ; do echo $i ; done
+# alternative: seq 1 2 10
+
+for ((i=5; i<=10; ++i)) ; do printf '%02d\n' $i ; done
+# alternative: seq -w 5 10
+```
+
 ___
 
 ##### Tool: [mount](https://en.wikipedia.org/wiki/Mount_(Unix))
@@ -506,6 +518,18 @@ find . \!-user <username> -print
 find . -type f -mtime +60 -delete
 ```
 
+###### Recursively remove all empty sub-directories from a directory
+
+```bash
+find . -depth  -type d  -empty -exec rmdir {} \;
+```
+
+###### How to find all hard links to a file
+
+```bash
+find </path/to/dir> -xdev -samefile filename
+```
+
 ___
 
 ##### Tool: [top](https://en.wikipedia.org/wiki/Top_(software))
@@ -517,6 +541,16 @@ top -p $(pgrep -d , <str>)
 ```
 
   * `<str>` - process containing str (eg. nginx, worker)
+
+___
+
+##### Tool: [kill](https://en.wikipedia.org/wiki/Kill_(command))
+
+###### Kill a process running on port
+
+```bash
+kill -9 $(lsof -i :<port> | awk '{l=$2} END {print l}')
+```
 
 ___
 
@@ -855,6 +889,17 @@ sdmem -v
 swapoff /dev/sda5 && sswap -vz /dev/sda5
 ```
 
+___
+
+##### Tool: [dd](https://en.wikipedia.org/wiki/Dd_(Unix))
+
+###### Show dd status every so often
+
+```bash
+dd <dd_params> status=progress
+watch --interval 5 killall -USR1 dd
+```
+
 <a name="http-https"><b>HTTP/HTTPS</b></a>
 
 ##### Tool: [curl](https://curl.haxx.se)
@@ -957,6 +1002,22 @@ ssh -o PreferredAuthentications=password -o PubkeyAuthentication=no user@remote_
 
 ```bash
 ssh -o PreferredAuthentications=publickey -o PubkeyAuthentication=yes -i id_rsa user@remote_host
+```
+
+###### Simple recording SSH session
+
+```bash
+function _ssh_sesslog() {
+
+  _sesdir="<path/to/session/logs>"
+
+  mkdir -p "${_sesdir}" && \
+  ssh $@ 2>&1 | tee -a "${_sesdir}/$(date +%Y%m%d).log"
+
+}
+
+# Alias:
+alias ssh='_ssh_sesslog'
 ```
 
 ___
@@ -1326,6 +1387,15 @@ lsof -c "process"
 ```bash
 lsof -u username -a +D /etc
 ```
+
+###### Show 10 Largest Open Files
+
+```bash
+lsof / \
+| awk '{ if($7 > 1048576) print $7/1048576 "MB" " " $9 " " $1 }' \
+| sort -n -u | tail | column -t
+```
+
 ___
 
 ##### Tool: [netstat](https://en.wikipedia.org/wiki/Netstat)
@@ -1440,6 +1510,7 @@ sed -n 10p /path/to/file
 
 ```bash
 sed -i 10d /path/to/file
+# alternative (BSD): sed -i'' 10d /path/to/file
 ```
 
 ###### Remove a range of lines from a file
@@ -1455,6 +1526,7 @@ ___
 ###### Search for a "pattern" inside all files in the current directory
 
 ```bash
+grep -rn "pattern"
 grep -RnisI "pattern" *
 fgrep "pattern" * -R
 ```
