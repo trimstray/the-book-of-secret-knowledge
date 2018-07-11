@@ -204,6 +204,8 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://security.szurek.pl/"><b>Kacper Szurek</b></a> - Detection Engineer at ESET.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.troyhunt.com/"><b>Troy Hunt</b></a> -  Microsoft Regional Director and Microsoft Most Valuable Professional for Developer Security.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://linux-audit.com/"><b>Linux Audit</b></a> - the Linux security blog about Auditing, Hardening, and Compliance by Michael Boelen.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://linuxsecurity.expert/"><b>
+Linux Security Expert</b></a> - the linux security, trainings, howtos, checklists, security tools and more.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.grymoire.com/"><b>The Grymoire</b></a> - collection of useful incantations for wizards, be you computer wizards, magicians, or whatever.<br>
 </p>
 
