@@ -18,7 +18,7 @@
     <img src="https://awesome.re/badge.svg"
         alt="Awesome">
   <a href="https://github.com/trimstray/awesome-ninja-admins">
-    <img src="https://img.shields.io/badge/Status-10072018-red.svg?longCache=true"
+    <img src="https://img.shields.io/badge/Status-11072018-red.svg?longCache=true"
         alt="Status">
   </a>
   <a href="http://www.gnu.org/licenses/">
