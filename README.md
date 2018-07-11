@@ -203,9 +203,9 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://scotthelme.co.uk/"><b>Scott Helme</b></a> - Security Researcher, international speaker and founder of securityheaders.com and report-uri.com.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://security.szurek.pl/"><b>Kacper Szurek</b></a> - Detection Engineer at ESET.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.troyhunt.com/"><b>Troy Hunt</b></a> -  Microsoft Regional Director and Microsoft Most Valuable Professional for Developer Security.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://linux-audit.com/"><b>Linux Audit</b></a> - the Linux security blog about Auditing, Hardening, and Compliance by Michael Boelen.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://linux-audit.com/"><b>Linux Audit</b></a> - the Linux security blog about Auditing, Hardening and Compliance by Michael Boelen.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://linuxsecurity.expert/"><b>
-Linux Security Expert</b></a> - the Linux security, trainings, howtos, checklists, security tools and more.<br>
+Linux Security Expert</b></a> - trainings, howtos, checklists, security tools and more.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.grymoire.com/"><b>The Grymoire</b></a> - collection of useful incantations for wizards, be you computer wizards, magicians, or whatever.<br>
 </p>
 
@@ -1489,7 +1489,7 @@ dig -x 172.217.16.14 +short
 ###### Resolves domain name from dns.google.com with curl and jq
 
 ```bash
-curl -s "https://dns.google.com/resolve?name=google.com&type=A" | jq .
+_dname="google.com" ; curl -s "https://dns.google.com/resolve?name=${_dname}&type=A" | jq .
 ```
 
 <a name="programming"><b>Programming</b></a>
