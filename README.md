@@ -331,7 +331,7 @@ true && { echo success;} || { echo failed; }
 some_command > >(/bin/cmd_for_stdout) 2> >(/bin/cmd_for_stderr)
 ```
 
-###### Pipe stdout and stderr to separate commands
+###### Redirect stdout and stderr each to separate files and print both to the screen
 
 ```bash
 (some_command 2>&1 1>&3 | tee errorlog ) 3>&1 1>&2 | tee stdoutlog
@@ -341,6 +341,12 @@ some_command > >(/bin/cmd_for_stdout) 2> >(/bin/cmd_for_stderr)
 
 ```bash
 history | awk '{ a[$2]++ } END { for(i in a) { print a[i] " " i } }' | sort -rn | head
+```
+
+###### Empty a file (truncate to 0 size)
+
+```bash
+>filename
 ```
 
 ###### Quickly backup a file
