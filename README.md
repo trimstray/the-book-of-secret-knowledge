@@ -249,6 +249,7 @@ performance of any of your sites from across the globe.<br>
 ##### :black_small_square: Web Training Apps
 
 <p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://metasploit.help.rapid7.com/docs/metasploitable-2"><b>Metasploitable 2</b></a> - vulnerable web application amongst security researchers.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.dvwa.co.uk/"><b>DVWA</b></a> - PHP/MySQL web application that is damn vulnerable.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://sourceforge.net/projects/mutillidae/"><b>OWASP Mutillidae II</b></a> - free, open source, deliberately vulnerable web-application.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.owasp.org/index.php/OWASP_Juice_Shop_Project"><b>OWASP Juice Shop Project</b></a> - the most bug-free vulnerable application in existence.<br>
@@ -287,6 +288,7 @@ performance of any of your sites from across the globe.<br>
   * [ssh](#tool-ssh)
   * [linux-dev](#tool-linux-dev)
   * [tcpdump](#tool-tcpdump)
+  * [tcpick](#tool-tcpick)
   * [ngrep](#tool-ngrep)
   * [hping3](#tool-hping3)
   * [netcat](#tool-netcat)
@@ -294,6 +296,9 @@ performance of any of your sites from across the globe.<br>
   * [lsof](#tool-lsof)
   * [netstat](#tool-netstat)
   * [rsync](#tool-rsync)
+  * [host](#tool-host)
+  * [dig](#tool-dig)
+  * [dns-other](#tool-dns-other)
 - **[Programming](#programming)**
   * [awk](#tool-awk)
   * [sed](#tool-sed)
@@ -587,6 +592,8 @@ ___
 cpulimit -p pid -l 50
 ```
 
+___
+
 ##### Tool: [pwdx](https://www.cyberciti.biz/faq/unix-linux-pwdx-command-examples-usage-syntax/)
 
 ###### Show current working directory of a process
@@ -614,6 +621,8 @@ ___
 ```bash
 tr : '\n' <<<$PATH
 ```
+
+___
 
 ##### Tool: [chmod](https://en.wikipedia.org/wiki/Chmod)
 
@@ -995,6 +1004,16 @@ tcpdump -ne -i eth0 -Q in host 192.168.252.1 and port 443 -c 5 -w tcpdump.pcap
 
 ___
 
+##### Tool: [tcpick](http://tcpick.sourceforge.net/)
+
+###### Analyse packets in real-time
+
+```bash
+while true ; do tcpick -a -C -r dump.pcap ; sleep 2 ; clear ; done
+```
+
+___
+
 ##### Tool: [ngrep](http://ngrep.sourceforge.net/usage.html)
 
 ```bash
@@ -1284,7 +1303,13 @@ lsof -Pan -i tcp -i udp
 lsof -i -P | grep -i "listen"
 ```
 
-###### Show open ports
+###### Show all open ports
+
+```bash
+lsof -Pnl -i
+```
+
+###### Show open ports (LISTEN)
 
 ```bash
 lsof -Pni4 | grep LISTEN | column -t
@@ -1325,6 +1350,64 @@ ___
 
 ```bash
 rsync --rsync-path 'sudo rsync' username@hostname:/path/to/dir/ /local/
+```
+
+___
+
+##### Tool: [host](https://en.wikipedia.org/wiki/Host_(Unix))
+
+###### Resolves the domain name (using external dns server)
+
+```bash
+host google.com 9.9.9.9
+```
+
+###### Checks the domain administrator (SOA record)
+
+```bash
+host -t soa google.com 9.9.9.9
+```
+
+___
+
+##### Tool: [dig](https://en.wikipedia.org/wiki/Dig_(command))
+
+###### Resolves the domain name (short output)
+
+```bash
+dig google.com +short
+```
+
+###### Lookup NS record for specific domain
+
+```bash
+dig @9.9.9.9 google.com NS
+```
+
+###### Query only answer section
+
+```bash
+dig google.com +nocomments +noquestion +noauthority +noadditional +nostats
+```
+
+###### Query ALL DNS Records
+
+```bash
+dig google.com ANY +noall +answer
+```
+
+###### DNS Reverse Look-up
+
+```bash
+dig -x 172.217.16.14 +short
+```
+
+##### Tool: [dns-other](https://github.com/trimstray/awesome-ninja-admins#tool-dns-other)
+
+###### Resolves domain name from dns.google.com with curl and jq
+
+```bash
+curl -s "https://dns.google.com/resolve?name=google.com&type=A" | jq .
 ```
 
 <a name="programming"><b>Programming</b></a>
