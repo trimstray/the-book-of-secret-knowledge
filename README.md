@@ -306,6 +306,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
   * [rsync](#tool-rsync)
   * [host](#tool-host)
   * [dig](#tool-dig)
+  * [network-other](#tool-network-other)
   * [dns-other](#tool-dns-other)
 - **[Programming](#programming)**
   * [awk](#tool-awk)
@@ -443,6 +444,12 @@ mount -t tmpfs tmpfs /mnt -o size=64M
 
   * `-t` - filesystem type
   * `-o` - mount options
+
+###### Remount a filesystem as read/write
+
+```bash
+mount -o remount,rw /
+```
 
 ___
 
@@ -588,6 +595,12 @@ tail -f file | while read ; do echo "$(date +%T.%N) $REPLY" ; done
 
 ```bash
 tail -10000 access_log | awk '{print $1}' | sort | uniq -c | sort -n | tail
+```
+
+###### Analyse web server log and show only 5xx http codes
+
+```bash
+tail -n 100 -f /path/to/logfile | grep "HTTP/[1-2].[0-1]\" [5]"
 ```
 
 ___
@@ -938,6 +951,45 @@ curl -Iks --location -X GET -A "x-agent" --proxy http://127.0.0.1:16379 https://
 
   * `--proxy [socks5://|http://]` - set proxy server
 
+###### Check DNS and HTTP trace with headers for specific domains
+
+```bash
+### Set domains and external dns servers.
+_domain_list=(google.com) ; _dns_list=("8.8.8.8" "1.1.1.1")
+
+for _domain in "${_domain_list[@]}" ; do
+
+  printf '=%.0s' {1..48}
+
+  echo
+
+  printf "[\\e[1;32m+\\e[m] resolve: %s\\n" "$_domain"
+
+  for _dns in "${_dns_list[@]}" ; do
+
+    # Resolve domain.
+    host "${_domain}" "${_dns}"
+
+    echo
+
+  done
+
+  for _proto in http https ; do
+
+    printf "[\\e[1;32m+\\e[m] trace + headers: %s://%s\\n" "$_proto" "$_domain"
+
+    # Get trace and http headers.
+    curl -Iks -A "x-agent" --location "${_proto}://${_domain}"
+
+    echo
+
+  done
+
+done
+
+unset _domain_list _dns_list
+```
+
 ___
 
 ##### Tool: [httpie](https://httpie.org/)
@@ -1030,6 +1082,25 @@ function _ssh_sesslog() {
 
 # Alias:
 alias ssh='_ssh_sesslog'
+```
+
+###### Using Keychain for SSH logins
+
+```bash
+### Delete all of ssh-agent's keys.
+function _scl() {
+
+  /usr/bin/keychain --clear
+
+}
+
+### Add key to keychain.
+function _scg() {
+
+  /usr/bin/keychain /path/to/private-key
+  source "$HOME/.keychain/$HOSTNAME-sh"
+
+}
 ```
 
 ___
@@ -1213,6 +1284,12 @@ client> nc 10.240.30.3 5000
 
 ```bash
 while true ; do nc -l 5000 | tar -xvf - ; done
+```
+
+###### Simple minimal HTTP Server
+
+```bash
+while true ; do nc -l -p 1500 -c 'echo -e "HTTP/1.1 200 OK\n\n $(date)"' ; done
 ```
 
 ###### Simple HTTP Server
@@ -1483,6 +1560,27 @@ dig google.com ANY +noall +answer
 ```bash
 dig -x 172.217.16.14 +short
 ```
+
+___
+
+##### Tool: [network-other](https://github.com/trimstray/awesome-ninja-admins#tool-network-other)
+
+###### Get all subnets for specific AS (Autonomous system)
+
+```bash
+AS="AS32934"
+whois -h whois.radb.net -- "-i origin ${AS}" \
+| grep "^route:" \
+| cut -d ":" -f2 \
+| sed -e 's/^[ \t]//' \
+| sort -n -t . -k 1,1 -k 2,2 -k 3,3 -k 4,4 \
+| cut -d ":" -f2 \
+| sed -e 's/^[ \t]/allow /' \
+| sed 's/$/;/' \
+| sed 's/allow  */subnet -> /g'
+```
+
+___
 
 ##### Tool: [dns-other](https://github.com/trimstray/awesome-ninja-admins#tool-dns-other)
 
