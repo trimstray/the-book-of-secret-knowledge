@@ -307,7 +307,6 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
   * [host](#tool-host)
   * [dig](#tool-dig)
   * [network-other](#tool-network-other)
-  * [dns-other](#tool-dns-other)
 - **[Programming](#programming)**
   * [awk](#tool-awk)
   * [sed](#tool-sed)
@@ -1579,10 +1578,6 @@ whois -h whois.radb.net -- "-i origin ${AS}" \
 | sed 's/$/;/' \
 | sed 's/allow  */subnet -> /g'
 ```
-
-___
-
-##### Tool: [dns-other](https://github.com/trimstray/awesome-ninja-admins#tool-dns-other)
 
 ###### Resolves domain name from dns.google.com with curl and jq
 
