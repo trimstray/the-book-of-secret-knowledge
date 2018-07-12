@@ -286,7 +286,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
   * [du](#tool-du)
   * [inotifywait](#tool-inotifywait)
   * [openssl](#tool-openssl)
-  * [gnutls](#tool-gnutls)
+  * [gnutls-cli](#tool-gnutls-cli)
   * [secure-delete](#tool-secure-delete)
   * [dd](#tool-dd)
 - **[HTTP/HTTPS](#http-https)**
