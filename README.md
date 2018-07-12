@@ -389,7 +389,11 @@ some_command > >(/bin/cmd_for_stdout) 2> >(/bin/cmd_for_stderr)
 ###### List of commands you use most often
 
 ```bash
-history | awk '{ a[$2]++ } END { for(i in a) { print a[i] " " i } }' | sort -rn | head
+history | \
+awk '{CMD[$2]++;count++;}END { for (a in CMD)print CMD[a] " " CMD[a]/count*100 "% " a;}' | \
+grep -v "./" | \
+column -c3 -s " " -t | \
+sort -nr | nl |  head -n 20
 ```
 
 ###### Empty a file (truncate to 0 size)
@@ -771,7 +775,10 @@ ___
 ###### Show 20 biggest directories with 'K M G'
 
 ```bash
-du | sort -r -n | awk '{split("K M G",v); s=1; while($1>1024){$1/=1024; s++} print int($1)" "v[s]"\t"$2}' | head -n 20
+du | \
+sort -r -n | \
+awk '{split("K M G",v); s=1; while($1>1024){$1/=1024; s++} print int($1)" "v[s]"\t"$2}' | \
+head -n 20
 ```
 
 ___
@@ -1359,8 +1366,8 @@ __EOF__
 
 ```bash
 server> while : ; do \
-(echo -ne "HTTP/1.1 200 OK\r\nContent-Length: $(wc -c <index.html)\r\n\r\n" ; cat index.html;) \
-| nc -l -p 5000 \
+(echo -ne "HTTP/1.1 200 OK\r\nContent-Length: $(wc -c <index.html)\r\n\r\n" ; cat index.html;) | \
+nc -l -p 5000 \
 ; done
 ```
 
@@ -1394,10 +1401,11 @@ mkfifo -m 0600 "$_back" "$_sent" "$_recv"
 
 sed "s/^/=> /" <"$_sent" &
 sed "s/^/<=  /" <"$_recv" &
-nc -l -p "$_listen_port" <"$_back" \
-  | tee "$_sent" \
-  | nc "$_bk_host" "$_bk_port" \
-  | tee "$_recv" >"$_back"
+
+nc -l -p "$_listen_port" <"$_back" | \
+tee "$_sent" | \
+nc "$_bk_host" "$_bk_port" | \
+tee "$_recv" >"$_back"
 ```
 
 ```bash
@@ -1518,9 +1526,9 @@ lsof -u username -a +D /etc
 ###### Show 10 Largest Open Files
 
 ```bash
-lsof / \
-| awk '{ if($7 > 1048576) print $7/1048576 "MB" " " $9 " " $1 }' \
-| sort -n -u | tail | column -t
+lsof / | \
+awk '{ if($7 > 1048576) print $7/1048576 "MB" " " $9 " " $1 }' | \
+sort -n -u | tail | column -t
 ```
 
 ___
@@ -1530,7 +1538,13 @@ ___
 ###### Graph # of connections for each hosts
 
 ```bash
-netstat -an | grep ESTABLISHED | awk '{print $5}' | awk -F: '{print $1}' | grep -v -e '^[[:space:]]*$' | sort | uniq -c | awk '{ printf("%s\t%s\t",$2,$1) ; for (i = 0; i < $1; i++) {printf("*")}; print "" }'
+netstat -an | \
+grep ESTABLISHED | \
+awk '{print $5}' | \
+awk -F: '{print $1}' | \
+grep -v -e '^[[:space:]]*$' | \
+sort | uniq -c | \
+awk '{ printf("%s\t%s\t",$2,$1) ; for (i = 0; i < $1; i++) {printf("*")}; print "" }'
 ```
 
 ###### Monitor open connections for specific port including listen, count and sort it per IP
@@ -1607,15 +1621,15 @@ ___
 
 ```bash
 AS="AS32934"
-whois -h whois.radb.net -- "-i origin ${AS}" \
-| grep "^route:" \
-| cut -d ":" -f2 \
-| sed -e 's/^[ \t]//' \
-| sort -n -t . -k 1,1 -k 2,2 -k 3,3 -k 4,4 \
-| cut -d ":" -f2 \
-| sed -e 's/^[ \t]/allow /' \
-| sed 's/$/;/' \
-| sed 's/allow  */subnet -> /g'
+whois -h whois.radb.net -- "-i origin ${AS}" | \
+grep "^route:" | \
+cut -d ":" -f2 | \
+sed -e 's/^[ \t]//' | \
+sort -n -t . -k 1,1 -k 2,2 -k 3,3 -k 4,4 | \
+cut -d ":" -f2 | \
+sed -e 's/^[ \t]/allow /' | \
+sed 's/$/;/' | \
+sed 's/allow  */subnet -> /g'
 ```
 
 ###### Resolves domain name from dns.google.com with curl and jq
