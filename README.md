@@ -37,7 +37,7 @@
 
 ## Who is Ninja Admins?
 
-- race of pure evil who rule the network through a monarchistic feudelic system
+- race of pure evil who rule the network through a monarchist feudal system
 - they never opened the door for strangers (or anyone at all)
 - they know very nasty piece of code like a **[fork bombs](https://en.wikipedia.org/wiki/Fork_bomb)**
 - they can make dd is not a **[destroyer of disks](http://www.noah.org/wiki/Dd_-_Destroyer_of_Disks)**
