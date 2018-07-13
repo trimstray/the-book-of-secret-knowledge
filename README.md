@@ -801,6 +801,12 @@ ___
 echo | openssl s_client -connect google.com:443 -showcerts
 ```
 
+###### Testing connection to remote host (with SNI support)
+
+```bash
+echo | openssl s_client -showcerts -servername google.com -connect google.com:443
+```
+
 ###### Testing connection to remote host with specific ssl version
 
 ```bash
