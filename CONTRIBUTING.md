@@ -32,6 +32,6 @@ grep -qs "^$SOB" "$1" || echo "$SOB" >> "$1"
 
 When creating pull request, please heed the following:
 
-- Base your code on the latest **testing branch** to avoid manual merges
+- Base your code on the latest **testing branch**
 - Code review may ensue in order to help shape your proposal
 - Explain the problem and your proposed solution
