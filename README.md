@@ -37,7 +37,7 @@
 
 ## Who is Ninja Admins?
 
-- race of pure evil who rule the network through a monarchistic feudelic system
+- race of pure evil who rule the network through a monarchist feudal system
 - they never opened the door for strangers (or anyone at all)
 - they know very nasty piece of code like a **[fork bombs](https://en.wikipedia.org/wiki/Fork_bomb)**
 - they can make dd is not a **[destroyer of disks](http://www.noah.org/wiki/Dd_-_Destroyer_of_Disks)**
@@ -152,6 +152,7 @@ for transferring data with URLs.<br>
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://securityheaders.com/"><b>Security Headers</b></a> - analyse the HTTP response headers (with rating system to the results).<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://observatory.mozilla.org/"><b>Observatory by Mozilla</b></a> - set of tools to analyze your website.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://enable-cors.org/index.html"><b>Enable CORS</b></a> - enable cross-origin resource sharing.<br>
 </p>
 
 ##### :black_small_square: DNS
@@ -182,7 +183,7 @@ for transferring data with URLs.<br>
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://toolbar.netcraft.com/site_report"><b>Netcraft</b></a> - detailed report about the site, helping you to make informed choices about their integrity.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.ripe.net/"><b>RIPE NCC</b></a> - not-for-profit membership association, a Regional Internet Registry and the secretariat for the RIPE community.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.ripe.net/"><b>RIPE NCC</b></a> - not-for-profit membership association, a Regional Internet Registry and the secretariat for the RIPE.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://securitytrails.com/"><b>Security Trails</b></a> - APIs for Security Companies, Researchers and Teams.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://tools.keycdn.com/curl"><b>Online Curl</b></a> - curl test, analyze HTTP Response Headers.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://ping.eu/"><b>Ping.eu</b></a> - online Ping, Traceroute, DNS lookup, WHOIS and others.<br>
