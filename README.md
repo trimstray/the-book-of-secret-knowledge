@@ -140,7 +140,9 @@ for transferring data with URLs.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://urlscan.io/"><b>urlscan.io</b></a> - service to scan and analyse websites.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://report-uri.com/home/tools"><b>Report URI</b></a> - monitoring security policies like CSP and HPKP.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://csp-evaluator.withgoogle.com/"><b>CSP Evaluator</b></a> - allows developers and security experts to check if a Content Security Policy.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://cipherli.st/"><b>cipherli.st</b></a> - strong ciphers for Apache, Nginx, Lighttpd and more.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://badssl.com/"><b>badssl.com</b></a> - memorable site for testing clients against bad SSL configs.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://tlsfun.de/"><b>tlsfun.de</b></a> - registered for various tests regarding the TLS/SSL protocol.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://ccadb.org/resources"><b>Common CA Database</b></a> - repository of information about CAs, and their root and intermediate certificates.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://certstream.calidog.io/"><b>CERTSTREAM</b></a> - real-time certificate transparency log update stream.<br>
 </p>
@@ -156,14 +158,16 @@ for transferring data with URLs.<br>
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://viewdns.info/"><b>ViewDNS</b></a> - one source for free DNS related tools and information.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://dnsspy.io/"><b>DNS Spy</b></a> - monitor, validate and verify your DNS configurations.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://dnslytics.com/"><b>DNSlytics</b></a> - online investigation tool.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://dnsspy.io/"><b>DNS Spy</b></a> - monitor, validate and verify your DNS configurations.<br>
 </p>
 
 ##### :black_small_square: Mail
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://mxtoolbox.com/SuperTool.aspx"><b>MX Toolbox</b></a> - all of your MX record, DNS, blacklist and SMTP diagnostics in one integrated tool.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://www.blacklistalert.org/"><b>blacklistalert</b></a> - checks to see if your domain is on a Real Time Spam Blacklist.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://multirbl.valli.org/"><b>MultiRBL</b></a> - complete IP check for sending Mailservers.<br>
 </p>
 
 ##### :black_small_square: Mass scanners (search engines)
@@ -178,6 +182,7 @@ for transferring data with URLs.<br>
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://toolbar.netcraft.com/site_report"><b>Netcraft</b></a> - detailed report about the site, helping you to make informed choices about their integrity.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.ripe.net/"><b>RIPE NCC</b></a> - not-for-profit membership association, a Regional Internet Registry and the secretariat for the RIPE community.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://securitytrails.com/"><b>Security Trails</b></a> - APIs for Security Companies, Researchers and Teams.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://tools.keycdn.com/curl"><b>Online Curl</b></a> - curl test, analyze HTTP Response Headers.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://ping.eu/"><b>Ping.eu</b></a> - online Ping, Traceroute, DNS lookup, WHOIS and others.<br>
@@ -226,9 +231,10 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.tecmint.com/"><b>TecMint</b></a> - the ideal Linux blog for Sysadmins & Geeks.<br>
 </p>
 
-##### :black_small_square: Hacking
+##### :black_small_square: Security
 
 <p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.owasp.org/index.php/Main_Page"><b>OWASP</b></a> - worldwide not-for-profit charitable organization focused on improving the security of software.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.hackingarticles.in/"><b>Hacking Articles</b></a> - LRaj Chandel's Security & Hacking Blog.<br>
 </p>
 
@@ -271,6 +277,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://emeraldonion.org/"><b>Emerald Onion</b></a> - seattle-based encrypted-transit internet service provider.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.unbound.net/"><b>Unbound</b></a> - validating, recursive, and caching DNS resolver (with TLS).<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.knot-resolver.cz/"><b>Knot Resolver</b></a> - caching full resolver implementation, including both a resolver library and a daemon.<br>
 </p>
 
 #### Lists
@@ -293,7 +300,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://crowdshield.com/"><b>Crowdshield</b></a> - crowdsourced Security & Bug Bounty Management.<br>
 </p>
 
-##### :black_small_square: Web Training Apps
+##### :black_small_square: Web Training Apps (local installation)
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://metasploit.help.rapid7.com/docs/metasploitable-2"><b>Metasploitable 2</b></a> - vulnerable web application amongst security researchers.<br>
@@ -308,6 +315,8 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hackthebox.eu/"><b>Hack The Box</b></a> - online platform allowing you to test your penetration testing skills.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hacking-lab.com/index.html"><b>Hacking-Lab</b></a> - online ethical hacking, computer network and security challenge platform.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://pwnable.kr/index.php"><b>pwnable.kr</b></a> - non-commercial wargame site which provides various pwn challenges regarding system exploitation.<br>
 </p>
 
 #### One-liners
