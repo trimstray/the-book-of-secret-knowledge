@@ -331,6 +331,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
   * [fuser](#tool-fuser)
   * [ps](#tool-ps)
   * [top](#tool-top)
+  * [strace](#tool-strace)
   * [kill](#tool-kill)
   * [find](#tool-find)
   * [diff](#tool-diff)
@@ -621,6 +622,22 @@ top -p $(pgrep -d , <str>)
 ```
 
   * `<str>` - process containing str (eg. nginx, worker)
+
+___
+
+##### Tool: [strace](https://en.wikipedia.org/wiki/Strace)
+
+###### Track the open request of a network port
+
+```bash
+strace -f -e trace=bind nc -l 80
+```
+
+###### Track the open request of a network port (show TCP/UDP)
+
+```bash
+strace -f -e trace=network nc -lu 80
+```
 
 ___
 
