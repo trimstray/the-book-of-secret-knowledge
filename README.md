@@ -241,6 +241,12 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/toniblyx/my-arsenal-of-aws-security-tools"><b>AWS security tools</b></a> - make your AWS cloud environment more secure.<br>
 </p>
 
+##### :black_small_square: Web Apps
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://infosec.mozilla.org/guidelines/web_security.html"><b>Mozilla Web Security</b></a> - help operational teams with creating secure web applications.<br>
+</p>
+
 ##### :black_small_square: Secret Knowledge
 
 <p>
@@ -382,6 +388,12 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 <a name="system"><b>System</b></a>
 
 ##### Tool: [terminal](https://en.wikipedia.org/wiki/Linux_console)
+
+###### Reload shell without exit
+
+```bash
+exec $SHELL -l
+```
 
 ###### Close shell keeping all subprocess running
 
