@@ -253,6 +253,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://bitvijays.github.io/LFC-VulnerableMachines.html"><b>CTF Series : Vulnerable Machines</b></a> - the steps below could be followed to find vulnerabilities and exploits.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://hshrzd.wordpress.com/how-to-start/"><b>How to start RE/malware analysis?</b></a> - collection of some hints and useful links for the beginners.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://lzone.de/cheat-sheet/"><b>LZone Cheat Sheets</b></a> - all cheat sheets.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://lzone.de/cheat-sheet/"><b>Dan’s Cheat Sheets’s</b></a> - massive cheat sheets documentation.<br>
 </p>
 
 #### Blogs
