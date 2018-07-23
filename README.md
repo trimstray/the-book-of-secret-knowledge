@@ -443,22 +443,32 @@ column -c3 -s " " -t | \
 sort -nr | nl |  head -n 20
 ```
 
-###### Empty a file (truncate to 0 size)
-
-```bash
->filename
-```
-
 ###### Quickly backup a file
 
 ```bash
 cp filename{,.orig}
 ```
 
+###### Empty a file (truncate to 0 size)
+
+```bash
+>filename
+```
+
 ###### Delete all files in a folder that don't match a certain file extension
 
 ```bash
 rm !(*.foo|*.bar|*.baz)
+```
+
+###### Pass multi-line string to a file
+
+```bash
+# cat  >filename ... - overwrite file
+# cat >>filename ... - append to file
+cat > filename << __EOF__
+data data data
+__EOF__
 ```
 
 ###### Edit a file on a remote host using vim
@@ -1037,6 +1047,12 @@ ___
 ```bash
 dd <dd_params> status=progress
 watch --interval 5 killall -USR1 dd
+```
+
+###### Redirect output to a file with dd
+
+```bash
+echo "string" | dd of=filename
 ```
 
 <a name="http-https"><b>HTTP/HTTPS</b></a>
