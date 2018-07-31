@@ -349,6 +349,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hackthebox.eu/"><b>Hack The Box</b></a> - online platform allowing you to test your penetration testing skills.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hacking-lab.com/index.html"><b>Hacking-Lab</b></a> - online ethical hacking, computer network and security challenge platform.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://pwnable.kr/index.php"><b>pwnable.kr</b></a> - non-commercial wargame site which provides various pwn challenges regarding system exploitation.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://silesiasecuritylab.com/"><b>Silesia Security Lab</b></a> - high quality security testing services with a results-driven approach to make risk mitigation highly affordable.<br>
 </p>
 
 #### One-liners
