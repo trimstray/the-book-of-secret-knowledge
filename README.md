@@ -658,6 +658,12 @@ find . -depth  -type d  -empty -exec rmdir {} \;
 find </path/to/dir> -xdev -samefile filename
 ```
 
+###### Recursively find the latest modified files
+
+```bash
+find . -type f -exec stat --format '%Y :%y %n' "{}" \; | sort -nr | cut -d: -f2- | head
+```
+
 ___
 
 ##### Tool: [top](https://en.wikipedia.org/wiki/Top_(software))
