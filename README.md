@@ -240,6 +240,8 @@ performance of any of your sites from across the globe.<br>
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.owasp.org/index.php/Main_Page"><b>OWASP</b></a> - worldwide not-for-profit charitable organization focused on improving the security of software.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project"><b>OWASP ASVS 3.0.1</b></a> - OWASP Application Security Verification Standard Project.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Santandersecurityresearch/asvs"><b>OWASP ASVS 3.0.1 Web App</b></a> - simple web app that helps developers understand the ASVS requirements.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.hackingarticles.in/"><b>Hacking Articles</b></a> - LRaj Chandel's Security & Hacking Blog.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://gtfobins.github.io/"><b>GTFOBins</b></a> - list of Unix binaries that can be exploited by an attacker to bypass local security restrictions.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/toniblyx/my-arsenal-of-aws-security-tools"><b>AWS security tools</b></a> - make your AWS cloud environment more secure.<br>
@@ -255,6 +257,7 @@ performance of any of your sites from across the globe.<br>
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://bitvijays.github.io/LFC-VulnerableMachines.html"><b>CTF Series : Vulnerable Machines</b></a> - the steps below could be followed to find vulnerabilities and exploits.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://guif.re/"><b>Guifre Ruiz Notes</b></a> - collection of pentest cheatsheets.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://hshrzd.wordpress.com/how-to-start/"><b>How to start RE/malware analysis?</b></a> - collection of some hints and useful links for the beginners.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://lzone.de/cheat-sheet/"><b>LZone Cheat Sheets</b></a> - all cheat sheets.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://cheat.readthedocs.io/en/latest/"><b>Dan’s Cheat Sheets’s</b></a> - massive cheat sheets documentation.<br>
