@@ -258,6 +258,12 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://wiki.bash-hackers.org/start"><b>The Bash Hackers Wiki</b></a> - hold documentation of any kind about GNU Bash.<br>
 </p>
 
+##### :black_small_square: Programming
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://posts.specterops.io/fawk-yeah-advanced-sed-and-awk-usage-parsing-for-pentesters-3-e5727e11a8ad?gi=c8f9506b26b6"><b>F’Awk Yeah!</b></a> - advanced sed and awk usage (Parsing for Pentesters 3).<br>
+</p>
+
 ##### :black_small_square: Unix & Network
 
 <p>
