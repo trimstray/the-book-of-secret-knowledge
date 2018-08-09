@@ -17,6 +17,7 @@
   <a href="https://awesome.re">
     <img src="https://awesome.re/badge.svg"
         alt="Awesome">
+  </a>
   <a href="http://www.gnu.org/licenses/">
     <img src="https://img.shields.io/badge/License-GNU-blue.svg?longCache=true"
         alt="License">
