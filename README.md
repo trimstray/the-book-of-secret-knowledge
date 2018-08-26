@@ -341,6 +341,12 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://raymii.org/s/index.html"><b>raymii.org</b></a> - linux/unix sysadmin specializing in building high availability cloud environments.<br>
 </p>
 
+##### :black_small_square: A piece of history
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://ftp.arl.army.mil/~mike/howto/"><b>How to Do Things at ARL</b></a> - how to configure modems, scan images, record CD-ROMs, and apply other useful techniques.<br>
+</p>
+
 #### Systems/Services
 
 ##### :black_small_square: Systems
