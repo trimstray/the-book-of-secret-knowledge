@@ -203,6 +203,12 @@ for transferring data with URLs.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://multirbl.valli.org/"><b>MultiRBL</b></a> - complete IP check for sending Mailservers.<br>
 </p>
 
+##### :black_small_square: PGP Keyservers
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://keyserver.ubuntu.com/"><b>SKS OpenPGP Key server</b></a> - includes a highly-efficient reconciliation algorithm for keeping the keyservers synchronized.<br>
+</p>
+
 ##### :black_small_square: Mass scanners (search engines)
 
 <p>
