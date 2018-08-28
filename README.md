@@ -229,6 +229,7 @@ for transferring data with URLs.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://ping.eu/"><b>Ping.eu</b></a> - online Ping, Traceroute, DNS lookup, WHOIS and others.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://network-tools.com/"><b>Network-Tools</b></a> - network tools for webmasters, IT technicians & geeks.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.url-encode-decode.com/"><b>URL Encode/Decode</b></a> - tool from above to either encode or decode a string of text.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://evuln.com/tools/xss-encoder/"><b>XSS String Encoder</b></a> - for generating XSS code to check your input validation filters against XSS.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://regexr.com/"><b>RegExr</b></a> - online tool to learn, build, & test Regular Expressions (RegEx / RegExp).<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hardenize.com/"><b>Hardenize</b></a> - deploy the security standards.<br>
 </p>
@@ -443,6 +444,25 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://silesiasecuritylab.com/"><b>Silesia Security Lab</b></a> - high quality security testing services.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://practicalpentestlabs.com/"><b>Practical Pentest Labs</b></a> - pentest lab, take your Hacking skills to the next level.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.root-me.org/?lang=en"><b>Root Me</b></a> - the fast, easy, and affordable way to train your hacking skills.<br>
+</p>
+
+
+#### Your daily knowledge and news
+
+##### :black_small_square: RSS Readers
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://feedly.com/"><b>Feedly</b></a> - organize, read and share what matters to you.<br>
+</p>
+
+##### :black_small_square: Security
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://0day.today/"><b>0day.today</b></a> - exploits market provides you the possibility to buy zero-day exploits and also to sell 0day exploits.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.exploit-db.com/"><b>Exploit-DB</b></a> - the exploit database: exploits, shellcode, 0days, remote exploits, local exploits, web Apps and more.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/disclosedh1"><b>publiclyDisclosed</b></a> - unofficial HackerOne public disclosure watcher who keeps you up to date about the recently disclosed bugs.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://sekurak.pl/"><b>Sekurak</b></a> - about security, penetration tests, vulnerabilities and many others (PL/EN).<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://nfsec.pl/"><b>nf.sec</b></a> - basic aspects and mechanisms of Linux operating system securit (PL).<br>
 </p>
 
 #### One-liners
