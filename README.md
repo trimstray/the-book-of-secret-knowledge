@@ -446,7 +446,6 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.root-me.org/?lang=en"><b>Root Me</b></a> - the fast, easy, and affordable way to train your hacking skills.<br>
 </p>
 
-
 #### Your daily knowledge and news
 
 ##### :black_small_square: RSS Readers
