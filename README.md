@@ -405,7 +405,13 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Hack-with-Github/Free-Security-eBooks"><b>Free Security eBooks</b></a> - list of a Free Security and Hacking eBooks.<br>
 </p>
 
-#### Hacking/Penetration testing
+#### Hacking/Penetration Testing
+
+##### :black_small_square: Useful Resources
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/swisskyrepo/PayloadsAllTheThings"><b>PayloadsAllTheThings</b></a> - a list of useful payloads and bypass for Web Application Security and Pentest/CTF.<br>
+</p>
 
 ##### :black_small_square: Bounty programs
 
