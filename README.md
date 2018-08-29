@@ -193,6 +193,7 @@ for transferring data with URLs.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://dnslytics.com/"><b>DNSlytics</b></a> - online investigation tool.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://dnsspy.io/"><b>DNS Spy</b></a> - monitor, validate and verify your DNS configurations.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://findsubdomains.com/"><b>Find subdomains online</b></a> - find subdomains for security assessment penetration test.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://xip.io/"><b>xip.ip</b></a> - wildcard DNS for everyone.<br>
 </p>
 
 ##### :black_small_square: Mail
@@ -309,6 +310,7 @@ performance of any of your sites from across the globe.<br>
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://brutelogic.com.br/blog/"><b>Brute XSS</b></a> - master the art of Cross Site Scripting.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/"><b>SQL Injection Cheat Sheet</b></a> - detailed technical information about the many different variants of the SQL Injection vulnerability.<br>
 </p>
 
 ##### :black_small_square: Web Apps
