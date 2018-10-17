@@ -383,12 +383,6 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://backbox.org/"><b>Backbox Linux</b></a> - penetration test and security assessment oriented Ubuntu-based Linux distribution.<br>
 </p>
 
-##### :black_small_square: Network
-
-<p>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.capanalysis.net/ca/"><b>CapAnalysis</b></a> - web visual tool to analyze large amounts of captured network traffic (PCAP analyzer).<br>
-</p>
-
 ##### :black_small_square: HTTP(s) Services
 
 <p>
@@ -403,6 +397,20 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.unbound.net/"><b>Unbound</b></a> - validating, recursive, and caching DNS resolver (with TLS).<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.knot-resolver.cz/"><b>Knot Resolver</b></a> - caching full resolver implementation, including both a resolver library and a daemon.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://vulnreport.io/"><b>Vulnreport</b></a> - open-source pentesting management and automation platform by Salesforce Product Security.<br>
+</p>
+
+#### Networks
+
+##### :black_small_square: Tools
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.capanalysis.net/ca/"><b>CapAnalysis</b></a> - web visual tool to analyze large amounts of captured network traffic (PCAP analyzer).<br>
+</p>
+
+##### :black_small_square: Labs
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://labs.networkreliability.engineering/"><b>NRE Labs</b></a> - learn automation by doing it. Right now, right here, in your browser.<br>
 </p>
 
 #### Awesome Lists
