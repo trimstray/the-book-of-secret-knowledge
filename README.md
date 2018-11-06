@@ -106,6 +106,7 @@ for transferring data with URLs.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/codesenberg/bombardier"><b>bombardier</b></a> - fast cross-platform HTTP benchmarking tool written in Go.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/cmpxchg16/gobench"><b>gobench</b></a> - http/https load testing and benchmarking tool.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/GouveaHeitor/nipe"><b>Nipe</b></a> - script to make Tor Network your default gateway.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/tgraf/bmon"><b>bmon</b></a> - is a monitoring and debugging tool to capture networking related statistics and prepare them visually in a human friendly way.<br>
 </p>
 
 ##### :black_small_square: SSL/Security
@@ -134,7 +135,6 @@ for transferring data with URLs.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://en.wikipedia.org/wiki/Lsof"><b>lsof</b></a> - displays in its output information about files that are opened by processes.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.brendangregg.com/flamegraphs.html"><b>FlameGraph</b></a> - stack trace visualizer.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/zevv/lsofgraph"><b>lsofgraph</b></a> - small utility to convert Unix lsof output to a graph showing FIFO and UNIX interprocess communication.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/tgraf/bmon"><b>bmon - Bandwidth Monitor</b></a> - bmon is a monitoring and debugging tool to capture networking related statistics and prepare them visually in a human friendly way.<br>
 </p>
 
 ##### :black_small_square: Log Analyzers
