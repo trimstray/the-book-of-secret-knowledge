@@ -49,9 +49,13 @@
 
 ## What is this list?
 
-This list is a collection of various materials that I use every day in my work. It contain a lot of useful information gathered in one piece. It is intended for everyone and anyone who is or wants to become a Ninja Admin (and not only).
+This list is a collection of various materials that I use every day in my work. It contain a lot of useful information gathered in one piece.
 
 This is not a final and full version - I update it on an ongoing basis.
+
+## For whom?
+
+It is intended for everyone and anyone who is or wants to become a Ninja Admin (and not only) - for system and network administrators, for pentesters and security researches.
 
 ## :ballot_box_with_check: Todo
 
@@ -188,6 +192,7 @@ for transferring data with URLs.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://tlsfun.de/"><b>tlsfun.de</b></a> - registered for various tests regarding the TLS/SSL protocol.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://ccadb.org/resources"><b>Common CA Database</b></a> - repository of information about CAs, and their root and intermediate certificates.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://certstream.calidog.io/"><b>CERTSTREAM</b></a> - real-time certificate transparency log update stream.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://crt.sh/"><b>crt.sh</b></a> - discovers certificates by continually monitoring all of the publicly known CT.<br>
 </p>
 
 ##### :black_small_square: HTTP Headers
@@ -230,6 +235,7 @@ for transferring data with URLs.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.shodan.io/"><b>Shodan</b></a> - the world's first search engine for Internet-connected devices.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://2000.shodan.io/#/"><b>Shodan 2000</b></a> - if you use Shodan for everyday work, be sure to see it - looks for randomly generated data from Shodan.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://viz.greynoise.io/table"><b>GreyNoise</b></a> - mass scanner (such as Shodan and Censys).<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.zoomeye.org/"><b>ZoomEye</b></a> - search engine for cyberspace that lets the user find specific network components.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://buckets.grayhatwarfare.com/"><b>Buckets by Grayhatwarfar</b></a> - database with public search for Open Amazon S3 Buckets and their contents.<br>
 </p>
 
@@ -247,6 +253,7 @@ for transferring data with URLs.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://evuln.com/tools/xss-encoder/"><b>XSS String Encoder</b></a> - for generating XSS code to check your input validation filters against XSS.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://regexr.com/"><b>RegExr</b></a> - online tool to learn, build, & test Regular Expressions (RegEx / RegExp).<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hardenize.com/"><b>Hardenize</b></a> - deploy the security standards.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.virustotal.com/#/home/upload"><b>VirusTotal</b></a> - analyze suspicious files and URLs to detect types of malware.<br>
 </p>
 
 ##### :black_small_square: Code parsers/playgrounds
