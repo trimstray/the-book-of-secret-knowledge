@@ -244,6 +244,7 @@ for transferring data with URLs.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://hunter.io/"><b>hunter</b></a> - lets you find email addresses in seconds and connect with the people that matter for your business.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://wigle.net/"><b>wigle</b></a> - is a submission-based catalog of wireless networks. All the networks. Found by Everyone.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://inteltechniques.com/menu.html"><b>IntelTechniques</b></a> - this repository contains hundreds of online search utilities.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://ghostproject.fr/"><b>GhostProject?</b></a> - search by full email address or username. <br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://buckets.grayhatwarfare.com/"><b>Buckets by Grayhatwarfar</b></a> - database with public search for Open Amazon S3 Buckets and their contents.<br>
 </p>
 
