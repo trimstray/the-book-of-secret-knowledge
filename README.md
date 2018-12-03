@@ -213,6 +213,7 @@ for transferring data with URLs.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://findsubdomains.com/"><b>Find subdomains online</b></a> - find subdomains for security assessment penetration test.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://dnsdumpster.com/"><b>DNSdumpster</b></a> - dns recon & research, find & lookup dns records.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://dnstable.com/"><b>DNS Table online</b></a> - search for DNS records by domain, IP, CIDR, ISP.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://ptrarchive.com/"><b>PTRarchive.com</b></a> - this site is responsible for the safekeeping of historical reverse DNS records.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://xip.io/"><b>xip.ip</b></a> - wildcard DNS for everyone.<br>
 </p>
 
@@ -243,10 +244,12 @@ for transferring data with URLs.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://app.binaryedge.io/"><b>binaryedge</b></a> - it scan the entire internet space and create real-time threat intelligence streams and reports.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://hunter.io/"><b>hunter</b></a> - lets you find email addresses in seconds and connect with the people that matter for your business.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://wigle.net/"><b>wigle</b></a> - is a submission-based catalog of wireless networks. All the networks. Found by Everyone.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://publicwww.com/"><b>PublicWWW</b></a> - find any alphanumeric snippet, signature or keyword in the web pages HTML, JS and CSS code.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://inteltechniques.com/menu.html"><b>IntelTechniques</b></a> - this repository contains hundreds of online search utilities.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://ghostproject.fr/"><b>GhostProject?</b></a> - search by full email address or username. <br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://buckets.grayhatwarfare.com/"><b>Buckets by Grayhatwarfar</b></a> - database with public search for Open Amazon S3 Buckets and their contents.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://vigilante.pw/"><b>Vigilante.pw</b></a> - the breached database directory.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://builtwith.com/"><b>builtwith</b></a> - find out what websites are built with.<br>
 </p>
 
 ##### :black_small_square: Net-tools
