@@ -196,6 +196,12 @@ for transferring data with URLs.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://crt.sh/"><b>crt.sh</b></a> - discovers certificates by continually monitoring all of the publicly known CT.<br>
 </p>
 
+##### :black_small_square: Privacy
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.privacytools.io/"><b>privacytools.io</b></a> - provides knowledge and tools to protect your privacy against global mass surveillance.<br>
+</p>
+
 ##### :black_small_square: HTTP Headers
 
 <p>
