@@ -283,7 +283,6 @@ for transferring data with URLs.<br>
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.shellcheck.net/"><b>ShellCheck</b></a> - finds bugs in your shell scripts.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://jsbin.com/?html,output"><b>jsbin</b></a> - live pastebin for HTML, CSS & JavaScript and more.<br>
-</p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://sandbox.onlinephpfunctions.com/"><b>PHP Sandbox</b></a> - test your PHP code with this code tester.<br>
 </p>
 
