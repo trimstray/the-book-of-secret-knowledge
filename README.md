@@ -5,7 +5,7 @@
 
 <br>
 
-<h4 align="center">A collection of awesome lists, manuals, blogs, hacks, one-liners, tools and more.</h4>
+<h4 align="center">A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more.</h4>
 
 <br>
 
@@ -48,7 +48,7 @@ This is not a final and full version - I update it on an ongoing basis.
 
 ## For whom?
 
-It is intended for everyone and anyone - for system and network administrators, for devops, for pentesters or security researches.
+It is intended for everyone and anyone - especially for system and network administrators, devops, pentesters or security researchers.
 
 ## :ballot_box_with_check: Todo
 
