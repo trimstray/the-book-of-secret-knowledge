@@ -1,16 +1,16 @@
 <p align="center">
-    <img src="https://github.com/trimstray/awesome-ninja-admins/blob/master/doc/img/awesome_ninja_admins.png"
+    <img src="https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/doc/img/the-book-of-secret-knowledge-preview.png"
         alt="Master">
 </p>
 
 <br>
 
-<h4 align="center">A collection of awesome lists, manuals, blogs, hacks, one-liners and tools for <b>Awesome Ninja Admins</b>.</h4>
+<h4 align="center">A collection of awesome lists, manuals, blogs, hacks, one-liners, tools and more.</h4>
 
 <br>
 
 <p align="center">
-  <a href="https://github.com/trimstray/awesome-ninja-admins/tree/master">
+  <a href="https://github.com/trimstray/the-book-of-secret-knowledge/tree/master">
     <img src="https://img.shields.io/badge/Branch-master-green.svg?longCache=true"
         alt="Branch">
   </a>
@@ -27,7 +27,7 @@
 <div align="center">
   <sub>Created by
   <a href="https://twitter.com/trimstray">trimstray</a> and
-  <a href="https://github.com/trimstray/awesome-ninja-admins/graphs/contributors">
+  <a href="https://github.com/trimstray/the-book-of-secret-knowledge/graphs/contributors">
     contributors
   </a>
 </div>
@@ -36,16 +36,9 @@
 
 ***
 
-## Who is Ninja Admins?
-
-- race of pure evil who rule the network through a monarchist feudal system
-- they never opened the door for strangers (or anyone at all)
-- they know very nasty piece of code like a **[fork bombs](https://en.wikipedia.org/wiki/Fork_bomb)**
-- they can make dd is not a **[destroyer of disks](http://www.noah.org/wiki/Dd_-_Destroyer_of_Disks)**
-- they know that `#!/usr/bin/env bash` superior to `#!/bin/bash`
-- they know that `su -` logs in completely as root
-- they miss and cry for **[Slackware](http://www.slackware.com/)** on production
-- they love the old admin nix-world
+<p align="center">
+  » <b><code><a href="https://github.com/trimstray/the-book-of-secret-knowledge/issues">All suggestions are welcome</a></code></b> «
+</p>
 
 ## What is this list?
 
@@ -55,16 +48,15 @@ This is not a final and full version - I update it on an ongoing basis.
 
 ## For whom?
 
-It is intended for everyone and anyone who is or wants to become a Ninja Admin (and not only) - for system and network administrators, for pentesters and security researches.
+It is intended for everyone and anyone - for system and network administrators, for devops, for pentesters or security researches.
 
 ## :ballot_box_with_check: Todo
 
 - [ ] Add useful shell functions
 - [ ] Add one-liners for collection tools (eg. CLI Tools)
-- [ ] Add Ninja Admins T-Shirt stickers
-- [ ] Generate Awesome Ninja Admins book (eg. pdf format)
+- [ ] Generate book pdf format
 
-## Ninja Admins Collection
+## The Book of Secret Knowledge (Chapters)
 
 #### CLI Tools
 
@@ -1892,7 +1884,7 @@ dig -x 172.217.16.14 +short
 
 ___
 
-##### Tool: [network-other](https://github.com/trimstray/awesome-ninja-admins#tool-network-other)
+##### Tool: [network-other](https://github.com/trimstray/the-book-of-secret-knowledge#tool-network-other)
 
 ###### Get all subnets for specific AS (Autonomous system)
 
