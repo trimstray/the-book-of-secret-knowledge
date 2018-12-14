@@ -40,7 +40,7 @@
   » <b><code><a href="https://github.com/trimstray/the-book-of-secret-knowledge/issues">All suggestions are welcome</a></code></b> «
 </p>
 
-## What is this list?
+## What is it?
 
 This list is a collection of various materials that I use every day in my work. It contain a lot of useful information gathered in one piece.
 
@@ -358,7 +358,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://infosec.mozilla.org/guidelines/web_security.html"><b>Mozilla Web Security</b></a> - help operational teams with creating secure web applications.<br>
 </p>
 
-##### :black_small_square: Secret Knowledge
+##### :black_small_square: Other
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://bitvijays.github.io/LFC-VulnerableMachines.html"><b>CTF Series : Vulnerable Machines</b></a> - the steps below could be followed to find vulnerabilities and exploits.<br>
