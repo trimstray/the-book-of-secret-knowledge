@@ -520,6 +520,19 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://nfsec.pl/"><b>nf.sec</b></a> - basic aspects and mechanisms of Linux operating system securit (PL).<br>
 </p>
 
+#### Other Cheat Sheets
+
+###### DNS Servers list (privacy)
+
+| <b><u>IP</u></b> | <b><u>URL</u></b> |
+| :---         | :---         |
+| **`84.200.69.80`** | [dns.watch](https://dns.watch/) |
+| **`94.247.43.254`** | [opennic.org](https://www.opennic.org/) |
+| **`64.6.64.6`** | [verisign.com](https://www.verisign.com/en_US/security-services/public-dns/index.xhtml) |
+| **`89.233.43.71`** | [censurfridns.dk](https://blog.uncensoreddns.org/) |
+| **`1.1.1.1`** | [cloudflare.com](https://www.cloudflare.com/dns/) |
+| **`94.130.110.185`** | [dnsprivacy.at](https://dnsprivacy.at/) |
+
 #### One-liners
 
 ##### Table of Contents
