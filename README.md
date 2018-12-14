@@ -371,6 +371,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://drawings.jvns.ca/"><b>Julia's Drawings</b></a> - some drawings about programming and unix world, zines about systems & debugging tools.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://media.defcon.org/DEF%20CON%2026/"><b>DEF CON Media Server</b></a> - great stuff from DEFCON 26.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://labs.ripe.net/Members/cteusche/bgp-meets-cat"><b>BGP Meets Cat</b></a> - after 3072 hours of manipulating BGP, Job Snijders has succeeded in drawing a Nyancat.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://robertheaton.com/2018/11/28/https-in-the-real-world/"><b>HTTPS in the real world</b></a> - great tutorial explain how HTTPS works in the real world.<br>
 </p>
 
 #### Blogs
@@ -447,6 +448,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/alebcay/awesome-shell"><b>Awesome Shell</b></a> - awesome command-line frameworks, toolkits, guides and gizmos.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Hack-with-Github/Awesome-Hacking"><b>Awesome Hacking</b></a> - awesome lists for hackers, pentesters and security researchers.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/vitalysim/Awesome-Hacking-Resources"><b>Awesome Hacking Resources</b></a> - collection of hacking/penetration testing resources to make you better.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/ksanchezcld/Hacking_Cheat_Sheet"><b>Hacking Cheat Sheet</b></a> - author hacking and pentesting notes.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/k4m4/movies-for-hackers"><b>Movies for Hackers</b></a> - list of movies every hacker & cyberpunk must watch.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/enaqx/awesome-pentest"><b>Awesome Pentest</b></a> - collection of awesome penetration testing resources, tools and other shiny things.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/caesar0301/awesome-pcaptools"><b>Awesome Pcaptools</b></a> - collection of tools developed by other researchers to process network traces.<br>
@@ -478,15 +480,20 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 ##### :black_small_square: Web Training Apps (local installation)
 
 <p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://metasploit.help.rapid7.com/docs/metasploitable-2"><b>OWASP-VWAD</b></a> - comprehensive and well maintained registry of all known vulnerable web applications.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://metasploit.help.rapid7.com/docs/metasploitable-2"><b>Metasploitable 2</b></a> - vulnerable web application amongst security researchers.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.dvwa.co.uk/"><b>DVWA</b></a> - PHP/MySQL web application that is damn vulnerable.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://sourceforge.net/projects/mutillidae/"><b>OWASP Mutillidae II</b></a> - free, open source, deliberately vulnerable web-application.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.owasp.org/index.php/OWASP_Juice_Shop_Project"><b>OWASP Juice Shop Project</b></a> - the most bug-free vulnerable application in existence.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project"><b>OWASP WebGoat Project</b></a> - insecure web application maintained by OWASP designed to teach web app security.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/opendns/Security_Ninjas_AppSec_Training"><b>Security Ninjas</b></a> - open source application security training program.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rapid7/hackazon"><b>hackazon</b></a> - a modern vulnerable web app.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/appsecco/dvna"><b>dvna</b></a> - damn vulnerable NodeJS application.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://google-gruyere.appspot.com/"><b>Google Gruyere</b></a> - web application exploits and defenses.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/amolnaik4/bodhi"><b>Bodhi</b></a> - is a playground focused on learning the exploitation of client-side web vulnerabilities.<br>
 </p>
 
-##### :black_small_square: Labs
+##### :black_small_square: Labs (ethical hacking platforms)
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hackthebox.eu/"><b>Hack The Box</b></a> - online platform allowing you to test your penetration testing skills.<br>
@@ -495,6 +502,9 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://silesiasecuritylab.com/"><b>Silesia Security Lab</b></a> - high quality security testing services.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://practicalpentestlabs.com/"><b>Practical Pentest Labs</b></a> - pentest lab, take your Hacking skills to the next level.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.root-me.org/?lang=en"><b>Root Me</b></a> - the fast, easy, and affordable way to train your hacking skills.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://rozwal.to/login"><b>rozwal.to</b></a> - a great platform to train your pentesting skills.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://tryhackme.com/"><b>TryHackMe</b></a> - learning Cyber Security made easy.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://overthewire.org/wargames/"><b>OverTheWire</b></a> - can help you to learn and practice security concepts in the form of fun-filled games.<br>
 </p>
 
 #### Your daily knowledge and news
@@ -532,6 +542,16 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 | **`89.233.43.71`** | [censurfridns.dk](https://blog.uncensoreddns.org/) |
 | **`1.1.1.1`** | [cloudflare.com](https://www.cloudflare.com/dns/) |
 | **`94.130.110.185`** | [dnsprivacy.at](https://dnsprivacy.at/) |
+
+###### Build your own DNS Servers
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://calomel.org/unbound_dns.html"><b>Unbound DNS Tutorial</b></a> - a validating, recursive, and caching DNS server.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.ctrl.blog/entry/knot-dns-resolver-tutorial"><b>Knot Resolver on Fedora</b></a> - how to get faster and more secure DNS resolution with Knot Resolver on Fedora.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.aaflalo.me/2018/10/tutorial-setup-dns-over-https-server/"><b>DNS-over-HTTPS</b></a> - tutorial to setup your own DNS-over-HTTPS (DoH) server.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://zwischenzugs.com/2018/01/26/how-and-why-i-run-my-own-dns-servers/"><b>DNS Servers</b></a> - how (and why) i run my own DNS Servers.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="org"><b>DNS Privacy Server</b></a> - running your own DoT or DoH server this page provides some ideas.<br>
+</p>
 
 #### One-liners
 
