@@ -632,8 +632,7 @@ unset HISTFILE && exit
 ###### Perform a branching conditional
 
 ```bash
-true && echo success
-false || echo failed
+your_command && { echo success;} || { echo failed; }
 ```
 
 ###### Pipe stdout and stderr to separate commands
