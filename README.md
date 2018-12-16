@@ -3,8 +3,6 @@
         alt="Master">
 </p>
 
-<br>
-
 <h4 align="center">A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more.</h4>
 
 <br>
