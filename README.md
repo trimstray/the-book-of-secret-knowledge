@@ -422,7 +422,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://varnish-cache.org/"><b>Varnish HTTP Cache</b></a> - HTTP accelerator designed for content-heavy dynamic web sites.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://varnish-cache.org/"><b>Nginx</b></a> - open source web and reverse proxy server that is similar to Apache, but very light weight.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://nginx.org/"><b>Nginx</b></a> - open source web and reverse proxy server that is similar to Apache, but very light weight.<br>
 </p>
 
 ##### :black_small_square: Security/hardening
