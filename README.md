@@ -890,6 +890,24 @@ ___
 
 ##### Tool: [strace](https://en.wikipedia.org/wiki/Strace)
 
+###### Track child process
+
+```bash
+strace -f -p $(pidof glusterfsd)
+```
+
+###### Track process after 30 seconds
+
+```bash
+timeout 30 strace $(< /var/run/zabbix/zabbix_agentd.pid)
+```
+
+###### Track child process and redirect output to a file
+
+```bash
+ps auxw | grep 'sbin/[a]pache' | awk '{print " -p " $2}' | xargs strace -o /tmp/strace-apache-proc.out
+```
+
 ###### Track the open request of a network port
 
 ```bash
