@@ -54,8 +54,6 @@ It is intended for everyone and anyone - especially for System and Network Admin
 - [ ] Add one-liners for collection tools (eg. CLI Tools)
 - [ ] Generate book pdf format
 
-<br>
-
 ## :anger: &nbsp;The Book of Secret Knowledge (Chapters)
 
 #### CLI Tools
