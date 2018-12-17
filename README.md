@@ -34,19 +34,28 @@
 
 ***
 
-<p align="center">
-  » <b><code><a href="https://github.com/trimstray/the-book-of-secret-knowledge/issues">All suggestions are welcome</a></code></b> «
-</p>
-
 ## :notebook_with_decorative_cover: &nbsp;What is it?
 
 This list is a collection of various materials that I use every day in my work. It contain a lot of useful information gathered in one piece.
 
-  > `This is not a final and full version - I update it on an ongoing basis.`
-
 ## :restroom: &nbsp;For whom?
 
 It is intended for everyone and anyone - especially for System and Network Administrators, DevOps, Pentesters or Security Researchers.
+
+## :information_source: &nbsp;Contributing
+
+A few simple rules for this project:
+
+- inviting and clear
+- not tiring
+- useful
+
+These below rules may be better:
+
+- easy to contribute to
+- easy to find (no TOC)
+
+Before add pull request please see **[this](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/CONTRIBUTING.md)**.
 
 ## :ballot_box_with_check: &nbsp;Todo
 
