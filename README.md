@@ -38,23 +38,25 @@
   » <b><code><a href="https://github.com/trimstray/the-book-of-secret-knowledge/issues">All suggestions are welcome</a></code></b> «
 </p>
 
-## What is it?
+## :notebook_with_decorative_cover: &nbsp;What is it?
 
 This list is a collection of various materials that I use every day in my work. It contain a lot of useful information gathered in one piece.
 
-This is not a final and full version - I update it on an ongoing basis.
+  > `This is not a final and full version - I update it on an ongoing basis.`
 
-## For whom?
+## :restroom: &nbsp;For whom?
 
-It is intended for everyone and anyone - especially for system and network administrators, devops, pentesters or security researchers.
+It is intended for everyone and anyone - especially for System and Network Administrators, DevOps, Pentesters or Security Researchers.
 
-## :ballot_box_with_check: Todo
+## :ballot_box_with_check: &nbsp;Todo
 
 - [ ] Add useful shell functions
 - [ ] Add one-liners for collection tools (eg. CLI Tools)
 - [ ] Generate book pdf format
 
-## The Book of Secret Knowledge (Chapters)
+<br>
+
+## :anger: &nbsp;The Book of Secret Knowledge (Chapters)
 
 #### CLI Tools
 
