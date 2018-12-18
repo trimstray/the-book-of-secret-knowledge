@@ -52,10 +52,10 @@ A few simple rules for this project:
 
 These below rules may be better:
 
-- easy to contribute to
+- easy to contribute to (Markdown + HTML)
 - easy to find (no TOC)
 
-Before add pull request please see **[this](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/CONTRIBUTING.md)**.
+Before add pull request please see **[this](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/CONTRIBUTING.md)**. All suggestions/PR are welcome!
 
 ## :ballot_box_with_check: &nbsp;Todo
 
