@@ -192,6 +192,20 @@ Before add pull request please see **[this](https://github.com/trimstray/the-boo
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://inotify.aiken.cz/"><b>incron</b></a> - is an inode-based filesystem notification technology.<br>
 </p>
 
+#### GUI Tools
+
+##### :black_small_square: Network
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.wireshark.org/"><b>Wireshark</b></a> - is the world’s foremost and widely-used network protocol analyzer.<br>
+</p>
+
+##### :black_small_square: Password Managers
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://keepassxc.org/"><b>KeePassXC</b></a> - store your passwords safely and auto-type them into your everyday websites and apps.<br>
+</p>
+
 #### Web Tools
 
 ##### :black_small_square: SSL/Security
