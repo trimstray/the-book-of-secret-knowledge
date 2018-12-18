@@ -89,14 +89,7 @@ Before add pull request please see **[this](https://github.com/trimstray/the-boo
 ##### :black_small_square: Network
 
 <p>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://curl.haxx.se/"><b>Curl</b></a> - command line tool and library
-for transferring data with URLs.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jkbrzt/httpie"><b>HTTPie</b></a> - a user-friendly HTTP client.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/asciimoo/wuzz"><b>wuzz</b></a> - interactive cli tool for HTTP inspection.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/reorx/httpstat"><b>httpstat</b></a> - visualizes curl statistics in a way of beauty and clarity.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://gnutls.org/manual/html_node/gnutls_002dcli-Invocation.html"><b>gnutls-cli</b></a> - client program to set up a TLS connection to some other computer.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://nmap.org/"><b>nmap</b></a> - free and open source (license) utility for network discovery and security auditing.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/OJ/gobuster"><b>gobuster</b></a> - free and open source directory/file & DNS busting tool written in Go<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.hping.org/"><b>hping</b></a> - command-line oriented TCP/IP packet assembler/analyzer.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/traviscross/mtr"><b>mtr</b></a> - functionality of the 'traceroute' and 'ping' programs in a single network diagnostic tool.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/robertdavidgraham/masscan"><b>masscan</b></a> - the fastest Internet port scanner, spews SYN packets asynchronously.<br>
@@ -104,18 +97,35 @@ for transferring data with URLs.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.tcpdump.org/"><b>tcpdump</b></a> - powerful command-line packet analyzer.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.wireshark.org/docs/man-pages/tshark.html"><b>tshark</b></a> - dump and analyze network traffic (wireshark cli).<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/tgraf/bmon"><b>bmon</b></a> - monitoring and debugging tool to capture networking related statistics and prepare them visually.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/troglobit/nemesis"><b>Nemesis</b></a> - packet manipulation CLI tool; craft and inject packets of several protocols.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/packetfu/packetfu"><b>packetfu</b></a> - a mid-level packet manipulation library for Ruby.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://scapy.net/"><b>Scapy</b></a> - packet manipulation library; forge, send, decode, capture packets of a wide number of protocols.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://iptraf.seul.org/2.6/manual.html#installation"><b>iptraf-ng</b></a> - is a console-based network monitoring program for Linux that displays information about IP traffic.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://aria2.github.io/"><b>aria2</b></a> - is a lightweight multi-protocol & multi-source command-line download utility.<br>
+</p>
+
+##### :black_small_square: Network (DNS)
+
+<p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/mschwager/fierce"><b>fierce</b></a> - a DNS reconnaissance tool for locating non-contiguous IP space.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/aboul3la/Sublist3r"><b>sublist3r</b></a> - fast subdomains enumeration tool for penetration testers.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/OWASP/Amass"><b>amass</b></a> - tool obtains subdomain names by scraping data sources, crawling web archives and more.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/google/namebench"><b>namebench</b></a> - provides personalized DNS server recommendations based on your browsing history.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/troglobit/nemesis"><b>Nemesis</b></a> - packet manipulation CLI tool; craft and inject packets of several protocols.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/packetfu/packetfu"><b>packetfu</b></a> - a mid-level packet manipulation library for Ruby.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://scapy.net/"><b>Scapy</b></a> - packet manipulation library; forge, send, decode, capture packets of a wide number of protocols.<br>
+</p>
+
+
+##### :black_small_square: Network (HTTP)
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://curl.haxx.se/"><b>Curl</b></a> - command line tool and library
+for transferring data with URLs.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jkbrzt/httpie"><b>HTTPie</b></a> - a user-friendly HTTP client.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/asciimoo/wuzz"><b>wuzz</b></a> - interactive cli tool for HTTP inspection.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/reorx/httpstat"><b>httpstat</b></a> - visualizes curl statistics in a way of beauty and clarity.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://gnutls.org/manual/html_node/gnutls_002dcli-Invocation.html"><b>gnutls-cli</b></a> - client program to set up a TLS connection to some other computer.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/codesenberg/bombardier"><b>bombardier</b></a> - fast cross-platform HTTP benchmarking tool written in Go.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/cmpxchg16/gobench"><b>gobench</b></a> - http/https load testing and benchmarking tool.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/GouveaHeitor/nipe"><b>Nipe</b></a> - script to make Tor Network your default gateway.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="http://iptraf.seul.org/2.6/manual.html#installation"><b>iptraf-ng</b></a> - is a console-based network monitoring program for Linux that displays information about IP traffic.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://aria2.github.io/"><b>aria2</b></a> - is a lightweight multi-protocol & multi-source command-line download utility.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/OJ/gobuster"><b>gobuster</b></a> - free and open source directory/file & DNS busting tool written in Go<br>
 </p>
 
 ##### :black_small_square: SSL/Security
@@ -175,6 +185,13 @@ for transferring data with URLs.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project"><b>OWASP Zed Attack Proxy</b></a> - intercepting proxy to replay, inject, scan and fuzz HTTP requests.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://cirt.net/Nikto2"><b>Nikto2</b></a> - web server scanner which performs comprehensive tests against web servers for multiple items.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://sqlmap.org/"><b>sqlmap</b></a> - tool that automates the process of detecting and exploiting SQL injection flaws.<br>
+</p>
+
+##### :black_small_square: TOR
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/GouveaHeitor/nipe"><b>Nipe</b></a> - script to make Tor Network your default gateway.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/trimstray/multitor"><b>Multitor</b></a> - a tool that lets you create multiple TOR instances with a load-balancing.<br>
 </p>
 
 ##### :black_small_square: Other
