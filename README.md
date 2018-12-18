@@ -96,6 +96,7 @@ for transferring data with URLs.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/reorx/httpstat"><b>httpstat</b></a> - visualizes curl statistics in a way of beauty and clarity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://gnutls.org/manual/html_node/gnutls_002dcli-Invocation.html"><b>gnutls-cli</b></a> - client program to set up a TLS connection to some other computer.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://nmap.org/"><b>nmap</b></a> - free and open source (license) utility for network discovery and security auditing.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/OJ/gobuster"><b>gobuster</b></a> - free and open source directory/file & DNS busting tool written in Go<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.hping.org/"><b>hping</b></a> - command-line oriented TCP/IP packet assembler/analyzer.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/traviscross/mtr"><b>mtr</b></a> - functionality of the 'traceroute' and 'ping' programs in a single network diagnostic tool.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/robertdavidgraham/masscan"><b>masscan</b></a> - the fastest Internet port scanner, spews SYN packets asynchronously.<br>
