@@ -55,6 +55,8 @@ These below rules may be better:
 - easy to contribute to (Markdown + HTML)
 - easy to find (no TOC)
 
+Url marked **\*** is temporary unavailable. Please don't delete it without confirming that it has permanently expired.
+
 Before add pull request please see **[this](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/CONTRIBUTING.md)**. All suggestions/PR are welcome!
 
 ## :ballot_box_with_check: &nbsp;Todo
