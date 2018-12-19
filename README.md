@@ -388,14 +388,8 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.owasp.org/index.php/Main_Page"><b>OWASP</b></a> - worldwide not-for-profit charitable organization focused on improving the security of software.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project"><b>OWASP ASVS 3.0.1</b></a> - OWASP Application Security Verification Standard Project.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Santandersecurityresearch/asvs"><b>OWASP ASVS 3.0.1 Web App</b></a> - simple web app that helps developers understand the ASVS requirements.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.offensive-security.com/"><b>Offensive Security</b></a> - true performance-based penetration testing training for over a decade.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.hackingarticles.in/"><b>Hacking Articles</b></a> - LRaj Chandel's Security & Hacking Blog.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://gtfobins.github.io/"><b>GTFOBins</b></a> - list of Unix binaries that can be exploited by an attacker to bypass local security restrictions.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/toniblyx/my-arsenal-of-aws-security-tools"><b>AWS security tools</b></a> - make your AWS cloud environment more secure.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="http://html5sec.org/"><b>HTML5 Security Cheatsheet</b></a> - a collection of HTML5 related XSS attack vectors.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="http://www.pentest-standard.org/index.php/Main_Page"><b>PTES</b></a> - the penetration testing execution standard.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/zardus/ctf-tools"><b>ctf-tools</b></a> - some setup scripts for security research tools.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://guif.re/"><b>Guifre Ruiz Notes</b></a> - collection of security, system, network and pentest cheatsheets.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://inventory.rawsec.ml/index.html"><b>Rawsec's CyberSecurity Inventory</b></a> - an inventory of tools and resources about CyberSecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://appsecwiki.com/#/"><b>Application Security Wiki</b></a> - is an initiative to provide all application security related resources at one place.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://tls.ulfheim.net/"><b>The Illustrated TLS Connection</b></a> - every byte of a TLS connection explained and reproduced.<br>
@@ -498,11 +492,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/kahun/awesome-sysadmin"><b>Awesome Sysadmin</b></a> - amazingly awesome open source sysadmin resources.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/alebcay/awesome-shell"><b>Awesome Shell</b></a> - awesome command-line frameworks, toolkits, guides and gizmos.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Hack-with-Github/Awesome-Hacking"><b>Awesome Hacking</b></a> - awesome lists for hackers, pentesters and security researchers.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/vitalysim/Awesome-Hacking-Resources"><b>Awesome Hacking Resources</b></a> - collection of hacking/penetration testing resources to make you better.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/ksanchezcld/Hacking_Cheat_Sheet"><b>Hacking Cheat Sheet</b></a> - author hacking and pentesting notes.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/k4m4/movies-for-hackers"><b>Movies for Hackers</b></a> - list of movies every hacker & cyberpunk must watch.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/enaqx/awesome-pentest"><b>Awesome Pentest</b></a> - collection of awesome penetration testing resources, tools and other shiny things.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/caesar0301/awesome-pcaptools"><b>Awesome Pcaptools</b></a> - collection of tools developed by other researchers to process network traces.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/danielmiessler/SecLists"><b>SecLists</b></a> - collection of multiple types of lists used during security assessments, collected in one place.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/learnbyexample/Command-line-text-processing"><b>Command-line-text-processing</b></a> - from finding text to search and replace, from sorting to beautifying text and more.<br>
@@ -522,19 +512,28 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://cirt.net/Nikto2"><b>Nikto2</b></a> - web server scanner which performs comprehensive tests against web servers for multiple items.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://sqlmap.org/"><b>sqlmap</b></a> - tool that automates the process of detecting and exploiting SQL injection flaws.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.faradaysec.com/"><b>Faraday</b></a> - an Integrated Multiuser Pentest Environment.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/zardus/ctf-tools"><b>ctf-tools</b></a> - some setup scripts for security research tools.<br>
 </p>
 
 ##### :black_small_square: Pentests bookmarks collection
 
 <p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://www.pentest-standard.org/index.php/Main_Page"><b>PTES</b></a> - the penetration testing execution standard.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://brutelogic.com.br/blog/"><b>Brute XSS</b></a> - master the art of Cross Site Scripting.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://jivoi.github.io/2015/07/03/offensive-security-bookmarks/"><b>Offensive Security Bookmarks</b></a> - security bookmarks collection, all that things I need to pass OSCP.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/coreb1t/awesome-pentest-cheat-sheets"><b>Awesome Pentest Cheat Sheets</b></a> - collection of the cheat sheets useful for pentesting.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Hack-with-Github/Awesome-Hacking"><b>Awesome Hacking</b></a> - awesome lists for hackers, pentesters and security researchers.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/vitalysim/Awesome-Hacking-Resources"><b>Awesome Hacking Resources</b></a> - collection of hacking/penetration testing resources to make you better.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/ksanchezcld/Hacking_Cheat_Sheet"><b>Hacking Cheat Sheet</b></a> - author hacking and pentesting notes.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/enaqx/awesome-pentest"><b>Awesome Pentest</b></a> - collection of awesome penetration testing resources, tools and other shiny things.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://brutelogic.com.br/blog/"><b>Pentest Bookmarks</b></a> - there are a LOT of pentesting blogs.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/swisskyrepo/PayloadsAllTheThings"><b>PayloadsAllTheThings</b></a> - a list of useful payloads and bypass for Web Application Security and Pentest/CTF.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/"><b>Pentesting Tools Cheat Sheet</b></a> - a quick reference high level overview for typical penetration testing engagements.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/"><b>SQL Injection Cheat Sheet</b></a> - detailed technical information about the many different variants of the SQL Injection.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://kb.entersoft.co.in/"><b>Entersoft Knowledge Base</b></a> - great and detailed reference about vulnerabilities.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://html5sec.org/"><b>HTML5 Security Cheatsheet</b></a> - a collection of HTML5 related XSS attack vectors.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://gtfobins.github.io/"><b>GTFOBins</b></a> - list of Unix binaries that can be exploited by an attacker to bypass local security restrictions.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://guif.re/"><b>Guifre Ruiz Notes</b></a> - collection of security, system, network and pentest cheatsheets.<br>
 </p>
 
 ##### :black_small_square: Bounty programs
@@ -563,9 +562,10 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/amolnaik4/bodhi"><b>Bodhi</b></a> - is a playground focused on learning the exploitation of client-side web vulnerabilities.<br>
 </p>
 
-##### :black_small_square: Labs (ethical hacking platforms)
+##### :black_small_square: Labs (ethical hacking platforms/trainings)
 
 <p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.offensive-security.com/"><b>Offensive Security</b></a> - true performance-based penetration testing training for over a decade.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hackthebox.eu/"><b>Hack The Box</b></a> - online platform allowing you to test your penetration testing skills.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hacking-lab.com/index.html"><b>Hacking-Lab</b></a> - online ethical hacking, computer network and security challenge platform.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://pwnable.kr/index.php"><b>pwnable.kr</b></a> - non-commercial wargame site which provides various pwn challenges regarding system exploitation.<br>
