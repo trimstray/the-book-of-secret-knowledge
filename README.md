@@ -514,6 +514,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://sqlmap.org/"><b>sqlmap</b></a> - tool that automates the process of detecting and exploiting SQL injection flaws.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.faradaysec.com/"><b>Faraday</b></a> - an Integrated Multiuser Pentest Environment.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/zardus/ctf-tools"><b>ctf-tools</b></a> - some setup scripts for security research tools.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/bl4de/security-tools"><b>security-tools</b></a> - collection of small security tools created mostly in Python. CTFs, pentests and so on.<br>
 </p>
 
 ##### :black_small_square: Pentests bookmarks collection
