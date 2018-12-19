@@ -189,6 +189,7 @@ Before add pull request please see **[this](https://github.com/trimstray/the-boo
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://inotify.aiken.cz/"><b>incron</b></a> - is an inode-based filesystem notification technology.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/tldr-pages/tldr"><b>tldr</b></a> - simplified and community-driven man pages.<br>
 </p>
 
 #### GUI Tools
