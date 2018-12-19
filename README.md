@@ -632,6 +632,16 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="org"><b>DNS Privacy Server</b></a> - running your own DoT or DoH server this page provides some ideas.<br>
 </p>
 
+###### Browser extensions
+
+| <b><u>Extension name</u></b> | <b><u>Description</u></b> |
+| :---         | :---         |
+| **`IPvFoo`** | Display the server IP address and HTTPS information across all page elements. |
+| **`FoxyProxy`** | Simplifies configuring browsers to access proxy-servers. |
+| **`HTTPS Everywhere`** | Automatically use HTTPS security on many sites. |
+| **`uMatrix`** | Point & click to forbid/allow any class of requests made by your browser. |
+| **`uBlock Origin`** | An efficient blocker: easy on memory and CPU footprint. |
+
 #### One-liners
 
 ##### Table of Contents
