@@ -209,6 +209,13 @@ Before add pull request please see **[this](https://github.com/trimstray/the-boo
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://keepassxc.org/"><b>KeePassXC</b></a> - store your passwords safely and auto-type them into your everyday websites and apps.<br>
 </p>
 
+##### :black_small_square: Text editors
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.sublimetext.com/3"><b>Sublime Text</b></a> - is a lightweight, cross-platform code editor known for its speed, ease of use.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://atom.io/"><b>Atom</b></a> - a hackable text editor for the 21st Century.<br>
+</p>
+
 #### Web Tools
 
 ##### :black_small_square: SSL/Security
