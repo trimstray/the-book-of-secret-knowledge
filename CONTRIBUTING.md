@@ -18,3 +18,4 @@ When creating pull request, please heed the following:
 - Base your code on the latest master branch to avoid manual merges
 - Code review may ensue in order to help shape your proposal
 - Explain the problem and your proposed solution
+- One-line description - please don't continue the description on new lines
