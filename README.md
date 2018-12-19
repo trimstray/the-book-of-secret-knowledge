@@ -12,10 +12,6 @@
     <img src="https://img.shields.io/badge/Branch-master-green.svg?longCache=true"
         alt="Branch">
   </a>
-  <a href="https://awesome.re">
-    <img src="https://awesome.re/badge.svg"
-        alt="Awesome">
-  </a>
   <a href="http://www.gnu.org/licenses/">
     <img src="https://img.shields.io/badge/License-GNU-blue.svg?longCache=true"
         alt="License">
@@ -36,7 +32,7 @@
 
 ## :notebook_with_decorative_cover: &nbsp;What is it?
 
-This list is a collection of various materials that I use every day in my work. It contain a lot of useful information gathered in one piece.
+This list is a collection of various materials that I use every day in my work. It contains a lot of useful information gathered in one piece.
 
 ## :restroom: &nbsp;For whom?
 
@@ -52,12 +48,12 @@ A few simple rules for this project:
 
 These below rules may be better:
 
-- easy to contribute to (Markdown + HTML)
-- easy to find (no TOC)
+- easy to contribute to (Markdown + HTML ...)
+- easy to find (no TOC, maybe it's worth creating them?)
 
 Url marked **\*** is temporary unavailable. Please don't delete it without confirming that it has permanently expired.
 
-Before add pull request please see **[this](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/CONTRIBUTING.md)**. All suggestions/PR are welcome!
+Before add pull request please see **[this](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/CONTRIBUTING.md)**. All **suggestions/PR** are welcome!
 
 ## :ballot_box_with_check: &nbsp;Todo
 
