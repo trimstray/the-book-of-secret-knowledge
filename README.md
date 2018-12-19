@@ -518,6 +518,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project"><b>OWASP Zed Attack Proxy</b></a> - intercepting proxy to replay, inject, scan and fuzz HTTP requests.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://cirt.net/Nikto2"><b>Nikto2</b></a> - web server scanner which performs comprehensive tests against web servers for multiple items.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://sqlmap.org/"><b>sqlmap</b></a> - tool that automates the process of detecting and exploiting SQL injection flaws.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.faradaysec.com/"><b>Faraday</b></a> - an Integrated Multiuser Pentest Environment.<br>
 </p>
 
 ##### :black_small_square: Pentests bookmarks collection
