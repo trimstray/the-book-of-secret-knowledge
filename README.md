@@ -427,7 +427,7 @@ performance of any of your sites from across the globe.<br>
 
 #### Blogs
 
-##### :black_small_square: Geeky Blogs
+##### :black_small_square: Geeky Blogs/Persons
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.brendangregg.com/"><b>Brendan Gregg's Blog</b></a> - Brendan Gregg is an industry expert in computing performance and cloud computing.<br>
@@ -437,6 +437,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://nickcraver.com/"><b>Nick Craver</b></a> - Software Developer and Systems Administrator for Stack Exchange.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://robert.penz.name/"><b>Robert Penz</b></a> - IT security Expert.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://scotthelme.co.uk/"><b>Scott Helme</b></a> - Security Researcher, international speaker and founder of securityheaders.com and report-uri.com.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/binitamshah"><b>Binni Shah</b></a> - Linux Evangelist. Malwares. Kernel Dev. Security Enthusiast.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://security.szurek.pl/"><b>Kacper Szurek</b></a> - Detection Engineer at ESET.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.troyhunt.com/"><b>Troy Hunt</b></a> -  Microsoft Regional Director and Microsoft Most Valuable Professional for Developer Security.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://linux-audit.com/"><b>Linux Audit</b></a> - the Linux security blog about Auditing, Hardening and Compliance by Michael Boelen.<br>
