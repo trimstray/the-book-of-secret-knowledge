@@ -641,7 +641,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="org"><b>DNS Privacy Server</b></a> - running your own DoT or DoH server this page provides some ideas.<br>
 </p>
 
-###### Browser extensions
+###### TOP 10 Browser extensions
 
 | <b><u>Extension name</u></b> | <b><u>Description</u></b> |
 | :---         | :---         |
@@ -650,6 +650,11 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 | **`HTTPS Everywhere`** | Automatically use HTTPS security on many sites. |
 | **`uMatrix`** | Point & click to forbid/allow any class of requests made by your browser. |
 | **`uBlock Origin`** | An efficient blocker: easy on memory and CPU footprint. |
+| **`Session Buddy`** | Manage browser tabs and bookmarks with ease. |
+| **`SuperSorter`** | Sort bookmarks recursively, delete duplicates, merge folders and more. |
+| **`Clear Cache`** | Clear your cache and browsing data. |
+| **`d3coder`** | Encoding/Decoding plugin for various types of encoding. |
+| **`Web Developer`** | Adds a toolbar button with various web developer tools. |
 
 ###### TOP 12 Burp extensions
 
@@ -662,7 +667,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 | **`JSON Beautifier`** | Beautifies JSON content in the HTTP message viewer. |
 | **`JSON Web Tokens`** | Enables Burp to decode and manipulate JSON web tokens. |
 | **`CSP Auditor`** | Displays CSP headers for responses, and passively reports CSP weaknesses. |
-| **`CSP-Bypass`** | Passively scans for CSP headers that contain known bypasses or other potential weaknesses. |
+| **`CSP-Bypass`** | Passively scans for CSP headers that contain known bypasses.. |
 | **`Hackvertor`** | Converts data using a tag-based configuration to apply various encoding. |
 | **`Active Scan++`** | Extends Burp's active and passive scanning capabilities. |
 | **`HTML5 Auditor`** | Scans for usage of risky HTML5 features. |
