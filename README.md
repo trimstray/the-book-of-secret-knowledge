@@ -82,6 +82,13 @@ Before add pull request please see **[this](https://github.com/trimstray/the-boo
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dennishafemann/tmux-cssh"><b>tmux-cssh</b></a> - sets a comfortable and easy to use functionality, clustering and synchronizing virtual tmux-sessions.<br>
 </p>
 
+##### :black_small_square: Terminal emulators
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Guake/guake"><b>Guake</b></a> - is a dropdown terminal made for the GNOME desktop environment.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://gnometerminator.blogspot.com/p/introduction.html"><b>Terminator</b></a> - is based on GNOME Terminal, useful features for sysadmins and other users.<br>
+</p>
+
 ##### :black_small_square: Network
 
 <p>
