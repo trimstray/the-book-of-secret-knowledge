@@ -484,6 +484,14 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://nginx.org/"><b>Nginx</b></a> - open source web and reverse proxy server that is similar to Apache, but very light weight.<br>
 </p>
 
+##### :black_small_square: Secure WebMail Providers
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://countermail.com/"><b>CounterMail</b></a> - is a secure and easy to use online email service, designed to provide maximum security and privacy.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://mail2tor.com/"><b>Mail2Tor</b></a> - is a Tor Hidden Service that allows anyone to send and receive emails anonymously.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://protonmail.com/"><b>Protonmail</b></a> - is the world's largest secure email service, developed by CERN and MIT scientists.<br>
+</p>
+
 ##### :black_small_square: Security/hardening
 
 <p>
