@@ -274,6 +274,7 @@ Before add pull request please see **[this](https://github.com/trimstray/the-boo
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://ptrarchive.com/"><b>PTRarchive.com</b></a> - this site is responsible for the safekeeping of historical reverse DNS records.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://xip.io/"><b>xip.ip</b></a> - wildcard DNS for everyone.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://intodns.com"><b>INTO DNS</b></a> - DNS and mail server health checker.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://leafdns.com"><b>Leaf DNS</b></a> - Comprehensive DNS tester.<br>
 
 </p>
 
