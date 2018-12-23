@@ -273,6 +273,11 @@ Before add pull request please see **[this](https://github.com/trimstray/the-boo
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://dnstable.com/"><b>DNS Table online</b></a> - search for DNS records by domain, IP, CIDR, ISP.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://ptrarchive.com/"><b>PTRarchive.com</b></a> - this site is responsible for the safekeeping of historical reverse DNS records.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://xip.io/"><b>xip.ip</b></a> - wildcard DNS for everyone.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://intodns.com/"><b>intoDNS</b></a> - DNS and mail server health checker.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://leafdns.com/"><b>Leaf DNS</b></a> - comprehensive DNS tester.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://ceipam.eu/en/dnslookup.php"><b>dnslookup (ceipam)</b></a> - one of the best DNS propagation checker (and not only).<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://whatsmydns.com"><b>What's My DNS</b></a> - DNS propagation checking Tool.<br>
+
 </p>
 
 ##### :black_small_square: Mail
@@ -281,6 +286,7 @@ Before add pull request please see **[this](https://github.com/trimstray/the-boo
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://mxtoolbox.com/SuperTool.aspx"><b>MX Toolbox</b></a> - all of your MX record, DNS, blacklist and SMTP diagnostics in one integrated tool.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.blacklistalert.org/"><b>blacklistalert</b></a> - checks to see if your domain is on a Real Time Spam Blacklist.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://multirbl.valli.org/"><b>MultiRBL</b></a> - complete IP check for sending Mailservers.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://dkimvalidator.com/"><b>DKIM SPF & Spam Assassin Validator</b></a> - checks mail authentication and scores messages with Spam Assassin.<br>
 </p>
 
 ##### :black_small_square: Net-tools
