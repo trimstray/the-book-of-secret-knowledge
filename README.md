@@ -1627,6 +1627,12 @@ function _scg() {
 }
 ```
 
+###### SSH login without processing any login scripts
+
+```bash
+ssh -tt user@host bash
+```
+
 ___
 
 ##### Tool: [linux-dev](https://www.tldp.org/LDP/abs/html/devref1.html)
