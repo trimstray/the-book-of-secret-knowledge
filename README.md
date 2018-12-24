@@ -1627,7 +1627,7 @@ function _scg() {
 }
 ```
 
-###### SSH login without processing any login scripts
+###### SSH login without processing any login scripts 
 
 ```bash
 ssh -tt user@host bash
