@@ -387,6 +387,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.tecmint.com/"><b>TecMint</b></a> - the ideal Linux blog for Sysadmins & Geeks.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.omnisecu.com/"><b>Omnisecu</b></a> - Free Networking, System Administration and Security Tutorials.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://cb.vu/unixtoolbox.xhtml"><b>Unix Toolbox</b></a> - collection of Unix/Linux/BSD commands and tasks which are useful for IT work or for advanced users.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/bagder/http2-explained"><b>http2-explained</b></a> - a detailed document explaining and documenting HTTP/2.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/bagder/http3-explained"><b>http3-explained</b></a> - a document describing the HTTP/3 and QUIC protocols.<br>
 </p>
 
