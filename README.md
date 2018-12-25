@@ -1289,8 +1289,9 @@ openssl s_client -cipher 'AES128-SHA' -connect google.com:443
 ###### Generate private key
 
 ```bash
-# _ciph: des3, aes
-( _ciph="des3" ; _fd="private.key" ; _len="2048" ; \
+# _ciph: des3, aes128, aes256
+# _len: 2048, 4096
+( _ciph="aes128" ; _fd="private.key" ; _len="4096" ; \
 openssl genrsa -${_ciph} -out ${_fd} ${_len} )
 ```
 
@@ -1311,7 +1312,7 @@ openssl rsa -pubout -in ${_fd} -out ${_fd_pub} )
 ###### Generate private key + csr
 
 ```bash
-( _fd="private.key" ; _fd_csr="request.csr" ; _len="2048" ; \
+( _fd="private.key" ; _fd_csr="request.csr" ; _len="4096" ; \
 openssl req -out ${_fd_csr} -new -newkey rsa:${_len} -nodes -keyout ${_fd} )
 ```
 
