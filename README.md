@@ -1227,6 +1227,12 @@ ___
 who -b
 ```
 
+###### Detect a user sudo-su'd into the current shell
+
+```
+[[ $(who -m | awk '{ print $1 }') == $(whoami) ]] || echo "You are su-ed to $(whoami)"
+```
+
 ___
 
 ##### Tool: [screen](https://en.wikipedia.org/wiki/GNU_Screen)
