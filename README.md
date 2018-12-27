@@ -743,6 +743,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
   * [tr](#tool-tr)
   * [chmod](#tool-chmod)
   * [who](#tool-who)
+  * [last](#tool-last)
   * [screen](#tool-screen)
   * [du](#tool-du)
   * [inotifywait](#tool-inotifywait)
@@ -1241,6 +1242,16 @@ who -b
 
 ```bash
 [[ $(who -m | awk '{ print $1 }') == $(whoami) ]] || echo "You are su-ed to $(whoami)"
+```
+
+___
+
+##### Tool: [last]
+
+###### Was the last reboot a panic?
+
+```bash
+(last -x -f $(ls -1t /var/log/wtmp* | head -2 | tail -1);last -x -f /var/log/wtmp) | grep -A1 reboot | head -2 | grep -q shutdown && echo "clean reboot" || echo "panic reboot"
 ```
 
 ___
