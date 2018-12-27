@@ -153,7 +153,7 @@ Before add pull request please see **[this](https://github.com/trimstray/the-boo
 ##### :black_small_square: Auditing Tools
 
 <p>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://cisofy.com/lynis/"><b>lynis</b></a> - battle-tested security tool for systems running Linux, macOS, or Unix-based operating system.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://cisofy.com/lynis/"><b>Lynis</b></a> - battle-tested security tool for systems running Linux, macOS, or Unix-based operating system.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rebootuser/LinEnum"><b>LinEnum</b></a> - scripted Local Linux Enumeration & Privilege Escalation Checks.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/installation/rkhunter"><b>Rkhunter</b></a> - scanner tool for Linux systems that scans backdoors, rootkits and local exploits on your systems.<br>
 </p>
