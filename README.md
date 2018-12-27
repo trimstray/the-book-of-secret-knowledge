@@ -1247,7 +1247,7 @@ who -b
 
 ___
 
-##### Tool: [last]
+##### Tool: [last](https://www.howtoforge.com/linux-last-command/)
 
 ###### Was the last reboot a panic?
 
