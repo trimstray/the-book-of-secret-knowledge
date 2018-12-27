@@ -94,6 +94,7 @@ Before add pull request please see **[this](https://github.com/trimstray/the-boo
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://nmap.org/"><b>nmap</b></a> - free and open source (license) utility for network discovery and security auditing.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/robertdavidgraham/masscan"><b>masscan</b></a> - the fastest Internet port scanner, spews SYN packets asynchronously.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/gvb84/pbscan"><b>pbscan</b></a> - faster and more efficient stateless SYN scanner and banner grabber.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.hping.org/"><b>hping</b></a> - command-line oriented TCP/IP packet assembler/analyzer.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/traviscross/mtr"><b>mtr</b></a> - functionality of the 'traceroute' and 'ping' programs in a single network diagnostic tool.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://netcat.sourceforge.net/"><b>netcat</b></a> - networking utility which reads and writes data across network connections, using the TCP/IP protocol.<br>
@@ -245,6 +246,15 @@ Before add pull request please see **[this](https://github.com/trimstray/the-boo
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://ccadb.org/resources"><b>Common CA Database</b></a> - repository of information about CAs, and their root and intermediate certificates.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://certstream.calidog.io/"><b>CERTSTREAM</b></a> - real-time certificate transparency log update stream.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://crt.sh/"><b>crt.sh</b></a> - discovers certificates by continually monitoring all of the publicly known CT.<br>
+</p>
+
+##### :black_small_square: Browsers
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://caniuse.com/#home"><b>Can I use</b></a> - provides up-to-date browser support tables for support of front-end web technologies.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://panopticlick.eff.org/"><b>Panopticlick 3.0</b></a> - is your browser safe against tracking?<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://privacy.net/analyzer/"><b>Privacy Analyzer</b></a> - see what data is exposed from your browser.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://browserleaks.com/"><b>Web Browser Security</b></a> -  it's all about Web Browser fingerprinting.<br>
 </p>
 
 ##### :black_small_square: Privacy
