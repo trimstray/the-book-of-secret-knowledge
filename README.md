@@ -374,6 +374,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.exploit-db.com/"><b>Exploit DB</b></a> - CVE compliant archive of public exploits and corresponding vulnerable software.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://0day.today/"><b>0day.today</b></a> - exploits market provides you the possibility to buy zero-day exploits and also to sell 0day exploits.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://sploitus.com/"><b>sploitus</b></a> - the exploit and tools database.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://cxsecurity.com/exploit/"><b>cxsecurity</b></a> - free vulnerability database.<br>
 </p>
 
 #### Manuals/Howtos/Tutorials
@@ -384,6 +385,12 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dylanaraps/pure-bash-bible"><b>pure-bash-bible</b></a> - a collection of pure bash alternatives to external processes.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://wiki.bash-hackers.org/start"><b>The Bash Hackers Wiki</b></a> - hold documentation of any kind about GNU Bash.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://pubs.opengroup.org/onlinepubs/9699919799/utilities/contents.html"><b>Shell & Utilities</b></a> - describes the commands and utilities offered to application programs by POSIX-conformant systems.<br>
+</p>
+
+##### :black_small_square: Python
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://awesome-python.com/"><b>Awesome Python</b></a> - A curated list of awesome Python frameworks, libraries, software and resources.<br>
 </p>
 
 ##### :black_small_square: Sed & Awk & Other
@@ -507,6 +514,12 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://protonmail.com/"><b>Protonmail</b></a> - is the world's largest secure email service, developed by CERN and MIT scientists.<br>
 </p>
 
+##### :black_small_square: Crypto
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://keybase.io/"><b>Keybase</b></a> - it's open source and powered by public-key cryptography.<br>
+</p>
+
 ##### :black_small_square: PGP Keyservers
 
 <p>
@@ -542,6 +555,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/kahun/awesome-sysadmin"><b>Awesome Sysadmin</b></a> - amazingly awesome open source sysadmin resources.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/alebcay/awesome-shell"><b>Awesome Shell</b></a> - awesome command-line frameworks, toolkits, guides and gizmos.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/k4m4/movies-for-hackers"><b>Movies for Hackers</b></a> - list of movies every hacker & cyberpunk must watch.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Kickball/awesome-selfhosted"><b>Awesome-Selfhosted</b></a> - list of Free Software network services and web applications which can be hosted locally.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/caesar0301/awesome-pcaptools"><b>Awesome Pcaptools</b></a> - collection of tools developed by other researchers to process network traces.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/leandromoreira/linux-network-performance-parameters"><b>Linux Network Performance</b></a> - learn where some of the network sysctl variables fit into the Linux/Kernel network flow.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/binhnguyennus/awesome-scalability"><b>Awesome Scalability</b></a> - best practices in building High Scalability, High Availability, High Stability and more.<br>
@@ -567,6 +581,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/bl4de/security-tools"><b>security-tools</b></a> - collection of small security tools created mostly in Python. CTFs, pentests and so on.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/fuzzdb-project/fuzzdb"><b>fuzzdb</b></a> - dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hex-rays.com/products/ida/index.shtml"><b>IDA</b></a> - multi-processor disassembler and debugger useful for reverse engineering malware.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/longld/peda"><b>GDB PEDA</b></a> - Python Exploit Development Assistance for GDB.<br>
 </p>
 
 ##### :black_small_square: Pentests bookmarks collection
@@ -641,6 +656,8 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://ringzer0ctf.com/"><b>RingZer0</b></a> - tons of challenges designed to test and improve your hacking skills.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.ubeeri.com/preconfig-labs"><b>Ubeeri</b></a> - preconfigured lab environments.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://lab.pentestit.ru/"><b>Pentestit</b></a> - emulate an IT infrastructure of real companies for a legal pen testing and improving penetration testing skills.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://microcorruption.com/"><b>Microcorruption</b></a> - reversal challenges done in the web interface.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://crackmes.one/"><b>Crackmes</b></a> - download crackmes to help improve your reverse engineering skills.<br>
 </p>
 
 #### Your daily knowledge and news
