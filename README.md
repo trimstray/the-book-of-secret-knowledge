@@ -393,6 +393,12 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://pubs.opengroup.org/onlinepubs/9699919799/utilities/contents.html"><b>Shell & Utilities</b></a> - describes the commands and utilities offered to application programs by POSIX-conformant systems.<br>
 </p>
 
+##### :black_small_square: Python
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://awesome-python.com/"><b>Awesome Python</b></a> - A curated list of awesome Python frameworks, libraries, software and resources.<br>
+</p>
+
 ##### :black_small_square: Sed & Awk & Other
 
 <p>
