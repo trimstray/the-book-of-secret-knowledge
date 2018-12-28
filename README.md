@@ -566,6 +566,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/zardus/ctf-tools"><b>ctf-tools</b></a> - some setup scripts for security research tools.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/bl4de/security-tools"><b>security-tools</b></a> - collection of small security tools created mostly in Python. CTFs, pentests and so on.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/fuzzdb-project/fuzzdb"><b>fuzzdb</b></a> - dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hex-rays.com/products/ida/index.shtml"><b>IDA</b></a> - multi-processor disassembler and debugger useful for reverse engineering malware.<br>
 </p>
 
 ##### :black_small_square: Pentests bookmarks collection
