@@ -300,6 +300,12 @@ Before add pull request please see **[this](https://github.com/trimstray/the-boo
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://dkimvalidator.com/"><b>DKIM SPF & Spam Assassin Validator</b></a> - checks mail authentication and scores messages with Spam Assassin.<br>
 </p>
 
+##### :black_small_square: Crypto
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://keybase.io/"><b>Keybase</b></a> - it's open source and powered by public-key cryptography.<br>
+</p>
+
 ##### :black_small_square: Net-tools
 
 <p>
