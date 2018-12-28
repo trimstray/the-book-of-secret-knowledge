@@ -312,6 +312,7 @@ Before add pull request please see **[this](https://github.com/trimstray/the-boo
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://network-tools.com/"><b>Network-Tools</b></a> - network tools for webmasters, IT technicians & geeks.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.url-encode-decode.com/"><b>URL Encode/Decode</b></a> - tool from above to either encode or decode a string of text.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://uncoder.io/"><b>Uncoder</b></a> - the online translator for search queries on log data.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://regex101.com/"><b>Regex101</b></a> - online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://regexr.com/"><b>RegExr</b></a> - online tool to learn, build, & test Regular Expressions (RegEx / RegExp).<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hardenize.com/"><b>Hardenize</b></a> - deploy the security standards.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.virustotal.com/#/home/upload"><b>VirusTotal</b></a> - analyze suspicious files and URLs to detect types of malware.<br>
@@ -323,6 +324,7 @@ Before add pull request please see **[this](https://github.com/trimstray/the-boo
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.shellcheck.net/"><b>ShellCheck</b></a> - finds bugs in your shell scripts.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://explainshell.com/"><b>explainshell</b></a> - get interactive help texts for shell commands.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://jsbin.com/?html,output"><b>jsbin</b></a> - live pastebin for HTML, CSS & JavaScript and more.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://codepen.io/pen"><b>CodePen</b></a> - is a social development environment for front-end designers and developers.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://sandbox.onlinephpfunctions.com/"><b>PHP Sandbox</b></a> - test your PHP code with this code tester.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.repl.it/"><b>Repl.it</b></a> - an instant IDE to learn, build, collaborate, and host all in one place.<br>
 </p>
@@ -334,7 +336,9 @@ Before add pull request please see **[this](https://github.com/trimstray/the-boo
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://performance.sucuri.net/"><b>Sucuri loadtimetester</b></a> - test here the
 performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://tools.pingdom.com/"><b>Pingdom Tools</b></a> - analyze your site’s speed around the world.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://pingme.io/"><b>PingMe.io</b></a> - run website latency tests across multiple geographic regions.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://developers.google.com/speed/pagespeed/insights/"><b>PageSpeed Insights</b></a> - analyze your site’s speed and make it faster.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://developers.google.com/web/tools/lighthouse/"><b>Google Lighthouse Tool</b></a> - analyzes web apps and web pages, collecting modern performance metrics and insights on developer best practices.<br>
 </p>
 
 ##### :black_small_square: Mass scanners (search engines)
