@@ -338,7 +338,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://tools.pingdom.com/"><b>Pingdom Tools</b></a> - analyze your site’s speed around the world.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://pingme.io/"><b>PingMe.io</b></a> - run website latency tests across multiple geographic regions.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://developers.google.com/speed/pagespeed/insights/"><b>PageSpeed Insights</b></a> - analyze your site’s speed and make it faster.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://developers.google.com/web/tools/lighthouse/"><b>Google Lighthouse Tool</b></a> - analyzes web apps and web pages, collecting modern performance metrics and insights on developer best practices.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://web.dev/"><b>web.dev</b></a> - helps developers like you learn and apply the web's modern capabilities to your own sites and apps.<br>
 </p>
 
 ##### :black_small_square: Mass scanners (search engines)
