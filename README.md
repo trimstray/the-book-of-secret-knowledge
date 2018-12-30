@@ -324,7 +324,8 @@ Before add pull request please see **[this](https://github.com/trimstray/the-boo
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.shellcheck.net/"><b>ShellCheck</b></a> - finds bugs in your shell scripts.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://explainshell.com/"><b>explainshell</b></a> - get interactive help texts for shell commands.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://jsbin.com/?html,output"><b>jsbin</b></a> - live pastebin for HTML, CSS & JavaScript and more.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://codepen.io/pen"><b>CodePen</b></a> - is a social development environment for front-end designers and developers.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://codepen.io/pen"><b>CodePen</b></a> - a social development environment for front-end designers and developers.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://codesandbox.io/"><b>CodeSandbox</b></a> - online code editor for web application development. Supports React, Vue, Angular, CxJS, Dojo, etc.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://sandbox.onlinephpfunctions.com/"><b>PHP Sandbox</b></a> - test your PHP code with this code tester.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.repl.it/"><b>Repl.it</b></a> - an instant IDE to learn, build, collaborate, and host all in one place.<br>
 </p>
@@ -346,8 +347,8 @@ performance of any of your sites from across the globe.<br>
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://censys.io/"><b>Censys</b></a> - platform that helps information security practitioners discover, monitor, and analyze devices.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.shodan.io/"><b>Shodan</b></a> - the world's first search engine for Internet-connected devices.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://2000.shodan.io/#/"><b>Shodan 2000</b></a> - if you use Shodan for everyday work, be sure to see it - looks for randomly generated data from Shodan.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://viz.greynoise.io/table"><b>GreyNoise</b></a> - mass scanner (such as Shodan and Censys).<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://2000.shodan.io/#/"><b>Shodan 2000</b></a> - do you use Shodan for everyday work? This tool looks for randomly generated data from Shodan.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://viz.greynoise.io/table"><b>GreyNoise</b></a> - mass scanner such as Shodan and Censys.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.zoomeye.org/"><b>ZoomEye</b></a> - search engine for cyberspace that lets the user find specific network components.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://fofa.so/"><b>FOFA</b></a> - is a cyberspace search engine.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.onyphe.io/"><b>onyphe</b></a> - is a search engine for open-source and cyber threat intelligence data collected.<br>
@@ -663,7 +664,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://pentesterlab.com/"><b>PentesterLab</b></a> - provides vulnerable systems that can be used to test and understand vulnerabilities.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://ringzer0ctf.com/"><b>RingZer0</b></a> - tons of challenges designed to test and improve your hacking skills.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.ubeeri.com/preconfig-labs"><b>Ubeeri</b></a> - preconfigured lab environments.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://lab.pentestit.ru/"><b>Pentestit</b></a> - emulate an IT infrastructure of real companies for a legal pen testing and improving penetration testing skills.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://lab.pentestit.ru/"><b>Pentestit</b></a> - emulate IT infrastructures of real companies for legal pen testing and improving penetration testing skills.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://microcorruption.com/"><b>Microcorruption</b></a> - reversal challenges done in the web interface.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://crackmes.one/"><b>Crackmes</b></a> - download crackmes to help improve your reverse engineering skills.<br>
 </p>
