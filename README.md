@@ -686,7 +686,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://blog.qualys.com/"><b>Qualys Blog</b></a> - expert network security guidance and news.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.darkreading.com/"><b>DARKReading</b></a> - connecting the Information Security Community.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/disclosedh1"><b>publiclyDisclosed</b></a> - public disclosure watcher who keeps you up to date about the recently disclosed bugs.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://packetstormsecurity.com/"><b>Packet Storm</b></a> - information security services, news, files, tools, exploits, aAdvisories and whitepapers.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://packetstormsecurity.com/"><b>Packet Storm</b></a> - information security services, news, files, tools, exploits, advisories and whitepapers.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://sekurak.pl/"><b>Sekurak</b></a> - about security, penetration tests, vulnerabilities and many others (PL/EN).<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://nfsec.pl/"><b>nf.sec</b></a> - basic aspects and mechanisms of Linux operating system security (PL).<br>
 </p>
