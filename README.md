@@ -61,7 +61,24 @@ Before add pull request please see **[this](https://github.com/trimstray/the-boo
 - [ ] Add one-liners for collection tools (eg. CLI Tools)
 - [ ] Generate book pdf format
 
-## :anger: &nbsp;The Book of Secret Knowledge (Chapters)
+## :anger: &nbsp;Table Of Content
+
+Only main chapters:
+
+- **[CLI Tools](https://github.com/trimstray/the-book-of-secret-knowledge#cli-tools)**
+- **[GUI Tools](https://github.com/trimstray/the-book-of-secret-knowledge#gui-tools)**
+- **[Web Tools](https://github.com/trimstray/the-book-of-secret-knowledge#web-tools)**
+- **[Manuals/Howtos/Tutorials](https://github.com/trimstray/the-book-of-secret-knowledge#manualshowtostutorials)**
+- **[Blogs](https://github.com/trimstray/the-book-of-secret-knowledge#blogs)**
+- **[Systems/Services](https://github.com/trimstray/the-book-of-secret-knowledge#systemsservices)**
+- **[Networks](https://github.com/trimstray/the-book-of-secret-knowledge#networks)**
+- **[Awesome Lists](https://github.com/trimstray/the-book-of-secret-knowledge#awesome-lists)**
+- **[Hacking/Penetration Testing](https://github.com/trimstray/the-book-of-secret-knowledge#hackingpenetration-testing)**
+- **[Your daily knowledge and news](https://github.com/trimstray/the-book-of-secret-knowledge#your-daily-knowledge-and-news)**
+- **[Other Cheat Sheets](https://github.com/trimstray/the-book-of-secret-knowledge#other-cheat-sheets)**
+- **[One-liners](https://github.com/trimstray/the-book-of-secret-knowledge#one-liners)**
+
+## :large_orange_diamond: &nbsp;The Book of Secret Knowledge (Chapters)
 
 #### CLI Tools
 
