@@ -633,6 +633,13 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://shell-storm.org/repo/CTF/"><b>shell-storm repo CTF</b></a> - great archive of CTFs.<br>
 </p>
 
+##### :black_small_square: Reverse Engineering Tools
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hopperapp.com/"><b>Hopper</b></a> - lets you disassemble, decompile and debug applications.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hex-rays.com/products/ida/"><b>IDA Pro</b></a> - generates assembly language source code from machine-executable code.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/radare/radare2"><b>radare2</b></a> - framework for reverse-engineering and analyzing binaries.<br>
+</p>
+
 ##### :black_small_square: Bounty programs
 
 <p>
