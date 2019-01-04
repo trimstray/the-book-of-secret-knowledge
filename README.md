@@ -229,6 +229,15 @@ Before add pull request please see **[this](https://github.com/trimstray/the-boo
 
 #### Web Tools
 
+##### :black_small_square: Browsers
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://caniuse.com/#home"><b>Can I use</b></a> - provides up-to-date browser support tables for support of front-end web technologies.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://panopticlick.eff.org/"><b>Panopticlick 3.0</b></a> - is your browser safe against tracking?<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://privacy.net/analyzer/"><b>Privacy Analyzer</b></a> - see what data is exposed from your browser.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://browserleaks.com/"><b>Web Browser Security</b></a> -  it's all about Web Browser fingerprinting.<br>
+</p>
+
 ##### :black_small_square: SSL/Security
 
 <p>
@@ -249,28 +258,13 @@ Before add pull request please see **[this](https://github.com/trimstray/the-boo
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://crt.sh/"><b>crt.sh</b></a> - discovers certificates by continually monitoring all of the publicly known CT.<br>
 </p>
 
-##### :black_small_square: Browsers
-
-<p>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://caniuse.com/#home"><b>Can I use</b></a> - provides up-to-date browser support tables for support of front-end web technologies.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://panopticlick.eff.org/"><b>Panopticlick 3.0</b></a> - is your browser safe against tracking?<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://privacy.net/analyzer/"><b>Privacy Analyzer</b></a> - see what data is exposed from your browser.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://browserleaks.com/"><b>Web Browser Security</b></a> -  it's all about Web Browser fingerprinting.<br>
-</p>
-
-##### :black_small_square: Privacy
-
-<p>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.privacytools.io/"><b>privacytools.io</b></a> - provides knowledge and tools to protect your privacy against global mass surveillance.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://dnsprivacy.org/wiki/display/DP/DNS+Privacy+Test+Servers"><b>DNS Privacy Test Servers</b></a> - DNS privacy recursive servers list (with a 'no logging' policy).<br>
-</p>
-
-##### :black_small_square: HTTP Headers
+##### :black_small_square: HTTP Headers & Web Linters
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://securityheaders.com/"><b>Security Headers</b></a> - analyse the HTTP response headers (with rating system to the results).<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://observatory.mozilla.org/"><b>Observatory by Mozilla</b></a> - set of tools to analyze your website.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://enable-cors.org/index.html"><b>Enable CORS</b></a> - enable cross-origin resource sharing.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://webhint.io/"><b>webhint</b></a> - is a linting tool that will help you with your site's accessibility, speed, security and more.<br>
 </p>
 
 ##### :black_small_square: DNS
@@ -316,6 +310,13 @@ Before add pull request please see **[this](https://github.com/trimstray/the-boo
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://regexr.com/"><b>RegExr</b></a> - online tool to learn, build, & test Regular Expressions (RegEx / RegExp).<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hardenize.com/"><b>Hardenize</b></a> - deploy the security standards.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.virustotal.com/#/home/upload"><b>VirusTotal</b></a> - analyze suspicious files and URLs to detect types of malware.<br>
+</p>
+
+##### :black_small_square: Privacy
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.privacytools.io/"><b>privacytools.io</b></a> - provides knowledge and tools to protect your privacy against global mass surveillance.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://dnsprivacy.org/wiki/display/DP/DNS+Privacy+Test+Servers"><b>DNS Privacy Test Servers</b></a> - DNS privacy recursive servers list (with a 'no logging' policy).<br>
 </p>
 
 ##### :black_small_square: Code parsers/playgrounds
