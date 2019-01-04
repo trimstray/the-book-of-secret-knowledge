@@ -2222,6 +2222,12 @@ awk '!x[$0]++' filename
 awk '{$1=$3=""}1' filename
 ```
 
+###### Get the last hour of Apache logs
+
+```bash
+awk '/'$(date -d "1 hours ago" "+%d\\/%b\\/%Y:%H:%M")'/,/'$(date "+%d\\/%b\\/%Y:%H:%M")'/ { print $0 }' /var/log/httpd/access_log
+```
+
 ___
 
 ##### Tool: [sed](http://www.grymoire.com/Unix/Sed.html)
