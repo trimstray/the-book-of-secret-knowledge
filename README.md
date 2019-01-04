@@ -383,6 +383,12 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://cxsecurity.com/exploit/"><b>cxsecurity</b></a> - free vulnerability database.<br>
 </p>
 
+##### :black_small_square: Mobile Apps
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.htbridge.com/mobile/"><b>ImmuniWeb® Mobile App Scanner</b></a> - test security and privacy of mobile apps (iOS & Android).<br>
+</p>
+
 #### Manuals/Howtos/Tutorials
 
 ##### :black_small_square: Bash
@@ -596,7 +602,6 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/bl4de/security-tools"><b>security-tools</b></a> - collection of small security tools created mostly in Python. CTFs, pentests and so on.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/fuzzdb-project/fuzzdb"><b>fuzzdb</b></a> - dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/longld/peda"><b>GDB PEDA</b></a> - Python Exploit Development Assistance for GDB.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.htbridge.com/mobile/"><b>ImmuniWeb® Mobile App Scanner</b></a> - Test security and privacy of mobile apps (iOS & Android).<br>
 </p>
 
 ##### :black_small_square: Pentests bookmarks collection
