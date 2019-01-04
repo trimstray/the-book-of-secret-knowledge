@@ -694,17 +694,6 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 
 #### Other Cheat Sheets
 
-###### DNS Servers list (privacy)
-
-| <b><u>IP</u></b> | <b><u>URL</u></b> |
-| :---         | :---         |
-| **`84.200.69.80`** | [dns.watch](https://dns.watch/) |
-| **`94.247.43.254`** | [opennic.org](https://www.opennic.org/) |
-| **`64.6.64.6`** | [verisign.com](https://www.verisign.com/en_US/security-services/public-dns/index.xhtml) |
-| **`89.233.43.71`** | [censurfridns.dk](https://blog.uncensoreddns.org/) |
-| **`1.1.1.1`** | [cloudflare.com](https://www.cloudflare.com/dns/) |
-| **`94.130.110.185`** | [dnsprivacy.at](https://dnsprivacy.at/) |
-
 ###### Build your own DNS Servers
 
 <p>
@@ -720,6 +709,24 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://jamielinux.com/docs/openssl-certificate-authority/"><b>OpenSSL Certificate Authority</b></a> - build your own certificate authority (CA) using the OpenSSL command-line tools.<br>
 </p>
+
+###### Build your own System/Virtual Machine
+
+<p>
+  &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/cfenollosa/os-tutorial"><b>os-tutorial</b></a> - how to create an OS from scratch.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://justinmeiners.github.io/lc3-vm/"><b>Write your Own Virtual Machine</b></a> - how to write your own virtual machine (VM).<br>
+</p>
+
+###### DNS Servers list (privacy)
+
+| <b><u>IP</u></b> | <b><u>URL</u></b> |
+| :---         | :---         |
+| **`84.200.69.80`** | [dns.watch](https://dns.watch/) |
+| **`94.247.43.254`** | [opennic.org](https://www.opennic.org/) |
+| **`64.6.64.6`** | [verisign.com](https://www.verisign.com/en_US/security-services/public-dns/index.xhtml) |
+| **`89.233.43.71`** | [censurfridns.dk](https://blog.uncensoreddns.org/) |
+| **`1.1.1.1`** | [cloudflare.com](https://www.cloudflare.com/dns/) |
+| **`94.130.110.185`** | [dnsprivacy.at](https://dnsprivacy.at/) |
 
 ###### TOP 10 Browser extensions
 
