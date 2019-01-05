@@ -80,7 +80,7 @@ Only main chapters:
 
 ## :trident: &nbsp;The Book of Secret Knowledge (Chapters)
 
-#### CLI Tools
+#### CLI Tools &nbsp;[<sup>TOC</sup>](#anger-table-of-contents)
 
 ##### :black_small_square: Shells
 
@@ -223,7 +223,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/tldr-pages/tldr"><b>tldr</b></a> - simplified and community-driven man pages.<br>
 </p>
 
-#### GUI Tools
+#### GUI Tools &nbsp;[<sup>TOC</sup>](#anger-table-of-contents)
 
 ##### :black_small_square: Network
 
@@ -247,7 +247,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://atom.io/"><b>Atom</b></a> - a hackable text editor for the 21st Century.<br>
 </p>
 
-#### Web Tools
+#### Web Tools &nbsp;[<sup>TOC</sup>](#anger-table-of-contents)
 
 ##### :black_small_square: Browsers
 
@@ -410,7 +410,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.ostorlab.co/scan/mobile/"><b>Ostorlab</b></a> - analyzes mobile application to identify vulnerabilities and potential weaknesses.<br>
 </p>
 
-#### Systems/Services
+#### Systems/Services &nbsp;[<sup>TOC</sup>](#anger-table-of-contents)
 
 ##### :black_small_square: Systems
 
@@ -459,7 +459,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://vulnreport.io/"><b>Vulnreport</b></a> - open-source pentesting management and automation platform by Salesforce Product Security.<br>
 </p>
 
-#### Networks
+#### Networks &nbsp;[<sup>TOC</sup>](#anger-table-of-contents)
 
 ##### :black_small_square: Tools
 
@@ -473,7 +473,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://labs.networkreliability.engineering/"><b>NRE Labs</b></a> - learn automation by doing it. Right now, right here, in your browser.<br>
 </p>
 
-#### Manuals/Howtos/Tutorials
+#### Manuals/Howtos/Tutorials &nbsp;[<sup>TOC</sup>](#anger-table-of-contents)
 
 ##### :black_small_square: Bash
 
@@ -557,7 +557,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://ithare.com/infographics-operation-costs-in-cpu-clock-cycles/"><b>Operation Costs in CPU</b></a> - an infographics which should help to estimate costs of certain operations in CPU clocks.<br>
 </p>
 
-#### Awesome Lists
+#### Awesome Lists &nbsp;[<sup>TOC</sup>](#anger-table-of-contents)
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/kahun/awesome-sysadmin"><b>Awesome Sysadmin</b></a> - amazingly awesome open source sysadmin resources.<br>
@@ -573,7 +573,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Hack-with-Github/Free-Security-eBooks"><b>Free Security eBooks</b></a> - list of a Free Security and Hacking eBooks.<br>
 </p>
 
-#### Blogs
+#### Blogs &nbsp;[<sup>TOC</sup>](#anger-table-of-contents)
 
 ##### :black_small_square: Geeky Persons
 
@@ -606,7 +606,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://ftp.arl.army.mil/~mike/howto/"><b>How to Do Things at ARL</b></a> - how to configure modems, scan images, record CD-ROMs, and other useful techniques.<br>
 </p>
 
-#### Hacking/Penetration Testing
+#### Hacking/Penetration Testing &nbsp;[<sup>TOC</sup>](#anger-table-of-contents)
 
 ##### :black_small_square: Pentesters arsenal tools
 
@@ -708,7 +708,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://crackmes.one/"><b>Crackmes</b></a> - download crackmes to help improve your reverse engineering skills.<br>
 </p>
 
-#### Your daily knowledge and news
+#### Your daily knowledge and news &nbsp;[<sup>TOC</sup>](#anger-table-of-contents)
 
 ##### :black_small_square: RSS Readers
 
@@ -729,7 +729,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://nfsec.pl/"><b>nf.sec</b></a> - basic aspects and mechanisms of Linux operating system security (PL).<br>
 </p>
 
-#### Other Cheat Sheets
+#### Other Cheat Sheets &nbsp;[<sup>TOC</sup>](#anger-table-of-contents)
 
 ###### Build your own DNS Servers
 
@@ -797,7 +797,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 | **`HTML5 Auditor`** | Scans for usage of risky HTML5 features. |
 | **`Software Vulnerability Scanner`** | Software vulnerability scanner based on Vulners.com audit API. |
 
-#### One-liners
+#### One-liners &nbsp;[<sup>TOC</sup>](#anger-table-of-contents)
 
 ##### Table of Contents
 
