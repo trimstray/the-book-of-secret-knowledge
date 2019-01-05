@@ -183,6 +183,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://dtrace.org/blogs/about/"><b>DTrace</b></a> - is a performance analysis and troubleshooting tool.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://en.wikipedia.org/wiki/Ltrace"><b>ltrace</b></a> - is a library call tracer, used to trace calls made by programs to library functions.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/draios/sysdig"><b>sysdig</b></a> - system exploration and troubleshooting tool with first class support for containers.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://www.valgrind.org/"><b>Valgrind</b></a> - is an instrumentation framework for building dynamic analysis tools.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://nicolargo.github.io/glances/"><b>glances</b></a> - cross-platform system monitoring tool written in Python.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/hishamhm/htop"><b>htop</b></a> - interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.atoptool.nl/"><b>atop</b></a> - ASCII performance monitor. Includes statistics for CPU, memory, disk, swap, network, and processes.<br>
