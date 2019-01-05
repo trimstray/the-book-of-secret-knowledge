@@ -65,18 +65,18 @@ Before add pull request please see **[this](https://github.com/trimstray/the-boo
 
 Only main chapters:
 
-- **[CLI Tools](#cli-tools)**
-- **[GUI Tools](#gui-tools)**
-- **[Web Tools](#web-tools)**
-- **[Systems/Services](#systemsservices)**
-- **[Networks](#networks)**
-- **[Manuals/Howtos/Tutorials](#manualshowtostutorials)**
-- **[Awesome Lists](#awesome-lists)**
-- **[Blogs](#blogs)**
-- **[Hacking/Penetration Testing](#hackingpenetration-testing)**
-- **[Your daily knowledge and news](#your-daily-knowledge-and-news)**
-- **[Other Cheat Sheets](#other-cheat-sheets)**
-- **[One-liners](#one-liners)**
+- **[CLI Tools](#cli-tools-toc)**
+- **[GUI Tools](#gui-tools-toc)**
+- **[Web Tools](#web-tools-toc)**
+- **[Systems/Services](#systemsservices-toc)**
+- **[Networks](#networks-toc)**
+- **[Manuals/Howtos/Tutorials](#manualshowtostutorials-toc)**
+- **[Awesome Lists](#awesome-lists-toc)**
+- **[Blogs](#blogs-toc)**
+- **[Hacking/Penetration Testing](#hackingpenetration-testing-toc)**
+- **[Your daily knowledge and news](#your-daily-knowledge-and-news-toc)**
+- **[Other Cheat Sheets](#other-cheat-sheets-toc)**
+- **[One-liners](#one-liners-toc)**
 
 ## :trident: &nbsp;The Book of Secret Knowledge (Chapters)
 
