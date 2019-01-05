@@ -65,18 +65,18 @@ Before add pull request please see **[this](https://github.com/trimstray/the-boo
 
 Only main chapters:
 
-- **[CLI Tools](https://github.com/trimstray/the-book-of-secret-knowledge#cli-tools)**
-- **[GUI Tools](https://github.com/trimstray/the-book-of-secret-knowledge#gui-tools)**
-- **[Web Tools](https://github.com/trimstray/the-book-of-secret-knowledge#web-tools)**
-- **[Manuals/Howtos/Tutorials](https://github.com/trimstray/the-book-of-secret-knowledge#manualshowtostutorials)**
-- **[Blogs](https://github.com/trimstray/the-book-of-secret-knowledge#blogs)**
-- **[Systems/Services](https://github.com/trimstray/the-book-of-secret-knowledge#systemsservices)**
-- **[Networks](https://github.com/trimstray/the-book-of-secret-knowledge#networks)**
-- **[Awesome Lists](https://github.com/trimstray/the-book-of-secret-knowledge#awesome-lists)**
-- **[Hacking/Penetration Testing](https://github.com/trimstray/the-book-of-secret-knowledge#hackingpenetration-testing)**
-- **[Your daily knowledge and news](https://github.com/trimstray/the-book-of-secret-knowledge#your-daily-knowledge-and-news)**
-- **[Other Cheat Sheets](https://github.com/trimstray/the-book-of-secret-knowledge#other-cheat-sheets)**
-- **[One-liners](https://github.com/trimstray/the-book-of-secret-knowledge#one-liners)**
+- **[CLI Tools](#cli-tools)**
+- **[GUI Tools](#gui-tools)**
+- **[Web Tools](#web-tools)**
+- **[Manuals/Howtos/Tutorials](#manualshowtostutorials)**
+- **[Blogs](#blogs)**
+- **[Systems/Services](#systemsservices)**
+- **[Networks](#networks)**
+- **[Awesome Lists](#awesome-lists)**
+- **[Hacking/Penetration Testing](#hackingpenetration-testing)**
+- **[Your daily knowledge and news](#your-daily-knowledge-and-news)**
+- **[Other Cheat Sheets](#other-cheat-sheets)**
+- **[One-liners](#one-liners)**
 
 ## :large_orange_diamond: &nbsp;The Book of Secret Knowledge (Chapters)
 
@@ -153,7 +153,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/wg/wrk"><b>wrk</b></a> - is a modern HTTP benchmarking tool capable of generating significant load.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/codesenberg/bombardier"><b>bombardier</b></a> - fast cross-platform HTTP benchmarking tool written in Go.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/cmpxchg16/gobench"><b>gobench</b></a> - http/https load testing and benchmarking tool.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/OJ/gobuster"><b>gobuster</b></a> - free and open source directory/file & DNS busting tool written in Go<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/OJ/gobuster"><b>gobuster</b></a> - free and open source directory/file & DNS busting tool written in Go.<br>
 </p>
 
 ##### :black_small_square: SSL/Security
