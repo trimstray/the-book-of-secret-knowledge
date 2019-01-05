@@ -708,6 +708,12 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://crackmes.one/"><b>Crackmes</b></a> - download crackmes to help improve your reverse engineering skills.<br>
 </p>
 
+##### :black_small_square: Other resources
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/bugcrowd/bugcrowd_university"><b>Bugcrowd University</b></a> - open source education content for the researcher community.<br>
+</p>
+
 #### Your daily knowledge and news &nbsp;[<sup>TOC</sup>](#anger-table-of-contents)
 
 ##### :black_small_square: RSS Readers
