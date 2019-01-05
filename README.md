@@ -49,7 +49,7 @@ A few simple rules for this project:
 These below rules may be better:
 
 - easy to contribute to (Markdown + HTML ...)
-- easy to find (no TOC, maybe it's worth creating them?)
+- easy to find (simple TOC, maybe it's worth extending them?)
 
 Url marked **\*** is temporary unavailable. Please don't delete it without confirming that it has permanently expired.
 
