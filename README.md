@@ -68,17 +68,17 @@ Only main chapters:
 - **[CLI Tools](#cli-tools)**
 - **[GUI Tools](#gui-tools)**
 - **[Web Tools](#web-tools)**
-- **[Manuals/Howtos/Tutorials](#manualshowtostutorials)**
-- **[Blogs](#blogs)**
 - **[Systems/Services](#systemsservices)**
 - **[Networks](#networks)**
+- **[Manuals/Howtos/Tutorials](#manualshowtostutorials)**
 - **[Awesome Lists](#awesome-lists)**
+- **[Blogs](#blogs)**
 - **[Hacking/Penetration Testing](#hackingpenetration-testing)**
 - **[Your daily knowledge and news](#your-daily-knowledge-and-news)**
 - **[Other Cheat Sheets](#other-cheat-sheets)**
 - **[One-liners](#one-liners)**
 
-## :large_orange_diamond: &nbsp;The Book of Secret Knowledge (Chapters)
+## :trident: &nbsp;The Book of Secret Knowledge (Chapters)
 
 #### CLI Tools
 
@@ -410,6 +410,69 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.ostorlab.co/scan/mobile/"><b>Ostorlab</b></a> - analyzes mobile application to identify vulnerabilities and potential weaknesses.<br>
 </p>
 
+#### Systems/Services
+
+##### :black_small_square: Systems
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://www.slackware.com/"><b>Slackware</b></a> - the most "Unix-like" Linux distribution.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.openbsd.org/"><b>OpenBSD</b></a> - multi-platform 4.4BSD-based UNIX-like operating system.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://hardenedbsd.org/"><b>HardenedBSD</b></a> - HardenedBSD aims to implement innovative exploit mitigation and security solutions.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.kali.org/"><b>Kali Linux</b></a> - Linux distribution used for Penetration Testing, Ethical Hacking and network security assessments.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://backbox.org/"><b>Backbox Linux</b></a> - penetration test and security assessment oriented Ubuntu-based Linux distribution.<br>
+</p>
+
+##### :black_small_square: HTTP(s) Services
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://varnish-cache.org/"><b>Varnish Cache</b></a> - HTTP accelerator designed for content-heavy dynamic web sites.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://nginx.org/"><b>Nginx</b></a> - open source web and reverse proxy server that is similar to Apache, but very light weight.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.haproxy.org/"><b>HAProxy</b></a> - the reliable, high performance TCP/HTTP load balancer.<br>
+</p>
+
+##### :black_small_square: Secure WebMail Providers
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://countermail.com/"><b>CounterMail</b></a> - is a secure and easy to use online email service, designed to provide maximum security and privacy.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://mail2tor.com/"><b>Mail2Tor</b></a> - is a Tor Hidden Service that allows anyone to send and receive emails anonymously.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://protonmail.com/"><b>Protonmail</b></a> - is the world's largest secure email service, developed by CERN and MIT scientists.<br>
+</p>
+
+##### :black_small_square: Crypto
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://keybase.io/"><b>Keybase</b></a> - it's open source and powered by public-key cryptography.<br>
+</p>
+
+##### :black_small_square: PGP Keyservers
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://keyserver.ubuntu.com/"><b>SKS OpenPGP Key server</b></a> - includes a highly-efficient reconciliation algorithm for keeping the keyservers synchronized.<br>
+</p>
+
+##### :black_small_square: Security/hardening
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://emeraldonion.org/"><b>Emerald Onion</b></a> - seattle-based encrypted-transit internet service provider.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.unbound.net/"><b>Unbound</b></a> - validating, recursive, and caching DNS resolver (with TLS).<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.knot-resolver.cz/"><b>Knot Resolver</b></a> - caching full resolver implementation, including both a resolver library and a daemon.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://vulnreport.io/"><b>Vulnreport</b></a> - open-source pentesting management and automation platform by Salesforce Product Security.<br>
+</p>
+
+#### Networks
+
+##### :black_small_square: Tools
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.capanalysis.net/ca/"><b>CapAnalysis</b></a> - web visual tool to analyze large amounts of captured network traffic (PCAP analyzer).<br>
+</p>
+
+##### :black_small_square: Labs
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://labs.networkreliability.engineering/"><b>NRE Labs</b></a> - learn automation by doing it. Right now, right here, in your browser.<br>
+</p>
+
 #### Manuals/Howtos/Tutorials
 
 ##### :black_small_square: Bash
@@ -494,6 +557,22 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://ithare.com/infographics-operation-costs-in-cpu-clock-cycles/"><b>Operation Costs in CPU</b></a> - an infographics which should help to estimate costs of certain operations in CPU clocks.<br>
 </p>
 
+#### Awesome Lists
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/kahun/awesome-sysadmin"><b>Awesome Sysadmin</b></a> - amazingly awesome open source sysadmin resources.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/alebcay/awesome-shell"><b>Awesome Shell</b></a> - awesome command-line frameworks, toolkits, guides and gizmos.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/k4m4/movies-for-hackers"><b>Movies for Hackers</b></a> - list of movies every hacker & cyberpunk must watch.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Kickball/awesome-selfhosted"><b>Awesome-Selfhosted</b></a> - list of Free Software network services and web applications which can be hosted locally.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/qazbnm456/awesome-web-security"><b>Awesome Web Security</b></a> - curated list of Web Security materials and resources.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/caesar0301/awesome-pcaptools"><b>Awesome Pcaptools</b></a> - collection of tools developed by other researchers to process network traces.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/leandromoreira/linux-network-performance-parameters"><b>Linux Network Performance</b></a> - learn where some of the network sysctl variables fit into the Linux/Kernel network flow.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/binhnguyennus/awesome-scalability"><b>Awesome Scalability</b></a> - best practices in building High Scalability, High Availability, High Stability and more.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dhamaniasad/awesome-postgres"><b>Awesome Postgres</b></a> - list of awesome PostgreSQL software, libraries, tools and resources.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/learnbyexample/Command-line-text-processing"><b>Command-line-text-processing</b></a> - from finding text to search and replace, from sorting to beautifying text and more.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Hack-with-Github/Free-Security-eBooks"><b>Free Security eBooks</b></a> - list of a Free Security and Hacking eBooks.<br>
+</p>
+
 #### Blogs
 
 ##### :black_small_square: Geeky Persons
@@ -525,85 +604,6 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://ftp.arl.army.mil/~mike/howto/"><b>How to Do Things at ARL</b></a> - how to configure modems, scan images, record CD-ROMs, and other useful techniques.<br>
-</p>
-
-#### Systems/Services
-
-##### :black_small_square: Systems
-
-<p>
-&nbsp;&nbsp;:small_orange_diamond: <a href="http://www.slackware.com/"><b>Slackware</b></a> - the most "Unix-like" Linux distribution.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.openbsd.org/"><b>OpenBSD</b></a> - multi-platform 4.4BSD-based UNIX-like operating system.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://hardenedbsd.org/"><b>HardenedBSD</b></a> - HardenedBSD aims to implement innovative exploit mitigation and security solutions.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.kali.org/"><b>Kali Linux</b></a> - Linux distribution used for Penetration Testing, Ethical Hacking and network security assessments.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://backbox.org/"><b>Backbox Linux</b></a> - penetration test and security assessment oriented Ubuntu-based Linux distribution.<br>
-</p>
-
-##### :black_small_square: HTTP(s) Services
-
-<p>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://varnish-cache.org/"><b>Varnish Cache</b></a> - HTTP accelerator designed for content-heavy dynamic web sites.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://nginx.org/"><b>Nginx</b></a> - open source web and reverse proxy server that is similar to Apache, but very light weight.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.haproxy.org/"><b>HAProxy</b></a> - the reliable, high performance TCP/HTTP load balancer.<br>
-</p>
-
-##### :black_small_square: Secure WebMail Providers
-
-<p>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://countermail.com/"><b>CounterMail</b></a> - is a secure and easy to use online email service, designed to provide maximum security and privacy.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="http://mail2tor.com/"><b>Mail2Tor</b></a> - is a Tor Hidden Service that allows anyone to send and receive emails anonymously.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://protonmail.com/"><b>Protonmail</b></a> - is the world's largest secure email service, developed by CERN and MIT scientists.<br>
-</p>
-
-##### :black_small_square: Crypto
-
-<p>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://keybase.io/"><b>Keybase</b></a> - it's open source and powered by public-key cryptography.<br>
-</p>
-
-##### :black_small_square: PGP Keyservers
-
-<p>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://keyserver.ubuntu.com/"><b>SKS OpenPGP Key server</b></a> - includes a highly-efficient reconciliation algorithm for keeping the keyservers synchronized.<br>
-</p>
-
-##### :black_small_square: Security/hardening
-
-<p>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://emeraldonion.org/"><b>Emerald Onion</b></a> - seattle-based encrypted-transit internet service provider.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.unbound.net/"><b>Unbound</b></a> - validating, recursive, and caching DNS resolver (with TLS).<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.knot-resolver.cz/"><b>Knot Resolver</b></a> - caching full resolver implementation, including both a resolver library and a daemon.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="http://vulnreport.io/"><b>Vulnreport</b></a> - open-source pentesting management and automation platform by Salesforce Product Security.<br>
-</p>
-
-#### Networks
-
-##### :black_small_square: Tools
-
-<p>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.capanalysis.net/ca/"><b>CapAnalysis</b></a> - web visual tool to analyze large amounts of captured network traffic (PCAP analyzer).<br>
-</p>
-
-##### :black_small_square: Labs
-
-<p>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://labs.networkreliability.engineering/"><b>NRE Labs</b></a> - learn automation by doing it. Right now, right here, in your browser.<br>
-</p>
-
-#### Awesome Lists
-
-<p>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/kahun/awesome-sysadmin"><b>Awesome Sysadmin</b></a> - amazingly awesome open source sysadmin resources.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/alebcay/awesome-shell"><b>Awesome Shell</b></a> - awesome command-line frameworks, toolkits, guides and gizmos.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/k4m4/movies-for-hackers"><b>Movies for Hackers</b></a> - list of movies every hacker & cyberpunk must watch.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Kickball/awesome-selfhosted"><b>Awesome-Selfhosted</b></a> - list of Free Software network services and web applications which can be hosted locally.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/qazbnm456/awesome-web-security"><b>Awesome Web Security</b></a> - curated list of Web Security materials and resources.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/caesar0301/awesome-pcaptools"><b>Awesome Pcaptools</b></a> - collection of tools developed by other researchers to process network traces.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/leandromoreira/linux-network-performance-parameters"><b>Linux Network Performance</b></a> - learn where some of the network sysctl variables fit into the Linux/Kernel network flow.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/binhnguyennus/awesome-scalability"><b>Awesome Scalability</b></a> - best practices in building High Scalability, High Availability, High Stability and more.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dhamaniasad/awesome-postgres"><b>Awesome Postgres</b></a> - list of awesome PostgreSQL software, libraries, tools and resources.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/learnbyexample/Command-line-text-processing"><b>Command-line-text-processing</b></a> - from finding text to search and replace, from sorting to beautifying text and more.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Hack-with-Github/Free-Security-eBooks"><b>Free Security eBooks</b></a> - list of a Free Security and Hacking eBooks.<br>
 </p>
 
 #### Hacking/Penetration Testing
