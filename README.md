@@ -59,7 +59,6 @@ Before add pull request please see **[this](https://github.com/trimstray/the-boo
 
 - [ ] Add useful shell functions
 - [ ] Add one-liners for collection tools (eg. CLI Tools)
-- [ ] Generate book pdf format
 
 ## :anger: &nbsp;Table of Contents
 
