@@ -2321,3 +2321,12 @@ grep -v ^[[:space:]]*# filename
 ```bash
 egrep -v '#|^$' filename
 ```
+
+### Code Visualization:
+
+Here is a cool visualization of the code evolution
+
+ [![Watch the video](https://img.youtube.com/vi/a2EcQFzOxg0/0.jpg)](https://www.youtube.com/watch?v=a2EcQFzOxg0)
+
+ [https://www.youtube.com/watch?v=a2EcQFzOxg0](https://www.youtube.com/watch?v=a2EcQFzOxg0)
+
