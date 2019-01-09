@@ -526,6 +526,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://inventory.rawsec.ml/index.html"><b>Rawsec's CyberSecurity Inventory</b></a> - an inventory of tools and resources about CyberSecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://appsecwiki.com/#/"><b>Application Security Wiki</b></a> - is an initiative to provide all application security related resources at one place.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://tls.ulfheim.net/"><b>The Illustrated TLS Connection</b></a> - every byte of a TLS connection explained and reproduced.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://smallstep.com/blog/everything-pki.html"><b>Certificates and PKI</b></a> - everything you should know about certificates and PKI but are too afraid to ask.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://appsecco.com/books/subdomain-enumeration/"><b>The Art of Subdomain Enumeration</b></a> - a reference for subdomain enumeration techniques.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://lifehacker.com/the-comprehensive-guide-to-quitting-google-1830001964"><b>Quitting Google</b></a> - the comprehensive guide to quitting Google.<br>
 </p>
