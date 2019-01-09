@@ -165,6 +165,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rbsec/sslscan"><b>sslscan</b></a> - tests SSL/TLS enabled services to discover supported cipher suites.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/drwetter/testssl.sh"><b>testssl.sh</b></a> - testing TLS/SSL encryption anywhere on any port.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.tarsnap.com/spiped.html"><b>spiped</b></a> - is a utility for creating symmetrically encrypted and authenticated pipes between socket addresses.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/FiloSottile/mkcert"><b>mkcert</b></a> - simple zero-config tool to make locally trusted development certificates with any names you'd like.<br>
 </p>
 
 ##### :black_small_square: Auditing Tools
