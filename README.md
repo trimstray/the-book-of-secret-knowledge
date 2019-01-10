@@ -422,7 +422,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.ostorlab.co/scan/mobile/"><b>Ostorlab</b></a> - analyzes mobile application to identify vulnerabilities and potential weaknesses.<br>
 </p>
 
-###### The Best Private Search Engines
+###### :black_small_square: Private Search Engines
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.startpage.com/"><b>Startpage</b></a> - the world's most private search engine.<br>
@@ -450,7 +450,7 @@ performance of any of your sites from across the globe.<br>
 
 #### Systems/Services &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
 
-##### :black_small_square: Systems
+##### :black_small_square: Operating Systems
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.slackware.com/"><b>Slackware</b></a> - the most "Unix-like" Linux distribution.<br>
@@ -474,7 +474,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://emeraldonion.org/"><b>Emerald Onion</b></a> - seattle-based encrypted-transit internet service provider.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.unbound.net/"><b>Unbound</b></a> - validating, recursive, and caching DNS resolver (with TLS).<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.knot-resolver.cz/"><b>Knot Resolver</b></a> - caching full resolver implementation, including both a resolver library and a daemon.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="http://vulnreport.io/"><b>Vulnreport</b></a> - open-source pentesting management and automation platform by Salesforce Product Security.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/pi-hole/pi-hole"><b>pi-hole</b></a> - The Pi-hole® is a DNS sinkhole that protects your devices from unwanted content.<br>
 </p>
 
 #### Networks &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
@@ -644,6 +644,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/longld/peda"><b>GDB PEDA</b></a> - Python Exploit Development Assistance for GDB.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hex-rays.com/products/ida/index.shtml"><b>IDA</b></a> - multi-processor disassembler and debugger useful for reverse engineering malware.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/radare/radare2"><b>radare2</b></a> - framework for reverse-engineering and analyzing binaries.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/salesforce/vulnreport"><b>Vulnreport</b></a> - open-source pentesting management and automation platform by Salesforce Product Security.<br>
 </p>
 
 ##### :black_small_square: Pentests bookmarks collection
