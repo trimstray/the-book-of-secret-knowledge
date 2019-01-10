@@ -414,7 +414,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://cxsecurity.com/exploit/"><b>cxsecurity</b></a> - free vulnerability database.<br>
 </p>
 
-##### :black_small_square: Mobile Apps
+##### :black_small_square: Mobile apps scanners
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.htbridge.com/mobile/"><b>ImmuniWeb® Mobile App Scanner</b></a> - test security and privacy of mobile apps (iOS & Android).<br>
@@ -422,24 +422,10 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.ostorlab.co/scan/mobile/"><b>Ostorlab</b></a> - analyzes mobile application to identify vulnerabilities and potential weaknesses.<br>
 </p>
 
-#### Systems/Services &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
-
-##### :black_small_square: Systems
+###### The Best Private Search Engines
 
 <p>
-&nbsp;&nbsp;:small_orange_diamond: <a href="http://www.slackware.com/"><b>Slackware</b></a> - the most "Unix-like" Linux distribution.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.openbsd.org/"><b>OpenBSD</b></a> - multi-platform 4.4BSD-based UNIX-like operating system.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://hardenedbsd.org/"><b>HardenedBSD</b></a> - HardenedBSD aims to implement innovative exploit mitigation and security solutions.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.kali.org/"><b>Kali Linux</b></a> - Linux distribution used for Penetration Testing, Ethical Hacking and network security assessments.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://backbox.org/"><b>Backbox Linux</b></a> - penetration test and security assessment oriented Ubuntu-based Linux distribution.<br>
-</p>
-
-##### :black_small_square: HTTP(s) Services
-
-<p>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://varnish-cache.org/"><b>Varnish Cache</b></a> - HTTP accelerator designed for content-heavy dynamic web sites.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://nginx.org/"><b>Nginx</b></a> - open source web and reverse proxy server that is similar to Apache, but very light weight.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.haproxy.org/"><b>HAProxy</b></a> - the reliable, high performance TCP/HTTP load balancer.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.startpage.com/"><b>Startpage</b></a> - the world's most private search engine.<br>
 </p>
 
 ##### :black_small_square: Secure WebMail Providers
@@ -460,6 +446,26 @@ performance of any of your sites from across the globe.<br>
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://keyserver.ubuntu.com/"><b>SKS OpenPGP Key server</b></a> - includes a highly-efficient reconciliation algorithm for keeping the keyservers synchronized.<br>
+</p>
+
+#### Systems/Services &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
+
+##### :black_small_square: Systems
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://www.slackware.com/"><b>Slackware</b></a> - the most "Unix-like" Linux distribution.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.openbsd.org/"><b>OpenBSD</b></a> - multi-platform 4.4BSD-based UNIX-like operating system.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://hardenedbsd.org/"><b>HardenedBSD</b></a> - HardenedBSD aims to implement innovative exploit mitigation and security solutions.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.kali.org/"><b>Kali Linux</b></a> - Linux distribution used for Penetration Testing, Ethical Hacking and network security assessments.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://backbox.org/"><b>Backbox Linux</b></a> - penetration test and security assessment oriented Ubuntu-based Linux distribution.<br>
+</p>
+
+##### :black_small_square: HTTP(s) Services
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://varnish-cache.org/"><b>Varnish Cache</b></a> - HTTP accelerator designed for content-heavy dynamic web sites.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://nginx.org/"><b>Nginx</b></a> - open source web and reverse proxy server that is similar to Apache, but very light weight.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.haproxy.org/"><b>HAProxy</b></a> - the reliable, high performance TCP/HTTP load balancer.<br>
 </p>
 
 ##### :black_small_square: Security/hardening
@@ -764,12 +770,6 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://jamielinux.com/docs/openssl-certificate-authority/"><b>OpenSSL Certificate Authority</b></a> - build your own certificate authority (CA) using the OpenSSL command-line tools.<br>
-</p>
-
-###### The Best Private Search Engines
-
-<p>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.startpage.com/"><b>Startpage</b></a> - the world's most private search engine.<br>
 </p>
 
 ###### Build your own System/Virtual Machine
