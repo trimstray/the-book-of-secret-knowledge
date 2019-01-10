@@ -229,6 +229,11 @@ Only main chapters:
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.wireshark.org/"><b>Wireshark</b></a> - is the world’s foremost and widely-used network protocol analyzer.<br>
+</p>
+
+##### :black_small_square: Browsers
+
+<p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.torproject.org/projects/torbrowser.html.en"><b>TOR Browser</b></a> - protect your privacy and defend yourself against network surveillance and traffic analysis.<br>
 </p>
 
@@ -237,6 +242,13 @@ Only main chapters:
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://keepassxc.org/"><b>KeePassXC</b></a> - store your passwords safely and auto-type them into your everyday websites and apps.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.enpass.io/"><b>Enpass</b></a> - password manager and secure wallet.<br>
+</p>
+
+##### :black_small_square: Messengers (end-to-end encryption)
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.signal.org/"><b>Signal</b></a> - is an encrypted communications app.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://wire.com/en/"><b>Wire</b></a> - secure messaging, file sharing, voice calls and video conferences. All protected with end-to-end encryption.<br>
 </p>
 
 ##### :black_small_square: Text editors
