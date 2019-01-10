@@ -766,10 +766,16 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://jamielinux.com/docs/openssl-certificate-authority/"><b>OpenSSL Certificate Authority</b></a> - build your own certificate authority (CA) using the OpenSSL command-line tools.<br>
 </p>
 
+###### The Best Private Search Engines
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.startpage.com/"><b>Startpage</b></a> - the world's most private search engine.<br>
+</p>
+
 ###### Build your own System/Virtual Machine
 
 <p>
-  &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/cfenollosa/os-tutorial"><b>os-tutorial</b></a> - how to create an OS from scratch.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/cfenollosa/os-tutorial"><b>os-tutorial</b></a> - how to create an OS from scratch.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://justinmeiners.github.io/lc3-vm/"><b>Write your Own Virtual Machine</b></a> - how to write your own virtual machine (VM).<br>
 </p>
 
