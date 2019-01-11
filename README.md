@@ -864,6 +864,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
   * [tcpick](#tool-tcpick)
   * [ngrep](#tool-ngrep)
   * [hping3](#tool-hping3)
+  * [nmap](#tool-nmap)
   * [netcat](#tool-netcat)
   * [socat](#tool-socat)
   * [lsof](#tool-lsof)
@@ -1772,6 +1773,42 @@ function _scg() {
 
 ```bash
 ssh -tt user@host bash
+```
+
+###### SSH local port forwarding
+
+Example 1:
+
+```bash
+# Forwarding our local 2250 port to nmap.org:443 from localhost through localhost
+host1> ssh -L 2250:nmap.org:443 localhost
+
+# Connect to the service:
+host1> curl -Iks --location -X GET https://localhost:2250
+```
+
+Example 2:
+
+```bash
+# Forwarding our local 9051 port to db.d.x:5432 from localhost through node.d.y
+host1> ssh -nNT -L 9051:db.d.x:5432 node.d.y
+
+# Connect to the service:
+host1> psql -U db_user -d db_dev -p 9051 -h localhost
+```
+
+  * `-n` - redirects stdin from `/dev/null`
+  * `-N` - do not execute a remote command
+  * `-T` - disable pseudo-terminal allocation
+
+###### SSH remote port forwarding
+
+```bash
+# Forwarding our local 9051 port to db.d.x:5432 from host2 through node.d.y
+host1> ssh -nNT -R 9051:db.d.x:5432 node.d.y
+
+# Connect to the service:
+host2> psql -U postgres -d postgres -p 8000 -h localhost
 ```
 
 ___
