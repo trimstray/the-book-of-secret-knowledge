@@ -1798,11 +1798,13 @@ ___
 
 ##### Tool: [tcpdump](http://www.tcpdump.org/)
 
+###### Filter incoming (on interface) traffic (specific <ip:port>)
+
 ```bash
 tcpdump -ne -i eth0 -Q in host 192.168.252.1 and port 443
 ```
 
-  * `-n` - don't convert addresses
+  * `-n` - don't convert addresses (`-nn` will not resolve hostnames or ports)
   * `-e` - print the link-level headers
   * `-i [iface|any]` - set interface
   * `-Q|-D [in|out|inout]` - choose send/receive direction (`-D` - for old tcpdump versions)
@@ -1810,12 +1812,71 @@ tcpdump -ne -i eth0 -Q in host 192.168.252.1 and port 443
   * `[and|or]` - set logic
   * `port [1-65535]` - set port number, also `[port not]`
 
+###### Filter incoming (on interface) traffic (specific <ip:port>) and write to a file
+
 ```bash
 tcpdump -ne -i eth0 -Q in host 192.168.252.1 and port 443 -c 5 -w tcpdump.pcap
 ```
 
   * `-c [num]` - capture only num number of packets
   * `-w [filename]` - write packets to file, `-r [filename]` - reading from file
+
+###### Capture all ICMP packets
+
+```bash
+tcpdump -nei eth0 icmp
+```
+
+###### Display ASCII text (to parse the output using grep or other)
+
+```bash
+tcpdump -i eth0 -A -s0 port 443
+```
+
+###### Grab everything between two keywords
+
+```bash
+tcpdump -i eth0 port 80 -X | sed -n -e '/username/,/=ldap/ p'
+```
+
+###### Grab user and pass ever plain http
+
+```bash
+tcpdump -i eth0  port http -l -A | egrep -i 'pass=|pwd=|log=|login=|user=|username=|pw=|passw=|passwd=|password=|pass:|user:|username:|password:|login:|pass |user ' --color=auto --line-buffered -B20
+```
+
+###### Extract HTTP User Agent from HTTP request header
+
+```bash
+tcpdump -ei eth0 -nn -A -s1500 -l | grep "User-Agent:"
+```
+
+###### Capture only HTTP GET and POST packets
+
+```bash
+tcpdump -ei eth0 -s 0 -A -vv 'tcp[((tcp[12:1] & 0xf0) >> 2):4] = 0x47455420' or 'tcp[((tcp[12:1] & 0xf0) >> 2):4] = 0x504f5354'
+```
+
+or simply:
+
+```bash
+tcpdump -ei eth0 -s 0 -v -n -l | egrep -i "POST /|GET /|Host:"
+```
+
+###### Rotate capture files
+
+```bash
+tcpdump -ei eth0 -w /tmp/capture-%H.pcap -G 3600 -C 200
+```
+
+  * `-G <num>` - pcap will be created every `<num>` seconds
+  * `-C <size>` - close the current pcap and open a new one if is larger than `<size>`
+
+###### Top hosts by packets
+
+```bash
+tcpdump -ei enp0s25 -nnn -t -c 200 | cut -f 1,2,3,4 -d '.' | sort | uniq -c | sort -nr | head -n 20
+```
 
 ___
 
@@ -1905,6 +1966,90 @@ hping3 -V -c 1000000 -d 120 -S -w 64 -p 80 --flood --rand-source <remote_host>
   * `--rand-source` - random source address mode
   * `-d --data` - data size
   * `-w|--win` - winsize (default 64)
+
+___
+
+##### Tool: [nmap](https://nmap.org/)
+
+###### Ping scans the network
+
+```bash
+nmap -sP 192.168.0.0/24
+```
+
+###### Show only open ports
+
+```bash
+nmap -F --open 192.168.0.0/24
+```
+
+###### Check protocol used (TCP or UDP) for service
+
+```bash
+tcpdump -nei eth0 tcp port 22 -vv -X | egrep "TCP|UDP"
+```
+
+###### Full TCP port scan using with service version detection
+
+```bash
+nmap -p 1-65535 -sV -sS -T4 192.168.0.0/24
+```
+
+###### Nmap scan and pass output to Nikto
+
+```bash
+nmap -p80,443 192.168.0.0/24 -oG - | nikto.pl -h -
+```
+
+###### Recon specific ip:service with Nmap NSE scripts stack
+
+```bash
+# Set variables:
+_hosts="192.168.250.10"
+_ports="80,443"
+
+# Set Nmap NSE scripts stack:
+_nmap_nse_scripts="+dns-brute,\
+                   +http-auth-finder,\
+                   +http-chrono,\
+                   +http-cookie-flags,\
+                   +http-cors,\
+                   +http-cross-domain-policy,\
+                   +http-csrf,\
+                   +http-dombased-xss,\
+                   +http-enum,\
+                   +http-errors,\
+                   +http-git,\
+                   +http-grep,\
+                   +http-internal-ip-disclosure,\
+                   +http-jsonp-detection,\
+                   +http-malware-host,\
+                   +http-methods,\
+                   +http-passwd,\
+                   +http-phpself-xss,\
+                   +http-php-version,\
+                   +http-robots.txt,\
+                   +http-sitemap-generator,\
+                   +http-shellshock,\
+                   +http-stored-xss,\
+                   +http-title,\
+                   +http-unsafe-output-escaping,\
+                   +http-useragent-tester,\
+                   +http-vhosts,\
+                   +http-waf-detect,\
+                   +http-waf-fingerprint,\
+                   +http-xssed,\
+                   +traceroute-geolocation.nse,\
+                   +ssl-enum-ciphers,\
+                   +whois-domain,\
+                   +whois-ip"
+
+# Set Nmap NSE script params:
+_nmap_nse_scripts_args="dns-brute.domain=${_hosts},http-cross-domain-policy.domain-lookup=true,http-waf-detect.aggro,http-waf-detect.detectBodyChanges,http-waf-fingerprint.intensive=1"
+
+# Perform scan:
+nmap --script="$_nmap_nse_scripts" --script-args="$_nmap_nse_scripts_args" -p "$_ports" "$_hosts"
+```
 
 ___
 
