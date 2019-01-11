@@ -664,7 +664,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/enaqx/awesome-pentest"><b>Awesome Pentest</b></a> - collection of awesome penetration testing resources, tools and other shiny things.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/ksanchezcld/Hacking_Cheat_Sheet"><b>Hacking Cheat Sheet</b></a> - author hacking and pentesting notes.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/The-Art-of-Hacking/h4cker"><b>Cyber Security Resources</b></a> - includes thousands of cybersecurity-related references and resources.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://brutelogic.com.br/blog/"><b>Pentest Bookmarks</b></a> - there are a LOT of pentesting blogs.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jhaddix/pentest-bookmarks"><b>Pentest Bookmarks</b></a> - there are a LOT of pentesting blogs.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/swisskyrepo/PayloadsAllTheThings"><b>PayloadsAllTheThings</b></a> - a list of useful payloads and bypass for Web Application Security and Pentest/CTF.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/"><b>Pentesting Tools Cheat Sheet</b></a> - a quick reference high level overview for typical penetration testing engagements.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rshipp/awesome-malware-analysis"><b>Awesome Malware Analysis</b></a> - a curated list of awesome malware analysis tools and resources.<br>
@@ -691,7 +691,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 ##### :black_small_square: Web Training Apps (local installation)
 
 <p>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://metasploit.help.rapid7.com/docs/metasploitable-2"><b>OWASP-VWAD</b></a> - comprehensive and well maintained registry of all known vulnerable web applications.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project"><b>OWASP-VWAD</b></a> - comprehensive and well maintained registry of all known vulnerable web applications.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://metasploit.help.rapid7.com/docs/metasploitable-2"><b>Metasploitable 2</b></a> - vulnerable web application amongst security researchers.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.dvwa.co.uk/"><b>DVWA</b></a> - PHP/MySQL web application that is damn vulnerable.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://sourceforge.net/projects/mutillidae/"><b>OWASP Mutillidae II</b></a> - free, open source, deliberately vulnerable web-application.<br>
