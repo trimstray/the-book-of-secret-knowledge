@@ -434,7 +434,9 @@ performance of any of your sites from across the globe.<br>
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://countermail.com/"><b>CounterMail</b></a> - is a secure and easy to use online email service, designed to provide maximum security and privacy.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://mail2tor.com/"><b>Mail2Tor</b></a> - is a Tor Hidden Service that allows anyone to send and receive emails anonymously.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://tutanota.com/"><b>Tutanota</b></a> - is the world's most secure email service and amazingly easy to use.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://protonmail.com/"><b>Protonmail</b></a> - is the world's largest secure email service, developed by CERN and MIT scientists.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.startmail.com/en/"><b>Startmail</b></a> - private & encrypted email made easy.<br>
 </p>
 
 ##### :black_small_square: Crypto
