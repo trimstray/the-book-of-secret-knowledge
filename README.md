@@ -477,7 +477,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://emeraldonion.org/"><b>Emerald Onion</b></a> - seattle-based encrypted-transit internet service provider.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.unbound.net/"><b>Unbound</b></a> - validating, recursive, and caching DNS resolver (with TLS).<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.knot-resolver.cz/"><b>Knot Resolver</b></a> - caching full resolver implementation, including both a resolver library and a daemon.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/pi-hole/pi-hole"><b>pi-hole</b></a> - The Pi-hole® is a DNS sinkhole that protects your devices from unwanted content.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/pi-hole/pi-hole"><b>pi-hole</b></a> - the Pi-hole® is a DNS sinkhole that protects your devices from unwanted content.<br>
 </p>
 
 #### Networks &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
@@ -507,7 +507,7 @@ performance of any of your sites from across the globe.<br>
 ##### :black_small_square: Python
 
 <p>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://awesome-python.com/"><b>Awesome Python</b></a> - A curated list of awesome Python frameworks, libraries, software and resources.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://awesome-python.com/"><b>Awesome Python</b></a> - a curated list of awesome Python frameworks, libraries, software and resources.<br>
 </p>
 
 ##### :black_small_square: Sed & Awk & Other
@@ -521,7 +521,7 @@ performance of any of your sites from across the globe.<br>
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.cyberciti.biz/"><b>nixCraft</b></a> - linux and unix tutorials for new and seasoned sysadmin.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.tecmint.com/"><b>TecMint</b></a> - the ideal Linux blog for Sysadmins & Geeks.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="http://www.omnisecu.com/"><b>Omnisecu</b></a> - Free Networking, System Administration and Security Tutorials.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://www.omnisecu.com/"><b>Omnisecu</b></a> - free Networking, System Administration and Security tutorials.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://cb.vu/unixtoolbox.xhtml"><b>Unix Toolbox</b></a> - collection of Unix/Linux/BSD commands and tasks which are useful for IT work or for advanced users.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://linuxguideandhints.com/"><b>Linux Guide and Hints</b></a> - tutorials on system administration in Fedora® and CentOS®, including OpenLDAP and FreeIPA.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/bagder/http2-explained"><b>http2-explained</b></a> - a detailed document explaining and documenting HTTP/2.<br>
@@ -581,18 +581,26 @@ performance of any of your sites from across the globe.<br>
 
 #### Awesome Lists &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
 
+##### :black_small_square: SysOps/DevOps
+
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/kahun/awesome-sysadmin"><b>Awesome Sysadmin</b></a> - amazingly awesome open source sysadmin resources.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/alebcay/awesome-shell"><b>Awesome Shell</b></a> - awesome command-line frameworks, toolkits, guides and gizmos.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/k4m4/movies-for-hackers"><b>Movies for Hackers</b></a> - list of movies every hacker & cyberpunk must watch.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Kickball/awesome-selfhosted"><b>Awesome-Selfhosted</b></a> - list of Free Software network services and web applications which can be hosted locally.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/qazbnm456/awesome-web-security"><b>Awesome Web Security</b></a> - curated list of Web Security materials and resources.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/learnbyexample/Command-line-text-processing"><b>Command-line-text-processing</b></a> - from finding text to search and replace, from sorting to beautifying text and more.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/caesar0301/awesome-pcaptools"><b>Awesome Pcaptools</b></a> - collection of tools developed by other researchers to process network traces.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/leandromoreira/linux-network-performance-parameters"><b>Linux Network Performance</b></a> - learn where some of the network sysctl variables fit into the Linux/Kernel network flow.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/binhnguyennus/awesome-scalability"><b>Awesome Scalability</b></a> - best practices in building High Scalability, High Availability, High Stability and more.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dhamaniasad/awesome-postgres"><b>Awesome Postgres</b></a> - list of awesome PostgreSQL software, libraries, tools and resources.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/learnbyexample/Command-line-text-processing"><b>Command-line-text-processing</b></a> - from finding text to search and replace, from sorting to beautifying text and more.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Kickball/awesome-selfhosted"><b>Awesome-Selfhosted</b></a> - list of Free Software network services and web applications which can be hosted locally.<br>
+</p>
+
+##### :black_small_square: Security/Pentesting
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/qazbnm456/awesome-web-security"><b>Awesome Web Security</b></a> - curated list of Web Security materials and resources.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/infosecn1nja/Red-Teaming-Toolkit"><b>Red-Teaming-Toolkit</b></a> - a collection of open source and commercial tools that aid in red team operations.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Hack-with-Github/Free-Security-eBooks"><b>Free Security eBooks</b></a> - list of a Free Security and Hacking eBooks.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/k4m4/movies-for-hackers"><b>Movies for Hackers</b></a> - list of movies every hacker & cyberpunk must watch.<br>
 </p>
 
 #### Blogs &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
@@ -610,7 +618,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/binitamshah"><b>Binni Shah</b></a> - Linux Evangelist. Malwares. Kernel Dev. Security Enthusiast.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://security.szurek.pl/"><b>Kacper Szurek</b></a> - Detection Engineer at ESET.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.troyhunt.com/"><b>Troy Hunt</b></a> -  Microsoft Regional Director and Microsoft Most Valuable Professional for Developer Security.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://raymii.org/s/index.html"><b>raymii.org</b></a> - linux/unix sysadmin specializing in building high availability cloud environments.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://raymii.org/s/index.html"><b>raymii.org</b></a> - Linux/Unix Sysadmin specializing in building high availability cloud environments.<br>
 </p>
 
 ##### :black_small_square: Geeky Blogs
