@@ -103,7 +103,7 @@ Only main chapters:
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://ex-vi.sourceforge.net/"><b>vi</b></a> - is one of the most common text editors on Unix.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.vim.org/"><b>vim</b></a> - is a highly configurable text editor.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.gnu.org/software/emacs/"><b>Visual Studio Code</b></a> - an extensible, customizable, free/libre text editor - and more.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.gnu.org/software/emacs/"><b>emacs</b></a> - an extensible, customizable, free/libre text editor - and more.<br>
 </p>
 
 ##### :black_small_square: Network
