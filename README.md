@@ -218,6 +218,14 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/trimstray/multitor"><b>multitor</b></a> - a tool that lets you create multiple TOR instances with a load-balancing.<br>
 </p>
 
+##### :black_small_square: CLI Creators
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/tj/commander.js/"><b>Commander.JS</b></a> - minimal CLI creator in JavaScript.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/infinitered/gluegun/"><b>Gluegun</b></a> - Advanced CLI one-stop-shop with strong types in JavaScript, plugin support, and docs.<br>
+
+</p>
+
 ##### :black_small_square: Other
 
 <p>
