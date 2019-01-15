@@ -348,6 +348,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://uncoder.io/"><b>Uncoder</b></a> - the online translator for search queries on log data.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://regex101.com/"><b>Regex101</b></a> - online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://regexr.com/"><b>RegExr</b></a> - online tool to learn, build, & test Regular Expressions (RegEx / RegExp).<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.regextester.com/"><b>RegEx Testing</b></a> - online regex testing tool.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hardenize.com/"><b>Hardenize</b></a> - deploy the security standards.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.virustotal.com/#/home/upload"><b>VirusTotal</b></a> - analyze suspicious files and URLs to detect types of malware.<br>
 </p>
