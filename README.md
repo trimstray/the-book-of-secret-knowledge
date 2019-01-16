@@ -1915,6 +1915,12 @@ tcpdump -ne -i eth0 -Q in host 192.168.252.1 and port 443 -c 5 -w tcpdump.pcap
 tcpdump -nei eth0 icmp
 ```
 
+###### Check protocol used (TCP or UDP) for service
+
+```bash
+tcpdump -nei eth0 tcp port 22 -vv -X | egrep "TCP|UDP"
+```
+
 ###### Display ASCII text (to parse the output using grep or other)
 
 ```bash
@@ -2069,12 +2075,6 @@ nmap -sP 192.168.0.0/24
 
 ```bash
 nmap -F --open 192.168.0.0/24
-```
-
-###### Check protocol used (TCP or UDP) for service
-
-```bash
-tcpdump -nei eth0 tcp port 22 -vv -X | egrep "TCP|UDP"
 ```
 
 ###### Full TCP port scan using with service version detection
