@@ -843,7 +843,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 | **`1.1.1.1`** | [cloudflare.com](https://www.cloudflare.com/dns/) |
 | **`94.130.110.185`** | [dnsprivacy.at](https://dnsprivacy.at/) |
 
-###### TOP 10 Browser extensions
+###### TOP Browser extensions
 
 | <b><u>Extension name</u></b> | <b><u>Description</u></b> |
 | :---         | :---         |
@@ -857,8 +857,9 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 | **`Clear Cache`** | Clear your cache and browsing data. |
 | **`d3coder`** | Encoding/Decoding plugin for various types of encoding. |
 | **`Web Developer`** | Adds a toolbar button with various web developer tools. |
+| **`ThreatPinch Lookup`** | Add threat intelligence hover tool tips. |
 
-###### TOP 12 Burp extensions
+###### TOP Burp extensions
 
 | <b><u>Extension name</u></b> | <b><u>Description</u></b> |
 | :---         | :---         |
