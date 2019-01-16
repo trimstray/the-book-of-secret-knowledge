@@ -57,7 +57,7 @@ Before add pull request please see **[this](https://github.com/trimstray/the-boo
 
 ## :gift_heart: &nbsp;Support
 
-If this project is useful and important for you or if you really like the _the-book-of-secret-knowledge_, you can bring me **more positive energy**, give me some **good words** or support my **[ethereum](https://www.blockchain.com/eth/address/0xfF14C70D0E112E424AA6484DBaF32Fbc55ce2Acf)**/**[bitcoin](https://www.blockchain.com/btc/address/1QLRgnhGWc8Qf8wxqmpz2NohLDjL5Bncf8)** wallets maybe. Thank you!
+If this project is useful and important for you or if you really like _the-book-of-secret-knowledge_, you can bring me **more positive energy**, give me some **good words** or support my **[ethereum](https://www.blockchain.com/eth/address/0xfF14C70D0E112E424AA6484DBaF32Fbc55ce2Acf)**/**[bitcoin](https://www.blockchain.com/btc/address/1QLRgnhGWc8Qf8wxqmpz2NohLDjL5Bncf8)** wallets maybe. Thank you!
 
 ## :ballot_box_with_check: &nbsp;Todo
 
