@@ -1019,7 +1019,7 @@ vim scp://user@host//etc/fstab
 ###### Create a directory and change into it at the same time
 
 ```bash
-mkd () { mkdir -p "$@" && cd "$@"; }
+mkd() { mkdir -p "$@" && cd "$@"; }
 ```
 
 ###### Convert uppercase files to lowercase files
