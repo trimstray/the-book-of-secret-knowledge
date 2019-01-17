@@ -714,6 +714,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/The-Art-of-Hacking/h4cker"><b>Cyber Security Resources</b></a> - includes thousands of cybersecurity-related references and resources.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jhaddix/pentest-bookmarks"><b>Pentest Bookmarks</b></a> - there are a LOT of pentesting blogs.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/swisskyrepo/PayloadsAllTheThings"><b>PayloadsAllTheThings</b></a> - a list of useful payloads and bypass for Web Application Security and Pentest/CTF.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/foospidy/payloads"><b>payloads</b></a> - git all the Payloads! A collection of web attack payloads.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/"><b>Pentesting Tools Cheat Sheet</b></a> - a quick reference high level overview for typical penetration testing engagements.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://media.defcon.org/"><b>DEF CON Media Server</b></a> - great stuff from DEFCON.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rshipp/awesome-malware-analysis"><b>Awesome Malware Analysis</b></a> - a curated list of awesome malware analysis tools and resources.<br>
