@@ -2382,7 +2382,7 @@ lsof -c "process"
 lsof -u username -a +D /etc
 ```
 
-###### Show 10 Largest Open Files
+###### Show 10 largest open files
 
 ```bash
 lsof / | \
