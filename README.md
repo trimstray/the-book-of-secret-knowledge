@@ -786,6 +786,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/bugcrowd/bugcrowd_university"><b>Bugcrowd University</b></a> - open source education content for the researcher community.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rewardone/OSCPRepo"><b>OSCPRepo</b></a> - a list of resources and scripts that I have been gathering in preparation for the OSCP.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://medium.com/@cxosmo/owasp-top-10-real-world-examples-part-1-a540c4ea2df5"><b>OWASP Top 10: Real-World Examples</b></a> - test your web apps with real-world examples (two-part series).<br>
 </p>
 
 #### Your daily knowledge and news &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
