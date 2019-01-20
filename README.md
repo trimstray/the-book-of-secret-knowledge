@@ -303,6 +303,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://ccadb.org/resources"><b>Common CA Database</b></a> - repository of information about CAs, and their root and intermediate certificates.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://certstream.calidog.io/"><b>CERTSTREAM</b></a> - real-time certificate transparency log update stream.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://crt.sh/"><b>crt.sh</b></a> - discovers certificates by continually monitoring all of the publicly known CT.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hardenize.com/"><b>Hardenize</b></a> - deploy the security standards.<br>
 </p>
 
 ##### :black_small_square: HTTP Headers & Web Linters
@@ -340,6 +341,17 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://dkimvalidator.com/"><b>DKIM SPF & Spam Assassin Validator</b></a> - checks mail authentication and scores messages with Spam Assassin.<br>
 </p>
 
+##### :black_small_square: Encoders/Decoders and Regex testing
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.url-encode-decode.com/"><b>URL Encode/Decode</b></a> - tool from above to either encode or decode a string of text.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://uncoder.io/"><b>Uncoder</b></a> - the online translator for search queries on log data.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://regex101.com/"><b>Regex101</b></a> - online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://regexr.com/"><b>RegExr</b></a> - online tool to learn, build, & test Regular Expressions (RegEx / RegExp).<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.regextester.com/"><b>RegEx Testing</b></a> - online regex testing tool.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://gchq.github.io/CyberChef/"><b>CyberChef</b></a> - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis.<br>
+</p>
+
 ##### :black_small_square: Net-tools
 
 <p>
@@ -350,12 +362,6 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://tools.keycdn.com/curl"><b>Online Curl</b></a> - curl test, analyze HTTP Response Headers.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://ping.eu/"><b>Ping.eu</b></a> - online Ping, Traceroute, DNS lookup, WHOIS and others.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://network-tools.com/"><b>Network-Tools</b></a> - network tools for webmasters, IT technicians & geeks.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.url-encode-decode.com/"><b>URL Encode/Decode</b></a> - tool from above to either encode or decode a string of text.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://uncoder.io/"><b>Uncoder</b></a> - the online translator for search queries on log data.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://regex101.com/"><b>Regex101</b></a> - online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://regexr.com/"><b>RegExr</b></a> - online tool to learn, build, & test Regular Expressions (RegEx / RegExp).<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.regextester.com/"><b>RegEx Testing</b></a> - online regex testing tool.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hardenize.com/"><b>Hardenize</b></a> - deploy the security standards.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.virustotal.com/#/home/upload"><b>VirusTotal</b></a> - analyze suspicious files and URLs to detect types of malware.<br>
 </p>
 
