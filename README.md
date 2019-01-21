@@ -349,6 +349,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://regex101.com/"><b>Regex101</b></a> - online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://regexr.com/"><b>RegExr</b></a> - online tool to learn, build, & test Regular Expressions (RegEx / RegExp).<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.regextester.com/"><b>RegEx Testing</b></a> - online regex testing tool.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.regexpal.com/"><b>RegEx Pal</b></a> - online regex testing tool + other tools.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://gchq.github.io/CyberChef/"><b>CyberChef</b></a> - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis.<br>
 </p>
 
