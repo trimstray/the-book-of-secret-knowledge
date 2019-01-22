@@ -282,7 +282,8 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://caniuse.com/#home"><b>Can I use</b></a> - provides up-to-date browser support tables for support of front-end web technologies.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://panopticlick.eff.org/"><b>Panopticlick 3.0</b></a> - is your browser safe against tracking?<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://privacy.net/analyzer/"><b>Privacy Analyzer</b></a> - see what data is exposed from your browser.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://browserleaks.com/"><b>Web Browser Security</b></a> -  it's all about Web Browser fingerprinting.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://browserleaks.com/"><b>Web Browser Security</b></a> - it's all about Web Browser fingerprinting.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.howsmyssl.com/"><b>How's My SSL?</b></a> - was originally made to help a web server developer learn what real world TLS clients were capable of.<br>
 </p>
 
 ##### :black_small_square: SSL/Security
