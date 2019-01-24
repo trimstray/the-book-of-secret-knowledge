@@ -860,7 +860,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 | **`94.247.43.254`** | [opennic.org](https://www.opennic.org/) |
 | **`64.6.64.6`** | [verisign.com](https://www.verisign.com/en_US/security-services/public-dns/index.xhtml) |
 | **`89.233.43.71`** | [censurfridns.dk](https://blog.uncensoreddns.org/) |
-| **`1.1.1.1`** | [cloudflare.com](https://www.cloudflare.com/dns/) |
+| **`1.1.1.1`** | [cloudflare.com](https://www.cloudflare.com/dns/), [1.1.1.1](https://1.1.1.1/) |
 | **`94.130.110.185`** | [dnsprivacy.at](https://dnsprivacy.at/) |
 
 ###### TOP Browser extensions
