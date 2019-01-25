@@ -930,7 +930,6 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
   * [du](#tool-du)
   * [inotifywait](#tool-inotifywait)
   * [openssl](#tool-openssl)
-  * [gnutls-cli](#tool-gnutls-cli)
   * [secure-delete](#tool-secure-delete)
   * [dd](#tool-dd)
 - **[HTTP/HTTPS](#http-https)**
@@ -946,6 +945,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
   * [nmap](#tool-nmap)
   * [netcat](#tool-netcat)
   * [socat](#tool-socat)
+  * [gnutls-cli](#tool-gnutls-cli)
   * [lsof](#tool-lsof)
   * [netstat](#tool-netstat)
   * [rsync](#tool-rsync)
@@ -1601,22 +1601,6 @@ openssl x509 -in ${_fd_pem} -outform der -out ${_fd_der} )
 
 ```bash
 (openssl rsa -noout -modulus -in private.key | openssl md5 ; openssl x509 -noout -modulus -in certificate.crt | openssl md5) | uniq
-```
-
-___
-
-##### Tool: [gnutls-cli](https://gnutls.org/manual/html_node/gnutls_002dcli-Invocation.html)
-
-###### Testing connection to remote host (with SNI support)
-
-```bash
-gnutls-cli -p 443 google.com
-```
-
-###### Testing connection to remote host (without SNI support)
-
-```bash
-gnutls-cli --disable-sni -p 443 google.com
 ```
 
 ___
@@ -2325,6 +2309,22 @@ nc -l -u -p 2000 -c "nc -u [ip|hostname] 3000"
 
 ### UDP -> TCP
 nc -l -u -p 2000 -c "nc [ip|hostname] 3000"
+```
+
+___
+
+##### Tool: [gnutls-cli](https://gnutls.org/manual/html_node/gnutls_002dcli-Invocation.html)
+
+###### Testing connection to remote host (with SNI support)
+
+```bash
+gnutls-cli -p 443 google.com
+```
+
+###### Testing connection to remote host (without SNI support)
+
+```bash
+gnutls-cli --disable-sni -p 443 google.com
 ```
 
 ___
