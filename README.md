@@ -721,7 +721,6 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.amanhardikar.com/mindmaps/webapptest.html"><b>WebApps Security Tests MindMap</b></a> - incredible mind map for WebApps security tests.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://brutelogic.com.br/blog/"><b>Brute XSS</b></a> - master the art of Cross Site Scripting.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://jivoi.github.io/2015/07/03/offensive-security-bookmarks/"><b>Offensive Security Bookmarks</b></a> - security bookmarks collection, all that things I need to pass OSCP.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/danielmiessler/SecLists"><b>SecLists</b></a> - collection of multiple types of lists used during security assessments, collected in one place.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/coreb1t/awesome-pentest-cheat-sheets"><b>Awesome Pentest Cheat Sheets</b></a> - collection of the cheat sheets useful for pentesting.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Hack-with-Github/Awesome-Hacking"><b>Awesome Hacking by HackWithGithub</b></a> - awesome lists for hackers, pentesters and security researchers.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/carpedm20/awesome-hacking"><b>Awesome Hacking by carpedm20</b></a> - a curated list of awesome hacking tutorials, tools and resources.<br>
@@ -745,6 +744,16 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://shell-storm.org/repo/CTF/"><b>shell-storm repo CTF</b></a> - great archive of CTFs.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/bl4de/ctf"><b>ctf</b></a> - CTF (Capture The Flag) writeups, code snippets, notes, scripts.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/OWASP/owasp-mstg"><b>MSTG</b></a> - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing.<br>
+</p>
+
+
+##### :black_small_square: Wordlists and Weak passwords
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://weakpass.com/"><b>Weakpass</b></a> - for any kind of bruteforce find wordlists or unleash the power of them all at once!<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://hashes.org/"><b>Hashes.org</b></a> - is a free online hash resolving service incorporating many unparalleled techniques.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/danielmiessler/SecLists"><b>SecLists</b></a> - collection of multiple types of lists used during security assessments, collected in one place.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/berzerk0/Probable-Wordlists"><b>Probable-Wordlists</b></a> - sorted by probability originally created for password generation and testing.<br>
 </p>
 
 ##### :black_small_square: Bounty programs
