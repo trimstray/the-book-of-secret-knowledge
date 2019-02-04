@@ -366,6 +366,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://tools.keycdn.com/curl"><b>Online Curl</b></a> - curl test, analyze HTTP Response Headers.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://ping.eu/"><b>Ping.eu</b></a> - online Ping, Traceroute, DNS lookup, WHOIS and others.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://network-tools.com/"><b>Network-Tools</b></a> - network tools for webmasters, IT technicians & geeks.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://riseup.net/"><b>Riseup</b></a> - provides online communication tools for people and groups working on liberatory social change.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.virustotal.com/#/home/upload"><b>VirusTotal</b></a> - analyze suspicious files and URLs to detect types of malware.<br>
 </p>
 
