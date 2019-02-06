@@ -656,7 +656,6 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/snoopysecurity/awesome-burp-extensions"><b>awesome-burp-extensions</b></a> - a curated list of amazingly awesome Burp Extensions.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Hack-with-Github/Free-Security-eBooks"><b>Free Security eBooks</b></a> - list of a Free Security and Hacking eBooks.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/k4m4/movies-for-hackers"><b>Movies for Hackers</b></a> - list of movies every hacker & cyberpunk must watch.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/bl4de/security_whitepapers"><b>security_whitepapers</b></a> - collection of misc IT Security related whitepapers, presentations, slides.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/trimstray/technical-whitepapers"><b>technical-whitepapers</b></a> - IT whitepapers; hacking, web app security, db, reverse engineering and more; EN/PL.<br>
 </p>
 
