@@ -122,6 +122,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.tcpdump.org/"><b>tcpdump</b></a> - powerful command-line packet analyzer.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.wireshark.org/docs/man-pages/tshark.html"><b>tshark</b></a> - dump and analyze network traffic (wireshark cli).<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jpr5/ngrep"><b>ngrep</b></a> - is like GNU grep applied to the network layer.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/google/stenographer"><b>stenographer</b></a> - is a packet capture solution which aims to quickly spool all packets to disk.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/tgraf/bmon"><b>bmon</b></a> - monitoring and debugging tool to capture networking related statistics and prepare them visually.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://iptraf.seul.org/2.6/manual.html#installation"><b>iptraf-ng</b></a> - is a console-based network monitoring program for Linux that displays information about IP traffic.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://iperf.fr/"><b>iPerf3</b></a> - is a tool for active measurements of the maximum achievable bandwidth on IP networks.<br>
@@ -595,6 +596,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/ssllabs/research/wiki/SSL-and-TLS-Deployment-Best-Practices"><b>SSL Research</b></a> - SSL and TLS Deployment Best Practices by SSL Labs.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://smallstep.com/blog/everything-pki.html"><b>Certificates and PKI</b></a> - everything you should know about certificates and PKI but are too afraid to ask.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://appsecco.com/books/subdomain-enumeration/"><b>The Art of Subdomain Enumeration</b></a> - a reference for subdomain enumeration techniques.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/GrrrDog/weird_proxies/wiki"><b>Weird Proxies</b></a> - reverse proxy related attacks; it is a result of analysis of various reverse proxies, cache proxies, etc.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://lifehacker.com/the-comprehensive-guide-to-quitting-google-1830001964"><b>Quitting Google</b></a> - the comprehensive guide to quitting Google.<br>
 </p>
 
