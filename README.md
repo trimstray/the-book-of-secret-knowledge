@@ -1227,6 +1227,12 @@ find </path/to/dir> -xdev -samefile filename
 find . -type f -exec stat --format '%Y :%y %n' "{}" \; | sort -nr | cut -d: -f2- | head
 ```
 
+###### Recursively find/replace of a string with awk or sed
+
+```bash
+find . -not -path '*/\.git*' -type f -print0 | xargs -0 sed -i 's/foo/bar/g'
+```
+
 ___
 
 ##### Tool: [top](https://en.wikipedia.org/wiki/Top_(software))
@@ -1513,7 +1519,7 @@ openssl s_client -cipher 'AES128-SHA' -connect google.com:443
 openssl genrsa -out ${_fd} ${_len} )
 ```
 
-###### Generate private key with password
+###### Generate private key with passphrase
 
 ```bash
 # _ciph: des3, aes128, aes256
@@ -1522,11 +1528,26 @@ openssl genrsa -out ${_fd} ${_len} )
 openssl genrsa -${_ciph} -out ${_fd} ${_len} )
 ```
 
-###### Remove password from private key
+###### Remove passphrase from private key
 
 ```bash
 ( _fd="private.key" ; _fd_unp="private_unp.key" ; \
 openssl rsa -in ${_fd} -out ${_fd_unp} )
+```
+
+###### Encrypt existing private key with a passphrase
+
+```bash
+# _ciph: des3, aes128, aes256
+( _ciph="aes128" ; _fd="private.key" ; _fd_pass="private_pass.key" ; \
+openssl rsa -${_ciph} -in ${_fd} -out ${_fd_pass}
+```
+
+###### Check private key
+
+```bash
+( _fd="private.key" ; \
+openssl rsa -check -in ${_fd} )
 ```
 
 ###### Get public key from private key
@@ -1588,6 +1609,33 @@ DNS.2 = <next domain>
 DNS.3 = <next domain>
 EOF
 ))
+```
+
+###### Generate ECDSA private key
+
+```bash
+# _curve: X25519, prime256v1, secp521r1, secp384r1
+( _fd="private.key" ; _curve="prime256v1" ; \
+openssl ecparam -out ${_fd} -name ${_curve} -genkey )
+```
+
+###### Print ECDSA private and public keys
+
+```bash
+( _fd="private.key" ; \
+openssl ec -in ${_fd} -noout -text )
+```
+
+###### List available EC curves
+
+```bash
+openssl ecparam -list_curves
+```
+
+###### Generate private key with csr (ECC)
+
+```bash
+( _fd="domain.com.key" ; _fd_csr="domain.com.csr" ; _curve="prime256v1" ; openssl ecparam -out ${_fd} -name ${_curve} -genkey ; openssl req -new -key ${_fd} -out ${_fd_csr} -sha256 )
 ```
 
 ###### Convert DER to PEM
