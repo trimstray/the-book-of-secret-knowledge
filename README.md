@@ -1611,12 +1611,22 @@ EOF
 ))
 ```
 
+###### List available EC curves
+
+```bash
+openssl ecparam -list_curves
+```
+
 ###### Generate ECDSA private key
 
 ```bash
-# _curve: X25519, prime256v1, secp521r1, secp384r1
+# _curve: prime256v1, secp521r1, secp384r1
 ( _fd="private.key" ; _curve="prime256v1" ; \
 openssl ecparam -out ${_fd} -name ${_curve} -genkey )
+
+# _curve: X25519
+( _fd="private.key" ; _curve="x25519" ; \
+openssl genpkey -algorithm ${_curve} -out ${_fd} )
 ```
 
 ###### Print ECDSA private and public keys
@@ -1624,17 +1634,16 @@ openssl ecparam -out ${_fd} -name ${_curve} -genkey )
 ```bash
 ( _fd="private.key" ; \
 openssl ec -in ${_fd} -noout -text )
-```
 
-###### List available EC curves
-
-```bash
-openssl ecparam -list_curves
+# For x25519 only extracting public key
+( _fd="private.key" ; _fd_pub="public.key" ; \
+openssl pkey -in ${_fd} -pubout -out ${_fd_pub} )
 ```
 
 ###### Generate private key with csr (ECC)
 
 ```bash
+# _curve: prime256v1, secp521r1, secp384r1
 ( _fd="domain.com.key" ; _fd_csr="domain.com.csr" ; _curve="prime256v1" ; openssl ecparam -out ${_fd} -name ${_curve} -genkey ; openssl req -new -key ${_fd} -out ${_fd_csr} -sha256 )
 ```
 
