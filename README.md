@@ -260,6 +260,13 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.enpass.io/"><b>Enpass</b></a> - password manager and secure wallet.<br>
 </p>
 
+##### :black_small_square: Messengers/IRC Clients
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://hexchat.github.io/index.html"><b>HexChat</b></a> - is an IRC client based on XChat.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://pidgin.im/"><b>Pidgin</b></a> - is an easy to use and free chat client used by millions.<br>
+</p>
+
 ##### :black_small_square: Messengers (end-to-end encryption)
 
 <p>
@@ -829,6 +836,12 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://feedly.com/"><b>Feedly</b></a> - organize, read and share what matters to you.<br>
+</p>
+
+##### :black_small_square: IRC Channels
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://wiki.hackerspaces.org/IRC_Channel"><b>#hackerspaces</b></a> - hackerspace IRC channels.<br>
 </p>
 
 ##### :black_small_square: Security
