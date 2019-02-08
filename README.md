@@ -1828,6 +1828,21 @@ http -p Hh --follow --max-redirects 5 --verify no --proxy http:http://127.0.0.1:
 
 ##### Tool: [ssh](https://www.openssh.com/)
 
+###### Escape Sequence
+
+```bash
+# Supported escape sequences:
+~.  - terminate connection (and any multiplexed sessions)
+~B  - send a BREAK to the remote system
+~C  - open a command line
+~R  - Request rekey (SSH protocol 2 only)
+~^Z - suspend ssh
+~#  - list forwarded connections
+~&  - background ssh (when waiting for connections to terminate)
+~?  - this message
+~~  - send the escape character by typing it twice
+```
+
 ###### Compare a remote file with a local file
 
 ```bash
