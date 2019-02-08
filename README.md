@@ -1830,7 +1830,7 @@ http -p Hh --follow --max-redirects 5 --verify no --proxy http:http://127.0.0.1:
 
 ###### Escape Sequence
 
-```bash
+```
 # Supported escape sequences:
 ~.  - terminate connection (and any multiplexed sessions)
 ~B  - send a BREAK to the remote system
