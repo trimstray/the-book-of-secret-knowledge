@@ -972,6 +972,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
   * [rsync](#tool-rsync)
   * [host](#tool-host)
   * [dig](#tool-dig)
+  * [certbot](#tool-certbot)
   * [network-other](#tool-network-other)
 - **[Programming](#programming)**
   * [awk](#tool-awk)
@@ -1241,7 +1242,7 @@ find </path/to/dir> -xdev -samefile filename
 find . -type f -exec stat --format '%Y :%y %n' "{}" \; | sort -nr | cut -d: -f2- | head
 ```
 
-###### Recursively find/replace of a string with awk or sed
+###### Recursively find/replace of a string with sed
 
 ```bash
 find . -not -path '*/\.git*' -type f -print0 | xargs -0 sed -i 's/foo/bar/g'
@@ -2591,6 +2592,28 @@ dig google.com ANY +noall +answer
 
 ```bash
 dig -x 172.217.16.14 +short
+```
+
+___
+
+##### Tool: [certbot](https://certbot.eff.org/)
+
+###### Generate multidomain certificate
+
+```bash
+certbot certonly -d example.com -d www.example.com
+```
+
+###### Generate wildcard certificate
+
+```bash
+certbot certonly --manual --preferred-challenges=dns -d example.com -d *.example.com
+```
+
+###### Generate certificate with 4096 bit private key
+
+```bash
+certbot certonly -d example.com -d www.example.com --rsa-key-size 4096
 ```
 
 ___
