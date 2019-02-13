@@ -230,6 +230,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://inotify.aiken.cz/"><b>incron</b></a> - is an inode-based filesystem notification technology.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rgburke/grv"><b>GRV</b></a> - is a terminal based interface for viewing Git repositories.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/tldr-pages/tldr"><b>tldr</b></a> - simplified and community-driven man pages.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/tj/commander.js/"><b>commander.js</b></a> - minimal CLI creator in JavaScript.<br>
 </p>
 
 #### GUI Tools &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
