@@ -2434,7 +2434,7 @@ gnutls-cli --disable-sni -p 443 google.com
 
 ___
 
-##### Tool: [socat](http://www.dest-unreach.org/socat/doc/socat.html/)
+##### Tool: [socat](http://www.dest-unreach.org/socat/doc/socat.html)
 
 ###### Testing remote connection to port
 
