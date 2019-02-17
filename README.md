@@ -40,6 +40,8 @@ It is intended for everyone and anyone - especially for System and Network Admin
 
 ## :information_source: &nbsp;Contributing
 
+If you find something which doesn't make sense, or one of these doesn't seem right, or something seems really stupid; please make a pull request or please add valid and well-reasoned opinions about your changes or comments.
+
 A few simple rules for this project:
 
 - inviting and clear
@@ -53,7 +55,7 @@ These below rules may be better:
 
 Url marked **\*** is temporary unavailable. Please don't delete it without confirming that it has permanently expired.
 
-Before add pull request please see **[this](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/CONTRIBUTING.md)**. All **suggestions/PR** are welcome!
+Before add pull request please see **[this](CONTRIBUTING.md)**. All **suggestions/PR** are welcome!
 
 ## :gift_heart: &nbsp;Support
 
