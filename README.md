@@ -76,7 +76,7 @@ Only main chapters:
 - **[Systems/Services](#systemsservices-toc)**
 - **[Networks](#networks-toc)**
 - **[Manuals/Howtos/Tutorials](#manualshowtostutorials-toc)**
-- **[Awesome Lists](#awesome-lists-toc)**
+- **[Inspiring Lists](#inspiring-lists-toc)**
 - **[Blogs](#blogs-toc)**
 - **[Hacking/Penetration Testing](#hackingpenetration-testing-toc)**
 - **[Your daily knowledge and news](#your-daily-knowledge-and-news-toc)**
@@ -207,6 +207,7 @@ Only main chapters:
 ##### :black_small_square: Log Analyzers
 
 <p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rcoh/angle-grinder"><b>angle-grinder</b></a> - slice and dice log files on the command line.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://goaccess.io/"><b>GoAccess</b></a> - real-time web log analyzer and interactive viewer that runs in a terminal.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/lebinh/ngxtop"><b>ngxtop</b></a> - real-time metrics for nginx server.<br>
 </p>
@@ -248,6 +249,8 @@ Only main chapters:
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.wireshark.org/"><b>Wireshark</b></a> - is the world’s foremost and widely-used network protocol analyzer.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.ettercap-project.org/"><b>Ettercap</b></a> - is a comprehensive network monitor tool.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://etherape.sourceforge.io/"><b>EtherApe</b></a> - is a graphical network monitoring solution.<br>
 </p>
 
 ##### :black_small_square: Browsers
@@ -275,6 +278,7 @@ Only main chapters:
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.signal.org/"><b>Signal</b></a> - is an encrypted communications app.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://wire.com/en/"><b>Wire</b></a> - secure messaging, file sharing, voice calls and video conferences. All protected with end-to-end encryption.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/prof7bit/TorChat"><b>TorChat</b></a> - decentralized anonymous instant messenger on top of Tor Hidden Services.<br>
 </p>
 
 ##### :black_small_square: Text editors
@@ -638,6 +642,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://bankgradesecurity.com/"><b>Bank Grade Security</b></a> - when companies say they have "Bank Grade Security" they imply that it is a good thing.<b>*</b><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://nickcraver.com/blog/2017/05/22/https-on-stack-overflow/"><b>HTTPS on Stack Overflow</b></a> - this is the story of a long journey regarding the implementation of SSL.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://drawings.jvns.ca/"><b>Julia's Drawings</b></a> - some drawings about programming and unix world, zines about systems & debugging tools.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/corkami/collisions"><b>Hash collisions</b></a> - this great repository is focused on hash collisions exploitation.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://labs.ripe.net/Members/cteusche/bgp-meets-cat"><b>BGP Meets Cat</b></a> - after 3072 hours of manipulating BGP, Job Snijders has succeeded in drawing a Nyancat.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://robertheaton.com/2018/11/28/https-in-the-real-world/"><b>HTTPS in the real world</b></a> - great tutorial explain how HTTPS works in the real world.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://about.gitlab.com/2018/11/14/how-we-spent-two-weeks-hunting-an-nfs-bug/"><b>Gitlab and NFS bug</b></a> - how we spent two weeks hunting an NFS bug in the Linux kernel.<br>
@@ -646,7 +651,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://ithare.com/infographics-operation-costs-in-cpu-clock-cycles/"><b>Operation Costs in CPU</b></a> - an infographics which should help to estimate costs of certain operations in CPU clocks.<br>
 </p>
 
-#### Awesome Lists &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
+#### Inspiring Lists &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
 
 ##### :black_small_square: SysOps/DevOps
 
@@ -860,11 +865,15 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 ##### :black_small_square: Security
 
 <p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://thehackernews.com/"><b>The Hacker News</b></a> - leading news source dedicated to promoting awareness for security experts and hackers.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://latesthackingnews.com/"><b>Latest Hacking News</b></a> - provides the latest hacking news, exploits and vulnerabilities for ethical hackers.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://securitynewsletter.co/"><b>Security Newsletter</b></a> - security news as a weekly digest (email notifications).<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://security.googleblog.com/"><b>Google Online Security Blog</b></a> - the latest news and insights from Google on security and safety on the Internet.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://blog.qualys.com/"><b>Qualys Blog</b></a> - expert network security guidance and news.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.darkreading.com/"><b>DARKReading</b></a> - connecting the Information Security Community.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.darknet.org.uk/"><b>Darknet</b></a> - latest hacking tools, hacker news, cybersecurity best practices, ethical hacking & pen-testing.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/disclosedh1"><b>publiclyDisclosed</b></a> - public disclosure watcher who keeps you up to date about the recently disclosed bugs.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.reddit.com/r/hacking/"><b>Reddit - Hacking</b></a> - a subreddit dedicated to hacking and hackers.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://packetstormsecurity.com/"><b>Packet Storm</b></a> - information security services, news, files, tools, exploits, advisories and whitepapers.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://sekurak.pl/"><b>Sekurak</b></a> - about security, penetration tests, vulnerabilities and many others (PL/EN).<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://nfsec.pl/"><b>nf.sec</b></a> - basic aspects and mechanisms of Linux operating system security (PL).<br>
