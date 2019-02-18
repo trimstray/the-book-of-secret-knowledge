@@ -102,6 +102,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.gnu.org/software/screen/"><b>screen</b></a> - full-screen window manager that multiplexes a physical terminal.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/tmux/tmux/wiki"><b>tmux</b></a> - terminal multiplexer, lets you switch easily between several programs in one terminal.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/peikk0/tmux-cssh"><b>tmux-cssh</b></a> - sets a comfortable and easy to use functionality, clustering and synchronizing virtual tmux-sessions.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.iterm2.com/index.html"><b>iterm2</b></a> - iTerm2 brings the terminal into the modern age with features you never knew you always wanted.<br>
 </p>
 
 ##### :black_small_square: Text editors
