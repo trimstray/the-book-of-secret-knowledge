@@ -5,8 +5,6 @@
 
 <p align="center">"<i>Knowledge is powerful, be careful how you use it!</i>"</p>
 
-<br>
-
 <h4 align="center">A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more.</h4>
 
 <br>
