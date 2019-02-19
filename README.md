@@ -216,7 +216,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rcoh/angle-grinder"><b>angle-grinder</b></a> - slice and dice log files on the command line.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://goaccess.io/"><b>GoAccess</b></a> - real-time web log analyzer and interactive viewer that runs in a terminal.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/lebinh/ngxtop"><b>ngxtop</b></a> - real-time metrics for nginx server.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://lnav.org"><b>lnav</b></a> - log file navigator with search and automatic refresh<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://lnav.org"><b>lnav</b></a> - log file navigator with search and automatic refresh.<br>
 </p>
 
 ##### :black_small_square: Databases
