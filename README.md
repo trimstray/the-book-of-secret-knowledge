@@ -861,7 +861,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://feedly.com/"><b>Feedly</b></a> - organize, read and share what matters to you.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="http://inoreader.com/"><b>Inoreader</b></a> - The content reader for power users who want to save time.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://inoreader.com/"><b>Inoreader</b></a> - similar to feedly with a support for filtering what you fetch from rss<br>
 </p>
 
 ##### :black_small_square: IRC Channels
