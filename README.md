@@ -1276,6 +1276,12 @@ find . -type f -exec stat --format '%Y :%y %n' "{}" \; | sort -nr | cut -d: -f2-
 find . -not -path '*/\.git*' -type f -print0 | xargs -0 sed -i 's/foo/bar/g'
 ```
 
+###### find with the absolute path shown and may be grep for something
+
+```bash
+find $(pwd) | grep -i myfile
+```
+
 ___
 
 ##### Tool: [top](https://en.wikipedia.org/wiki/Top_(software))
