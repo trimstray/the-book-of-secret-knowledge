@@ -250,6 +250,7 @@ Only main chapters:
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Guake/guake"><b>Guake</b></a> - is a dropdown terminal made for the GNOME desktop environment.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://gnometerminator.blogspot.com/p/introduction.html"><b>Terminator</b></a> - is based on GNOME Terminal, useful features for sysadmins and other users.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://sw.kovidgoyal.net/kitty/"><b>Kitty</b></a> - is a GPU based terminal emulator that supports smooth scrolling and images.<br>
 </p>
 
 ##### :black_small_square: Network
