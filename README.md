@@ -42,7 +42,7 @@ This list is a collection of various materials that I use every day in my work. 
 
 ## :restroom: &nbsp;For whom?
 
-It is intended for everyone and anyone but especially for System and Network Administrators, DevOps, Pentesters and Security Researchers - so most of the content is for them.
+This collection is suitable for everyone. It is aimed towards System and Network administrators, DevOps, Pentesters and Security Researchers.
 
 ## :information_source: &nbsp;Contributing
 
