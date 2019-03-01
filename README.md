@@ -46,7 +46,7 @@ This collection is suitable for everyone. It is aimed towards System and Network
 
 ## :information_source: &nbsp;Contributing
 
-If you find something which doesn't make sense, or one of these doesn't seem right, or something seems really stupid; please make a pull request or please add valid and well-reasoned opinions about your changes or comments.
+If you find something which doesn't make sense, or something doesn't seem right, please make a pull request and please add valid and well-reasoned explanations about your changes or comments.
 
 A few simple rules for this project:
 
@@ -61,11 +61,11 @@ These below rules may be better:
 
 Url marked **\*** is temporary unavailable. Please don't delete it without confirming that it has permanently expired.
 
-Before add pull request please see **[this](CONTRIBUTING.md)**. All **suggestions/PR** are welcome!
+Before adding a pull request, please see the **[contributing guidelines](CONTRIBUTING.md)**. All **suggestions/PR** are welcome!
 
 ## :gift_heart: &nbsp;Support
 
-If this project is useful and important for you or if you really like _the-book-of-secret-knowledge_, you can bring me **more positive energy**, give me some **good words** or **support this project** more. Thank you!
+If this project is useful and important for you or if you really like _the-book-of-secret-knowledge_, you can bring **positive energy** by giving some **good words** or **supporting this project**. Thank you!
 
 ## :ballot_box_with_check: &nbsp;Todo
 
