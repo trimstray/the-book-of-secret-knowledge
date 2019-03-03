@@ -658,6 +658,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://medium.com/@_bl4de/hidden-directories-and-files-as-a-source-of-sensitive-information-about-web-application-84e5c534e5ad"><b>Hidden directories and files</b></a> - as a source of sensitive information about web application.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.catb.org/esr/faqs/hacker-howto.html"><b>How To Become A Hacker</b></a> - if you want to be a hacker, keep reading.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://ithare.com/infographics-operation-costs-in-cpu-clock-cycles/"><b>Operation Costs in CPU</b></a> - an infographics which should help to estimate costs of certain operations in CPU clocks.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://dfir.it/blog/2015/08/12/webshell-every-time-the-same-purpose/"><b>Webshells</b></a> - great series about malicious payloads.<br>
 </p>
 
 #### Inspiring Lists &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
