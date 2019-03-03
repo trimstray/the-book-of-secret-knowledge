@@ -579,6 +579,7 @@ performance of any of your sites from across the globe.<br>
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://awesome-python.com/"><b>Awesome Python</b></a> - a curated list of awesome Python frameworks, libraries, software and resources.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/gto76/python-cheatsheet"><b>python-cheatsheet</b></a> - comprehensive Python cheatsheet.<br>
 </p>
 
 ##### :black_small_square: Sed & Awk & Other
