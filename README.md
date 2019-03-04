@@ -239,6 +239,7 @@ Only main chapters:
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://inotify.aiken.cz/"><b>incron</b></a> - is an inode-based filesystem notification technology.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rgburke/grv"><b>GRV</b></a> - is a terminal based interface for viewing Git repositories.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://jonas.github.io/tig/"><b>Tig</b></a> - text-mode interface for Git.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/tldr-pages/tldr"><b>tldr</b></a> - simplified and community-driven man pages.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/tj/commander.js/"><b>commander.js</b></a> - minimal CLI creator in JavaScript.<br>
 </p>
@@ -683,6 +684,7 @@ performance of any of your sites from across the globe.<br>
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/thedaviddias/Front-End-Checklist"><b>Front-End-Checklist</b></a> - the perfect Front-End Checklist for modern websites and meticulous developers.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://rszalski.github.io/magicmethods/"><b>Python's Magic Methods</b></a> - what are magic methods? They're everything in object-oriented Python.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/satwikkansal/wtfpython"><b>wtfpython</b></a> - a collection of surprising Python snippets and lesser-known features.<br>
 </p>
 
 ##### :black_small_square: Security/Pentesting
@@ -997,6 +999,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
   * [openssl](#tool-openssl)
   * [secure-delete](#tool-secure-delete)
   * [dd](#tool-dd)
+  * [gpg](#tool-gpg)
 - **[HTTP/HTTPS](#http-https)**
   * [curl](#tool-curl)
   * [httpie](#tool-httpie)
@@ -1010,6 +1013,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
   * [nmap](#tool-nmap)
   * [netcat](#tool-netcat)
   * [socat](#tool-socat)
+  * [p0f](#tool-p0f)
   * [gnutls-cli](#tool-gnutls-cli)
   * [lsof](#tool-lsof)
   * [netstat](#tool-netstat)
@@ -1019,6 +1023,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
   * [certbot](#tool-certbot)
   * [network-other](#tool-network-other)
 - **[Programming](#programming)**
+  * [git](#tool-git)
   * [awk](#tool-awk)
   * [sed](#tool-sed)
   * [grep](#tool-grep)
@@ -1290,6 +1295,12 @@ find . -type f -exec stat --format '%Y :%y %n' "{}" \; | sort -nr | cut -d: -f2-
 
 ```bash
 find . -not -path '*/\.git*' -type f -print0 | xargs -0 sed -i 's/foo/bar/g'
+```
+
+###### Recursively find suid executables
+
+```bash
+find / \( -perm -4000 -o -perm -2000 \) -type f -exec ls -la {} \;
 ```
 
 ___
@@ -1776,6 +1787,46 @@ watch --interval 5 killall -USR1 dd
 ```bash
 echo "string" | dd of=filename
 ```
+
+___
+
+##### Tool: [gpg](https://www.gnupg.org/)
+
+###### Export public key
+
+```bash
+gpg --export --armor "<username>" > username.pkey
+```
+
+  * `--export` - export all keys from all keyrings or specific key
+  * `-a|--armor` - create ASCII armored output
+
+###### Encrypt file
+
+```bash
+gpg -e -r "<username>" dump.sql
+```
+
+  * `-e|--encrypt` - encrypt data
+  * `-r|--recipient` - encrypt for specific <username>
+
+###### Decrypt file
+
+```bash
+gpg -o dump.sql -d dump.sql.gpg
+```
+
+  * `-o|--output` - use as output file
+  * `-d|--decrypt` - decrypt data (default)
+
+###### Search recipient
+
+```bash
+gpg --keyserver hkp://keyserver.ubuntu.com --search-keys "<username>"
+```
+
+  * `--keyserver` - set specific key server
+  * `--search-keys` - search for keys on a key server
 
 <a name="http-https"><b>HTTP/HTTPS</b></a>
 
@@ -2498,6 +2549,21 @@ socat TCP-LISTEN:1234,bind=127.0.0.1,reuseaddr,fork,su=nobody,range=127.0.0.0/8 
 
 ___
 
+##### Tool: [p0f](http://lcamtuf.coredump.cx/p0f3/)
+
+###### Set iface in promiscuous mode and dump traffic to the log file
+
+```bash
+p0f -i enp0s25 -p -d -o /dump/enp0s25.log
+```
+
+  * `-i` - listen on the specified interface
+  * `-p` - set interface in promiscuous mode
+  * `-d` - fork into background
+  * `-o` - output file
+
+___
+
 ##### Tool: [lsof](https://en.wikipedia.org/wiki/Lsof)
 
 ###### Show process that use internet connection at the moment
@@ -2687,6 +2753,20 @@ _dname="google.com" ; curl -s "https://dns.google.com/resolve?name=${_dname}&typ
 
 <a name="programming"><b>Programming</b></a>
 
+##### Tool: [git](https://git-scm.com/)
+
+###### Log alias for a decent view of your repo
+
+```bash
+# 1)
+git log --oneline --decorate --graph --all
+
+# 2)
+git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+```
+
+___
+
 ##### Tool: [python](https://www.python.org/)
 
 ###### Static HTTP web server
@@ -2728,6 +2808,18 @@ httpd.socket = ssl.wrap_socket (httpd.socket,
         certfile='path/to/cert.pem', server_side=True)
 
 httpd.serve_forever()
+```
+
+###### Encode base64
+
+```bash
+python -m base64 -e <<< "sample string"
+```
+
+###### Decode base64
+
+```bash
+python -m base64 -d <<< "dGhpcyBpcyBlbmNvZGVkCg=="
 ```
 
 ##### Tool: [awk](http://www.grymoire.com/Unix/Awk.html)
