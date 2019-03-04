@@ -2904,6 +2904,11 @@ egrep -v '#|^$' filename
 
 #### Shell functions &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
 
+##### Table of Contents
+
+- [Domain resolve](#domain-resolve)
+- [Get ASN](#get-asn)
+
 ###### Domain resolve
 
 ```bash
