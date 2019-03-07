@@ -170,7 +170,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/OJ/gobuster"><b>gobuster</b></a> - free and open source directory/file & DNS busting tool written in Go.<br>
 </p>
 
-##### :black_small_square: SSL/Security
+##### :black_small_square: SSL
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.openssl.org/"><b>openssl</b></a> - is a robust, commercial-grade, and full-featured toolkit for the TLS and SSL protocols.<br>
@@ -184,9 +184,19 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/FiloSottile/mkcert"><b>mkcert</b></a> - simple zero-config tool to make locally trusted development certificates with any names you'd like.<br>
 </p>
 
+##### :black_small_square: Security
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/5/html/deployment_guide/ch-selinux"><b>SELinux</b></a> - provides a flexible Mandatory Access Control (MAC) system built into the Linux kernel.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://wiki.ubuntu.com/AppArmor"><b>AppArmor</b></a> - proactively protects the operating system and applications from external or internal threats.<br>
+</p>
+
 ##### :black_small_square: Auditing Tools
 
 <p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.ossec.net/"><b>ossec</b></a> - actively monitoring all aspects of system activity with file integrity monitoring.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/security_guide/chap-system_auditing"><b>auditd</b></a> - provides a way to track security-relevant information on your system.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.nongnu.org/tiger/"><b>Tiger</b></a> - is a security tool that can be use both as a security audit and intrusion detection system.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://cisofy.com/lynis/"><b>Lynis</b></a> - battle-tested security tool for systems running Linux, macOS, or Unix-based operating system.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rebootuser/LinEnum"><b>LinEnum</b></a> - scripted Local Linux Enumeration & Privilege Escalation Checks.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/installation/rkhunter"><b>Rkhunter</b></a> - scanner tool for Linux systems that scans backdoors, rootkits and local exploits on your systems.<br>
