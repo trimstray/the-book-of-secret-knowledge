@@ -160,7 +160,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://gitlab.com/davidjpeacock/kurly"><b>kurly</b></a> - is an alternative to the widely popular curl program, written in Golang.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jkbrzt/httpie"><b>HTTPie</b></a> - a user-friendly HTTP client.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/asciimoo/wuzz"><b>wuzz</b></a> - interactive cli tool for HTTP inspection.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/trimstray/htrace.sh"><b>htrace.sh</b></a> - shell script to debugging http/https; ssllabs, mozilla observatory, testssl.sh and nmap nse support.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/trimstray/htrace.sh"><b>htrace.sh</b></a> - simple Swiss Army knife for http/https troubleshooting and profiling.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/reorx/httpstat"><b>httpstat</b></a> - visualizes curl statistics in a way of beauty and clarity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://lynx.browser.org/"><b>Lynx</b></a> - is a text browser for the World Wide Web.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.joedog.org/siege-home/"><b>siege</b></a> - is an http load testing and benchmarking utility.<br>
