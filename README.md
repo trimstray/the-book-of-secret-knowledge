@@ -2899,6 +2899,16 @@ fgrep "pattern" * -R
 grep . filename > newfilename
 ```
 
+###### Show only for multiple patterns
+
+```bash
+grep 'INFO*'\''WARN' filename
+grep 'INFO\|WARN' filename
+grep -e INFO -e WARN filename
+grep -E '(INFO|WARN)' filename
+egrep "INFO|WARN" filename
+```
+
 ###### Except multiple patterns
 
 ```bash
