@@ -2645,13 +2645,8 @@ ___
 ###### Graph # of connections for each hosts
 
 ```bash
-netstat -an | \
-grep ESTABLISHED | \
-awk '{print $5}' | \
-awk -F: '{print $1}' | \
-grep -v -e '^[[:space:]]*$' | \
-sort | uniq -c | \
-awk '{ printf("%s\t%s\t",$2,$1) ; for (i = 0; i < $1; i++) {printf("*")}; print "" }'
+netstat -an | awk '/ESTABLISHED/ { split($5,ip,":"); if (ip[1] !~ /^$/) print ip[1] }' | \
+sort | uniq -c | awk '{ printf("%s\t%s\t",$2,$1) ; for (i = 0; i < $1; i++) {printf("*")}; print "" }'
 ```
 
 ###### Monitor open connections for specific port including listen, count and sort it per IP
