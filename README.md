@@ -830,14 +830,17 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://bezpieka.org/polski-slownik-premium-polish-wordlist"><b>Polish PREMIUM Dictionary</b></a> - official dictionary created by the team on the forum bezpieka.org.<br>
 </p>
 
-##### :black_small_square: Bounty programs
+##### :black_small_square: Bounty platforms
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://bountyfactory.io/"><b>Bounty Factory</b></a> - European bug bounty platform based on the legislation and rules in force in European countries.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.openbugbounty.org/"><b>Openbugbounty</b></a> - allows any security researcher reporting a vulnerability on any website.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hackerone.com/"><b>hackerone</b></a> - global hacker community to surface the most relevant security issues.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.bugcrowd.com/"><b>bugcrowd</b></a> - crowdsourced cybersecurity for the enterprise.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://crowdshield.com/"><b>Crowdshield</b></a> - crowdsourced Security & Bug Bounty Management.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://crowdshield.com/"><b>Crowdshield</b></a> - crowdsourced security & bug bounty management.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.synack.com/"><b>Synack</b></a> - crowdsourced security & bug bounty programs, crowd security intelligence platform and more.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://hacktrophy.com/en/"><b>Hacktrophy</b></a> - bug bounty platform.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.yeswehack.com/en/index.html"><b>YesWeHack</b></a> - bug bounty platform with infosec jobs.<br>
 </p>
 
 ##### :black_small_square: Web Training Apps (local installation)
@@ -854,6 +857,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/appsecco/dvna"><b>dvna</b></a> - damn vulnerable NodeJS application.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://google-gruyere.appspot.com/"><b>Google Gruyere</b></a> - web application exploits and defenses.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/amolnaik4/bodhi"><b>Bodhi</b></a> - is a playground focused on learning the exploitation of client-side web vulnerabilities.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://websploit.h4cker.org/"><b>Websploit</b></a> - single vm lab with the purpose of combining several vulnerable appliations in one environment.<br>
 </p>
 
 ##### :black_small_square: Labs (ethical hacking platforms/trainings/CTFs)
