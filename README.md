@@ -838,6 +838,9 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hackerone.com/"><b>hackerone</b></a> - global hacker community to surface the most relevant security issues.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.bugcrowd.com/"><b>bugcrowd</b></a> - crowdsourced cybersecurity for the enterprise.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://crowdshield.com/"><b>Crowdshield</b></a> - crowdsourced Security & Bug Bounty Management.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.synack.com/"><b>Synack</b></a> - crowdsourced Security & Bug Bounty.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://hacktrophy.com/en/"><b>Hacktrophy</b></a> - Bug Bounty Platform.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.yeswehack.com/en/index.html"><b>YesWeHack</b></a> - Bug Bounty Platform.<br>
 </p>
 
 ##### :black_small_square: Web Training Apps (local installation)
