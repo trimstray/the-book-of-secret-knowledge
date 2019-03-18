@@ -1017,6 +1017,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
   * [who](#tool-who)
   * [last](#tool-last)
   * [screen](#tool-screen)
+  * [script](#tool-script)
   * [du](#tool-du)
   * [inotifywait](#tool-inotifywait)
   * [openssl](#tool-openssl)
@@ -1552,6 +1553,24 @@ ___
 
 ```bash
 screen -d -m [<command>]
+```
+
+___
+
+##### Tool: [script](https://en.wikipedia.org/wiki/Script_(Unix))
+
+###### Record and replay terminal session
+
+```bash
+### Record session
+# 1)
+script -t 2>~/session.time -a ~/session.log
+
+# 2)
+script --timing=session.time session.log
+
+### Replay session
+scriptreplay --timing=session.time session.log
 ```
 
 ___
