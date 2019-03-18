@@ -1023,6 +1023,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
   * [secure-delete](#tool-secure-delete)
   * [dd](#tool-dd)
   * [gpg](#tool-gpg)
+  * [system-other](#tool-system-other)
 - **[HTTP/HTTPS](#http-https)**
   * [curl](#tool-curl)
   * [httpie](#tool-httpie)
@@ -1850,6 +1851,22 @@ gpg --keyserver hkp://keyserver.ubuntu.com --search-keys "<username>"
 
   * `--keyserver` - set specific key server
   * `--search-keys` - search for keys on a key server
+
+___
+
+##### Tool: [system-other](https://github.com/trimstray/the-book-of-secret-knowledge#tool-system-other)
+
+###### Reboot system from init
+
+```bash
+exec /sbin/init 6
+```
+
+###### Init system from single user mode
+
+```bash
+exec /sbin/init
+```
 
 <a name="http-https"><b>HTTP/HTTPS</b></a>
 
