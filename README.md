@@ -936,6 +936,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://calomel.org/unbound_dns.html"><b>Unbound DNS Tutorial</b></a> - a validating, recursive, and caching DNS server.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.ctrl.blog/entry/knot-dns-resolver-tutorial"><b>Knot Resolver on Fedora</b></a> - how to get faster and more secure DNS resolution with Knot Resolver on Fedora.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.aaflalo.me/2018/10/tutorial-setup-dns-over-https-server/"><b>DNS-over-HTTPS</b></a> - tutorial to setup your own DNS-over-HTTPS (DoH) server.<br>
+    &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.aaflalo.me/2019/03/dns-over-tls/"><b>DNS-over-TLS</b></a> - Following to your DoH server, setup your DNS-over-TLS (DoT) server.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://zwischenzugs.com/2018/01/26/how-and-why-i-run-my-own-dns-servers/"><b>DNS Servers</b></a> - how (and why) i run my own DNS Servers.<br>
 </p>
 
