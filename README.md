@@ -167,6 +167,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/asciimoo/wuzz"><b>wuzz</b></a> - interactive cli tool for HTTP inspection.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/trimstray/htrace.sh"><b>htrace.sh</b></a> - simple Swiss Army knife for http/https troubleshooting and profiling.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/reorx/httpstat"><b>httpstat</b></a> - visualizes curl statistics in a way of beauty and clarity.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/gchaincl/httplab"><b>httplab</b></a> - the interactive web server.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://lynx.browser.org/"><b>Lynx</b></a> - is a text browser for the World Wide Web.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.joedog.org/siege-home/"><b>siege</b></a> - is an http load testing and benchmarking utility.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/wg/wrk"><b>wrk</b></a> - is a modern HTTP benchmarking tool capable of generating significant load.<br>
@@ -713,6 +714,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/caesar0301/awesome-pcaptools"><b>Awesome Pcaptools</b></a> - collection of tools developed by other researchers to process network traces.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/leandromoreira/linux-network-performance-parameters"><b>Linux Network Performance</b></a> - learn where some of the network sysctl variables fit into the Linux/Kernel network flow.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dhamaniasad/awesome-postgres"><b>Awesome Postgres</b></a> - list of awesome PostgreSQL software, libraries, tools and resources.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/enochtangg/quick-SQL-cheatsheet"><b>quick-SQL-cheatsheet</b></a> - a quick reminder of all SQL queries and examples on how to use them.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Kickball/awesome-selfhosted"><b>Awesome-Selfhosted</b></a> - list of Free Software network services and web applications which can be hosted locally.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/kelseyhightower/kubernetes-the-hard-way"><b>kubernetes-the-hard-way</b></a> - bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jamesward/kubernetes-the-easy-way"><b>kubernetes-the-easy-way</b></a> - bootstrap Kubernetes the easy way on Google Cloud Platform. No scripts.<br>
@@ -792,6 +794,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/s0md3v/Photon"><b>Photon</b></a> - incredibly fast crawler designed for OSINT.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/s0md3v/XSStrike"><b>XSStrike</b></a> - most advanced XSS detection suite.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/1N3/Sn1per"><b>Sn1per</b></a> - automated pentest framework for offensive security experts.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Ekultek/WhatWaf"><b>WhatWaf</b></a> - detect and bypass web application firewalls and protection systems.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.openwall.com/john/"><b>John The Ripper</b></a> - is a fast password cracker, currently available for many flavors of Unix, Windows, and other.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://hashcat.net/hashcat/"><b>hashcat</b></a> - world's fastest and most advanced password recovery utility.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://lcamtuf.coredump.cx/p0f3/"><b>p0f</b></a> - is a tool to identify the players behind any incidental TCP/IP communications.<br>
@@ -881,6 +884,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://google-gruyere.appspot.com/"><b>Google Gruyere</b></a> - web application exploits and defenses.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/amolnaik4/bodhi"><b>Bodhi</b></a> - is a playground focused on learning the exploitation of client-side web vulnerabilities.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://websploit.h4cker.org/"><b>Websploit</b></a> - single vm lab with the purpose of combining several vulnerable appliations in one environment.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/vulhub/vulhub"><b>vulhub</b></a> - pre-built Vulnerable Environments based on docker-compose<br>
 </p>
 
 ##### :black_small_square: Labs (ethical hacking platforms/trainings/CTFs)
