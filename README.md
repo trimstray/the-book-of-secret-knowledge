@@ -373,6 +373,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://findsubdomains.com/"><b>Find subdomains online</b></a> - find subdomains for security assessment penetration test.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://dnsdumpster.com/"><b>DNSdumpster</b></a> - dns recon & research, find & lookup dns records.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://dnstable.com/"><b>DNS Table online</b></a> - search for DNS records by domain, IP, CIDR, ISP.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://www.zonecut.net/dns/"><b>DNS Bajaj</b></a> - check the delegation of your domain.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://ptrarchive.com/"><b>PTRarchive.com</b></a> - this site is responsible for the safekeeping of historical reverse DNS records.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://xip.io/"><b>xip.io</b></a> - wildcard DNS for everyone.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://intodns.com/"><b>intoDNS</b></a> - DNS and mail server health checker.<br>
