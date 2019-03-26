@@ -1033,6 +1033,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
   * [terminal](#tool-terminal)
   * [mount](#tool-mount)
   * [fuser](#tool-fuser)
+  * [lsof](#tool-lsof)
   * [ps](#tool-ps)
   * [top](#tool-top)
   * [strace](#tool-strace)
@@ -1068,7 +1069,6 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
   * [socat](#tool-socat)
   * [p0f](#tool-p0f)
   * [gnutls-cli](#tool-gnutls-cli)
-  * [lsof](#tool-lsof)
   * [netstat](#tool-netstat)
   * [rsync](#tool-rsync)
   * [host](#tool-host)
@@ -1251,6 +1251,66 @@ fuser -k filename
 
 ```bash
 fuser -v 53/udp
+```
+
+___
+
+##### Tool: [lsof](https://en.wikipedia.org/wiki/Lsof)
+
+###### Show process that use internet connection at the moment
+
+```bash
+lsof -P -i -n
+```
+
+###### Show process that use specific port number
+
+```bash
+lsof -i tcp:443
+```
+
+###### Lists all listening ports together with the PID of the associated process
+
+```bash
+lsof -Pan -i tcp -i udp
+```
+
+###### List all open ports and their owning executables
+
+```bash
+lsof -i -P | grep -i "listen"
+```
+
+###### Show all open ports
+
+```bash
+lsof -Pnl -i
+```
+
+###### Show open ports (LISTEN)
+
+```bash
+lsof -Pni4 | grep LISTEN | column -t
+```
+
+###### List all files opened by a particular command
+
+```bash
+lsof -c "process"
+```
+
+###### View user activity per directory
+
+```bash
+lsof -u username -a +D /etc
+```
+
+###### Show 10 largest open files
+
+```bash
+lsof / | \
+awk '{ if($7 > 1048576) print $7/1048576 "MB" " " $9 " " $1 }' | \
+sort -n -u | tail | column -t
 ```
 
 ___
@@ -2641,66 +2701,6 @@ p0f -i enp0s25 -p -d -o /dump/enp0s25.log
   * `-p` - set interface in promiscuous mode
   * `-d` - fork into background
   * `-o` - output file
-
-___
-
-##### Tool: [lsof](https://en.wikipedia.org/wiki/Lsof)
-
-###### Show process that use internet connection at the moment
-
-```bash
-lsof -P -i -n
-```
-
-###### Show process that use specific port number
-
-```bash
-lsof -i tcp:443
-```
-
-###### Lists all listening ports together with the PID of the associated process
-
-```bash
-lsof -Pan -i tcp -i udp
-```
-
-###### List all open ports and their owning executables
-
-```bash
-lsof -i -P | grep -i "listen"
-```
-
-###### Show all open ports
-
-```bash
-lsof -Pnl -i
-```
-
-###### Show open ports (LISTEN)
-
-```bash
-lsof -Pni4 | grep LISTEN | column -t
-```
-
-###### List all files opened by a particular command
-
-```bash
-lsof -c "process"
-```
-
-###### View user activity per directory
-
-```bash
-lsof -u username -a +D /etc
-```
-
-###### Show 10 largest open files
-
-```bash
-lsof / | \
-awk '{ if($7 > 1048576) print $7/1048576 "MB" " " $9 " " $1 }' | \
-sort -n -u | tail | column -t
-```
 
 ___
 
