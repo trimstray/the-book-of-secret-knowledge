@@ -1030,7 +1030,6 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 
 ##### Table of Contents
 
-- **[System](#system)**
   * [terminal](#tool-terminal)
   * [mount](#tool-mount)
   * [fuser](#tool-fuser)
@@ -1056,10 +1055,8 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
   * [dd](#tool-dd)
   * [gpg](#tool-gpg)
   * [system-other](#tool-system-other)
-- **[HTTP/HTTPS](#http-https)**
   * [curl](#tool-curl)
   * [httpie](#tool-httpie)
-- **[Network](#network)**
   * [ssh](#tool-ssh)
   * [linux-dev](#tool-linux-dev)
   * [tcpdump](#tool-tcpdump)
@@ -1078,13 +1075,10 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
   * [dig](#tool-dig)
   * [certbot](#tool-certbot)
   * [network-other](#tool-network-other)
-- **[Programming](#programming)**
   * [git](#tool-git)
   * [awk](#tool-awk)
   * [sed](#tool-sed)
   * [grep](#tool-grep)
-
-<a name="system"><b>System</b></a>
 
 ##### Tool: [terminal](https://en.wikipedia.org/wiki/Linux_console)
 
@@ -1918,8 +1912,6 @@ exec /sbin/init 6
 exec /sbin/init
 ```
 
-<a name="http-https"><b>HTTP/HTTPS</b></a>
-
 ##### Tool: [curl](https://curl.haxx.se)
 
 ```bash
@@ -2010,8 +2002,6 @@ http -p Hh --follow --max-redirects 5 --verify no --proxy http:http://127.0.0.1:
 ```
 
   * `--proxy [http:]` - set proxy server
-
-<a name="network"><b>Network</b></a>
 
 ##### Tool: [ssh](https://www.openssh.com/)
 
@@ -2835,8 +2825,6 @@ sed 's/allow  */subnet -> /g'
 ```bash
 _dname="google.com" ; curl -s "https://dns.google.com/resolve?name=${_dname}&type=A" | jq .
 ```
-
-<a name="programming"><b>Programming</b></a>
 
 ##### Tool: [git](https://git-scm.com/)
 
