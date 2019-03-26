@@ -1253,6 +1253,12 @@ fuser -k filename
 fuser -v 53/udp
 ```
 
+###### Show all processes using the named filesystems or block device
+
+```bash
+fuser -mv /var/www
+```
+
 ___
 
 ##### Tool: [lsof](https://en.wikipedia.org/wiki/Lsof)
