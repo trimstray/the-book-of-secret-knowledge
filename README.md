@@ -1451,7 +1451,7 @@ timeout 30 strace $(< /var/run/zabbix/zabbix_agentd.pid)
 ###### Track child process and redirect output to a file
 
 ```bash
-ps auxw | grep 'sbin/[a]pache' | awk '{print " -p " $2}' | xargs strace -o /tmp/strace-apache-proc.out
+ps auxw | grep '[a]pache' | awk '{print " -p " $2}' | xargs strace -o /tmp/strace-apache-proc.out
 ```
 
 ###### Track the open request of a network port
