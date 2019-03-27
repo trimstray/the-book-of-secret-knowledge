@@ -1438,23 +1438,29 @@ ___
 
 ##### Tool: [strace](https://en.wikipedia.org/wiki/Strace)
 
-###### Track child process
+###### Track with child processes
 
 ```bash
 strace -f -p $(pidof glusterfsd)
 ```
 
-###### Track process after 30 seconds
+###### Track process with 30 seconds limit
 
 ```bash
 timeout 30 strace $(< /var/run/zabbix/zabbix_agentd.pid)
 ```
 
-###### Track child process and redirect output to a file
+###### Track processes and redirect output to a file
 
 ```bash
 ps auxw | grep '[a]pache' | awk '{print " -p " $2}' | xargs strace -o /tmp/strace-apache-proc.out
 ```
+
+###### Track with print time spent in each syscall and limit length of print strings
+
+```bash
+ ps auxw | grep '[i]init_policy' | awk '{print " -p " $2}' | xargs strace -f -e trace=network -T -s 10000
+ ```
 
 ###### Track the open request of a network port
 
