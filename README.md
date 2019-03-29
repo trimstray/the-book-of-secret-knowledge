@@ -706,6 +706,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://about.gitlab.com/2018/11/14/how-we-spent-two-weeks-hunting-an-nfs-bug/"><b>Gitlab and NFS bug</b></a> - how we spent two weeks hunting an NFS bug in the Linux kernel.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.catb.org/esr/faqs/hacker-howto.html"><b>How To Become A Hacker</b></a> - if you want to be a hacker, keep reading.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://ithare.com/infographics-operation-costs-in-cpu-clock-cycles/"><b>Operation Costs in CPU</b></a> - an infographics which should help to estimate costs of certain operations in CPU clocks.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://cstack.github.io/db_tutorial/"><b>Let's Build a Simple Database</b></a> - writing a sqlite clone from scratch in C.<br>
 </p>
 
 #### Inspiring Lists &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
