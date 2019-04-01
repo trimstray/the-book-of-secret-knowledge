@@ -1328,7 +1328,7 @@ awk '{ if($7 > 1048576) print $7/1048576 "MB" " " $9 " " $1 }' | \
 sort -n -u | tail | column -t
 ```
 
-###### Get the path of a process
+###### Show current working directory of a process
 
 ```bash
 lsof -p <PID> | grep cwd
@@ -1350,7 +1350,7 @@ ps awwfux | less -S
 ps hax -o user | sort | uniq -c | sort -r
 ```
 
-###### Show all processes by name with ps main header
+###### Show all processes by name with main header
 
 ```bash
 ps -lfC nginx
@@ -2005,7 +2005,7 @@ exec /sbin/init 6
 exec /sbin/init
 ```
 
-###### Show the PID's current working directory
+###### Show current working directory of a process
 
 ```bash
 readlink -f /proc/<PID>/cwd
