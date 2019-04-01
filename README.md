@@ -2005,12 +2005,15 @@ exec /sbin/init 6
 exec /sbin/init
 ```
 
-###### Get the path of a process
+###### Show the PID's current working directory
 
 ```bash
-# Alternatives:
-#   - pwdx command
-#   - lsof command
+readlink -f /proc/<PID>/cwd
+```
+
+###### Show actual pathname of the executed command
+
+```bash
 readlink -f /proc/<PID>/exe
 ```
 
