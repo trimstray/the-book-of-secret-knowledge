@@ -485,7 +485,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://malc0de.com/database/"><b>malc0de</b></a> - malware search engine.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://cybercrime-tracker.net/index.php"><b>Cybercrime Tracker</b></a> - monitors and tracks various malware families that are used to perpetrate cyber crimes.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://nerdydata.com/"><b>NerdyData</b></a> - search source code across 65 million websites.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://searchcode.com/"><b>searchcode</b></a> - helping you find real world examples of functions, API's and libraries over 90 languages across 10+ sources.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://searchcode.com/"><b>searchcode</b></a> - helping you find real world examples of functions, API's and libraries.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.insecam.org/"><b>Insecam</b></a> - the world biggest directory of online surveillance security cameras.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://index-of.es/"><b>index-of</b></a> - contains great stuff like: security, hacking, reverse engineering, cryptography, programming etc.<br>
 </p>
