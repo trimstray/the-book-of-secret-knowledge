@@ -1445,6 +1445,12 @@ find . -type f -exec stat --format '%Y :%y %n' "{}" \; | sort -nr | cut -d: -f2-
 find . -not -path '*/\.git*' -type f -print0 | xargs -0 sed -i 's/foo/bar/g'
 ```
 
+###### Recursively find/replace of a string in directories and file names
+
+```bash
+find . -depth -name '*test*' -execdir bash -c 'mv -v "$1" "${1//foo/bar}"' _ {} \;
+```
+
 ###### Recursively find suid executables
 
 ```bash
