@@ -1490,7 +1490,8 @@ timeout 30 strace $(< /var/run/zabbix/zabbix_agentd.pid)
 ###### Track processes and redirect output to a file
 
 ```bash
-ps auxw | grep '[a]pache' | awk '{print " -p " $2}' | xargs strace -o /tmp/strace-apache-proc.out
+ps auxw | grep '[a]pache' | awk '{print " -p " $2}' | \
+xargs strace -o /tmp/strace-apache-proc.out
 ```
 
 ###### Track with print time spent in each syscall and limit length of print strings
@@ -1679,7 +1680,8 @@ ___
 ###### Was the last reboot a panic?
 
 ```bash
-(last -x -f $(ls -1t /var/log/wtmp* | head -2 | tail -1); last -x -f /var/log/wtmp) | grep -A1 reboot | head -2 | grep -q shutdown && echo "Expected reboot" || echo "Panic reboot"
+(last -x -f $(ls -1t /var/log/wtmp* | head -2 | tail -1); last -x -f /var/log/wtmp) | \
+grep -A1 reboot | head -2 | grep -q shutdown && echo "Expected reboot" || echo "Panic reboot"
 ```
 
 ___
@@ -1894,7 +1896,8 @@ openssl pkey -in ${_fd} -pubout -out ${_fd_pub} )
 
 ```bash
 # _curve: prime256v1, secp521r1, secp384r1
-( _fd="domain.com.key" ; _fd_csr="domain.com.csr" ; _curve="prime256v1" ; openssl ecparam -out ${_fd} -name ${_curve} -genkey ; openssl req -new -key ${_fd} -out ${_fd_csr} -sha256 )
+( _fd="domain.com.key" ; _fd_csr="domain.com.csr" ; _curve="prime256v1" ; \
+openssl ecparam -out ${_fd} -name ${_curve} -genkey ; openssl req -new -key ${_fd} -out ${_fd_csr} -sha256 )
 ```
 
 ###### Convert DER to PEM
@@ -1914,7 +1917,8 @@ openssl x509 -in ${_fd_pem} -outform der -out ${_fd_der} )
 ###### Checking whether the private key and the certificate match
 
 ```bash
-(openssl rsa -noout -modulus -in private.key | openssl md5 ; openssl x509 -noout -modulus -in certificate.crt | openssl md5) | uniq
+(openssl rsa -noout -modulus -in private.key | openssl md5 ; \
+openssl x509 -noout -modulus -in certificate.crt | openssl md5) | uniq
 ```
 
 ___
@@ -2122,7 +2126,8 @@ http -p Hh --follow --max-redirects 5 --verify no https://www.google.com
   * `--verify no` - skip SSL verification
 
 ```bash
-http -p Hh --follow --max-redirects 5 --verify no --proxy http:http://127.0.0.1:16379 https://www.google.com
+http -p Hh --follow --max-redirects 5 --verify no \
+--proxy http:http://127.0.0.1:16379 https://www.google.com
 ```
 
   * `--proxy [http:]` - set proxy server
@@ -2341,7 +2346,9 @@ tcpdump -i eth0 port 80 -X | sed -n -e '/username/,/=ldap/ p'
 ###### Grab user and pass ever plain http
 
 ```bash
-tcpdump -i eth0  port http -l -A | egrep -i 'pass=|pwd=|log=|login=|user=|username=|pw=|passw=|passwd=|password=|pass:|user:|username:|password:|login:|pass |user ' --color=auto --line-buffered -B20
+tcpdump -i eth0  port http -l -A | egrep -i \
+'pass=|pwd=|log=|login=|user=|username=|pw=|passw=|passwd=|password=|pass:|user:|username:|password:|login:|pass |user ' \
+--color=auto --line-buffered -B20
 ```
 
 ###### Extract HTTP User Agent from HTTP request header
@@ -2353,7 +2360,8 @@ tcpdump -ei eth0 -nn -A -s1500 -l | grep "User-Agent:"
 ###### Capture only HTTP GET and POST packets
 
 ```bash
-tcpdump -ei eth0 -s 0 -A -vv 'tcp[((tcp[12:1] & 0xf0) >> 2):4] = 0x47455420' or 'tcp[((tcp[12:1] & 0xf0) >> 2):4] = 0x504f5354'
+tcpdump -ei eth0 -s 0 -A -vv \
+'tcp[((tcp[12:1] & 0xf0) >> 2):4] = 0x47455420' or 'tcp[((tcp[12:1] & 0xf0) >> 2):4] = 0x504f5354'
 ```
 
 or simply:
@@ -2538,7 +2546,8 @@ _nmap_nse_scripts="+dns-brute,\
                    +whois-ip"
 
 # Set Nmap NSE script params:
-_nmap_nse_scripts_args="dns-brute.domain=${_hosts},http-cross-domain-policy.domain-lookup=true,http-waf-detect.aggro,http-waf-detect.detectBodyChanges,http-waf-fingerprint.intensive=1"
+_nmap_nse_scripts_args="dns-brute.domain=${_hosts},http-cross-domain-policy.domain-lookup=true,"
+_nmap_nse_scripts_args+="http-waf-detect.aggro,http-waf-detect.detectBodyChanges,http-waf-fingerprint.intensive=1"
 
 # Perform scan:
 nmap --script="$_nmap_nse_scripts" --script-args="$_nmap_nse_scripts_args" -p "$_ports" "$_hosts"
@@ -2899,7 +2908,9 @@ _dname="google.com" ; curl -s "https://dns.google.com/resolve?name=${_dname}&typ
 git log --oneline --decorate --graph --all
 
 # 2)
-git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+git log --graph \
+--pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' \
+--abbrev-commit
 ```
 
 ___
@@ -2976,7 +2987,8 @@ awk '{$1=$3=""}1' filename
 ###### Get the last hour of Apache logs
 
 ```bash
-awk '/'$(date -d "1 hours ago" "+%d\\/%b\\/%Y:%H:%M")'/,/'$(date "+%d\\/%b\\/%Y:%H:%M")'/ { print $0 }' /var/log/httpd/access_log
+awk '/'$(date -d "1 hours ago" "+%d\\/%b\\/%Y:%H:%M")'/,/'$(date "+%d\\/%b\\/%Y:%H:%M")'/ { print $0 }' \
+/var/log/httpd/access_log
 ```
 
 ___
@@ -3109,7 +3121,8 @@ function GetASN() {
   local _curl_base="curl --request GET"
   local _timeout="15"
 
-  _asn=$($_curl_base -ks -m "$_timeout" "http://ip-api.com/json/${_ip}" | python -c 'import sys, json; print json.load(sys.stdin)["as"]' 2>/dev/null)
+  _asn=$($_curl_base -ks -m "$_timeout" "http://ip-api.com/json/${_ip}" | \
+  python -c 'import sys, json; print json.load(sys.stdin)["as"]' 2>/dev/null)
 
   _state=$(echo $?)
 
