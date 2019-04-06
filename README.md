@@ -1897,7 +1897,8 @@ openssl pkey -in ${_fd} -pubout -out ${_fd_pub} )
 ```bash
 # _curve: prime256v1, secp521r1, secp384r1
 ( _fd="domain.com.key" ; _fd_csr="domain.com.csr" ; _curve="prime256v1" ; \
-openssl ecparam -out ${_fd} -name ${_curve} -genkey ; openssl req -new -key ${_fd} -out ${_fd_csr} -sha256 )
+openssl ecparam -out ${_fd} -name ${_curve} -genkey ; \
+openssl req -new -key ${_fd} -out ${_fd_csr} -sha256 )
 ```
 
 ###### Convert DER to PEM
