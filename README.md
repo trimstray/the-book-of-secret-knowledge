@@ -624,6 +624,11 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://pubs.opengroup.org/onlinepubs/9699919799/utilities/contents.html"><b>Shell & Utilities</b></a> - describes the commands and utilities offered to application programs by POSIX-conformant systems.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jlevy/the-art-of-command-line"><b>the-art-of-command-line</b></a> - master the command line, in one page.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://google.github.io/styleguide/shell.xml"><b>Shell Style Guide</b></a> - a shell style guide for Google-originated open-source projects.<br>
+</p>
+
+##### :black_small_square: Text Editors
+
+<p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://vim.rtorr.com/"><b>Vim Cheat Sheet</b></a> - great multi language vim guide.<br>
 </p>
 
