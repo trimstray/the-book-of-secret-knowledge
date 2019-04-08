@@ -1256,6 +1256,12 @@ for ((i=5; i<=10; ++i)) ; do printf '%02d\n' $i ; done
 # alternative: seq -w 5 10
 ```
 
+###### Simple Bash Filewatching
+
+```bash
+unset MAIL; export MAILCHECK=1; export MAILPATH='$FILE_TO_WATCH?$MESSAGE'
+```
+
 ___
 
 ##### Tool: [mount](https://en.wikipedia.org/wiki/Mount_(Unix))
