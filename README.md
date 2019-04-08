@@ -1513,8 +1513,9 @@ xargs strace -o /tmp/strace-apache-proc.out
 ###### Track with print time spent in each syscall and limit length of print strings
 
 ```bash
- ps auxw | grep '[i]init_policy' | awk '{print " -p " $2}' | xargs strace -f -e trace=network -T -s 10000
- ```
+ps auxw | grep '[i]init_policy' | awk '{print " -p " $2}' | \
+xargs strace -f -e trace=network -T -s 10000
+```
 
 ###### Track the open request of a network port
 
@@ -2564,7 +2565,8 @@ _nmap_nse_scripts="+dns-brute,\
 
 # Set Nmap NSE script params:
 _nmap_nse_scripts_args="dns-brute.domain=${_hosts},http-cross-domain-policy.domain-lookup=true,"
-_nmap_nse_scripts_args+="http-waf-detect.aggro,http-waf-detect.detectBodyChanges,http-waf-fingerprint.intensive=1"
+_nmap_nse_scripts_args+="http-waf-detect.aggro,http-waf-detect.detectBodyChanges,"
+_nmap_nse_scripts_args+="http-waf-fingerprint.intensive=1"
 
 # Perform scan:
 nmap --script="$_nmap_nse_scripts" --script-args="$_nmap_nse_scripts_args" -p "$_ports" "$_hosts"
