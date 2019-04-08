@@ -659,6 +659,7 @@ performance of any of your sites from across the globe.<br>
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/donnemartin/system-design-primer"><b>The System Design Primer</b></a> - learn how to design large-scale systems.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/binhnguyennus/awesome-scalability"><b>Awesome Scalability</b></a> - best practices in building High Scalability, High Availability, High Stability and more.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://engineering.videoblocks.com/web-architecture-101-a3224e126947?gi=a896808d22a"><b>Web Architecture 101</b></a> - the basic architecture concepts.<br>
 </p>
 
 ##### :black_small_square: System hardening
