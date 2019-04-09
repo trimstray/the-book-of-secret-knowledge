@@ -3079,7 +3079,7 @@ grep -v ^[[:space:]]*# filename
 egrep -v '#|^$' filename
 ```
 
-###### Show strings that begins with a dash/hyphen
+###### Show strings with a dash/hyphen
 
 ```bash
 grep -e -- filename
