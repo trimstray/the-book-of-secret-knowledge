@@ -3079,6 +3079,14 @@ grep -v ^[[:space:]]*# filename
 egrep -v '#|^$' filename
 ```
 
+###### Show strings that begins with a dash/hyphen
+
+```bash
+grep -e -- filename
+grep -- -- filename
+grep "\-\-" filename
+```
+
 #### Shell functions &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
 
 ##### Table of Contents
