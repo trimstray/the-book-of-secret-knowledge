@@ -1,6 +1,5 @@
 <p align="center">
-    <img src="https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/static/img/the-book-of-secret-knowledge-preview.png"
-        alt="Master">
+  <img src="https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/static/img/the-book-of-secret-knowledge-preview.png" alt="Master">
 </p>
 
 <p align="center">"<i>Knowledge is powerful, be careful how you use it!</i>"</p>
@@ -10,17 +9,11 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/trimstray/the-book-of-secret-knowledge/tree/master">
-    <img src="https://img.shields.io/badge/Branch-master-green.svg?longCache=true"
-        alt="Branch">
-  </a>
   <a href="https://github.com/trimstray/the-book-of-secret-knowledge/pulls">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true"
-        alt="Pull Requests">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests">
   </a>
   <a href="http://www.gnu.org/licenses/">
-    <img src="https://img.shields.io/badge/License-GNU-blue.svg?longCache=true"
-        alt="License">
+    <img src="https://img.shields.io/badge/License-GNU-blue.svg?longCache=true" alt="License">
   </a>
 </p>
 
