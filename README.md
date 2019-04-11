@@ -1,6 +1,5 @@
 <p align="center">
-    <img src="https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/static/img/the-book-of-secret-knowledge-preview.png"
-        alt="Master">
+  <img src="https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/static/img/the-book-of-secret-knowledge-preview.png" alt="Master">
 </p>
 
 <p align="center">"<i>Knowledge is powerful, be careful how you use it!</i>"</p>
@@ -10,17 +9,11 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/trimstray/the-book-of-secret-knowledge/tree/master">
-    <img src="https://img.shields.io/badge/Branch-master-green.svg?longCache=true"
-        alt="Branch">
-  </a>
   <a href="https://github.com/trimstray/the-book-of-secret-knowledge/pulls">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true"
-        alt="Pull Requests">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests">
   </a>
   <a href="http://www.gnu.org/licenses/">
-    <img src="https://img.shields.io/badge/License-GNU-blue.svg?longCache=true"
-        alt="License">
+    <img src="https://img.shields.io/badge/License-GNU-blue.svg?longCache=true" alt="License">
   </a>
 </p>
 
@@ -697,6 +690,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Santandersecurityresearch/asvs"><b>OWASP ASVS 3.0.1 Web App</b></a> - simple web app that helps developers understand the ASVS requirements.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/OWASP/ASVS/tree/master/4.0"><b>OWASP ASVS 4.0</b></a> - is a list of application security requirements or tests.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.owasp.org/index.php/OWASP_Testing_Project"><b>OWASP Testing Guide v4</b></a> - includes a "best practice" penetration testing framework.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/OWASP/DevGuide"><b>OWASP Dev Guide</b></a> - this is the development version of the OWASP Developer Guide.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://infosec.mozilla.org/guidelines/web_security.html"><b>Mozilla Web Security</b></a> - help operational teams with creating secure web applications.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://enable-cors.org/index.html"><b>Enable CORS</b></a> - enable cross-origin resource sharing.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://appsecwiki.com/#/"><b>Application Security Wiki</b></a> - is an initiative to provide all application security related resources at one place.<br>
@@ -847,6 +841,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/salesforce/vulnreport"><b>Vulnreport</b></a> - open-source pentesting management and automation platform by Salesforce Product Security.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/sc0tfree/mentalist"><b>Mentalist</b></a> - is a graphical tool for custom wordlist generation.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/archerysec/archerysec"><b>archerysec</b></a> - vulnerability assessment and management helps to perform scans and manage vulnerabilities.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/j3ssie/Osmedeus"><b>Osmedeus</b></a> - fully automated offensive security tool for reconnaissance and vulnerability scanning.<br>
 </p>
 
 ##### :black_small_square: Pentests bookmarks collection
@@ -883,7 +878,6 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/bl4de/ctf"><b>ctf</b></a> - CTF (Capture The Flag) writeups, code snippets, notes, scripts.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/OWASP/owasp-mstg"><b>MSTG</b></a> - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing.<br>
 </p>
-
 
 ##### :black_small_square: Wordlists and Weak passwords
 
@@ -952,6 +946,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://lab.pentestit.ru/"><b>Pentestit</b></a> - emulate IT infrastructures of real companies for legal pen testing and improving penetration testing skills.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://microcorruption.com/"><b>Microcorruption</b></a> - reversal challenges done in the web interface.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://crackmes.one/"><b>Crackmes</b></a> - download crackmes to help improve your reverse engineering skills.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://domgo.at/cxss/intro"><b>DomGoat</b></a> - DOM XSS security learning and practicing platform.<br>
 </p>
 
 ##### :black_small_square: Other resources
@@ -1254,6 +1249,14 @@ for ((i=1; i<=10; i+=2)) ; do echo $i ; done
 
 for ((i=5; i<=10; ++i)) ; do printf '%02d\n' $i ; done
 # alternative: seq -w 5 10
+
+for i in {1..10} ; do echo $i ; done
+```
+
+###### Simple Bash Filewatching
+
+```bash
+unset MAIL; export MAILCHECK=1; export MAILPATH='$FILE_TO_WATCH?$MESSAGE'
 ```
 
 ___
@@ -3077,6 +3080,14 @@ grep -v ^[[:space:]]*# filename
 
 ```bash
 egrep -v '#|^$' filename
+```
+
+###### Show strings with a dash/hyphen
+
+```bash
+grep -e -- filename
+grep -- -- filename
+grep "\-\-" filename
 ```
 
 #### Shell functions &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
