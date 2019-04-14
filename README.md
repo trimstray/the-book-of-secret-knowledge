@@ -75,6 +75,7 @@ Only main chapters:
 - **[Systems/Services](#systemsservices-toc)**
 - **[Networks](#networks-toc)**
 - **[Manuals/Howtos/Tutorials](#manualshowtostutorials-toc)**
+- **[Videos/Presentations](#videospresentations-toc)**
 - **[Inspiring Lists](#inspiring-lists-toc)**
 - **[Blogs](#blogs-toc)**
 - **[Hacking/Penetration Testing](#hackingpenetration-testing-toc)**
@@ -724,6 +725,21 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.catb.org/esr/faqs/hacker-howto.html"><b>How To Become A Hacker</b></a> - if you want to be a hacker, keep reading.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://ithare.com/infographics-operation-costs-in-cpu-clock-cycles/"><b>Operation Costs in CPU</b></a> - an infographics which should help to estimate costs of certain operations in CPU clocks.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://cstack.github.io/db_tutorial/"><b>Let's Build a Simple Database</b></a> - writing a sqlite clone from scratch in C.<br>
+</p>
+
+#### Videos/Presentations &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
+
+##### :black_small_square: SysOps/DevOps
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.youtube.com/watch?v=nAFpkV5-vuI"><b>Varnish for PHP developers</b></a> - very interesting presentation of varnish by Mattias Geniar.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.youtube.com/watch?v=nAFpkV5-vuI"><b>A Netflix Guide to Microservices</b></a> - Josh Evans talks about the chaotic and vibrant world of microservices at Netflix.<br>
+</p>
+
+##### :black_small_square: Other
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.youtube.com/watch?v=3QnD2c4Xovk"><b>Diffie-Hellman Key Exchange (short version)</b></a> - how Diffie-Hellman Key Exchange worked.<br>
 </p>
 
 #### Inspiring Lists &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
