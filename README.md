@@ -2124,6 +2124,32 @@ curl -Iks --location -X GET -A "x-agent" --proxy http://127.0.0.1:16379 https://
 
   * `--proxy [socks5://|http://]` - set proxy server
 
+```bash
+curl -o file.pdf -C - https://example.com/Aiju2goo0Ja2.pdf
+```
+
+  * `-o` - write output to file
+  * `-C` - resume the transfer
+
+###### Find your external IP address (external services)
+
+```bash
+curl ipinfo.io
+curl ipinfo.io/ip
+curl icanhazip.com
+curl ifconfig.me/ip ; echo
+```
+
+###### Repeat URL request
+
+```bash
+# URL sequence substitution with a dummy query string:
+curl -ks https://example.com/?[1-20]
+
+# With shell 'for' loop:
+for i in {1..20} ; do curl -ks https://example.com/ ; done
+```
+
 ###### Check DNS and HTTP trace with headers for specific domains
 
 ```bash
