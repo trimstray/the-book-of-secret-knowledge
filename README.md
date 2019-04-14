@@ -1183,6 +1183,25 @@ column -c3 -s " " -t | \
 sort -nr | nl |  head -n 20
 ```
 
+###### Sterilize bash history
+
+```bash
+function sterile() {
+    history | awk '$2 != "history" { $1=""; print $0 }' | egrep -vi "\
+curl\b+.*(-E|--cert)\b+.*\b*|\
+curl\b+.*--pass\b+.*\b*|\
+curl\b+.*(-U|--proxy-user).*:.*\b*|\
+curl\b+.*(-u|--user).*:.*\b*
+.*(-H|--header).*(token|auth.*)\b+.*|\
+wget\b+.*--.*password\b+.*\b*|\
+http.?://.+:.+@.*\
+" > $HOME/histbuff; history -r $HOME/histbuff;
+}
+
+export PROMPT_COMMAND="sterile"
+
+```
+
 ###### Quickly backup a file
 
 ```bash
