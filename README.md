@@ -652,6 +652,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/NanXiao/strace-little-book"><b>strace-little-book</b></a> - a little book which introduces strace.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/bagder/http2-explained"><b>http2-explained</b></a> - a detailed document explaining and documenting HTTP/2.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/bagder/http3-explained"><b>http3-explained</b></a> - a document describing the HTTP/3 and QUIC protocols.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://infosec.mozilla.org/guidelines/openssh"><b>openssh guideline</b></a> - is to help operational teams with the configuration of OpenSSH server and client.<br>
 </p>
 
 ##### :black_small_square: Large-scale systems
