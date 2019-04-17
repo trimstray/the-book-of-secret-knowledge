@@ -3067,7 +3067,19 @@ python -m base64 -d <<< "dGhpcyBpcyBlbmNvZGVkCg=="
 awk '!x[$0]++' filename
 ```
 
-###### Exclude multiple columns using AWK
+###### Print the last column
+
+```bash
+awk '{print $NF}' filename
+```
+
+###### Print multiple columns with separators
+
+```bash
+awk -F' ' '{print "ip:\t" $2 "\n port:\t" $3' filename
+```
+
+###### Exclude multiple columns
 
 ```bash
 awk '{$1=$3=""}1' filename
@@ -3101,6 +3113,36 @@ sed -i 10d /path/to/file
 
 ```bash
 sed -i <file> -re '<start>,<end>d'
+```
+
+###### Replace newline(s) with a space
+
+```bash
+sed ':a;N;$!ba;s/\n/ /g' /path/to/file
+
+# cross-platform compatible syntax:
+sed -e ':a' -e 'N' -e '$!ba' -e 's/\n/ /g' /path/to/file
+```
+
+- `:a` create a label 'a'
+- `N` append the next line to the pattern space
+- `$!` if not the last line, ba branch (go to) label 'a'
+- `s` substitute, `/\n/` regex for new line, `/ /` by a space, `/g` global match (as many times as it can)
+
+Alternatives:
+
+```bash
+# perl version (sed-like speed):
+perl -p -e 's/\n/ /' /path/to/file
+
+# bash version (slow):
+while read line ; do printf "%s" "$line " ; done < file
+```
+
+###### Delete string +N next lines
+
+```bash
+sed '/start/,+4d' /path/to/file
 ```
 
 ___
