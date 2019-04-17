@@ -1962,6 +1962,15 @@ openssl ecparam -out ${_fd} -name ${_curve} -genkey ; \
 openssl req -new -key ${_fd} -out ${_fd_csr} -sha256 )
 ```
 
+###### Generate self-signed certificate
+
+```bash
+# _len: 2048, 4096
+( _fd="domain.key" ; _fd_out="domain.crt" ; _len="4096" ; _days="365" ; \
+openssl req -newkey rsa:${_len} -nodes -keyout ${_fd} \
+-x509 -days ${_days} -out ${_fd_out} )
+```
+
 ###### Convert DER to PEM
 
 ```bash
