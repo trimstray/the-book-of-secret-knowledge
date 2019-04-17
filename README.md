@@ -31,7 +31,7 @@
 
 ## :notebook_with_decorative_cover: &nbsp;What is it?
 
-This list is a collection of various materials that I use every day in my work. It contains a lot of useful information gathered in one piece.
+This list is a collection of various materials and tools that I use every day in my work. It contains a lot of useful information gathered in one piece.
 
 ## :restroom: &nbsp;For whom?
 
