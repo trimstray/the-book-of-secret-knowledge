@@ -1225,8 +1225,8 @@ rm !(*.foo|*.bar|*.baz)
 ###### Pass multi-line string to a file
 
 ```bash
-# cat  >filename ... - overwrite file
-# cat >>filename ... - append to file
+# cat  >filename ... - overwrite the file
+# cat >>filename ... - append to a file
 cat > filename << __EOF__
 data data data
 __EOF__
@@ -1294,7 +1294,7 @@ for ((i=5; i<=10; ++i)) ; do printf '%02d\n' $i ; done
 for i in {1..10} ; do echo $i ; done
 ```
 
-###### Simple Bash Filewatching
+###### Simple Bash filewatching
 
 ```bash
 unset MAIL; export MAILCHECK=1; export MAILPATH='$FILE_TO_WATCH?$MESSAGE'
@@ -1323,11 +1323,28 @@ ___
 
 ##### Tool: [fuser](https://en.wikipedia.org/wiki/Fuser_(Unix))
 
+###### Show which processes use the files/directories
+
+```bash
+fuser /var/log/daemon.log
+fuser -v /home/supervisor
+```
+
 ###### Kills a process that is locking a file
 
 ```bash
-fuser -k filename
+fuser -ki filename
 ```
+
+  * `-i` - interactive option
+
+###### Kills a process that is locking a file with specific signal
+
+```bash
+fuser -k -HUP filename
+```
+
+  * `--list-signals` - list available signal names
 
 ###### Show what PID is listening on specific port
 
@@ -1529,7 +1546,7 @@ ___
 top -p $(pgrep -d , <str>)
 ```
 
-  * `<str>` - process containing str (eg. nginx, worker)
+  * `<str>` - process containing string (eg. nginx, worker)
 
 ___
 
@@ -3063,7 +3080,6 @@ httpd.serve_forever()
 import BaseHTTPServer, SimpleHTTPServer
 import ssl
 
-
 httpd = BaseHTTPServer.HTTPServer(('localhost', 4443),
         SimpleHTTPServer.SimpleHTTPRequestHandler)
 
@@ -3151,9 +3167,9 @@ sed ':a;N;$!ba;s/\n/ /g' /path/to/file
 sed -e ':a' -e 'N' -e '$!ba' -e 's/\n/ /g' /path/to/file
 ```
 
-- `:a` create a label 'a'
+- `:a` create a label `a`
 - `N` append the next line to the pattern space
-- `$!` if not the last line, ba branch (go to) label 'a'
+- `$!` if not the last line, ba branch (go to) label `a`
 - `s` substitute, `/\n/` regex for new line, `/ /` by a space, `/g` global match (as many times as it can)
 
 Alternatives:
@@ -3269,7 +3285,7 @@ Example:
 shell> DomainResolve nmap.org
 nmap.org > 45.33.49.119
 
-shell> DomainResolve nmap.orgs
+shell> DomainResolve nmap.org
 Unsuccessful domain name resolution.
 ```
 
