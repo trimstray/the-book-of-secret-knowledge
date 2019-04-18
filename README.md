@@ -1824,7 +1824,7 @@ openssl s_client -tls1_2 -connect google.com:443
 openssl s_client -cipher 'AES128-SHA' -connect google.com:443
 ```
 
-###### Generate private key
+###### Generate private key without passphrase
 
 ```bash
 # _len: 2048, 4096
@@ -1870,7 +1870,7 @@ openssl rsa -check -in ${_fd} )
 openssl rsa -pubout -in ${_fd} -out ${_fd_pub} )
 ```
 
-###### Generate private key + csr
+###### Generate private key and csr
 
 ```bash
 ( _fd="private.key" ; _fd_csr="request.csr" ; _len="4096" ; \
@@ -1967,8 +1967,26 @@ openssl req -new -key ${_fd} -out ${_fd_csr} -sha256 )
 ```bash
 # _len: 2048, 4096
 ( _fd="domain.key" ; _fd_out="domain.crt" ; _len="4096" ; _days="365" ; \
-openssl req -newkey rsa:${_len} -nodes -keyout ${_fd} \
+openssl req -newkey rsa:${_len} -nodes \
+-keyout ${_fd} -x509 -days ${_days} -out ${_fd_out} )
+```
+
+###### Generate self-signed certificate from existing private key
+
+```bash
+# _len: 2048, 4096
+( _fd="domain.key" ; _fd_out="domain.crt" ; _days="365" ; \
+openssl req -key ${_fd} -nodes \
 -x509 -days ${_days} -out ${_fd_out} )
+```
+
+###### Generate self-signed certificate from existing private key and csr
+
+```bash
+# _len: 2048, 4096
+( _fd="domain.key" ; _fd_csr="domain.csr" ; _fd_out="domain.crt" ; _days="365" ; \
+openssl x509 -signkey ${_fd} -nodes \
+-in ${_fd_csr} -req -days ${_days} -out ${_fd_out} )
 ```
 
 ###### Convert DER to PEM
