@@ -1091,6 +1091,8 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
   * [lsof](#tool-lsof)
   * [ps](#tool-ps)
   * [top](#tool-top)
+  * [vmstat](#tool-vmstat)
+  * [iostat](#tool-iostat)
   * [strace](#tool-strace)
   * [kill](#tool-kill)
   * [find](#tool-find)
@@ -1547,6 +1549,77 @@ top -p $(pgrep -d , <str>)
 ```
 
   * `<str>` - process containing string (eg. nginx, worker)
+
+___
+
+##### Tool: [vmstat](https://en.wikipedia.org/wiki/Vmstat)
+
+###### Show current system utilization (fields in kilobytes)
+
+```bash
+vmstat 2 20 -t -w
+```
+
+  * `2` - number of times with a defined time interval (delay)
+  * `20` - each execution of the command (count)
+  * `-t` - show timestamp
+  * `-w` - wide output
+  * `-S M` - output of the fields in megabytes instead of kilobytes
+
+###### Show current system utilization will get refreshed every 5 seconds
+
+```bash
+vmstat 5 -w
+```
+
+###### Display report a summary of disk operations
+
+```bash
+vmstat -D
+```
+
+###### Display report of event counters and memory stats
+
+```bash
+vmstat -s
+```
+
+###### Display report about kernel objects stored in slab layer cache
+
+```bash
+vmstat -m
+```
+
+##### Tool: [iostat](https://en.wikipedia.org/wiki/Iostat)
+
+###### Show information about the CPU usage, and I/O statistics about all the partitions
+
+```bash
+iostat 2 10 -t -m
+```
+
+  * `2` - number of times with a defined time interval (delay)
+  * `10` - each execution of the command (count)
+  * `-t` - show timestamp
+  * `-m` - fields in megabytes (`-k` - in kilobytes, default)
+
+###### Show information only about the CPU utilization
+
+```bash
+iostat 2 10 -t -m -c
+```
+
+###### Show information only about the disk utilization
+
+```bash
+iostat 2 10 -t -m -d
+```
+
+###### Show information only about the LVM utilization
+
+```bash
+iostat -N
+```
 
 ___
 
@@ -2293,7 +2366,7 @@ ssh user@host cat /path/to/remotefile | diff /path/to/localfile -
 ssh -t reachable_host ssh unreachable_host
 ```
 
-###### Run command over ssh on remote host
+###### Run command over SSH on remote host
 
 ```bash
 cat > cmd.txt << __EOF__
@@ -2315,13 +2388,13 @@ ssh-keygen -y -f ~/.ssh/id_rsa
 ssh-keygen -l -f .ssh/known_hosts
 ```
 
-###### Ssh authentication with user password
+###### SSH authentication with user password
 
 ```bash
 ssh -o PreferredAuthentications=password -o PubkeyAuthentication=no user@remote_host
 ```
 
-###### Ssh authentication with publickey
+###### SSH authentication with publickey
 
 ```bash
 ssh -o PreferredAuthentications=publickey -o PubkeyAuthentication=yes -i id_rsa user@remote_host
