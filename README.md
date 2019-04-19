@@ -102,6 +102,7 @@ Only main chapters:
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://midnight-commander.org/"><b>Midnight Commander</b></a> - visual file manager, licensed under GNU General Public License.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jarun/nnn"><b>nnn</b></a> - tiny, lightning fast, feature-packed file manager.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/ranger/ranger"><b>ranger</b></a> - a VIM-inspired filemanager for the console.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.gnu.org/software/screen/"><b>screen</b></a> - full-screen window manager that multiplexes a physical terminal.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/tmux/tmux/wiki"><b>tmux</b></a> - terminal multiplexer, lets you switch easily between several programs in one terminal.<br>
