@@ -2592,6 +2592,12 @@ tcpdump -ei eth0 -w /tmp/capture-%H.pcap -G 3600 -C 200
 tcpdump -ei enp0s25 -nnn -t -c 200 | cut -f 1,2,3,4 -d '.' | sort | uniq -c | sort -nr | head -n 20
 ```
 
+###### Excludes any RFC 1918 private address
+
+```bash
+tcpdump -nei eth0 'not (src net (10 or 172.16/12 or 192.168/16) and dst net (10 or 172.16/12 or 192.168/16))'
+```
+
 ___
 
 ##### Tool: [tcpick](http://tcpick.sourceforge.net/)
