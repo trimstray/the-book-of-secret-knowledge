@@ -772,6 +772,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/thedaviddias/Front-End-Checklist"><b>Front-End-Checklist</b></a> - the perfect Front-End Checklist for modern websites and meticulous developers.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://rszalski.github.io/magicmethods/"><b>Python's Magic Methods</b></a> - what are magic methods? They're everything in object-oriented Python.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/satwikkansal/wtfpython"><b>wtfpython</b></a> - a collection of surprising Python snippets and lesser-known features.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/RomuloOliveira/commit-messages-guide"><b>Commit messages guide</b></a> - a guide to understand the importance of commit messages.<br>
 </p>
 
 ##### :black_small_square: Security/Pentesting
