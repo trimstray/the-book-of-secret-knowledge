@@ -742,6 +742,12 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.youtube.com/watch?v=nAFpkV5-vuI"><b>A Netflix Guide to Microservices</b></a> - Josh Evans talks about the chaotic and vibrant world of microservices at Netflix.<br>
 </p>
 
+##### :black_small_square: Developers
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.youtube.com/watch?v=yOyaJXpAYZQ"><b>Comparing C to machine language</b></a> - compare a simple C program with the compiled machine code of that program.<br>
+</p>
+
 ##### :black_small_square: Other
 
 <p>
