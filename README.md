@@ -352,6 +352,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://cipherli.st/"><b>cipherli.st</b></a> - strong ciphers for Apache, Nginx, Lighttpd and more.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://badssl.com/"><b>badssl.com</b></a> - memorable site for testing clients against bad SSL configs.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://tlsfun.de/"><b>tlsfun.de</b></a> - registered for various tests regarding the TLS/SSL protocol.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://sslmate.com/caa/"><b>CAA Record Helper</b></a> - generate a CAA policy.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://ccadb.org/resources"><b>Common CA Database</b></a> - repository of information about CAs, and their root and intermediate certificates.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://certstream.calidog.io/"><b>CERTSTREAM</b></a> - real-time certificate transparency log update stream.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://crt.sh/"><b>crt.sh</b></a> - discovers certificates by continually monitoring all of the publicly known CT.<br>
