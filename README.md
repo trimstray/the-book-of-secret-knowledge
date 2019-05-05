@@ -221,6 +221,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://dtrace.org/blogs/about/"><b>DTrace</b></a> - is a performance analysis and troubleshooting tool.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://en.wikipedia.org/wiki/Ltrace"><b>ltrace</b></a> - is a library call tracer, used to trace calls made by programs to library functions.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/brendangregg/perf-tools"><b>perf-tools</b></a> - performance analysis tools based on Linux perf_events (aka perf) and ftrace.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/iovisor/bpftrace"><b>bpftrace</b></a> - high-level tracing language for Linux eBPF.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/draios/sysdig"><b>sysdig</b></a> - system exploration and troubleshooting tool with first class support for containers.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.valgrind.org/"><b>Valgrind</b></a> - is an instrumentation framework for building dynamic analysis tools.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/gperftools/gperftools"><b>gperftools</b></a> - high-performance multi-threaded malloc() implementation, plus some performance analysis tools.<br>
@@ -598,6 +599,12 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.powerdns.com/"><b>PowerDNS</b></a> - is an open source authoritative DNS server, written in C++ and licensed under the GPL.<br>
 </p>
 
+##### :black_small_square: Other Services
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/z3APA3A/3proxy"><b>3proxy</b></a> - tiny free proxy server.<br>
+</p>
+
 ##### :black_small_square: Security/hardening
 
 <p>
@@ -790,6 +797,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/thedaviddias/Front-End-Checklist"><b>Front-End-Checklist</b></a> - the perfect Front-End Checklist for modern websites and meticulous developers.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://rszalski.github.io/magicmethods/"><b>Python's Magic Methods</b></a> - what are magic methods? They're everything in object-oriented Python.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/satwikkansal/wtfpython"><b>wtfpython</b></a> - a collection of surprising Python snippets and lesser-known features.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/twhite96/js-dev-reads"><b>js-dev-reads</b></a> - a list of books and articles for the discerning web developer to read.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/RomuloOliveira/commit-messages-guide"><b>Commit messages guide</b></a> - a guide to understand the importance of commit messages.<br>
 </p>
 
@@ -873,19 +881,30 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://hashcat.net/hashcat/"><b>hashcat</b></a> - world's fastest and most advanced password recovery utility.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://lcamtuf.coredump.cx/p0f3/"><b>p0f</b></a> - is a tool to identify the players behind any incidental TCP/IP communications.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://bitbucket.org/LaNMaSteR53/recon-ng"><b>Recon-ng</b></a> - is a full-featured Web Reconnaissance framework written in Python.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/mozilla/ssh_scan"><b>ssh_scan</b></a> - a prototype SSH configuration and policy scanner.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/offensive-security/exploitdb"><b>exploitdb</b></a> - searchable archive from The Exploit Database.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/zardus/ctf-tools"><b>ctf-tools</b></a> - some setup scripts for security research tools.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Gallopsled/pwntools"><b>pwntools</b></a> - CTF framework and exploit development library.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/bl4de/security-tools"><b>security-tools</b></a> - collection of small security tools created mostly in Python. CTFs, pentests and so on.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/fuzzdb-project/fuzzdb"><b>fuzzdb</b></a> - dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/google/syzkaller"><b>syzkaller</b></a> - is an unsupervised, coverage-guided kernel fuzzer.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/longld/peda"><b>GDB PEDA</b></a> - Python Exploit Development Assistance for GDB.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hex-rays.com/products/ida/index.shtml"><b>IDA</b></a> - multi-processor disassembler and debugger useful for reverse engineering malware.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/radare/radare2"><b>radare2</b></a> - framework for reverse-engineering and analyzing binaries.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/threat9/routersploit"><b>routersploit</b></a> - exploitation framework for embedded devices.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/NationalSecurityAgency/ghidra"><b>Ghidra</b></a> - is a software reverse engineering (SRE) framework.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/salesforce/vulnreport"><b>Vulnreport</b></a> - open-source pentesting management and automation platform by Salesforce Product Security.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/sc0tfree/mentalist"><b>Mentalist</b></a> - is a graphical tool for custom wordlist generation.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/archerysec/archerysec"><b>archerysec</b></a> - vulnerability assessment and management helps to perform scans and manage vulnerabilities.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/j3ssie/Osmedeus"><b>Osmedeus</b></a> - fully automated offensive security tool for reconnaissance and vulnerability scanning.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/beefproject/beef"><b>beef</b></a> - the browser exploitation framework project.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/NullArray/AutoSploit"><b>AutoSploit</b></a> - automated mass exploiter.<br>
+</p>
+
+##### :black_small_square: Backdoors/exploits
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/bartblaze/PHP-backdoors"><b>PHP-backdoors</b></a> - a collection of PHP backdoors. For educational or testing purposes only.<br>
 </p>
 
 ##### :black_small_square: Pentests bookmarks collection
