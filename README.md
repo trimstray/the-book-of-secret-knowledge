@@ -823,6 +823,7 @@ performance of any of your sites from across the globe.<br>
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.cheatography.com/"><b>Cheatography</b></a> - over 3,000 free cheat sheets, revision aids and quick references.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/mre/awesome-static-analysis"><b>awesome-static-analysis</b></a> - static analysis tools for all programming languages.<br>
 </p>
 
 #### Blogs &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
