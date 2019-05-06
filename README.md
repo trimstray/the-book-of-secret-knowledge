@@ -637,7 +637,7 @@ performance of any of your sites from across the globe.<br>
 
 #### Manuals/Howtos/Tutorials &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
 
-##### :black_small_square: Shells/Command line
+##### :black_small_square: Shell/Command line
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dylanaraps/pure-bash-bible"><b>pure-bash-bible</b></a> - a collection of pure bash alternatives to external processes.<br>
@@ -730,6 +730,15 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.netsparker.com/security-cookies-whitepaper/"><b>Security Cookies</b></a> - this paper will take a close look at cookie security.<br>
 </p>
 
+##### :black_small_square: All-in-one
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://lzone.de/cheat-sheet/"><b>LZone Cheat Sheets</b></a> - all cheat sheets.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rstacruz/cheatsheets"><b>Dan’s Cheat Sheets’s</b></a> - massive cheat sheets documentation.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://devhints.io/"><b>Rico's cheatsheets</b></a> - this is a modest collection of cheatsheets.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://devdocs.io/"><b>DevDocs API</b></a> - combines multiple API documentations in a fast, organized, and searchable interface.<br>
+</p>
+
 ##### :black_small_square: Other
 
 <p>
@@ -737,9 +746,6 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/manoelt/50M_CTF_Writeup"><b>50M_CTF_Writeup</b></a> - $50 million CTF from Hackerone - writeup.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/j00ru/ctf-tasks"><b>ctf-tasks</b></a> - an archive of low-level CTF challenges developed over the years.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://hshrzd.wordpress.com/how-to-start/"><b>How to start RE/malware analysis?</b></a> - collection of some hints and useful links for the beginners.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://lzone.de/cheat-sheet/"><b>LZone Cheat Sheets</b></a> - all cheat sheets.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rstacruz/cheatsheets"><b>Dan’s Cheat Sheets’s</b></a> - massive cheat sheets documentation.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://devhints.io/"><b>Rico's cheatsheets</b></a> - this is a modest collection of cheatsheets.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.kegel.com/c10k.html"><b>The C10K problem</b></a> - it's time for web servers to handle ten thousand clients simultaneously, don't you think?<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://bankgradesecurity.com/"><b>Bank Grade Security</b></a> - when companies say they have "Bank Grade Security" they imply that it is a good thing.<b>*</b><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://nickcraver.com/blog/2017/05/22/https-on-stack-overflow/"><b>HTTPS on Stack Overflow</b></a> - this is the story of a long journey regarding the implementation of SSL.<br>
