@@ -1055,6 +1055,12 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://nfsec.pl/"><b>nf.sec</b></a> - basic aspects and mechanisms of Linux operating system security (PL).<br>
 </p>
 
+##### :black_small_square: Other/All-in-one
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://changelog.com/"><b>Changelog</b></a> - is a community of hackers; news & podcasts for developers and hackers.<br>
+</p>
+
 #### Other Cheat Sheets &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
 
 ###### Build your own DNS Servers
