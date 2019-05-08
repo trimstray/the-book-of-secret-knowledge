@@ -117,6 +117,12 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.gnu.org/software/emacs/"><b>emacs</b></a> - an extensible, customizable, free/libre text editor - and more.<br>
 </p>
 
+##### :black_small_square: Files and directories
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/sharkdp/fd"><b>fd</b></a> - is a simple, fast and user-friendly alternative to find.<br>
+</p>
+
 ##### :black_small_square: Network
 
 <p>
