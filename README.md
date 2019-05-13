@@ -3259,6 +3259,15 @@ awk '!x[$0]++' filename
 awk '{print $NF}' filename
 ```
 
+###### Remove empty lines
+
+```bash
+awk 'NF > 0' filename
+
+# alternative:
+awk NF filename
+```
+
 ###### Print multiple columns with separators
 
 ```bash
