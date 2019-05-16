@@ -902,7 +902,7 @@ Cybercrime Investigations</b></a> - podcast by Geoff White about cybercrimes.<br
 ##### :black_small_square: Geeky Cybersecurity Podcasts
 
 <p>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://risky.biz/netcasts/risky-business/"><b>Risky Business</b></a> - is a weekly information security podcast featuring news and in-depth interviews with industry luminaries.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://risky.biz/netcasts/risky-business/"><b>Risky Business</b></a> - is a weekly information security podcast featuring news and in-depth interviews.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.vice.com/en_us/topic/cyber"><b>Cyber, by Motherboard</b></a> - stories, and focus on the ideas  about cybersecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.tenable.com/podcast"><b>Tenable Podcast</b></a> - conversations and interviews related to Cyber Exposure, and more.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://podcasts.apple.com/gb/podcast/cybercrime-investigations/id1428801405"><b>
