@@ -890,7 +890,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 ##### :black_small_square: Geeky Cybersecurity Podcasts
 
 <p>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://risky.biz/netcasts/risky-business/"><b>Risky Business</b></a> - is a weekly information security podcast featuring news and in-depth interviews.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://risky.biz/netcasts/risky-business/"><b>Risky Business</b></a> - is a weekly information security podcast.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.vice.com/en_us/topic/cyber"><b>Cyber, by Motherboard</b></a> - stories, and focus on the ideas  about cybersecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.tenable.com/podcast"><b>Tenable Podcast</b></a> - conversations and interviews related to Cyber Exposure, and more.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://podcasts.apple.com/gb/podcast/cybercrime-investigations/id1428801405"><b>
@@ -938,7 +938,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/bugcrowd"><b>@bugcrowd</b></a> - trusted by more of the Fortune 500 than any other crowdsourced security platform.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/Malwarebytes"><b>@Malwarebytes</b></a> - most trusted security company. Unmatched threat visibility.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/sansforensics"><b>@sansforensics</b></a> - the world's leading Digital Forensics and Incident Response provider.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/attcyber"><b>@attcyber</b></a> - AT&T Cybersecurity’s Edge-to-Edge technologies provide threat intelligence, collaborative defense and more.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/attcyber"><b>@attcyber</b></a> - AT&T Cybersecurity’s Edge-to-Edge technologies provide threat intelligence, and more.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/TheManyHatsClub"><b>@TheManyHatsClub</b></a> - an information security focused podcast and group of individuals from all walks of life.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/hedgehogsec"><b>@hedgehogsec</b></a> - Hedgehog Cyber. Gibraltar and Manchester's top boutique information security firm.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/NCSC"><b>@NCSC</b></a> - the National Cyber Security Centre. Helping to make the UK the safest place to live and work online.<br>
