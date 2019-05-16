@@ -77,7 +77,7 @@ Only main chapters:
 - **[Manuals/Howtos/Tutorials](#manualshowtostutorials-toc)**
 - **[Videos/Presentations](#videospresentations-toc)**
 - **[Inspiring Lists](#inspiring-lists-toc)**
-- **[Blogs](#blogs-toc)**
+- **[Blogs/Podcasts/Videos](#blogs-podcasts-videos-toc)**
 - **[Hacking/Penetration Testing](#hackingpenetration-testing-toc)**
 - **[Your daily knowledge and news](#your-daily-knowledge-and-news-toc)**
 - **[Other Cheat Sheets](#other-cheat-sheets-toc)**
@@ -839,7 +839,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/mre/awesome-static-analysis"><b>awesome-static-analysis</b></a> - static analysis tools for all programming languages.<br>
 </p>
 
-#### Blogs &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
+#### Blogs/Podcasts/Videos &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
 
 ##### :black_small_square: Geeky Persons
 
@@ -852,7 +852,12 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://robert.penz.name/"><b>Robert Penz</b></a> - IT security Expert.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://scotthelme.co.uk/"><b>Scott Helme</b></a> - Security Researcher, international speaker and founder of securityheaders.com and report-uri.com.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://krebsonsecurity.com/"><b>Brian Krebs</b></a> - The Washington Post and now an Independent investigative journalist.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/binitamshah"><b>Binni Shah</b></a> - Linux Evangelist. Malwares. Kernel Dev. Security Enthusiast.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.schneier.com/"><b>Bruce Schneier</b></a> - is an internationally renowned security technologist, called a "security guru".<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://chrissymorgan.co.uk/"><b>Chrissy Morgan</b></a> - advocate of practical learning, Chrissy also takes part in bug bounty programs.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://blog.zsec.uk/"><b>Andy Gill</b></a> - Andy is a hacker at heart who works as a senior penetration tester.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://danielmiessler.com/"><b>Daniel Miessler</b></a> - cybersecurity expert and writer.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.j4vv4d.com/"><b>Javvad Malik</b></a> - is a Security Advocate at AlienVault, a blogger event speaker and industry commentator.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.grahamcluley.com/"><b>Graham Cluley</b></a> - public speaker and independent computer security analyst.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://security.szurek.pl/"><b>Kacper Szurek</b></a> - Detection Engineer at ESET.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.troyhunt.com/"><b>Troy Hunt</b></a> -  Microsoft Regional Director and Microsoft Most Valuable Professional for Developer Security.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://raymii.org/s/index.html"><b>raymii.org</b></a> - Linux/Unix Sysadmin specializing in building high availability cloud environments.<br>
@@ -866,6 +871,78 @@ performance of any of your sites from across the globe.<br>
 Linux Security Expert</b></a> - trainings, howtos, checklists, security tools and more.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.grymoire.com/"><b>The Grymoire</b></a> - collection of useful incantations for wizards, be you computer wizards, magicians, or whatever.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://portswigger.net/blog"><b>PortSwigger Web Security Blog</b></a> - about web app security vulns and top tips from our team of web security.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.secjuice.com"><b>Secjuice</b></a> - is the only non-profit, independent and volunteer led publication in the information security space.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://duo.com/decipher"><b>Decipher</b></a> - security news that informs and inspires.<br>
+</p>
+
+##### :black_small_square: Geeky Vendor Blogs
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.tenable.com/podcast"><b>Tenable Podcast</b></a> - conversations and interviews related to Cyber Exposure, and more.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://nakedsecurity.sophos.com/"><b>Sophos</b></a> - threat news room, giving you news, opinion, advice and research on computer security issues.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.tripwire.com/state-of-security/"><b>Tripwire State of Security</b></a> - blog featuring the latest news, trends and insights on current information security issues.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://blog.malwarebytes.com/"><b>Malwarebytes Labs Blog</b></a> - security blog aims to provide insider news about cybersecurity.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.trustedsec.com/category/articles/"><b>TrustedSec</b></a> - latest news, and trends about cybersecurity.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://alienvault.com/blogs"><b>AT&T Cybersecurity blog</b></a> - offer news on emerging threats and practical advice to simplify threat detection and incident response.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://thycotic.com/company/blog/"><b>Thycotic</b></a> - where CISOs and IT Admins come to learn about industry trends, IT security, data breaches, and more.<br>
+</p>
+
+##### :black_small_square: Geeky Cybersecurity Podcasts
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://risky.biz/netcasts/risky-business/"><b>Risky Business</b></a> - is a weekly information security podcast featuring news and in-depth interviews with industry luminaries.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.vice.com/en_us/topic/cyber"><b>Cyber, by Motherboard</b></a> - stories, and focus on the ideas  about cybersecurity.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.tenable.com/podcast"><b>Tenable Podcast</b></a> - conversations and interviews related to Cyber Exposure, and more.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://podcasts.apple.com/gb/podcast/cybercrime-investigations/id1428801405"><b>
+Cybercrime Investigations</b></a> - podcast by Geoff White about cybercrimes.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://themanyhats.club/tag/episodes/"><b>The many hats club</b></a> - featuring stories from a wide range of Infosec people (Whitehat, Greyhat and Blackhat).<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://darknetdiaries.com/"><b>Darknet Diaries</b></a> - true stories from the dark side of the Internet.<br>
+</p>
+
+##### :black_small_square: Geeky Cybersecurity Podcasts
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://risky.biz/netcasts/risky-business/"><b>Risky Business</b></a> - is a weekly information security podcast featuring news and in-depth interviews with industry luminaries.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.vice.com/en_us/topic/cyber"><b>Cyber, by Motherboard</b></a> - stories, and focus on the ideas  about cybersecurity.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.tenable.com/podcast"><b>Tenable Podcast</b></a> - conversations and interviews related to Cyber Exposure, and more.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://podcasts.apple.com/gb/podcast/cybercrime-investigations/id1428801405"><b>
+Cybercrime Investigations</b></a> - podcast by Geoff White about cybercrimes.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://themanyhats.club/tag/episodes/"><b>The many hats club</b></a> - featuring stories from a wide range of Infosec people (Whitehat, Greyhat and Blackhat).<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://darknetdiaries.com/"><b>Darknet Diaries</b></a> - true stories from the dark side of the Internet.<br>
+</p>
+
+##### :black_small_square: Geeky Cybersecurity Video Blogs
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://m.youtube.com/channel/UCzvJStjySZVvOBsPl-Vgj0g"><b>rev3rse security</b></a> - offensive, binary exploitation, web application security, vulnerability, hardening, red team, blue team.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w"><b>LiveOverflow</b></a> - a lot more advanced topics than what is typically offered in paid online courses - but for free.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.youtube.com/infoseccynic"><b>J4vv4D</b></a> - the important information regarding our internet security.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="www.cybertalks.co.uk"><b>
+CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
+</p>
+
+##### :black_small_square: Best Personal Twitter Accounts
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/blackroomsec"><b>@blackroomsec</b></a> - a white-hat hacker/pentester. Intergalactic Minesweeper Champion 1990. Hacking is not a hobby but a way of life.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/MarcoCiappelli"><b>@MarcoCiappelli</b></a> - Co-Founder @ITSPmagazine, at the intersection of IT security and society.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/binitamshah"><b>@binitamshah</b></a> - Linux Evangelist. Malwares. Kernel Dev. Security Enthusiast.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/joe_carson"><b>@joe_carson</b></a> - an InfoSec Professional and Tech Geek.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/mikko"><b>@mikko</b></a> - CRO at F-Secure, Reverse Engineer, TED Speaker, Supervillain<br>
+</p>
+
+##### :black_small_square: Best Commercial Twitter Accounts
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/haveibeenpwned"><b>@haveibeenpwned</b></a> - check if you have an account that has been compromised in a data breach.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/bugcrowd"><b>@bugcrowd</b></a> - trusted by more of the Fortune 500 than any other crowdsourced security platform.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/Malwarebytes"><b>@Malwarebytes</b></a> - most trusted security company. Unmatched threat visibility.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/sansforensics"><b>@sansforensics</b></a> - the world's leading Digital Forensics and Incident Response provider.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/attcyber"><b>@attcyber</b></a> - AT&T Cybersecurity’s Edge-to-Edge technologies provide phenomenal threat intelligence, collaborative defense and security.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/attcyber"><b>@attcyber</b></a> - AT&T Cybersecurity’s Edge-to-Edge technologies provide phenomenal threat intelligence, collaborative defense and security.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/TheManyHatsClub"><b>@TheManyHatsClub</b></a> - an information security focused podcast and group of individuals from all walks of life.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/hedgehogsec"><b>@hedgehogsec</b></a> - Hedgehog Cyber. Gibraltar and Manchester's top boutique information security firm.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/NCSC"><b>@NCSC</b></a> - the National Cyber Security Centre. Helping to make the UK the safest place to live and work online.<br>
 </p>
 
 ##### :black_small_square: A piece of history
