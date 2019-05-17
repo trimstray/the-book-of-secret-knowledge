@@ -75,7 +75,6 @@ Only main chapters:
 - **[Systems/Services](#systemsservices-toc)**
 - **[Networks](#networks-toc)**
 - **[Manuals/Howtos/Tutorials](#manualshowtostutorials-toc)**
-- **[Videos/Presentations](#videospresentations-toc)**
 - **[Inspiring Lists](#inspiring-lists-toc)**
 - **[Blogs/Podcasts/Videos](#blogspodcastsvideos-toc)**
 - **[Hacking/Penetration Testing](#hackingpenetration-testing-toc)**
@@ -766,27 +765,6 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://cstack.github.io/db_tutorial/"><b>Let's Build a Simple Database</b></a> - writing a sqlite clone from scratch in C.<br>
 </p>
 
-#### Videos/Presentations &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
-
-##### :black_small_square: SysOps/DevOps
-
-<p>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.youtube.com/watch?v=nAFpkV5-vuI"><b>Varnish for PHP developers</b></a> - very interesting presentation of varnish by Mattias Geniar.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.youtube.com/watch?v=nAFpkV5-vuI"><b>A Netflix Guide to Microservices</b></a> - Josh Evans talks about the chaotic and vibrant world of microservices at Netflix.<br>
-</p>
-
-##### :black_small_square: Developers
-
-<p>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.youtube.com/watch?v=yOyaJXpAYZQ"><b>Comparing C to machine language</b></a> - compare a simple C program with the compiled machine code of that program.<br>
-</p>
-
-##### :black_small_square: Other
-
-<p>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.youtube.com/watch?v=3QnD2c4Xovk"><b>Diffie-Hellman Key Exchange (short version)</b></a> - how Diffie-Hellman Key Exchange worked.<br>
-</p>
-
 #### Inspiring Lists &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
 
 ##### :black_small_square: SysOps/DevOps
@@ -840,6 +818,19 @@ performance of any of your sites from across the globe.<br>
 </p>
 
 #### Blogs/Podcasts/Videos &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
+
+##### :black_small_square: SysOps/DevOps
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.youtube.com/watch?v=nAFpkV5-vuI"><b>Varnish for PHP developers</b></a> - very interesting presentation of Varnish by Mattias Geniar.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.youtube.com/watch?v=nAFpkV5-vuI"><b>A Netflix Guide to Microservices</b></a> - Josh Evans talks about the chaotic and vibrant world of microservices at Netflix.<br>
+</p>
+
+##### :black_small_square: Developers
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.youtube.com/watch?v=yOyaJXpAYZQ"><b>Comparing C to machine language</b></a> - compare a simple C program with the compiled machine code of that program.<br>
+</p>
 
 ##### :black_small_square: Geeky Persons
 
@@ -936,6 +927,12 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://ftp.arl.army.mil/~mike/howto/"><b>How to Do Things at ARL</b></a> - how to configure modems, scan images, record CD-ROMs, and other useful techniques.<br>
+</p>
+
+##### :black_small_square: Other
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.youtube.com/watch?v=3QnD2c4Xovk"><b>Diffie-Hellman Key Exchange (short version)</b></a> - how Diffie-Hellman Key Exchange worked.<br>
 </p>
 
 #### Hacking/Penetration Testing &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
