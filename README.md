@@ -822,7 +822,7 @@ performance of any of your sites from across the globe.<br>
 ##### :black_small_square: SysOps/DevOps
 
 <p>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.youtube.com/watch?v=nAFpkV5-vuI"><b>Varnish for PHP developers</b></a> - very interesting presentation of varnish by Mattias Geniar.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.youtube.com/watch?v=nAFpkV5-vuI"><b>Varnish for PHP developers</b></a> - very interesting presentation of Varnish by Mattias Geniar.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.youtube.com/watch?v=nAFpkV5-vuI"><b>A Netflix Guide to Microservices</b></a> - Josh Evans talks about the chaotic and vibrant world of microservices at Netflix.<br>
 </p>
 
