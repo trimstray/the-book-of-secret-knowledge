@@ -703,6 +703,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://iase.disa.mil/stigs/Pages/index.aspx"><b>STIGs</b></a> - are the configuration standards for DOD IA and IA-enabled devices/systems.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://highon.coffee/blog/security-harden-centos-7/"><b>Security Harden CentOS 7</b></a> - this walks you through the steps required to security harden CentOS.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.lisenet.com/2017/centos-7-server-hardening-guide/"><b>CentOS 7 Server Hardening Guide</b></a> - great guide for hardening CentOS; familiar with OpenSCAP.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/trimstray/the-practical-linux-hardening-guide"><b>The Practical Linux Hardening Guide</b></a> - provides a high-level overview of hardening GNU/Linux systems.<br>
 </p>
 
 ##### :black_small_square: Security & Privacy
