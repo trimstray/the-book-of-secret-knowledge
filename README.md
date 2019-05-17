@@ -100,12 +100,12 @@ Only main chapters:
 ##### :black_small_square: Managers
 
 <p>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://midnight-commander.org/"><b>Midnight Commander</b></a> - visual file manager, licensed under GNU General Public License.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/ranger/ranger"><b>ranger</b></a> - a VIM-inspired filemanager for the console.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jarun/nnn"><b>nnn</b></a> - tiny, lightning fast, feature-packed file manager.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.gnu.org/software/screen/"><b>screen</b></a> - full-screen window manager that multiplexes a physical terminal.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/tmux/tmux/wiki"><b>tmux</b></a> - terminal multiplexer, lets you switch easily between several programs in one terminal.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/peikk0/tmux-cssh"><b>tmux-cssh</b></a> - sets a comfortable and easy to use functionality, clustering and synchronizing virtual tmux-sessions.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://midnight-commander.org/"><b>Midnight Commander</b></a> - is a visual file manager, licensed under GNU General Public License.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/ranger/ranger"><b>ranger</b></a> - is a VIM-inspired filemanager for the console.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jarun/nnn"><b>nnn</b></a> - is a tiny, lightning fast, feature-packed file manager.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.gnu.org/software/screen/"><b>screen</b></a> - is a full-screen window manager that multiplexes a physical terminal.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/tmux/tmux/wiki"><b>tmux</b></a> - is a terminal multiplexer, lets you switch easily between several programs in one terminal.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/peikk0/tmux-cssh"><b>tmux-cssh</b></a> - is a tool to set comfortable and easy to use functionality, clustering and synchronizing virtual tmux-sessions.<br>
 </p>
 
 ##### :black_small_square: Text editors
@@ -113,7 +113,7 @@ Only main chapters:
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://ex-vi.sourceforge.net/"><b>vi</b></a> - is one of the most common text editors on Unix.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.vim.org/"><b>vim</b></a> - is a highly configurable text editor.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.gnu.org/software/emacs/"><b>emacs</b></a> - an extensible, customizable, free/libre text editor - and more.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.gnu.org/software/emacs/"><b>emacs</b></a> - is an extensible, customizable, free/libre text editor - and more.<br>
 </p>
 
 ##### :black_small_square: Files and directories
@@ -137,7 +137,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://termshark.io/"><b>Termshark</b></a> - is a simple terminal user-interface for tshark.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jpr5/ngrep"><b>ngrep</b></a> - is like GNU grep applied to the network layer.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/google/stenographer"><b>stenographer</b></a> - is a packet capture solution which aims to quickly spool all packets to disk.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/tgraf/bmon"><b>bmon</b></a> - monitoring and debugging tool to capture networking related statistics and prepare them visually.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/tgraf/bmon"><b>bmon</b></a> - is a monitoring and debugging tool to capture networking related statistics and prepare them visually.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://iptraf.seul.org/2.6/manual.html#installation"><b>iptraf-ng</b></a> - is a console-based network monitoring program for Linux that displays information about IP traffic.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://iperf.fr/"><b>iPerf3</b></a> - is a tool for active measurements of the maximum achievable bandwidth on IP networks.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Microsoft/Ethr"><b>ethr</b></a> - is a Network Performance Measurement Tool for TCP, UDP & HTTP.<br>
@@ -156,7 +156,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/mschwager/fierce"><b>fierce</b></a> - is a DNS reconnaissance tool for locating non-contiguous IP space.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/subfinder/subfinder"><b>subfinder</b></a> - is a subdomain discovery tool that discovers valid subdomains for websites.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/aboul3la/Sublist3r"><b>sublist3r</b></a> - is a fast subdomains enumeration tool for penetration testers.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/OWASP/Amass"><b>amass</b></a> - tool obtains subdomain names by scraping data sources, crawling web archives and more.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/OWASP/Amass"><b>amass</b></a> - is tool that obtains subdomain names by scraping data sources, crawling web archives and more.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/google/namebench"><b>namebench</b></a> - provides personalized DNS server recommendations based on your browsing history.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jedisct1/dnscrypt-proxy"><b>dnscrypt-proxy 2</b></a> - a flexible DNS proxy, with support for encrypted DNS protocols.<br>
 </p>
@@ -164,23 +164,23 @@ Only main chapters:
 ##### :black_small_square: Network (HTTP)
 
 <p>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://curl.haxx.se/"><b>Curl</b></a> - command line tool and library for transferring data with URLs.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://curl.haxx.se/"><b>Curl</b></a> - is a command line tool and library for transferring data with URLs.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://gitlab.com/davidjpeacock/kurly"><b>kurly</b></a> - is an alternative to the widely popular curl program, written in Golang.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jkbrzt/httpie"><b>HTTPie</b></a> - a user-friendly HTTP client.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/asciimoo/wuzz"><b>wuzz</b></a> - interactive cli tool for HTTP inspection.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/trimstray/htrace.sh"><b>htrace.sh</b></a> - simple Swiss Army knife for http/https troubleshooting and profiling.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/reorx/httpstat"><b>httpstat</b></a> - visualizes curl statistics in a way of beauty and clarity.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/gchaincl/httplab"><b>httplab</b></a> - the interactive web server.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jkbrzt/httpie"><b>HTTPie</b></a> - is an user-friendly HTTP client.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/asciimoo/wuzz"><b>wuzz</b></a> - is an interactive cli tool for HTTP inspection.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/trimstray/htrace.sh"><b>htrace.sh</b></a> - is a simple Swiss Army knife for http/https troubleshooting and profiling.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/reorx/httpstat"><b>httpstat</b></a> - is a tool that visualizes curl statistics in a way of beauty and clarity.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/gchaincl/httplab"><b>httplab</b></a> - is an interactive web server.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://lynx.browser.org/"><b>Lynx</b></a> - is a text browser for the World Wide Web.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dhamaniasad/HeadlessBrowsers"><b>HeadlessBrowsers</b></a> - a list of (almost) all headless web browsers in existence.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://httpd.apache.org/docs/2.4/programs/ab.html"><b>ab</b></a> - is a single-threaded command line tool for measuring the performance of HTTP web servers.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.joedog.org/siege-home/"><b>siege</b></a> - is an http load testing and benchmarking utility.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/wg/wrk"><b>wrk</b></a> - is a modern HTTP benchmarking tool capable of generating significant load.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/codesenberg/bombardier"><b>bombardier</b></a> - fast cross-platform HTTP benchmarking tool written in Go.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/codesenberg/bombardier"><b>bombardier</b></a> - is a fast cross-platform HTTP benchmarking tool written in Go.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/cmpxchg16/gobench"><b>gobench</b></a> - http/https load testing and benchmarking tool.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rakyll/hey"><b>hey</b></a> - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/tarekziade/boom"><b>boom</b></a> - is a script you can use to quickly smoke-test your web app deployment.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/OJ/gobuster"><b>gobuster</b></a> - free and open source directory/file & DNS busting tool written in Go.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/OJ/gobuster"><b>gobuster</b></a> - is a free and open source directory/file & DNS busting tool written in Go.<br>
 </p>
 
 ##### :black_small_square: SSL
