@@ -923,6 +923,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/TheManyHatsClub"><b>@TheManyHatsClub</b></a> - an information security focused podcast and group of individuals from all walks of life.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/hedgehogsec"><b>@hedgehogsec</b></a> - Hedgehog Cyber. Gibraltar and Manchester's top boutique information security firm.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/NCSC"><b>@NCSC</b></a> - the National Cyber Security Centre. Helping to make the UK the safest place to live and work online.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/Synacktiv"><b>@Synacktiv</b></a> - IT security experts.<br>
 </p>
 
 ##### :black_small_square: A piece of history
