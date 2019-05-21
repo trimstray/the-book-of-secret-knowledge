@@ -1970,7 +1970,13 @@ ___
 ###### Start screen in detached mode
 
 ```bash
-screen -d -m [<command>]
+screen -d -m <command>
+```
+
+###### Attach to an existing screen session
+
+```bash
+screen -r -d <pid>
 ```
 
 ___
