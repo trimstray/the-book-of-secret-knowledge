@@ -776,6 +776,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/alebcay/awesome-shell"><b>Awesome Shell</b></a> - awesome command-line frameworks, toolkits, guides and gizmos.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/learnbyexample/Command-line-text-processing"><b>Command-line-text-processing</b></a> - from finding text to search and replace, from sorting to beautifying text and more.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/caesar0301/awesome-pcaptools"><b>Awesome Pcaptools</b></a> - collection of tools developed by other researchers to process network traces.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/zoidbergwill/awesome-ebpf"><b>awesome-ebpf</b></a> - a curated list of awesome projects related to eBPF.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/leandromoreira/linux-network-performance-parameters"><b>Linux Network Performance</b></a> - learn where some of the network sysctl variables fit into the Linux/Kernel network flow.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dhamaniasad/awesome-postgres"><b>Awesome Postgres</b></a> - list of awesome PostgreSQL software, libraries, tools and resources.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/enochtangg/quick-SQL-cheatsheet"><b>quick-SQL-cheatsheet</b></a> - a quick reminder of all SQL queries and examples on how to use them.<br>
@@ -800,6 +801,7 @@ performance of any of your sites from across the globe.<br>
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/qazbnm456/awesome-web-security"><b>Awesome Web Security</b></a> - a curated list of Web Security materials and resources.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/joe-shenouda/awesome-cyber-skills"><b>awesome-cyber-skills</b></a> - a curated list of hacking environments where you can train your cyber skills.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/hslatman/awesome-threat-intelligence"><b>awesome-threat-intelligence</b></a> - a curated list of Awesome Threat Intelligence resources.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/infosecn1nja/Red-Teaming-Toolkit"><b>Red-Teaming-Toolkit</b></a> - a collection of open source and commercial tools that aid in red team operations.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/snoopysecurity/awesome-burp-extensions"><b>awesome-burp-extensions</b></a> - a curated list of amazingly awesome Burp Extensions.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Hack-with-Github/Free-Security-eBooks"><b>Free Security eBooks</b></a> - list of a Free Security and Hacking eBooks.<br>
@@ -1164,6 +1166,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/cfenollosa/os-tutorial"><b>os-tutorial</b></a> - how to create an OS from scratch.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://justinmeiners.github.io/lc3-vm/"><b>Write your Own Virtual Machine</b></a> - how to write your own virtual machine (VM).<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/cirosantilli/x86-bare-metal-examples"><b>x86 Bare Metal Examples</b></a> - dozens of minimal operating systems to learn x86 system programming.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/djhworld/simple-computer"><b>simple-computer</b></a> - the scott CPU from "But How Do It Know?" by J. Clark Scott.<br>
 </p>
 
 ###### DNS Servers list (privacy)
