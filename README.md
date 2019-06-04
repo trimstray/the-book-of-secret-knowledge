@@ -2030,25 +2030,25 @@ ___
 
 ##### Tool: [openssl](https://www.openssl.org/)
 
-###### Testing connection to remote host
+###### Testing connection to the remote host
 
 ```bash
 echo | openssl s_client -connect google.com:443 -showcerts
 ```
 
-###### Testing connection to remote host (with SNI support)
+###### Testing connection to the remote host (with SNI support)
 
 ```bash
 echo | openssl s_client -showcerts -servername google.com -connect google.com:443
 ```
 
-###### Testing connection to remote host with specific ssl version
+###### Testing connection to the remote host with specific ssl version
 
 ```bash
 openssl s_client -tls1_2 -connect google.com:443
 ```
 
-###### Testing connection to remote host with specific ssl cipher
+###### Testing connection to the remote host with specific ssl cipher
 
 ```bash
 openssl s_client -cipher 'AES128-SHA' -connect google.com:443
