@@ -2463,16 +2463,15 @@ http -p Hh https://www.google.com
     * `b` - response body
 
 ```bash
-http -p Hh --follow --max-redirects 5 --verify no https://www.google.com
+http -p Hh https://www.google.com --follow --verify no
 ```
 
   * `-F, --follow` - follow redirects
-  * `--max-redirects N` - maximum for `--follow`
   * `--verify no` - skip SSL verification
 
 ```bash
-http -p Hh --follow --max-redirects 5 --verify no \
---proxy http:http://127.0.0.1:16379 https://www.google.com
+http -p Hh https://www.google.com --follow --verify no \
+--proxy http:http://127.0.0.1:16379
 ```
 
   * `--proxy [http:]` - set proxy server
