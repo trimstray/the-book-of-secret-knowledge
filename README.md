@@ -180,6 +180,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/cmpxchg16/gobench"><b>gobench</b></a> - http/https load testing and benchmarking tool.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rakyll/hey"><b>hey</b></a> - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/tarekziade/boom"><b>boom</b></a> - is a script you can use to quickly smoke-test your web app deployment.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/shekyan/slowhttptest"><b>SlowHTTPTest</b></a> - is a tool that simulates some Application Layer Denial of Service attacks by prolonging HTTP connections in different ways.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/OJ/gobuster"><b>gobuster</b></a> - is a free and open source directory/file & DNS busting tool written in Go.<br>
 </p>
 
@@ -2750,7 +2751,7 @@ ___
 ##### Tool: [ngrep](http://ngrep.sourceforge.net/usage.html)
 
 ```bash
-ngrep -d eth0 "www.google.com" port 443
+ngrep -d eth0 "www.domain.com" port 443
 ```
 
   * `-d [iface|any]` - set interface
@@ -2758,14 +2759,14 @@ ngrep -d eth0 "www.google.com" port 443
   * `port [1-65535]` - set port number
 
 ```bash
-ngrep -d eth0 "www.google.com" (host 10.240.20.2) and (port 443)
+ngrep -d eth0 "www.domain.com" src host 10.240.20.2 and port 443
 ```
 
   * `(host [ip|hostname])` - filter by ip or hostname
   * `(port [1-65535])` - filter by port number
 
 ```bash
-ngrep -d eth0 -qt -O ngrep.pcap "www.google.com" port 443
+ngrep -d eth0 -qt -O ngrep.pcap "www.domain.com" port 443
 ```
 
   * `-q` - quiet mode (only payloads)
