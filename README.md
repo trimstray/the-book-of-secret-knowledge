@@ -3286,7 +3286,6 @@ python -m SimpleHTTPServer 8000
 from http.server import HTTPServer, BaseHTTPRequestHandler
 import ssl
 
-
 httpd = HTTPServer(('localhost', 4443), BaseHTTPRequestHandler)
 
 httpd.socket = ssl.wrap_socket (httpd.socket,
