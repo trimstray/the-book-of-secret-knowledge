@@ -180,7 +180,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/cmpxchg16/gobench"><b>gobench</b></a> - http/https load testing and benchmarking tool.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rakyll/hey"><b>hey</b></a> - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/tarekziade/boom"><b>boom</b></a> - is a script you can use to quickly smoke-test your web app deployment.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/shekyan/slowhttptest"><b>SlowHTTPTest</b></a> - is a tool that simulates some Application Layer Denial of Service attacks by prolonging HTTP connections in different ways.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/shekyan/slowhttptest"><b>SlowHTTPTest</b></a> - is a tool that simulates some Application Layer Denial of Service attacks by prolonging HTTP.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/OJ/gobuster"><b>gobuster</b></a> - is a free and open source directory/file & DNS busting tool written in Go.<br>
 </p>
 
