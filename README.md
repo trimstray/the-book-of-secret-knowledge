@@ -3184,6 +3184,12 @@ sort | uniq -c | awk '{ printf("%s\t%s\t",$2,$1) ; for (i = 0; i < $1; i++) {pri
 watch "netstat -plan | grep :443 | awk {'print \$5'} | cut -d: -f 1 | sort | uniq -c | sort -nk 1"
 ```
 
+###### Grab banners from local IPv4 listening ports
+
+```bash
+netstat -nlt | grep 'tcp ' | grep -Eo "[1-9][0-9]*" | xargs -I {} sh -c "echo "" | nc -v -n -w1 127.0.0.1 {}"
+```
+
 ___
 
 ##### Tool: [rsync](https://en.wikipedia.org/wiki/Rsync)
