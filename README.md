@@ -2101,28 +2101,28 @@ openssl rsa -check -in ${_fd} )
 openssl rsa -pubout -in ${_fd} -out ${_fd_pub} )
 ```
 
-###### Generate private key and csr
+###### Generate private key and CSR
 
 ```bash
 ( _fd="private.key" ; _fd_csr="request.csr" ; _len="4096" ; \
 openssl req -out ${_fd_csr} -new -newkey rsa:${_len} -nodes -keyout ${_fd} )
 ```
 
-###### Generate csr
+###### Generate CSR
 
 ```bash
 ( _fd="private.key" ; _fd_csr="request.csr" ; \
 openssl req -out ${_fd_csr} -new -key ${_fd} )
 ```
 
-###### Generate csr (metadata from exist certificate)
+###### Generate CSR (metadata from existing certificate)
 
 ```bash
 ( _fd="private.key" ; _fd_csr="request.csr" ; _fd_crt="cert.crt" ; \
 openssl x509 -x509toreq -in ${_fd_crt} -out ${_fd_csr} -signkey ${_fd} )
 ```
 
-###### Generate csr with -config param
+###### Generate CSR with -config param
 
 ```bash
 ( _fd="private.key" ; _fd_csr="request.csr" ; \
@@ -2184,7 +2184,7 @@ openssl ec -in ${_fd} -noout -text )
 openssl pkey -in ${_fd} -pubout -out ${_fd_pub} )
 ```
 
-###### Generate private key with csr (ECC)
+###### Generate private key with CSR (ECC)
 
 ```bash
 # _curve: prime256v1, secp521r1, secp384r1
@@ -2220,6 +2220,12 @@ openssl x509 -signkey ${_fd} -nodes \
 -in ${_fd_csr} -req -days ${_days} -out ${_fd_out} )
 ```
 
+###### Generate DH Param key
+
+```bash
+openssl dhparam -out /etc/nginx/ssl/dhparam_4096.pem 4096
+```
+
 ###### Convert DER to PEM
 
 ```bash
@@ -2234,7 +2240,41 @@ openssl x509 -in ${_fd_der} -inform der -outform pem -out ${_fd_pem} )
 openssl x509 -in ${_fd_pem} -outform der -out ${_fd_der} )
 ```
 
-###### Checking whether the private key and the certificate match
+###### Verification of the private key
+
+```bash
+( _fd="private.key" ; \
+openssl rsa -noout -text -in ${_fd} )
+```
+
+###### Verification of the public key
+
+```bash
+# 1)
+( _fd="public.key" ; \
+openssl pkey -noout -text -pubin -in ${_fd} )
+
+# 2)
+( _fd="private.key" ; \
+openssl rsa -inform PEM -noout -in ${_fd} &> /dev/null ; \
+if [ $? = 0 ] ; then echo -en "OK\n" ; fi )
+```
+
+###### Verification of the certificate
+
+```bash
+( _fd="certificate.crt" ; # format: pem, cer, crt \
+openssl x509 -noout -text -in ${_fd} )
+```
+
+###### Verification of the CSR
+
+```bash
+( _fd_csr="request.csr" ; \
+openssl req -text -noout -in ${_fd_csr} )
+```
+
+###### Check whether the private key and the certificate match
 
 ```bash
 (openssl rsa -noout -modulus -in private.key | openssl md5 ; \
