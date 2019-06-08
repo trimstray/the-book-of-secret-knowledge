@@ -1763,7 +1763,11 @@ ___
 ###### Track with child processes
 
 ```bash
+# 1)
 strace -f -p $(pidof glusterfsd)
+
+# 2)
+strace -f $(pidof php-fpm | sed 's/\([0-9]*\)/\-p \1/g')
 ```
 
 ###### Track process with 30 seconds limit
