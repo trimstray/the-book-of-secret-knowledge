@@ -735,7 +735,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/GrrrDog/weird_proxies/wiki"><b>Weird Proxies</b></a> - reverse proxy related attacks; it is a result of analysis of various reverse proxies, cache proxies, etc.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://dfir.it/blog/2015/08/12/webshell-every-time-the-same-purpose/"><b>Webshells</b></a> - great series about malicious payloads.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://portswigger.net/blog/practical-web-cache-poisoning"><b>Practical Web Cache Poisoning</b></a> - show you how to compromise websites by using esoteric web features.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://medium.com/@_bl4de/hidden-directories-and-files-as-a-source-of-sensitive-information-about-web-application-84e5c534e5ad"><b>Hidden directories and files</b></a> - as a source of sensitive information about web application.<b>*</b><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/bl4de/research/tree/master/hidden_directories_leaks"><b>Hidden directories and files</b></a> - as a source of sensitive information about web application.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://bo0om.ru/en/"><b>Explosive blog</b></a> - great blog about cybersec and pentests.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.netsparker.com/security-cookies-whitepaper/"><b>Security Cookies</b></a> - this paper will take a close look at cookie security.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/GitGuardian/APISecurityBestPractices"><b>APISecurityBestPractices</b></a> - help you keep secrets (API keys, db credentials, certificates) out of source code.<br>
