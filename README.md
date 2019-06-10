@@ -1827,6 +1827,32 @@ diff <(cd directory1 && find | sort) <(cd directory2 && find | sort)
 ```bash
 diff <(cat /etc/passwd) <(cut -f2 /etc/passwd)
 ```
+##### Tool: vimdiff
+
+##### Highlight the exact differences, based on characters and words
+
+```sh
+vimdiff file1 file2
+```
+Compare two JSON files 
+
+```sh
+vimdiff <(jq -S . A.json) <(jq -S . B.json)
+```
+
+Compare Hex dump
+```sh
+d(){ vimdiff <(f $1) <(f $2);};f(){ hexdump -C $1|cut -d' ' -f3-|tr -s ' ';}; d ~/bin1 ~/bin2
+```
+
+Save [diffchar](https://raw.githubusercontent.com/vim-scripts/diffchar.vim/master/plugin/diffchar.vim) @ `~/.vim/plugins`
+
+Click `F7` to switch between diff modes
+
+Usefull vimdiff commands:
+* `qa` to exit all windows
+* `:vertical resize 70` to resize window
+* Set window width `Ctrl+W [N columns]+(Shift+)<\>` 
 
 ___
 
