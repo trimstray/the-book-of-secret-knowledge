@@ -1833,12 +1833,12 @@ ___
 
 ##### Tool: [vimdiff](http://vimdoc.sourceforge.net/htmldoc/diff.html)
 
-##### Highlight the exact differences, based on characters and words
+###### Highlight the exact differences, based on characters and words
 
 ```bash
 vimdiff file1 file2
 ```
-###### Compare two JSON files 
+###### Compare two JSON files
 
 ```bash
 vimdiff <(jq -S . A.json) <(jq -S . B.json)
@@ -1859,7 +1859,7 @@ Usefull `vimdiff` commands:
 
 * `qa` to exit all windows
 * `:vertical resize 70` to resize window
-* Set window width `Ctrl+W [N columns]+(Shift+)<\>` 
+* set window width `Ctrl+W [N columns]+(Shift+)<\>`
 
 ___
 
