@@ -1105,17 +1105,17 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://domgo.at/cxss/intro"><b>DomGoat</b></a> - DOM XSS security learning and practicing platform.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://chall.stypr.com"><b>Stereotyped Challenges</b></a> - is intended for offensive security experts who are willing to overcome situations of getting stuck in breaking into web services or web-based solutions.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://overthewire.org/wargames/"><b>OverTheWire</b></a> - can help you to learn and practice security concepts in the form of fun-filled games.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.vulnhub.com/"><b>Vulnhub</b></a> - allows anyone to gain practical 'hands-on' experience in digital security, computer software & network administration.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.vulnhub.com/"><b>Vulnhub</b></a> - allows anyone to gain practical 'hands-on' experience in digital security.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://w3challs.com/"><b>W3Challs</b></a> - is a penetration testing training platform, which offers various computer challenges.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://ringzer0ctf.com/challenges"><b>RingZer0 CTF</b></a> - offers you tons of challenges designed to test and improve your hacking skills through hacking challenges.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://ringzer0ctf.com/challenges"><b>RingZer0 CTF</b></a> - offers you tons of challenges designed to test and improve your hacking skills.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.try2hack.nl/"><b>try2hack</b></a> - several security-oriented challenges for your entertainment.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://hack.me/"><b>Hack.me</b></a> - a platform where the community can build, host and share vulnerable web application code for educational and research purposes.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hackthis.co.uk/levels/"><b>HackThis!</b></a> - discover how hacks, dumps and defacements are performed and secure your website against hackers with HackThis!<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://hack.me/"><b>Hack.me</b></a> - a platform where you can build, host and share vulnerable web apps for educational and research purposes.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hackthis.co.uk/levels/"><b>HackThis!</b></a> - discover how hacks, dumps and defacements are performed and secure your website against hackers.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.enigmagroup.org/#"><b>Enigma Group WebApp Training</b></a> - these challenges cover the exploits listed in the OWASP Top 10 Project.<br>
 </p>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://challenges.re/"><b>Reverse Engineering Challenges</b></a> - challenges, exercises, problems and tasks - by level, by type, by architecture, and more.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://challenges.re/"><b>Reverse Engineering Challenges</b></a> - challenges, exercises, problems and tasks - by level, by type, and more.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://0x00sec.org/"><b>0x00sec</b></a> - the home of the Hacker - Malware, Reverse Engineering, and Computer Science.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.wechall.net/challs"><b>We Chall</b></a> - there are exist a lots of different challenge types, e.g. Cryptographic, Crackit, Steganography, Programming, Logic and Math/Science.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.wechall.net/challs"><b>We Chall</b></a> - there are exist a lots of different challenge types.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hackergateway.com/"><b>Hacker Gateway</b></a> - is the go-to place for hackers who want to test their skills.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hacker101.com/"><b>Hacker101</b></a> - is a free class for web security.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://contained.af/"><b>contained.af</b></a> - a stupid game for learning about containers, capabilities, and syscalls.<br>
