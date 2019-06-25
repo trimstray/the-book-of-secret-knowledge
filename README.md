@@ -1074,7 +1074,9 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://google-gruyere.appspot.com/"><b>Google Gruyere</b></a> - web application exploits and defenses.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/amolnaik4/bodhi"><b>Bodhi</b></a> - is a playground focused on learning the exploitation of client-side web vulnerabilities.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://websploit.h4cker.org/"><b>Websploit</b></a> - single vm lab with the purpose of combining several vulnerable appliations in one environment.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/vulhub/vulhub"><b>vulhub</b></a> - pre-built Vulnerable Environments based on docker-compose<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/vulhub/vulhub"><b>vulhub</b></a> - pre-built Vulnerable Environments based on docker-compose.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://rhinosecuritylabs.com/aws/introducing-cloudgoat-2/"><b>CloudGoat 2</b></a> - the new & improved "Vulnerable by Design"
+AWS deployment tool.<br>
 </p>
 
 ##### :black_small_square: Labs (ethical hacking platforms/trainings/CTFs)
@@ -1120,6 +1122,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hackergateway.com/"><b>Hacker Gateway</b></a> - is the go-to place for hackers who want to test their skills.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hacker101.com/"><b>Hacker101</b></a> - is a free class for web security.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://contained.af/"><b>contained.af</b></a> - a stupid game for learning about containers, capabilities, and syscalls.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://flaws.cloud/"><b>flAWS challenge!</b></a> - a series of levels you'll learn about common mistakes and gotchas when using AWS.<br>
 </p>
 
 ##### :black_small_square: Other resources
