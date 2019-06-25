@@ -762,7 +762,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/j00ru/ctf-tasks"><b>ctf-tasks</b></a> - an archive of low-level CTF challenges developed over the years.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://hshrzd.wordpress.com/how-to-start/"><b>How to start RE/malware analysis?</b></a> - collection of some hints and useful links for the beginners.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.kegel.com/c10k.html"><b>The C10K problem</b></a> - it's time for web servers to handle ten thousand clients simultaneously, don't you think?<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="http://poormansprofiler.org/"><b>poor man's profiler</b></a> - sampling tools like oprofile or dtrace's don't really provide methods to see what programs are blocking on.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://poormansprofiler.org/"><b>poor man's profiler</b></a> - sampling tools like dtrace's don't really provide methods to see what programs are blocking on.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://bankgradesecurity.com/"><b>Bank Grade Security</b></a> - when companies say they have "Bank Grade Security" they imply that it is a good thing.<b>*</b><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://nickcraver.com/blog/2017/05/22/https-on-stack-overflow/"><b>HTTPS on Stack Overflow</b></a> - this is the story of a long journey regarding the implementation of SSL.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://drawings.jvns.ca/"><b>Julia's Drawings</b></a> - some drawings about programming and unix world, zines about systems & debugging tools.<br>
@@ -777,7 +777,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://cstack.github.io/db_tutorial/"><b>Let's Build a Simple Database</b></a> - writing a sqlite clone from scratch in C.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://djhworld.github.io/post/2019/05/21/i-dont-know-how-cpus-work-so-i-simulated-one-in-code/"><b>simple-computer</b></a> - great resource to understand how computers work under the hood.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.troyhunt.com/working-with-154-million-records-on/"><b>The story of "Have I been pwned?"</b></a> - working with 154 million records on Azure Table Storage.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.top500.org/"><b>TOP500 Supercomputers</b></a> - this list shows the 500 most powerful commercially available computer systems known to us.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.top500.org/"><b>TOP500 Supercomputers</b></a> - shows the 500 most powerful commercially available computer systems known to us.<br>
 </p>
 
 #### Inspiring Lists &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
@@ -1110,7 +1110,7 @@ AWS deployment tool.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://microcorruption.com/login"><b>Microcorruption</b></a> - reversal challenges done in the web interface.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://crackmes.one/"><b>Crackmes</b></a> - download crackmes to help improve your reverse engineering skills.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://domgo.at/cxss/intro"><b>DomGoat</b></a> - DOM XSS security learning and practicing platform.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://chall.stypr.com"><b>Stereotyped Challenges</b></a> - is intended for offensive security experts who are willing to overcome situations of getting stuck in breaking into web services or web-based solutions.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://chall.stypr.com"><b>Stereotyped Challenges</b></a> - upgrade your web hacking techniques today!<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://overthewire.org/wargames/"><b>OverTheWire</b></a> - can help you to learn and practice security concepts in the form of fun-filled games.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.vulnhub.com/"><b>Vulnhub</b></a> - allows anyone to gain practical 'hands-on' experience in digital security.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://w3challs.com/"><b>W3Challs</b></a> - is a penetration testing training platform, which offers various computer challenges.<br>
@@ -1119,7 +1119,6 @@ AWS deployment tool.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://hack.me/"><b>Hack.me</b></a> - a platform where you can build, host and share vulnerable web apps for educational and research purposes.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hackthis.co.uk/levels/"><b>HackThis!</b></a> - discover how hacks, dumps and defacements are performed and secure your website against hackers.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.enigmagroup.org/#"><b>Enigma Group WebApp Training</b></a> - these challenges cover the exploits listed in the OWASP Top 10 Project.<br>
-</p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://challenges.re/"><b>Reverse Engineering Challenges</b></a> - challenges, exercises, problems and tasks - by level, by type, and more.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://0x00sec.org/"><b>0x00sec</b></a> - the home of the Hacker - Malware, Reverse Engineering, and Computer Science.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.wechall.net/challs"><b>We Chall</b></a> - there are exist a lots of different challenge types.<br>
