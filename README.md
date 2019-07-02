@@ -1243,7 +1243,7 @@ AWS deployment tool.<br>
 | **`JSON Beautifier`** | Beautifies JSON content in the HTTP message viewer. |
 | **`JSON Web Tokens`** | Enables Burp to decode and manipulate JSON web tokens. |
 | **`CSP Auditor`** | Displays CSP headers for responses, and passively reports CSP weaknesses. |
-| **`CSP-Bypass`** | Passively scans for CSP headers that contain known bypasses.. |
+| **`CSP-Bypass`** | Passively scans for CSP headers that contain known bypasses. |
 | **`Hackvertor`** | Converts data using a tag-based configuration to apply various encoding. |
 | **`Active Scan++`** | Extends Burp's active and passive scanning capabilities. |
 | **`HTML5 Auditor`** | Scans for usage of risky HTML5 features. |
