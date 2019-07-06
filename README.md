@@ -929,9 +929,13 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/MarcoCiappelli"><b>@MarcoCiappelli</b></a> - Co-Founder @ITSPmagazine, at the intersection of IT security and society.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/binitamshah"><b>@binitamshah</b></a> - Linux Evangelist. Malwares. Kernel Dev. Security Enthusiast.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/joe_carson"><b>@joe_carson</b></a> - an InfoSec Professional and Tech Geek.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/mikko"><b>@mikko</b></a> - CRO at F-Secure, Reverse Engineer, TED Speaker, Supervillain<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/mikko"><b>@mikko</b></a> - CRO at F-Secure, Reverse Engineer, TED Speaker, Supervillain.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/esrtweet"><b>@esrtweet</b></a> - often referred to as ESR, is an American software developer, and open-source software advocate.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/gynvael"><b>@gynvael</b></a> - security researcher/programmer, @DragonSectorCTF founder/player, technical streamer.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/x0rz"><b>@x0rz</b></a> - Security Researcher & Cyber Observer.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/hasherezade"><b>@hasherezade</b></a> - programmer, malware analyst. Author of PEbear, PEsieve, libPeConv.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/TinkerSec"><b>@TinkerSec</b></a> - tinkerer, cypherpunk, hacker.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/alisaesage"><b>@alisaesage</b></a> - independent hacker and researcher.<br>
 </p>
 
 ##### :black_small_square: Best Commercial Twitter Accounts
