@@ -2453,6 +2453,13 @@ gpg --keyserver hkp://keyserver.ubuntu.com --search-keys "<username>"
   * `--keyserver` - set specific key server
   * `--search-keys` - search for keys on a key server
 
+###### List all of the packets in an encrypted file
+
+```bash
+gpg --batch --list-packets archive.gpg
+gpg2 --batch --list-packets archive.gpg
+```
+
 ___
 
 ##### Tool: [system-other](https://github.com/trimstray/the-book-of-secret-knowledge#tool-system-other)
