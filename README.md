@@ -1046,6 +1046,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://blog.safebuff.com/2016/07/03/SSRF-Tips/index.html"><b>SSRF Tips</b></a> - a collection of SSRF Tips.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://shell-storm.org/repo/CTF/"><b>shell-storm repo CTF</b></a> - great archive of CTFs.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/bl4de/ctf"><b>ctf</b></a> - CTF (Capture The Flag) writeups, code snippets, notes, scripts.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/orangetw/My-CTF-Web-Challenges"><b>My-CTF-Web-Challenges</b></a> - collection of CTF Web challenges.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/OWASP/owasp-mstg"><b>MSTG</b></a> - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing.<br>
 </p>
 
