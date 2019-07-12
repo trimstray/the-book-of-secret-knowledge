@@ -2308,6 +2308,20 @@ openssl x509 -signkey ${_fd} -nodes \
 openssl dhparam -out /etc/nginx/ssl/dhparam_4096.pem 4096
 ```
 
+###### Extract private key from pfx
+
+```bash
+( _fd_pfx="cert.pfx" ; _fd_key="key.pem" ; \
+openssl pkcs12 -in ${_fd_pfx} -nocerts -nodes -out ${_fd_key} )
+```
+
+###### Extract private key and certs from pfx
+
+```bash
+( _fd_pfx="cert.pfx" ; _fd_pem="key_certs.pem" ; \
+openssl pkcs12 -in ${_fd_pfx} -nodes -out ${_fd_pem} )
+```
+
 ###### Convert DER to PEM
 
 ```bash
