@@ -1036,6 +1036,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/foospidy/payloads"><b>payloads</b></a> - git all the Payloads! A collection of web attack payloads.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/"><b>Pentesting Tools Cheat Sheet</b></a> - a quick reference high level overview for typical penetration testing engagements.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://cheatsheetseries.owasp.org/"><b>OWASP Cheat Sheet Series</b></a> - is a collection of high value information on specific application security topics.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://jeremylong.github.io/DependencyCheck/index.html"><b>OWASP dependency-check</b></a> - is an open source solution the OWASP Top 10 2013 entry: A9 - Using Components with Known Vulnerabilities.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://media.defcon.org/"><b>DEF CON Media Server</b></a> - great stuff from DEFCON.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rshipp/awesome-malware-analysis"><b>Awesome Malware Analysis</b></a> - a curated list of awesome malware analysis tools and resources.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/"><b>SQL Injection Cheat Sheet</b></a> - detailed technical information about the many different variants of the SQL Injection.<br>
