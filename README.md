@@ -2214,19 +2214,19 @@ openssl req -new -sha256 -key ${_fd} -out ${_fd_csr} \
 -config <(
 cat <<-EOF
 [req]
-default_bits = 2048
-prompt = no
-default_md = sha256
-req_extensions = req_ext
-distinguished_name = dn
+default_bits        = 2048
+default_md          = sha256
+prompt              = no
+distinguished_name  = dn
+req_extensions      = req_ext
 
 [ dn ]
-C=<two-letter ISO abbreviation for your country>
-ST=<state or province where your organization is legally located>
-L=<city where your organization is legally located>
-O=<legal name of your organization>
-OU=<section of the organization>
-CN=<fully qualified domain name>
+C   = "<two-letter ISO abbreviation for your country>"
+ST  = "<state or province where your organisation is legally located>"
+L   = "<city where your organisation is legally located>"
+O   = "<legal name of your organisation>"
+OU  = "<section of the organisation>"
+CN  = "<fully qualified domain name>"
 
 [ req_ext ]
 subjectAltName = @alt_names
@@ -2237,6 +2237,22 @@ DNS.2 = <next domain>
 DNS.3 = <next domain>
 EOF
 ))
+```
+
+Other values in `[ dn ]`:
+
+  > Look at this great explanation: [How to create multidomain certificates using config files](https://apfelboymchen.net/gnu/notes/openssl%20multidomain%20with%20config%20files.html)
+
+```
+countryName            = "DE"                     # C=
+stateOrProvinceName    = "Hessen"                 # ST=
+localityName           = "Keller"                 # L=
+postalCode             = "424242"                 # L/postalcode=
+streetAddress          = "Crater 1621"            # L/street=
+organizationName       = "apfelboymschule"        # O=
+organizationalUnitName = "IT Department"          # OU=
+commonName             = "example.com"            # CN=
+emailAddress           = "webmaster@example.com"  # CN/emailAddress=
 ```
 
 ###### List available EC curves
