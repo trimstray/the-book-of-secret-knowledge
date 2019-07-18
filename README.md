@@ -2139,6 +2139,21 @@ openssl s_client -tls1_2 -connect google.com:443
 openssl s_client -cipher 'AES128-SHA' -connect google.com:443
 ```
 
+###### Verify 0-RTT
+
+```bash
+_host="example.com"
+
+cat > req.in << __EOF__
+HEAD / HTTP/1.1
+Host: $_host
+Connection: close
+__EOF__
+
+openssl s_client -connect ${_host}:443 -tls1_3 -sess_out session.pem -ign_eof < req.in
+openssl s_client -connect ${_host}:443 -tls1_3 -sess_in session.pem -early_data req.in
+```
+
 ###### Generate private key without passphrase
 
 ```bash
