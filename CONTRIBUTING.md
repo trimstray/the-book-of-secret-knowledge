@@ -1,5 +1,7 @@
 # Contributing
 
+  > _A real community, however, exists only when its members interact in a meaningful way that deepens their understanding of each other and leads to learning._
+
 If you would like to support this project, have an interesting idea how to improve the operation of this tool, or if you found some errors - fork this, add your fixes, and add a pull request of your branch to the **master branch**.
 
 ## Signature of commit
