@@ -150,6 +150,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/SecureAuthCorp/impacket"><b>impacket</b></a> - is a collection of Python classes for working with network protocols.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/arthepsy/ssh-audit"><b>ssh-audit</b></a> - is a tool for SSH server auditing.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://aria2.github.io/"><b>aria2</b></a> - is a lightweight multi-protocol & multi-source command-line download utility.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/x-way/iptables-tracer"><b>iptables-tracer</b></a> - observe the path of packets through the iptables chains.<br>
 </p>
 
 ##### :black_small_square: Network (DNS)
@@ -991,6 +992,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://lcamtuf.coredump.cx/p0f3/"><b>p0f</b></a> - is a tool to identify the players behind any incidental TCP/IP communications.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://bitbucket.org/LaNMaSteR53/recon-ng"><b>Recon-ng</b></a> - is a full-featured Web Reconnaissance framework written in Python.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/mozilla/ssh_scan"><b>ssh_scan</b></a> - a prototype SSH configuration and policy scanner.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/woj-ciech/LeakLooker"><b>LeakLooker</b></a> - find open databases - powered by Binaryedge.io<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/offensive-security/exploitdb"><b>exploitdb</b></a> - searchable archive from The Exploit Database.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/zardus/ctf-tools"><b>ctf-tools</b></a> - some setup scripts for security research tools.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Gallopsled/pwntools"><b>pwntools</b></a> - CTF framework and exploit development library.<br>
