@@ -1138,6 +1138,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/vulhub/vulhub"><b>vulhub</b></a> - pre-built Vulnerable Environments based on docker-compose.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://rhinosecuritylabs.com/aws/introducing-cloudgoat-2/"><b>CloudGoat 2</b></a> - the new & improved "Vulnerable by Design"
 AWS deployment tool.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/globocom/secDevLabs"><b>secDevLabs</b></a> - is a laboratory for learning secure web development in a practical manner.<br>
 </p>
 
 ##### :black_small_square: Labs (ethical hacking platforms/trainings/CTFs)
