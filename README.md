@@ -1052,12 +1052,6 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/NullArray/AutoSploit"><b>AutoSploit</b></a> - automated mass exploiter.<br>
 </p>
 
-##### :black_small_square: Backdoors/exploits
-
-<p>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/bartblaze/PHP-backdoors"><b>PHP-backdoors</b></a> - a collection of PHP backdoors. For educational or testing purposes only.<br>
-</p>
-
 ##### :black_small_square: Pentests bookmarks collection
 
 <p>
@@ -1095,6 +1089,13 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/orangetw/My-CTF-Web-Challenges"><b>My-CTF-Web-Challenges</b></a> - collection of CTF Web challenges.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/OWASP/owasp-mstg"><b>MSTG</b></a> - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/sdcampbell/Internal-Pentest-Playbook"><b>Internal-Pentest-Playbook</b></a> - notes on the most common things for an Internal Network Penetration Test.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/streaak/keyhacks"><b>KeyHacks</b></a> - shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid.<br>
+</p>
+
+##### :black_small_square: Backdoors/exploits
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/bartblaze/PHP-backdoors"><b>PHP-backdoors</b></a> - a collection of PHP backdoors. For educational or testing purposes only.<br>
 </p>
 
 ##### :black_small_square: Wordlists and Weak passwords
