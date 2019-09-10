@@ -951,7 +951,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools an
 Cybercrime Investigations</b></a> - podcast by Geoff White about cybercrimes.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://themanyhats.club/tag/episodes/"><b>The many hats club</b></a> - featuring stories from a wide range of Infosec people (Whitehat, Greyhat and Blackhat).<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://darknetdiaries.com/"><b>Darknet Diaries</b></a> - true stories from the dark side of the Internet.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.youtube.com/playlist?list=PL423I_gHbWUXah3dmt_q_XNp0NlGAKjis"><b>OSINTCurious Webcasts</b></a> - is the investigative curiousity that helps people be successful in OSINT.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.youtube.com/playlist?list=PL423I_gHbWUXah3dmt_q_XNp0NlGAKjis"><b>OSINTCurious Webcasts</b></a> - is the investigative curiosity that helps people be successful in OSINT.<br>
 </p>
 
 ##### :black_small_square: Geeky Cybersecurity Video Blogs
