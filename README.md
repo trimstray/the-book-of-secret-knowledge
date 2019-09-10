@@ -2385,10 +2385,17 @@ openssl x509 -signkey ${_fd} -nodes \
 -in ${_fd_csr} -req -days ${_days} -out ${_fd_out} )
 ```
 
-###### Generate DH Param key
+###### Generate DH public parameters
 
 ```bash
-openssl dhparam -out /etc/nginx/ssl/dhparam_4096.pem 4096
+( _dh_size="2048" ; \
+openssl dhparam -out /etc/nginx/ssl/dhparam_${_dh_size}.pem "$_dh_size" )
+```
+
+###### Display DH public parameters
+
+```bash
+openssl pkeyparam -in dhparam.pem -text
 ```
 
 ###### Extract private key from pfx
