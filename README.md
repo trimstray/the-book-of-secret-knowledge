@@ -325,6 +325,7 @@ Only main chapters:
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://hexchat.github.io/index.html"><b>HexChat</b></a> - is an IRC client based on XChat.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://pidgin.im/"><b>Pidgin</b></a> - is an easy to use and free chat client used by millions.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://irssi.org"><b>Irssi</b></a> - is a free open source terminal based IRC client.<br>
 </p>
 
 ##### :black_small_square: Messengers (end-to-end encryption)
