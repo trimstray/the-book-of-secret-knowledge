@@ -747,6 +747,12 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://packetlife.net/"><b>PacketLife.net</b></a> - a place to record notes while studying for Cisco's CCNP certification.<br>
 </p>
 
+##### :black_small_square: Microsoft
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/infosecn1nja/AD-Attack-Defense"><b>AD-Attack-Defense</b></a> - attack and defend active directory using modern post exploitation adversary tradecraft activity.<br>
+</p>
+
 ##### :black_small_square: Large-scale systems
 
 <p>
