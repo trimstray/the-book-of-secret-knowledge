@@ -704,7 +704,8 @@ performance of any of your sites from across the globe.<br>
 ##### :black_small_square: Shell/Command line
 
 <p>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dylanaraps/pure-bash-bible"><b>pure-bash-bible</b></a> - a collection of pure bash alternatives to external processes.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dylanaraps/pure-bash-bible"><b>pure-bash-bible</b></a> - is a collection of pure bash alternatives to external processes.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dylanaraps/pure-sh-bible"><b>pure-sh-bible</b></a> - is a collection of pure POSIX sh alternatives to external processes.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://wiki.bash-hackers.org/start"><b>The Bash Hackers Wiki</b></a> - hold documentation of any kind about GNU Bash.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://pubs.opengroup.org/onlinepubs/9699919799/utilities/contents.html"><b>Shell & Utilities</b></a> - describes the commands and utilities offered to application programs by POSIX-conformant systems.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jlevy/the-art-of-command-line"><b>the-art-of-command-line</b></a> - master the command line, in one page.<br>
