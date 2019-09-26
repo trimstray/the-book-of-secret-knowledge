@@ -521,11 +521,11 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://abuse.ch/"><b>abuse.ch</b></a> - is operated by a random swiss guy fighting malware for non-profit.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://malc0de.com/database/"><b>malc0de</b></a> - malware search engine.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://cybercrime-tracker.net/index.php"><b>Cybercrime Tracker</b></a> - monitors and tracks various malware families that are used to perpetrate cyber crimes.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/eth0izzle/shhgit/"><b>shhgit</b></a> - find GitHub secrets in real time.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://nerdydata.com/"><b>NerdyData</b></a> - search source code across 65 million websites.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://searchcode.com/"><b>searchcode</b></a> - helping you find real world examples of functions, API's and libraries.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.insecam.org/"><b>Insecam</b></a> - the world biggest directory of online surveillance security cameras.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://index-of.es/"><b>index-of</b></a> - contains great stuff like: security, hacking, reverse engineering, cryptography, programming etc.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/eth0izzle/shhgit/"><b>shhgit</b></a> - find GitHub secrets in real time.<br>
 </p>
 
 ##### :black_small_square: Generators
@@ -1077,6 +1077,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.amanhardikar.com/mindmaps/Practice.html"><b>Pentests MindMap</b></a> - amazing mind map with vulnerable apps and systems.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.amanhardikar.com/mindmaps/webapptest.html"><b>WebApps Security Tests MindMap</b></a> - incredible mind map for WebApps security tests.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://brutelogic.com.br/blog/"><b>Brute XSS</b></a> - master the art of Cross Site Scripting.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://portswigger.net/web-security/cross-site-scripting/cheat-sheet"><b>XSS cheat sheet</b></a> - contains many vectors that can help you bypass WAFs and filters.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://jivoi.github.io/2015/07/03/offensive-security-bookmarks/"><b>Offensive Security Bookmarks</b></a> - security bookmarks collection, all that things I need to pass OSCP.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/coreb1t/awesome-pentest-cheat-sheets"><b>Awesome Pentest Cheat Sheets</b></a> - collection of the cheat sheets useful for pentesting.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Hack-with-Github/Awesome-Hacking"><b>Awesome Hacking by HackWithGithub</b></a> - awesome lists for hackers, pentesters and security researchers.<br>
@@ -1146,6 +1147,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project"><b>OWASP-VWAD</b></a> - comprehensive and well maintained registry of all known vulnerable web applications.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://metasploit.help.rapid7.com/docs/metasploitable-2"><b>Metasploitable 2</b></a> - vulnerable web application amongst security researchers.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.dvwa.co.uk/"><b>DVWA</b></a> - PHP/MySQL web application that is damn vulnerable.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/stamparm/DSVW"><b>DSVW</b></a> - is a deliberately vulnerable web application written in under 100 lines of code.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://sourceforge.net/projects/mutillidae/"><b>OWASP Mutillidae II</b></a> - free, open source, deliberately vulnerable web-application.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.owasp.org/index.php/OWASP_Juice_Shop_Project"><b>OWASP Juice Shop Project</b></a> - the most bug-free vulnerable application in existence.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/iteratec/juicy-ctf"><b>juicy-ctf</b></a> - run Capture the Flags and Security Trainings with OWASP Juice Shop.<br>
