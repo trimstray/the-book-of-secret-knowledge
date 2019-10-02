@@ -839,7 +839,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/vasanthk/how-web-works"><b>how-web-works</b></a> - based on the 'What happens when...' repository.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://robertheaton.com/2018/11/28/https-in-the-real-world/"><b>HTTPS in the real world</b></a> - great tutorial explain how HTTPS works in the real world.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://about.gitlab.com/2018/11/14/how-we-spent-two-weeks-hunting-an-nfs-bug/"><b>Gitlab and NFS bug</b></a> - how we spent two weeks hunting an NFS bug in the Linux kernel.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://about.gitlab.com/2017/02/10/postmortem-of-database-outage-of-january-31/"><b>Gitlab melts down/b></a> - postmortem on the database outage of January 31 2017 with the lessons we learned.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://about.gitlab.com/2017/02/10/postmortem-of-database-outage-of-january-31/"><b>Gitlab melts down</b></a> - postmortem on the database outage of January 31 2017 with the lessons we learned.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.catb.org/esr/faqs/hacker-howto.html"><b>How To Become A Hacker</b></a> - if you want to be a hacker, keep reading.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://ithare.com/infographics-operation-costs-in-cpu-clock-cycles/"><b>Operation Costs in CPU</b></a> - an infographics which should help to estimate costs of certain operations in CPU clocks.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://cstack.github.io/db_tutorial/"><b>Let's Build a Simple Database</b></a> - writing a sqlite clone from scratch in C.<br>
@@ -1446,7 +1446,8 @@ sort -nr | nl |  head -n 20
 
 ```bash
 function sterile() {
-    history | awk '$2 != "history" { $1=""; print $0 }' | egrep -vi "\
+
+  history | awk '$2 != "history" { $1=""; print $0 }' | egrep -vi "\
 curl\b+.*(-E|--cert)\b+.*\b*|\
 curl\b+.*--pass\b+.*\b*|\
 curl\b+.*(-U|--proxy-user).*:.*\b*|\
@@ -1455,11 +1456,13 @@ curl\b+.*(-u|--user).*:.*\b*
 wget\b+.*--.*password\b+.*\b*|\
 http.?://.+:.+@.*\
 " > $HOME/histbuff; history -r $HOME/histbuff;
+
 }
 
 export PROMPT_COMMAND="sterile"
-
 ```
+
+  > Look also: [A naive utility to censor credentials in command history](https://github.com/lbonanomi/go/blob/master/revisionist.go).
 
 ###### Quickly backup a file
 
@@ -1555,6 +1558,7 @@ for i in {1..10} ; do echo $i ; done
 
 ```bash
 unset MAIL; export MAILCHECK=1; export MAILPATH='$FILE_TO_WATCH?$MESSAGE'
+
 ```
 
 ___
