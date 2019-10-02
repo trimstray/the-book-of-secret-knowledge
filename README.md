@@ -60,10 +60,11 @@ Before adding a pull request, please see the **[contributing guidelines](CONTRIB
 
 If this project is useful and important for you or if you really like _the-book-of-secret-knowledge_, you can bring **positive energy** by giving some **good words** or **supporting this project**. Thank you!
 
-## :ballot_box_with_check: &nbsp;Todo
+## :ballot_box_with_check: &nbsp;ToDo
 
 - [ ] Add useful shell functions
 - [ ] Add one-liners for collection tools (eg. CLI Tools)
+- [ ] Sort order in lists
 
 ## :anger: &nbsp;Table of Contents
 
