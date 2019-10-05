@@ -56,12 +56,36 @@ Url marked **\*** is temporary unavailable. Please don't delete it without confi
 
 Before adding a pull request, please see the **[contributing guidelines](CONTRIBUTING.md)**. All **suggestions/PR** are welcome!
 
+### How to find broken links?
+
+```bash
+git clone https://github.com/trimstray/the-book-of-secret-knowledge && cd the-book-of-secret-knowledge
+
+for i in $(sed -n 's/.*href="\([^"]*\).*/\1/p' README.md | grep -v "^#") ; do
+
+  _rcode=$(curl -s -o /dev/null -w "%{http_code}" "$i")
+
+  if [[ "$_rcode" != "2"* ]] ; then echo " -> $i - $_rcode" ; fi
+
+done
+```
+
+Result:
+
+```bash
+ -> https://ghostproject.fr/ - 503
+ -> http://www.mmnt.net/ - 302
+ -> https://search.weleakinfo.com/ - 503
+ [...]
+```
+
 ## :gift_heart: &nbsp;Support
 
 If this project is useful and important for you or if you really like _the-book-of-secret-knowledge_, you can bring **positive energy** by giving some **good words** or **supporting this project**. Thank you!
 
 ## :ballot_box_with_check: &nbsp;ToDo
 
+- [ ] Add new stuff...
 - [ ] Add useful shell functions
 - [ ] Add one-liners for collection tools (eg. CLI Tools)
 - [ ] Sort order in lists
