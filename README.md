@@ -1079,6 +1079,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/j3ssie/Osmedeus"><b>Osmedeus</b></a> - fully automated offensive security tool for reconnaissance and vulnerability scanning.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/beefproject/beef"><b>beef</b></a> - the browser exploitation framework project.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/NullArray/AutoSploit"><b>AutoSploit</b></a> - automated mass exploiter.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/TH3xACE/SUDO_KILLER"><b>SUDO_KILLER</b></a> - is a tool to identify and exploit sudo rules' misconfigurations and vulnerabilities.<br>
 </p>
 
 ##### :black_small_square: Pentests bookmarks collection
