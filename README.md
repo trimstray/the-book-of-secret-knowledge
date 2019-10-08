@@ -484,6 +484,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://network-tools.com/"><b>Network-Tools</b></a> - network tools for webmasters, IT technicians & geeks.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://riseup.net/"><b>Riseup</b></a> - provides online communication tools for people and groups working on liberatory social change.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.virustotal.com/gui/home/upload"><b>VirusTotal</b></a> - analyze suspicious files and URLs to detect types of malware.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://extendsclass.com/rest-client-online.html"><b>ExtendsClass</b></a> - online HTTP client.<br>
 </p>
 
 ##### :black_small_square: Privacy
