@@ -295,6 +295,8 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/xo/usql"><b>usql</b></a> - universal command-line interface for SQL databases.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dbcli/pgcli"><b>pgcli</b></a> - postgres CLI with autocompletion and syntax highlighting.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dbcli/mycli"><b>mycli</b></a> - terminal client for MySQL with autocompletion and syntax highlighting.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/osquery/osquery"><b>OSQuery</b></a> - OSquery is a SQL powered operating system instrumentation, monitoring, and analytics framework.
+Available for Linux, macOS, Windows, and FreeBSD. <br>
 </p>
 
 ##### :black_small_square: TOR
