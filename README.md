@@ -1030,6 +1030,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/hasherezade"><b>@hasherezade</b></a> - programmer, malware analyst. Author of PEbear, PEsieve, libPeConv.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/TinkerSec"><b>@TinkerSec</b></a> - tinkerer, cypherpunk, hacker.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/alisaesage"><b>@alisaesage</b></a> - independent hacker and researcher.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/SwiftOnSecurity"><b>@SwiftOnSecurity</b></a> - Systems security, industrial safety, author http://DecentSecurity.com + http://GotPhish.com, write SciFi, sysadmin, & use Oxford commas.<br>
 </p>
 
 ##### :black_small_square: Best Commercial Twitter Accounts
