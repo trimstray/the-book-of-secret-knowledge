@@ -573,6 +573,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.startpage.com/"><b>Startpage</b></a> - the world's most private search engine.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://searx.me/"><b>searX</b></a> - a privacy-respecting, hackable metasearch engine.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://darksearch.io/"><b>darksearch</b></a> - the 1st real Dark Web search engine.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.qwant.com/"><b>Qwant</b></a> - the search engine that respects your privacy.<br>
 </p>
 
 ##### :black_small_square: Secure WebMail Providers
@@ -1007,6 +1008,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/hasherezade"><b>@hasherezade</b></a> - programmer, malware analyst. Author of PEbear, PEsieve, libPeConv.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/TinkerSec"><b>@TinkerSec</b></a> - tinkerer, cypherpunk, hacker.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/alisaesage"><b>@alisaesage</b></a> - independent hacker and researcher.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/SwiftOnSecurity"><b>@SwiftOnSecurity</b></a> - systems security, industrial safety, sysadmin, author of https://decentsecurity.com/.<br>
 </p>
 
 ##### :black_small_square: Best Commercial Twitter Accounts
