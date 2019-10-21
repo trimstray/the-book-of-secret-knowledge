@@ -1287,6 +1287,7 @@ AWS deployment tool.<br>
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://jamielinux.com/docs/openssl-certificate-authority/"><b>OpenSSL Certificate Authority</b></a> - build your own certificate authority (CA) using the OpenSSL command-line tools.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/smallstep/certificates"><b>step-ca Certificate Authority</b></a> - build your own certificate authority (CA) using open source step-ca.<br>
 </p>
 
 ###### Build your own System/Virtual Machine
