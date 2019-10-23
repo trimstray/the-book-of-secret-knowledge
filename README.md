@@ -6,7 +6,7 @@
 
 <p align="center">"<i>Knowledge is powerful, be careful how you use it!</i>"</p>
 
-<h4 align="center">A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.</h4>
+<h4 align="center">A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.</h4>
 
 <br>
 
@@ -24,6 +24,20 @@
   <a href="https://twitter.com/trimstray">trimstray</a> and
   <a href="https://github.com/trimstray/the-book-of-secret-knowledge/graphs/contributors">contributors</a>
 </div>
+
+<br><br>
+
+<p align="center">
+  <a href="https://triplebyte.com/a/YW39WD4/d">
+    <b>Looking for a job?</b>
+    <br>
+    No resume needed. Just prove you can code.
+    <br>
+    <img src="https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/static/img/triplebyte-logo.png" width="260" alt="triplebyte">
+  </a>
+  <br>
+  <sub><i>Clicking this helps fund this project</i></sub>
+</p>
 
 <br>
 
