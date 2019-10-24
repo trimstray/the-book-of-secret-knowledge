@@ -3235,7 +3235,8 @@ client> tar czvfp - /path/to/dir | nc 10.240.30.3 5000
 ###### Launch remote shell
 
 ```bash
-server> nc -l 5000 -e /bin/bash
+server> rm -f /tmp/f; mkfifo /tmp/f
+server> cat /tmp/f | /bin/bash -i 2>&1 | nc -l 127.0.0.1 5000 > /tmp/f
 client> nc 10.240.30.3 5000
 ```
 
