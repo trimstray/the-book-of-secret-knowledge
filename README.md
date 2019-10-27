@@ -955,6 +955,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://chrissymorgan.co.uk/"><b>Chrissy Morgan</b></a> - advocate of practical learning, Chrissy also takes part in bug bounty programs.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://blog.zsec.uk/"><b>Andy Gill</b></a> - is a hacker at heart who works as a senior penetration tester.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://danielmiessler.com/"><b>Daniel Miessler</b></a> - cybersecurity expert and writer.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://samy.pl/"><b>Samy Kamkar</b></a> -  is an American privacy and security researcher, computer hacker.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.j4vv4d.com/"><b>Javvad Malik</b></a> - is a security advocate at AlienVault, a blogger event speaker and industry commentator.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.grahamcluley.com/"><b>Graham Cluley</b></a> - public speaker and independent computer security analyst.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://security.szurek.pl/"><b>Kacper Szurek</b></a> - detection engineer at ESET.<br>
@@ -998,6 +999,7 @@ Cybercrime Investigations</b></a> - podcast by Geoff White about cybercrimes.<br
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://themanyhats.club/tag/episodes/"><b>The many hats club</b></a> - featuring stories from a wide range of Infosec people (Whitehat, Greyhat and Blackhat).<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://darknetdiaries.com/"><b>Darknet Diaries</b></a> - true stories from the dark side of the Internet.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.youtube.com/playlist?list=PL423I_gHbWUXah3dmt_q_XNp0NlGAKjis"><b>OSINTCurious Webcasts</b></a> - is the investigative curiosity that helps people be successful in OSINT.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.youtube.com/user/SecurityWeeklyTV"><b>Security Weekly</b></a> - the latest information security and hacking news.<br>
 </p>
 
 ##### :black_small_square: Geeky Cybersecurity Video Blogs
@@ -1024,7 +1026,13 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/hasherezade"><b>@hasherezade</b></a> - programmer, malware analyst. Author of PEbear, PEsieve, libPeConv.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/TinkerSec"><b>@TinkerSec</b></a> - tinkerer, cypherpunk, hacker.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/alisaesage"><b>@alisaesage</b></a> - independent hacker and researcher.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/SwiftOnSecurity"><b>@SwiftOnSecurity</b></a> - systems security, industrial safety, sysadmin, author of https://decentsecurity.com/.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/SwiftOnSecurity"><b>@SwiftOnSecurity</b></a> - systems security, industrial safety, sysadmin, author of decentsecurity.com.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/dakami"><b>@dakami</b></a> - chief scientist at White Ops, is one of just seven people with the authority to restore the DNS root keys.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/samykamkar"><b>@samykamkar</b></a> - security researcher whose recent exploits include breaking into keyless-entry vehicles and hacking drones.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/securityweekly"><b>@securityweekly</b></a> - founder & CTO of Security Weekly podcast network.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/jack_daniel"><b>@jack_daniel</b></a> - @SecurityBSides co-founder.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/thegrugq"><b>@thegrugq</b></a> - Security Researcher.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/matthew_d_green"><b>@matthew_d_green</b></a> - a cryptographer and professor at Johns Hopkins University.<br>
 </p>
 
 ##### :black_small_square: Best Commercial Twitter Accounts
