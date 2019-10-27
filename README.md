@@ -1028,7 +1028,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/alisaesage"><b>@alisaesage</b></a> - independent hacker and researcher.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/SwiftOnSecurity"><b>@SwiftOnSecurity</b></a> - systems security, industrial safety, sysadmin, author of decentsecurity.com.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/dakami"><b>@dakami</b></a> - chief scientist at White Ops, is one of just seven people with the authority to restore the DNS root keys.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/samykamkar"><b>@samykamkar</b></a> - security researcher whose recent exploits include breaking into keyless-entry vehicles and hacking drones.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/samykamkar"><b>@samykamkar</b></a> - is a famous "grey hat" hacker, security researcher, creator of the MySpace "Samy" worm.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/securityweekly"><b>@securityweekly</b></a> - founder & CTO of Security Weekly podcast network.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/jack_daniel"><b>@jack_daniel</b></a> - @SecurityBSides co-founder.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/thegrugq"><b>@thegrugq</b></a> - Security Researcher.<br>
