@@ -81,6 +81,8 @@ If this project is useful and important for you or if you really like _the-book-
 - [ ] Add one-liners for collection tools (eg. CLI Tools)
 - [ ] Sort order in lists
 
+New items are also added on a regular basis.
+
 ## :anger: &nbsp;Table of Contents
 
 Only main chapters:
@@ -924,6 +926,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.cheatography.com/"><b>Cheatography</b></a> - over 3,000 free cheat sheets, revision aids and quick references.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/mre/awesome-static-analysis"><b>awesome-static-analysis</b></a> - static analysis tools for all programming languages.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/ossu/computer-science"><b>computer-science</b></a> - path to a free self-taught education in Computer Science.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/danluu/post-mortems"><b>post-mortems</b></a> - is a collection of postmortems (config errors, hardware failures, and more).<br>
 </p>
 
 #### Blogs/Podcasts/Videos &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
