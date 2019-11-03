@@ -768,6 +768,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/bagder/http2-explained"><b>http2-explained</b></a> - a detailed document explaining and documenting HTTP/2.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/bagder/http3-explained"><b>http3-explained</b></a> - a document describing the HTTP/3 and QUIC protocols.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/trimstray/nginx-admins-handbook"><b>Nginx Admin's Handbook</b></a> - describes how to improve NGINX performance, security and other important things.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/digitalocean/nginxconfig.io"><b>nginxconfig.io</b></a> - NGINX config generator on steroids.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://infosec.mozilla.org/guidelines/openssh"><b>openssh guideline</b></a> - is to help operational teams with the configuration of OpenSSH server and client.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://packetlife.net/"><b>PacketLife.net</b></a> - a place to record notes while studying for Cisco's CCNP certification.<br>
 </p>
