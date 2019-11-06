@@ -512,6 +512,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://pingme.io/"><b>PingMe.io</b></a> - run website latency tests across multiple geographic regions.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://developers.google.com/speed/pagespeed/insights/"><b>PageSpeed Insights</b></a> - analyze your site’s speed and make it faster.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://web.dev/"><b>web.dev</b></a> - helps developers like you learn and apply the web's modern capabilities to your own sites and apps.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/GoogleChrome/lighthouse"><b>Lighthouse</b></a> - Automated auditing, performance metrics, and best practices for the web.<br>
 </p>
 
 ##### :black_small_square: Mass scanners (search engines)
