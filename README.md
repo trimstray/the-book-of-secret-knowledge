@@ -374,6 +374,9 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.sublimetext.com/3"><b>Sublime Text</b></a> - is a lightweight, cross-platform code editor known for its speed, ease of use.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://code.visualstudio.com/"><b>Visual Studio Code</b></a> - an open-source and free source code editor developed by Microsoft.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://atom.io/"><b>Atom</b></a> - a hackable text editor for the 21st Century.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://brackets.io/"><b>Brackets</b></a> - a modern , open source text editor for web development.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://notepad-plus-plus.org/"><b>Notepad++</b></a> - Notepad++ is a free source code editor and Notepad replacement that supports several languages.<br>
+ &nbsp;&nbsp;:small_orange_diamond: <a href="https://panic.com/coda/"><b>Coda</b></a> - is a fast, clean and powerful text editor.<br>
 </p>
 
 #### Web Tools &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
