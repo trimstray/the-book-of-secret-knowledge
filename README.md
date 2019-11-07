@@ -68,7 +68,7 @@ These below rules may be better:
 
 Remember this when you want to add something new:
 
-  > **_This repository is not meant to contain everything that is available - only good quality stuff._**
+  > **_`This repository is not meant to contain everything that is available - only good quality stuff.`_**
 
 Url marked **\*** is temporary unavailable. Please don't delete it without confirming that it has permanently expired.
 
