@@ -310,6 +310,7 @@ Only main chapters:
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://irssi.org"><b>Irssi</b></a> - is a free open source terminal based IRC client.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://weechat.org/"><b>WeeChat</b></a> - is a extremely extensible and lightweight IRC client.<br>
 </p>
 
 ##### :black_small_square: Other
