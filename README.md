@@ -66,13 +66,13 @@ These below rules may be better:
 - easy to contribute to (Markdown + HTML ...)
 - easy to find (simple TOC, maybe it's worth extending them?)
 
-Remember this when you want to add something new:
-
-  > **_`This repository is not meant to contain everything that is available - only good quality stuff.`_**
-
 Url marked **\*** is temporary unavailable. Please don't delete it without confirming that it has permanently expired.
 
-Before adding a pull request, please see the **[contributing guidelines](CONTRIBUTING.md)**. All **suggestions/PR** are welcome!
+Before adding a pull request, please see the **[contributing guidelines](CONTRIBUTING.md)**. You should also remember about this:
+
+  > **_`This repository is not meant to contain everything but only good quality stuff.`_**
+
+All **suggestions/PR** are welcome!
 
 ## :gift_heart: &nbsp;Support
 
