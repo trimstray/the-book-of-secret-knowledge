@@ -940,6 +940,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/mre/awesome-static-analysis"><b>awesome-static-analysis</b></a> - static analysis tools for all programming languages.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/ossu/computer-science"><b>computer-science</b></a> - path to a free self-taught education in Computer Science.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/danluu/post-mortems"><b>post-mortems</b></a> - is a collection of postmortems (config errors, hardware failures, and more).<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/kylelobo/The-Documentation-Compendium"><b>The-Documentation-Compendium</b></a> - various README templates & tips on writing high-quality documentation.<br>
 </p>
 
 #### Blogs/Podcasts/Videos &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
