@@ -70,7 +70,9 @@ Url marked **\*** is temporary unavailable. Please don't delete it without confi
 
 Before adding a pull request, please see the **[contributing guidelines](CONTRIBUTING.md)**. You should also remember about this:
 
-  > **_`This repository is not meant to contain everything but only good quality stuff.`_**
+```diff
++ This repository is not meant to contain everything but only good quality stuff.
+```
 
 All **suggestions/PR** are welcome!
 
