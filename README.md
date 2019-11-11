@@ -45,11 +45,11 @@
 
 ## :notebook_with_decorative_cover: &nbsp;What is it?
 
-This list is a collection of various materials and tools that I use every day in my work. It contains a lot of useful information gathered in one piece.
+This repository is a collection of various materials and tools that I use every day in my work. It contains a lot of useful information gathered in one piece. It is an invaluable source of knowledge for me that I often look back on.
 
 ## :restroom: &nbsp;For whom?
 
-This collection is suitable for everyone. It is aimed towards System and Network administrators, DevOps, Pentesters and Security Researchers.
+For everyone, really. Here everyone can find their favourite tastes. But to be perfectly honest, it is aimed towards System and Network administrators, DevOps, Pentesters, and Security Researchers.
 
 ## :information_source: &nbsp;Contributing
 
@@ -68,7 +68,13 @@ These below rules may be better:
 
 Url marked **\*** is temporary unavailable. Please don't delete it without confirming that it has permanently expired.
 
-Before adding a pull request, please see the **[contributing guidelines](CONTRIBUTING.md)**. All **suggestions/PR** are welcome!
+Before adding a pull request, please see the **[contributing guidelines](CONTRIBUTING.md)**. You should also remember about this:
+
+```diff
++ This repository is not meant to contain everything but only good quality stuff.
+```
+
+All **suggestions/PR** are welcome!
 
 ## :gift_heart: &nbsp;Support
 
@@ -115,6 +121,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Bash-it/bash-it"><b>bash-it</b></a> - is a framework for using, developing and maintaining shell scripts and custom commands.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://ohmyz.sh/"><b>Oh My ZSH!</b></a> - is the best framework for managing your Zsh configuration.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/oh-my-fish/oh-my-fish"><b>Oh My Fish</b></a> - the Fishshell framework.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/starship/starship"><b>Starship</b></a> - the cross-shell prompt written in Rust.<br>
 </p>
 
 ##### :black_small_square: Managers
@@ -306,6 +313,7 @@ Only main chapters:
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://irssi.org"><b>Irssi</b></a> - is a free open source terminal based IRC client.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://weechat.org/"><b>WeeChat</b></a> - is an extremely extensible and lightweight IRC client.<br>
 </p>
 
 ##### :black_small_square: Other
@@ -512,6 +520,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://pingme.io/"><b>PingMe.io</b></a> - run website latency tests across multiple geographic regions.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://developers.google.com/speed/pagespeed/insights/"><b>PageSpeed Insights</b></a> - analyze your site’s speed and make it faster.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://web.dev/"><b>web.dev</b></a> - helps developers like you learn and apply the web's modern capabilities to your own sites and apps.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/GoogleChrome/lighthouse"><b>Lighthouse</b></a> - automated auditing, performance metrics, and best practices for the web.<br>
 </p>
 
 ##### :black_small_square: Mass scanners (search engines)
@@ -874,6 +883,8 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://home.cern/science/computing"><b>CERN Data Centre</b></a> - 3D visualizations of the CERN computing environments (and more).<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://howfuckedismydatabase.com/"><b>How fucked is my database</b></a> - evaluate how fucked your database is with this handy website.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://howfuckedismydatabase.com/"><b>Five Whys</b></a> - you know what the problem is, but you cannot solve it?<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://howhttps.works/"><b>howhttps.works</b></a> - how HTTPS works ...in a comic!<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://howdns.works/"><b>howdns.works</b></a> - a fun and colorful explanation of how DNS works.<br>
 </p>
 
 #### Inspiring Lists &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
@@ -896,6 +907,7 @@ performance of any of your sites from across the globe.<br>
 ##### :black_small_square: Developers
 
 <p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/kamranahmedse/developer-roadmap"><b>Web Developer Roadmap</b></a> - roadmaps, articles and resources to help you choose your path, learn and improve.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/thedaviddias/Front-End-Checklist"><b>Front-End-Checklist</b></a> - the perfect Front-End Checklist for modern websites and meticulous developers.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://rszalski.github.io/magicmethods/"><b>Python's Magic Methods</b></a> - what are magic methods? They're everything in object-oriented Python.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/satwikkansal/wtfpython"><b>wtfpython</b></a> - a collection of surprising Python snippets and lesser-known features.<br>
@@ -932,6 +944,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/mre/awesome-static-analysis"><b>awesome-static-analysis</b></a> - static analysis tools for all programming languages.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/ossu/computer-science"><b>computer-science</b></a> - path to a free self-taught education in Computer Science.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/danluu/post-mortems"><b>post-mortems</b></a> - is a collection of postmortems (config errors, hardware failures, and more).<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/kylelobo/The-Documentation-Compendium"><b>The-Documentation-Compendium</b></a> - various README templates & tips on writing high-quality documentation.<br>
 </p>
 
 #### Blogs/Podcasts/Videos &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
@@ -1156,6 +1169,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/OWASP/owasp-mstg"><b>MSTG</b></a> - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/sdcampbell/Internal-Pentest-Playbook"><b>Internal-Pentest-Playbook</b></a> - notes on the most common things for an Internal Network Penetration Test.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/streaak/keyhacks"><b>KeyHacks</b></a> - shows quick ways in which API keys leaked by a bug bounty program can be checked.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/securitum/research"><b>securitum/research</b></a> - various Proof of Concepts of security research performed by Securitum.<br>
 </p>
 
 ##### :black_small_square: Backdoors/exploits
