@@ -3890,7 +3890,7 @@ shell> GetASN 0.0.0.0
 Unsuccessful ASN gathering.
 ```
 
-###### scriptfiles to Gists
+###### Store script files as gists
 
 function scripto() {
     # Automatically upload /bin/script scriptfiles as Github.com gists
