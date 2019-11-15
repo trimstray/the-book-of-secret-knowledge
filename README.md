@@ -68,7 +68,7 @@ These below rules may be better:
 
 Url marked **\*** is temporary unavailable. Please don't delete it without confirming that it has permanently expired.
 
-Before adding a pull request, please see the **[contributing guidelines](CONTRIBUTING.md)**. You should also remember about this:
+Before adding a pull request, please see the **[contributing guidelines](.github/CONTRIBUTING.md)**. You should also remember about this:
 
 ```diff
 + This repository is not meant to contain everything but only good quality stuff.
