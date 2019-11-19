@@ -932,6 +932,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/michalmalik/linux-re-101"><b>linux-re-101</b></a> - a collection of resources for linux reverse engineering.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/onethawt/reverseengineering-reading-list"><b>reverseengineering-reading-list</b></a> - a list of Reverse Engineering articles, books, and papers.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/0xInfection/Awesome-WAF"><b>Awesome-WAF</b></a> - a curated list of awesome web-app firewall (WAF) stuff.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jakejarvis/awesome-shodan-queries"><b>awesome-shodan-queries</b></a> - interesting, funny, and depressing search queries to plug into shodan.io.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/danielmiessler/RobotsDisallowed"><b>RobotsDisallowed</b></a> - a curated list of the most common and most interesting robots.txt disallowed directories.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://gist.github.com/joepie91/7e5cad8c0726fd6a5e90360a754fc568"><b>wildcard-certificates</b></a> - why you probably shouldn't use a wildcard certificate.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://gist.github.com/joepie91/5a9909939e6ce7d09e29"><b>Don't use VPN services</b></a> -  which is what every third-party "VPN provider" does.<br>
