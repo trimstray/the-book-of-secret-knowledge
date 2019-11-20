@@ -423,7 +423,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://cryptcheck.fr/suite/"><b>Cipher suite compatibility</b></a> - test TLS cipher suite compatibility.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.urlvoid.com/"><b>urlvoid</b></a> - this service helps you detect potentially malicious websites.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://securitytxt.org/"><b>security.txt</b></a> - a proposed standard (generator) which allows websites to define security policies.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/mozilla/ssl-config-generator"><b>ssl-config-generator</b></a> - is a tool which builds configuration files to help you follow the Mozilla Server Side TLS configuration guidelines.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/mozilla/ssl-config-generator"><b>ssl-config-generator</b></a> - help you follow the Mozilla Server Side TLS configuration guidelines.<br>
 </p>
 
 ##### :black_small_square: HTTP Headers & Web Linters
