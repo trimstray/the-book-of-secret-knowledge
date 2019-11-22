@@ -544,9 +544,12 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://hunter.io/"><b>hunter</b></a> - lets you find email addresses in seconds and connect with the people that matter for your business.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://ghostproject.fr/"><b>GhostProject?</b></a> - search by full email address or username.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.databreaches.live/"><b>databreaches</b></a> - was my email affected by data breach?<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://weleakinfo.com"><b>We Leak Info</b></a> - world's fastest and largest data breach search engine.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://scylla.sh"><b>scylla</b></a> - db dumps and more.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://buckets.grayhatwarfare.com/"><b>Buckets by Grayhatwarfar</b></a> - database with public search for Open Amazon S3 Buckets and their contents.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://vigilante.pw/"><b>Vigilante.pw</b></a> - the breached database directory.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://builtwith.com/"><b>builtwith</b></a> - find out what websites are built with.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://nerdydata.com/"><b>NerdyData</b></a> - find where any technology is used, across millions of sites.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.mmnt.net/"><b>Mamont's open FTP Index</b></a> - if a target has an open FTP site with accessible content it will be listed here.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://osintframework.com/"><b>OSINT Framework</b></a> - focused on gathering information from free tools or resources.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.maltiverse.com/search"><b>maltiverse</b></a> - is a service oriented to cybersecurity analysts for the advanced analysis of indicators of compromise.<br>
@@ -575,6 +578,8 @@ performance of any of your sites from across the globe.<br>
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://haveibeenpwned.com/"><b>have i been pwned?</b></a> - check if you have an account that has been compromised in a data breach.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.dehashed.com/"><b>dehashed</b></a> - is a hacked database search engine.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://leakedsource.ru/"><b>Leaked Source</b></a> - is a collaboration of data found online in the form of a lookup.<br>
 </p>
 
 ##### :black_small_square: CVE/Exploits databases
@@ -1228,6 +1233,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 AWS deployment tool.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/globocom/secDevLabs"><b>secDevLabs</b></a> - is a laboratory for learning secure web development in a practical manner.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/incredibleindishell/CORS-vulnerable-Lab"><b>CORS-vulnerable-Lab</b></a> - sample vulnerable code and its exploit code.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/moloch--/RootTheBox"><b>RootTheBox</b></a> - a Game of Hackers (CTF Scoreboard & Game Manager).<br>
 </p>
 
 ##### :black_small_square: Labs (ethical hacking platforms/trainings/CTFs)
@@ -1274,6 +1280,10 @@ AWS deployment tool.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://contained.af/"><b>contained.af</b></a> - a stupid game for learning about containers, capabilities, and syscalls.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://flaws.cloud/"><b>flAWS challenge!</b></a> - a series of levels you'll learn about common mistakes and gotchas when using AWS.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://cybersecurity.wtf"><b>CyberSec WTF</b></a> - provides web hacking challenges derived from bounty write-ups.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://ctfchallenge.co.uk/login"><b>CTF Challenge</b></a> - CTF Web App challenges.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://capturetheflag.withgoogle.com"><b>gCTF</b></a> - most of the challenges used in the Google CTF 2017.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hackthissite.org/pages/index/index.php"><b>Hack This Site</b></a> - is a free, safe and legal training ground for hackers.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://attackdefense.com"><b>Attack & Defense</b></a> - is a browser-based cloud labs.<br>
 </p>
 
 ##### :black_small_square: Other resources
@@ -1282,6 +1292,7 @@ AWS deployment tool.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/bugcrowd/bugcrowd_university"><b>Bugcrowd University</b></a> - open source education content for the researcher community.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rewardone/OSCPRepo"><b>OSCPRepo</b></a> - a list of resources and scripts that I have been gathering in preparation for the OSCP.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://medium.com/@cxosmo/owasp-top-10-real-world-examples-part-1-a540c4ea2df5"><b>OWASP Top 10: Real-World Examples</b></a> - test your web apps with real-world examples (two-part series).<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://phrack.org/index.html"><b>phrack.org</b></a> - an awesome collection of articles from several respected hackers and other thinkers.<br>
 </p>
 
 #### Your daily knowledge and news &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
