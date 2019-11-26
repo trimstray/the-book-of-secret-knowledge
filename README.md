@@ -122,6 +122,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://ohmyz.sh/"><b>Oh My ZSH!</b></a> - is the best framework for managing your Zsh configuration.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/oh-my-fish/oh-my-fish"><b>Oh My Fish</b></a> - the Fishshell framework.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/starship/starship"><b>Starship</b></a> - the cross-shell prompt written in Rust.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/romkatv/powerlevel10k"><b>powerlevel10k</b></a> - is a fast reimplementation of Powerlevel9k ZSH theme.<br>
 </p>
 
 ##### :black_small_square: Managers
@@ -947,7 +948,6 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://gist.github.com/joepie91/5a9909939e6ce7d09e29"><b>Don't use VPN services</b></a> -  which is what every third-party "VPN provider" does.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/InQuest/awesome-yara"><b>awesome-yara</b></a> - a curated list of awesome YARA rules, tools, and people.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/k4m4/movies-for-hackers"><b>Movies for Hackers</b></a> - list of movies every hacker & cyberpunk must watch.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/trimstray/technical-whitepapers"><b>technical-whitepapers</b></a> - IT whitepapers; hacking, web app security, db, reverse engineering and more; EN/PL.<br>
 </p>
 
 ##### :black_small_square: Other
