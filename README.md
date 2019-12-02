@@ -1470,6 +1470,18 @@ In Firefox's addressbar, you can limit results by typing special characters befo
 - `#` - for matches in page titles.
 - `@` - for matches in web addresses.
 
+###### Bypass WAFs by Shortening IP Address (by [0xInfection](https://twitter.com/0xInfection))
+
+IP addresses can be shortened by dropping the zeroes:
+
+```
+http://1.0.0.1 → http://1.1
+http://127.0.0.1 → http://127.1
+http://192.168.0.1 → http://192.168.1
+```
+
+  > This bypasses WAF filters for SSRF, open-redirect, etc where any IP as input gets blacklisted.
+
 #### One-liners &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
 
 ##### Table of Contents
