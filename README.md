@@ -161,6 +161,7 @@ Only main chapters:
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.putty.org/"><b>PuTTY</b></a> - is an SSH and telnet client, developed originally by Simon Tatham.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://nmap.org/"><b>nmap</b></a> - is a free and open source (license) utility for network discovery and security auditing.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/zmap/zmap"><b>zmap</b></a> - is a fast single packet network scanner designed for Internet-wide network surveys.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/robertdavidgraham/masscan"><b>masscan</b></a> - is the fastest Internet port scanner, spews SYN packets asynchronously.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/gvb84/pbscan"><b>pbscan</b></a> - is a faster and more efficient stateless SYN scanner and banner grabber.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.hping.org/"><b>hping</b></a> - is a command-line oriented TCP/IP packet assembler/analyzer.<br>
@@ -176,6 +177,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/sachaos/tcpterm"><b>tcpterm</b></a> - visualize packets in TUI.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/tgraf/bmon"><b>bmon</b></a> - is a monitoring and debugging tool to capture networking related statistics and prepare them visually.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://iptraf.seul.org/2.6/manual.html#installation"><b>iptraf-ng</b></a> - is a console-based network monitoring program for Linux that displays information about IP traffic.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/vergoh/vnstat"><b>vnstat</b></a> - is a network traffic monitor for Linux and BSD.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://iperf.fr/"><b>iPerf3</b></a> - is a tool for active measurements of the maximum achievable bandwidth on IP networks.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Microsoft/Ethr"><b>ethr</b></a> - is a Network Performance Measurement Tool for TCP, UDP & HTTP.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jwbensley/Etherate"><b>Etherate</b></a> - is a Linux CLI based Ethernet and MPLS traffic testing tool.<br>
@@ -192,6 +194,7 @@ Only main chapters:
 ##### :black_small_square: Network (DNS)
 
 <p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/farrokhi/dnsdiag"><b>dnsdiag</b></a> - is a DNS diagnostics and performance measurement tools.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/mschwager/fierce"><b>fierce</b></a> - is a DNS reconnaissance tool for locating non-contiguous IP space.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/subfinder/subfinder"><b>subfinder</b></a> - is a subdomain discovery tool that discovers valid subdomains for websites.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/aboul3la/Sublist3r"><b>sublist3r</b></a> - is a fast subdomains enumeration tool for penetration testers.<br>
@@ -243,6 +246,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.tarsnap.com/spiped.html"><b>spiped</b></a> - is a utility for creating symmetrically encrypted and authenticated pipes between socket addresses.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/certbot/certbot"><b>Certbot</b></a> - is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/FiloSottile/mkcert"><b>mkcert</b></a> - simple zero-config tool to make locally trusted development certificates with any names you'd like.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/square/certstrap"><b>certstrap</b></a> - tools to bootstrap CAs, certificate requests, and signed certificates.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/yassineaboukir/sublert"><b>Sublert</b></a> - is a security and reconnaissance tool to automatically monitor new subdomains.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/trimstray/mkchain"><b>mkchain</b></a> - open source tool to help you build a valid SSL certificate chain.<br>
 </p>
@@ -750,6 +754,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dennyzhang/cheatsheet-kubernetes-A4"><b>cheatsheet-kubernetes-A4</b></a> - Kubernetes CheatSheets in A4.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/kabachook/k8s-security"><b>k8s-security</b></a> - kubernetes security notes and best practices.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://learnk8s.io/production-best-practices/"><b>kubernetes-production-best-practices</b></a> - checklists with best-practices for production-ready Kubernetes.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/freach/kubernetes-security-best-practice"><b>kubernetes-production-best-practices</b></a> - kubernetes security - best practice guide.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/hjacobs/kubernetes-failure-stories"><b>kubernetes-failure-stories</b></a> - is a compilation of public failure/horror stories related to Kubernetes.<br>
 </p>
 
@@ -854,6 +859,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/OWASP/DevGuide"><b>OWASP Dev Guide</b></a> - this is the development version of the OWASP Developer Guide.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://infosec.mozilla.org/guidelines/web_security.html"><b>Mozilla Web Security</b></a> - help operational teams with creating secure web applications.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Netflix/security-bulletins"><b>security-bulletins</b></a> - security bulletins that relate to Netflix Open Source.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/shieldfy/API-Security-Checklist"><b>API-Security-Checklist</b></a> - the most important security countermeasures when designing, testing, and releasing your API.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://enable-cors.org/index.html"><b>Enable CORS</b></a> - enable cross-origin resource sharing.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://appsecwiki.com/#/"><b>Application Security Wiki</b></a> - is an initiative to provide all application security related resources at one place.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/GrrrDog/weird_proxies/wiki"><b>Weird Proxies</b></a> - reverse proxy related attacks; it is a result of analysis of various reverse proxies, cache proxies, etc.<br>
@@ -932,6 +938,7 @@ performance of any of your sites from across the globe.<br>
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/kamranahmedse/developer-roadmap"><b>Web Developer Roadmap</b></a> - roadmaps, articles and resources to help you choose your path, learn and improve.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/thedaviddias/Front-End-Checklist"><b>Front-End-Checklist</b></a> - the perfect Front-End Checklist for modern websites and meticulous developers.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/thedaviddias/Front-End-Performance-Checklist"><b>Front-End-Performance-Checklist</b></a> - the only Front-End Performance Checklist that runs faster than the others.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://rszalski.github.io/magicmethods/"><b>Python's Magic Methods</b></a> - what are magic methods? They're everything in object-oriented Python.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/satwikkansal/wtfpython"><b>wtfpython</b></a> - a collection of surprising Python snippets and lesser-known features.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/twhite96/js-dev-reads"><b>js-dev-reads</b></a> - a list of books and articles for the discerning web developer to read.<br>
@@ -943,6 +950,8 @@ performance of any of your sites from across the globe.<br>
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/qazbnm456/awesome-web-security"><b>Awesome Web Security</b></a> - a curated list of Web Security materials and resources.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/joe-shenouda/awesome-cyber-skills"><b>awesome-cyber-skills</b></a> - a curated list of hacking environments where you can train your cyber skills.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/devsecops/awesome-devsecops"><b>awesome-devsecops</b></a> - an authoritative list of awesome devsecops tools.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jivoi/awesome-osint"><b>awesome-osint</b></a> - is a curated list of amazingly awesome OSINT.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/hslatman/awesome-threat-intelligence"><b>awesome-threat-intelligence</b></a> - a curated list of Awesome Threat Intelligence resources.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/infosecn1nja/Red-Teaming-Toolkit"><b>Red-Teaming-Toolkit</b></a> - a collection of open source and commercial tools that aid in red team operations.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/snoopysecurity/awesome-burp-extensions"><b>awesome-burp-extensions</b></a> - a curated list of amazingly awesome Burp Extensions.<br>
@@ -968,6 +977,8 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/mre/awesome-static-analysis"><b>awesome-static-analysis</b></a> - static analysis tools for all programming languages.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/ossu/computer-science"><b>computer-science</b></a> - path to a free self-taught education in Computer Science.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/danluu/post-mortems"><b>post-mortems</b></a> - is a collection of postmortems (config errors, hardware failures, and more).<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/danistefanovic/build-your-own-x"><b>build-your-own-x</b></a> - build your own (insert technology here).<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rby90/Project-Based-Tutorials-in-C"><b>Project-Based-Tutorials-in-C</b></a> - is a curated list of project-based tutorials in C.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/kylelobo/The-Documentation-Compendium"><b>The-Documentation-Compendium</b></a> - various README templates & tips on writing high-quality documentation.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/mahmoud/awesome-python-applications"><b>awesome-python-applications</b></a> - free software that works great, and also happens to be open-source Python.<br>
 </p>
@@ -1129,12 +1140,15 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/GitHackTools/BillCipher"><b>BillCipher</b></a> - information gathering tool for a website or IP address.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Ekultek/WhatWaf"><b>WhatWaf</b></a> - detect and bypass web application firewalls and protection systems.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/s0md3v/Corsy"><b>Corsy</b></a> - CORS misconfiguration scanner.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/evyatarmeged/Raccoon"><b>Raccoon</b></a> - is a high performance offensive security tool for reconnaissance and vulnerability scanning.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Nekmo/dirhunt"><b>dirhunt</b></a> - find web directories without bruteforce.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.openwall.com/john/"><b>John The Ripper</b></a> - is a fast password cracker, currently available for many flavors of Unix, Windows, and other.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://hashcat.net/hashcat/"><b>hashcat</b></a> - world's fastest and most advanced password recovery utility.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://lcamtuf.coredump.cx/p0f3/"><b>p0f</b></a> - is a tool to identify the players behind any incidental TCP/IP communications.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/mozilla/ssh_scan"><b>ssh_scan</b></a> - a prototype SSH configuration and policy scanner.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/woj-ciech/LeakLooker"><b>LeakLooker</b></a> - find open databases - powered by Binaryedge.io<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/offensive-security/exploitdb"><b>exploitdb</b></a> - searchable archive from The Exploit Database.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/vulnersCom/getsploit"><b>getsploit</b></a> - is a command line utility for searching and downloading exploits.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/zardus/ctf-tools"><b>ctf-tools</b></a> - some setup scripts for security research tools.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Gallopsled/pwntools"><b>pwntools</b></a> - CTF framework and exploit development library.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/bl4de/security-tools"><b>security-tools</b></a> - collection of small security tools created mostly in Python. CTFs, pentests and so on.<br>
@@ -1153,6 +1167,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/beefproject/beef"><b>beef</b></a> - the browser exploitation framework project.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/NullArray/AutoSploit"><b>AutoSploit</b></a> - automated mass exploiter.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/TH3xACE/SUDO_KILLER"><b>SUDO_KILLER</b></a> - is a tool to identify and exploit sudo rules' misconfigurations and vulnerabilities.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/VirusTotal/yara"><b>yara</b></a> - the pattern matching swiss knife.<br>
 </p>
 
 ##### :black_small_square: Pentests bookmarks collection
@@ -1169,18 +1184,24 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/carpedm20/awesome-hacking"><b>Awesome Hacking by carpedm20</b></a> - a curated list of awesome hacking tutorials, tools and resources.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/vitalysim/Awesome-Hacking-Resources"><b>Awesome Hacking Resources</b></a> - collection of hacking/penetration testing resources to make you better.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/enaqx/awesome-pentest"><b>Awesome Pentest</b></a> - collection of awesome penetration testing resources, tools and other shiny things.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/m4ll0k/Awesome-Hacking-Tools"><b>Awesome-Hacking-Tools</b></a> - is a curated list of awesome Hacking Tools.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/ksanchezcld/Hacking_Cheat_Sheet"><b>Hacking Cheat Sheet</b></a> - author hacking and pentesting notes.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/toolswatch/blackhat-arsenal-tools"><b>blackhat-arsenal-tools</b></a> - official Black Hat arsenal security tools repository.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.peerlyst.com/posts/the-complete-list-of-infosec-related-cheat-sheets-claus-cramon"><b>Penetration Testing and WebApp Cheat Sheets</b></a> - the complete list of Infosec related cheat sheets.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/The-Art-of-Hacking/h4cker"><b>Cyber Security Resources</b></a> - includes thousands of cybersecurity-related references and resources.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jhaddix/pentest-bookmarks"><b>Pentest Bookmarks</b></a> - there are a LOT of pentesting blogs.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/OlivierLaflamme/Cheatsheet-God"><b>Cheatsheet-God</b></a> - Penetration Testing Reference Bank - OSCP/PTP & PTX Cheatsheet.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Cyb3rWard0g/ThreatHunter-Playbook"><b>ThreatHunter-Playbook</b></a> - to aid the development of techniques and hypothesis for hunting campaigns.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/swisskyrepo/PayloadsAllTheThings"><b>PayloadsAllTheThings</b></a> - a list of useful payloads and bypass for Web Application Security and Pentest/CTF.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/foospidy/payloads"><b>payloads</b></a> - git all the Payloads! A collection of web attack payloads.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/s0md3v/AwesomeXSS"><b>AwesomeXSS</b></a> - is a collection of Awesome XSS resources.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/JohnTroony/php-webshells"><b>php-webshells</b></a> - common php webshells.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/"><b>Pentesting Tools Cheat Sheet</b></a> - a quick reference high level overview for typical penetration testing engagements.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://cheatsheetseries.owasp.org/"><b>OWASP Cheat Sheet Series</b></a> - is a collection of high value information on specific application security topics.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://jeremylong.github.io/DependencyCheck/index.html"><b>OWASP dependency-check</b></a> - is an open source solution the OWASP Top 10 2013 entry.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.owasp.org/index.php/OWASP_Proactive_Controls"><b>OWASP ProActive Controls</b></a> - OWASP Top 10 Proactive Controls 2018.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE"><b>PENTESTING-BIBLE</b></a> - hacking & penetration testing & red team & cyber security & computer science resources.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/nixawk/pentest-wiki"><b>pentest-wiki</b></a> - is a free online security knowledge library for pentesters/researchers.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://media.defcon.org/"><b>DEF CON Media Server</b></a> - great stuff from DEFCON.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rshipp/awesome-malware-analysis"><b>Awesome Malware Analysis</b></a> - a curated list of awesome malware analysis tools and resources.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/"><b>SQL Injection Cheat Sheet</b></a> - detailed technical information about the many different variants of the SQL Injection.<br>
@@ -1197,6 +1218,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/sdcampbell/Internal-Pentest-Playbook"><b>Internal-Pentest-Playbook</b></a> - notes on the most common things for an Internal Network Penetration Test.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/streaak/keyhacks"><b>KeyHacks</b></a> - shows quick ways in which API keys leaked by a bug bounty program can be checked.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/securitum/research"><b>securitum/research</b></a> - various Proof of Concepts of security research performed by Securitum.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/juliocesarfort/public-pentesting-reports"><b>public-pentesting-reports</b></a> - is a list of public penetration test reports released by several consulting security groups.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://hackso.me/"><b>hackso.me</b></a> - a great journey into security.<br>
 </p>
 
@@ -1234,11 +1256,11 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project"><b>OWASP-VWAD</b></a> - comprehensive and well maintained registry of all known vulnerable web applications.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://metasploit.help.rapid7.com/docs/metasploitable-2"><b>Metasploitable 2</b></a> - vulnerable web application amongst security researchers.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.dvwa.co.uk/"><b>DVWA</b></a> - PHP/MySQL web application that is damn vulnerable.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/stamparm/DSVW"><b>DSVW</b></a> - is a deliberately vulnerable web application written in under 100 lines of code.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://sourceforge.net/projects/mutillidae/"><b>OWASP Mutillidae II</b></a> - free, open source, deliberately vulnerable web-application.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.owasp.org/index.php/OWASP_Juice_Shop_Project"><b>OWASP Juice Shop Project</b></a> - the most bug-free vulnerable application in existence.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.owasp.org/index.php/Projects/OWASP_Node_js_Goat_Project"><b>OWASP Node js Goat Project</b></a> - OWASP Top 10 security risks apply to web applications developed using Node.js.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/iteratec/juicy-ctf"><b>juicy-ctf</b></a> - run Capture the Flags and Security Trainings with OWASP Juice Shop.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/OWASP/SecurityShepherd"><b>SecurityShepherd</b></a> - web and mobile application security training platform.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/opendns/Security_Ninjas_AppSec_Training"><b>Security Ninjas</b></a> - open source application security training program.<br>
@@ -1258,6 +1280,7 @@ AWS deployment tool.<br>
 ##### :black_small_square: Vulnerable virtual machines
 
 <p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://metasploit.help.rapid7.com/docs/metasploitable-2"><b>metasploitable 2</b></a> - vulnerable web application amongst security researchers.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rapid7/metasploitable3"><b>metasploitable3</b></a> - is a VM that is built from the ground up with a large amount of security vulnerabilities.<br>
 </p>
 
@@ -1309,6 +1332,13 @@ AWS deployment tool.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://capturetheflag.withgoogle.com"><b>gCTF</b></a> - most of the challenges used in the Google CTF 2017.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hackthissite.org/pages/index/index.php"><b>Hack This Site</b></a> - is a free, safe and legal training ground for hackers.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://attackdefense.com"><b>Attack & Defense</b></a> - is a browser-based cloud labs.<br>
+</p>
+
+##### :black_small_square: CTF platforms
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/facebook/fbctf"><b>fbctf</b></a> - platform to host Capture the Flag competitions.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/google/ctfscoreboard"><b>ctfscoreboard</b></a> - scoreboard for Capture The Flag competitions.<br>
 </p>
 
 ##### :black_small_square: Other resources
