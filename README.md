@@ -859,7 +859,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/OWASP/DevGuide"><b>OWASP Dev Guide</b></a> - this is the development version of the OWASP Developer Guide.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://infosec.mozilla.org/guidelines/web_security.html"><b>Mozilla Web Security</b></a> - help operational teams with creating secure web applications.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Netflix/security-bulletins"><b>security-bulletins</b></a> - security bulletins that relate to Netflix Open Source.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/shieldfy/API-Security-Checklist"><b>API-Security-Checklist</b></a> - the most important security countermeasures when designing, testing, and releasing your API.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/shieldfy/API-Security-Checklist"><b>API-Security-Checklist</b></a> - security countermeasures when designing, testing, and releasing your API.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://enable-cors.org/index.html"><b>Enable CORS</b></a> - enable cross-origin resource sharing.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://appsecwiki.com/#/"><b>Application Security Wiki</b></a> - is an initiative to provide all application security related resources at one place.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/GrrrDog/weird_proxies/wiki"><b>Weird Proxies</b></a> - reverse proxy related attacks; it is a result of analysis of various reverse proxies, cache proxies, etc.<br>
