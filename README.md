@@ -206,6 +206,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/aboul3la/Sublist3r"><b>sublist3r</b></a> - is a fast subdomains enumeration tool for penetration testers.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/OWASP/Amass"><b>amass</b></a> - is tool that obtains subdomain names by scraping data sources, crawling web archives and more.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/google/namebench"><b>namebench</b></a> - provides personalized DNS server recommendations based on your browsing history.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/blechschmidt/massdns"><b>massdns</b></a> - is a high-performance DNS stub resolver for bulk lookups and reconnaissance.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/guelfoweb/knock"><b>knock</b></a> - is a tool to enumerate subdomains on a target domain through a wordlist.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jedisct1/dnscrypt-proxy"><b>dnscrypt-proxy 2</b></a> - a flexible DNS proxy, with support for encrypted DNS protocols.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dnsdb/dnsdbq"><b>dnsdbq</b></a> - API client providing access to passive DNS database systems (pDNS at Farsight Security, CIRCL pDNS).<br>
@@ -337,6 +338,7 @@ Only main chapters:
 ##### :black_small_square: Other
 
 <p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/skx/sysadmin-util"><b>sysadmin-util</b></a> - tools for Linux/Unix sysadmins.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://inotify.aiken.cz/"><b>incron</b></a> - is an inode-based filesystem notification technology.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rgburke/grv"><b>GRV</b></a> - is a terminal based interface for viewing Git repositories.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://jonas.github.io/tig/"><b>Tig</b></a> - text-mode interface for Git.<br>
@@ -630,7 +632,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.qwant.com/"><b>Qwant</b></a> - the search engine that respects your privacy.<br>
 </p>
 
-##### :black_small_square: Secure WebMail Providers
+##### :black_small_square: Secure Webmail Providers
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://countermail.com/"><b>CounterMail</b></a> - is a secure and easy to use online email service, designed to provide maximum security and privacy.<br>
@@ -771,6 +773,8 @@ performance of any of your sites from across the globe.<br>
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dylanaraps/pure-bash-bible"><b>pure-bash-bible</b></a> - is a collection of pure bash alternatives to external processes.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dylanaraps/pure-sh-bible"><b>pure-sh-bible</b></a> - is a collection of pure POSIX sh alternatives to external processes.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Idnan/bash-guide"><b>bash-guide</b></a> - is a guide to learn bash.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/denysdovhan/bash-handbook"><b>bash-handbook</b></a> - for those who wanna learn Bash.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://wiki.bash-hackers.org/start"><b>The Bash Hackers Wiki</b></a> - hold documentation of any kind about GNU Bash.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://pubs.opengroup.org/onlinepubs/9699919799/utilities/contents.html"><b>Shell & Utilities</b></a> - describes the commands and utilities offered to application programs by POSIX-conformant systems.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jlevy/the-art-of-command-line"><b>the-art-of-command-line</b></a> - master the command line, in one page.<br>
@@ -973,6 +977,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://gist.github.com/joepie91/7e5cad8c0726fd6a5e90360a754fc568"><b>wildcard-certificates</b></a> - why you probably shouldn't use a wildcard certificate.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://gist.github.com/joepie91/5a9909939e6ce7d09e29"><b>Don't use VPN services</b></a> -  which is what every third-party "VPN provider" does.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/InQuest/awesome-yara"><b>awesome-yara</b></a> - a curated list of awesome YARA rules, tools, and people.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/drduh/macOS-Security-and-Privacy-Guide"><b>macOS-Security-and-Privacy-Guide</b></a> - guide to securing and improving privacy on macOS.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/k4m4/movies-for-hackers"><b>Movies for Hackers</b></a> - list of movies every hacker & cyberpunk must watch.<br>
 </p>
 
@@ -1158,6 +1163,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/zardus/ctf-tools"><b>ctf-tools</b></a> - some setup scripts for security research tools.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Gallopsled/pwntools"><b>pwntools</b></a> - CTF framework and exploit development library.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/bl4de/security-tools"><b>security-tools</b></a> - collection of small security tools created mostly in Python. CTFs, pentests and so on.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dloss/python-pentest-tools"><b>python-pentest-tools</b></a> - python tools for penetration testers.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/fuzzdb-project/fuzzdb"><b>fuzzdb</b></a> - dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/google/syzkaller"><b>syzkaller</b></a> - is an unsupervised, coverage-guided kernel fuzzer.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/pwndbg/pwndbg"><b>pwndbg</b></a> - exploit development and reverse engineering with GDB made easy.<br>
@@ -1272,6 +1278,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/opendns/Security_Ninjas_AppSec_Training"><b>Security Ninjas</b></a> - open source application security training program.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rapid7/hackazon"><b>hackazon</b></a> - a modern vulnerable web app.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/appsecco/dvna"><b>dvna</b></a> - damn vulnerable NodeJS application.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/DefectDojo/django-DefectDojo"><b>django-DefectDojo</b></a> - is an open-source application vulnerability correlation and security orchestration tool.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://google-gruyere.appspot.com/"><b>Google Gruyere</b></a> - web application exploits and defenses.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/amolnaik4/bodhi"><b>Bodhi</b></a> - is a playground focused on learning the exploitation of client-side web vulnerabilities.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://websploit.h4cker.org/"><b>Websploit</b></a> - single vm lab with the purpose of combining several vulnerable appliations in one environment.<br>
