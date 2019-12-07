@@ -366,6 +366,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://etherape.sourceforge.io/"><b>EtherApe</b></a> - is a graphical network monitoring solution.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://jmeter.apache.org/"><b>JMeter™</b></a> - open source software to load test functional behavior and measure performance.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/locustio/locust"><b>locust</b></a> - scalable user load testing tool written in Python.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://ostinato.org/"><b>Ostinato</b></a> - is a packet crafter and traffic generator.<br>
 </p>
 
 ##### :black_small_square: Browsers
