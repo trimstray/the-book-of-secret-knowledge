@@ -82,6 +82,44 @@ Before adding a pull request, please see the **[contributing guidelines](.github
 
 All **suggestions/PR** are welcome!
 
+### Code Contributors
+
+This project exists thanks to all the people who contribute.
+
+<a href="https://github.com/trimstray/the-book-of-secret-knowledge/graphs/contributors"><img src="https://opencollective.com/the-book-of-secret-knowledge/contributors.svg?width=890&button=false"></a>
+
+### Financial Contributors
+
+<p align="left">
+  <a href="https://opencollective.com/the-book-of-secret-knowledge" alt="Financial Contributors on Open Collective">
+    <img src="https://img.shields.io/opencollective/backers/the-book-of-secret-knowledge?style=for-the-badge&color=orange&labelColor=C0C0C0"></a>
+  </a>
+  <a href="https://opencollective.com/the-book-of-secret-knowledge" alt="Financial Contributors on Open Collective">
+    <img src="https://img.shields.io/opencollective/sponsors/the-book-of-secret-knowledge?style=for-the-badge&color=orange&labelColor=C0C0C0"></a>
+  </a>
+</p>
+
+#### Individuals
+
+Become a financial contributor and help us sustain our community **[» contribute](https://opencollective.com/the-book-of-secret-knowledge/contribute)**.
+
+<a href="https://opencollective.com/the-book-of-secret-knowledge"><img src="https://opencollective.com/the-book-of-secret-knowledge/individuals.svg?width=890"></a>
+
+#### Organizations
+
+Support this project with your organization. Your logo will show up here with a link to your website **[» contribute](https://opencollective.com/the-book-of-secret-knowledge/contribute)**.
+
+<a href="https://opencollective.com/the-book-of-secret-knowledge/organization/0/website"><img src="https://opencollective.com/the-book-of-secret-knowledge/organization/0/avatar.svg"></a>
+<a href="https://opencollective.com/the-book-of-secret-knowledge/organization/1/website"><img src="https://opencollective.com/the-book-of-secret-knowledge/organization/1/avatar.svg"></a>
+<a href="https://opencollective.com/the-book-of-secret-knowledge/organization/2/website"><img src="https://opencollective.com/the-book-of-secret-knowledge/organization/2/avatar.svg"></a>
+<a href="https://opencollective.com/the-book-of-secret-knowledge/organization/3/website"><img src="https://opencollective.com/the-book-of-secret-knowledge/organization/3/avatar.svg"></a>
+<a href="https://opencollective.com/the-book-of-secret-knowledge/organization/4/website"><img src="https://opencollective.com/the-book-of-secret-knowledge/organization/4/avatar.svg"></a>
+<a href="https://opencollective.com/the-book-of-secret-knowledge/organization/5/website"><img src="https://opencollective.com/the-book-of-secret-knowledge/organization/5/avatar.svg"></a>
+<a href="https://opencollective.com/the-book-of-secret-knowledge/organization/6/website"><img src="https://opencollective.com/the-book-of-secret-knowledge/organization/6/avatar.svg"></a>
+<a href="https://opencollective.com/the-book-of-secret-knowledge/organization/7/website"><img src="https://opencollective.com/the-book-of-secret-knowledge/organization/7/avatar.svg"></a>
+<a href="https://opencollective.com/the-book-of-secret-knowledge/organization/8/website"><img src="https://opencollective.com/the-book-of-secret-knowledge/organization/8/avatar.svg"></a>
+<a href="https://opencollective.com/the-book-of-secret-knowledge/organization/9/website"><img src="https://opencollective.com/the-book-of-secret-knowledge/organization/9/avatar.svg"></a>
+
 ## :gift_heart: &nbsp;Support
 
 If this project is useful and important for you or if you really like _the-book-of-secret-knowledge_, you can bring **positive energy** by giving some **good words** or **supporting this project**. Thank you!
