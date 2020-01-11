@@ -1177,6 +1177,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://cirt.net/Nikto2"><b>Nikto2</b></a> - web server scanner which performs comprehensive tests against web servers for multiple items.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://sqlmap.org/"><b>sqlmap</b></a> - tool that automates the process of detecting and exploiting SQL injection flaws.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/lanmaster53/recon-ng"><b>Recon-ng</b></a> - is a full-featured Web Reconnaissance framework written in Python.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Tib3rius/AutoRecon"><b>AutoRecon</b></a> - is a network reconnaissance tool which performs automated enumeration of services.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.faradaysec.com/"><b>Faraday</b></a> - an Integrated Multiuser Pentest Environment.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/s0md3v/Photon"><b>Photon</b></a> - incredibly fast crawler designed for OSINT.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/s0md3v/XSStrike"><b>XSStrike</b></a> - most advanced XSS detection suite.<br>
