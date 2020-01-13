@@ -900,6 +900,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/OWASP/ASVS/tree/master/4.0"><b>OWASP ASVS 4.0</b></a> - is a list of application security requirements or tests.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.owasp.org/index.php/OWASP_Testing_Project"><b>OWASP Testing Guide v4</b></a> - includes a "best practice" penetration testing framework.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/OWASP/DevGuide"><b>OWASP Dev Guide</b></a> - this is the development version of the OWASP Developer Guide.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.owasp.org/index.php/OWASP_API_Security_Project"><b>OWASP API Security Project</b></a> - focuses specifically on the top ten vulnerabilities in API security.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://infosec.mozilla.org/guidelines/web_security.html"><b>Mozilla Web Security</b></a> - help operational teams with creating secure web applications.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Netflix/security-bulletins"><b>security-bulletins</b></a> - security bulletins that relate to Netflix Open Source.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/shieldfy/API-Security-Checklist"><b>API-Security-Checklist</b></a> - security countermeasures when designing, testing, and releasing your API.<br>
