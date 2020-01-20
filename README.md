@@ -2702,6 +2702,13 @@ openssl req -text -noout -in ${_fd_csr} )
 openssl x509 -noout -modulus -in certificate.crt | openssl md5) | uniq
 ```
 
+###### Check whether the private key and the CSR match
+
+```bash
+(openssl rsa -noout -modulus -in private.key | openssl md5 ; \
+openssl req -noout -modulus -in request.csr | openssl md5) | uniq
+```
+
 ___
 
 ##### Tool: [secure-delete](https://wiki.archlinux.org/index.php/Securely_wipe_disk)
