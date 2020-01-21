@@ -2501,6 +2501,8 @@ openssl req -out ${_fd_csr} -new -key ${_fd} )
 
 ###### Generate CSR (metadata from existing certificate)
 
+  > Where `private.key` is the existing private key. As you can see you do not generate this CSR from your certificate (public key). Also you do not generate the "same" CSR, just a new one to request a new certificate.
+
 ```bash
 ( _fd="private.key" ; _fd_csr="request.csr" ; _fd_crt="cert.crt" ; \
 openssl x509 -x509toreq -in ${_fd_crt} -out ${_fd_csr} -signkey ${_fd} )
@@ -2512,7 +2514,7 @@ openssl x509 -x509toreq -in ${_fd_crt} -out ${_fd_csr} -signkey ${_fd} )
 ( _fd="private.key" ; _fd_csr="request.csr" ; \
 openssl req -new -sha256 -key ${_fd} -out ${_fd_csr} \
 -config <(
-cat <<-EOF
+cat << __EOF__
 [req]
 default_bits        = 2048
 default_md          = sha256
@@ -2535,7 +2537,7 @@ subjectAltName = @alt_names
 DNS.1 = <fully qualified domain name>
 DNS.2 = <next domain>
 DNS.3 = <next domain>
-EOF
+__EOF__
 ))
 ```
 
