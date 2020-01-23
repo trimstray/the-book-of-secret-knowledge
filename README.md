@@ -2407,6 +2407,12 @@ ___
 echo | openssl s_client -connect google.com:443 -showcerts
 ```
 
+###### Testing connection to the remote host (debug mode)
+
+```bash
+echo | openssl s_client -connect google.com:443 -showcerts -tlsextdebug -status
+```
+
 ###### Testing connection to the remote host (with SNI support)
 
 ```bash
