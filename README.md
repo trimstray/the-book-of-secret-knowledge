@@ -199,6 +199,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/traviscross/mtr"><b>mtr</b></a> - is a tool that combines the functionality of the 'traceroute' and 'ping' programs in a single network diagnostic tool.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/mehrdadrad/mylg"><b>mylg</b></a> - is an open source utility which combines the functions of the different network probes in one diagnostic tool.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://netcat.sourceforge.net/"><b>netcat</b></a> - is a networking utility which reads and writes data across network connections, using the TCP/IP protocol.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://packetsender.com/"><b>Packet Sender</b></a> - is a networking utility for packet generation and built-in UDP/TCP/SSL client and servers with an easy to use GUI.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.tcpdump.org/"><b>tcpdump</b></a> - is a powerful command-line packet analyzer.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.wireshark.org/docs/man-pages/tshark.html"><b>tshark</b></a> - is a tool that allows us to dump and analyze network traffic (wireshark cli).<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://termshark.io/"><b>Termshark</b></a> - is a simple terminal user-interface for tshark.<br>
@@ -389,6 +390,7 @@ Only main chapters:
 ##### :black_small_square: Network
 
 <p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://packetsender.com/"><b>Packet Sender</b></a> - is a networking utility for packet generation and built-in UDP/TCP/SSL client and servers with an easy to use GUI.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.wireshark.org/"><b>Wireshark</b></a> - is the world’s foremost and widely-used network protocol analyzer.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.ettercap-project.org/"><b>Ettercap</b></a> - is a comprehensive network monitor tool.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://etherape.sourceforge.io/"><b>EtherApe</b></a> - is a graphical network monitoring solution.<br>
