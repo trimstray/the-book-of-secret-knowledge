@@ -603,7 +603,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://buckets.grayhatwarfare.com/"><b>Buckets by Grayhatwarfar</b></a> - database with public search for Open Amazon S3 Buckets and their contents.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://vigilante.pw/"><b>Vigilante.pw</b></a> - the breached database directory.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://builtwith.com/"><b>builtwith</b></a> - find out what websites are built with.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://nerdydata.com/"><b>NerdyData</b></a> - find where any technology is used, across millions of sites.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://nerdydata.com/"><b>NerdyData</b></a> - search the web's source code for technologies, across millions of sites.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.mmnt.net/"><b>Mamont's open FTP Index</b></a> - if a target has an open FTP site with accessible content it will be listed here.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://osintframework.com/"><b>OSINT Framework</b></a> - focused on gathering information from free tools or resources.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.maltiverse.com/search"><b>maltiverse</b></a> - is a service oriented to cybersecurity analysts for the advanced analysis of indicators of compromise.<br>
@@ -614,7 +614,6 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://malc0de.com/database/"><b>malc0de</b></a> - malware search engine.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://cybercrime-tracker.net/index.php"><b>Cybercrime Tracker</b></a> - monitors and tracks various malware families that are used to perpetrate cyber crimes.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/eth0izzle/shhgit/"><b>shhgit</b></a> - find GitHub secrets in real time.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://nerdydata.com/"><b>NerdyData</b></a> - search source code across 65 million websites.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://searchcode.com/"><b>searchcode</b></a> - helping you find real world examples of functions, API's and libraries.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.insecam.org/"><b>Insecam</b></a> - the world biggest directory of online surveillance security cameras.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://index-of.es/"><b>index-of</b></a> - contains great stuff like: security, hacking, reverse engineering, cryptography, programming etc.<br>
