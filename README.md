@@ -403,7 +403,6 @@ Only main chapters:
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.torproject.org/"><b>TOR Browser</b></a> - protect your privacy and defend yourself against network surveillance and traffic analysis.<br>
 </p>
-
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.qutebrowser.org/"><b>Qutebrowser</b></a> - qutebrowser is a keyboard-focused browser with a minimal GUI. It’s based on Python and PyQt5 and free software, licensed under the GPL. <br> 
 </p>
