@@ -361,6 +361,7 @@ Only main chapters:
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://irssi.org"><b>Irssi</b></a> - is a free open source terminal based IRC client.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://weechat.org/"><b>WeeChat</b></a> - is an extremely extensible and lightweight IRC client.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/osa1/tiny"><b>tiny</b></a> - is a simple terminal IRC client with a clean UI.<br>
 </p>
 
 ##### :black_small_square: Other
