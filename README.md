@@ -179,6 +179,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.gnu.org/software/emacs/"><b>emacs</b></a> - is an extensible, customizable, free/libre text editor - and more.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/zyedidia/micro"><b>micro</b></a> - is a modern and intuitive terminal-based text editor.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://neovim.io/"><b>neovim</b></a> - is a free open source, powerful, extensible and usable code editor.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.spacemacs.org/"><b>spacemacs</b></a> - a community-driven Emacs distribution.<br>
 </p>
 
 ##### :black_small_square: Files and directories
