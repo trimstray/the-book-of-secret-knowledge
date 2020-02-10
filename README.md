@@ -1561,6 +1561,7 @@ For more information please see [How to Obscure Any URL](http://www.pc-help.org/
 ##### Table of Contents
 
   * [terminal](#tool-terminal)
+  * [busybox](#tool-busybox)
   * [mount](#tool-mount)
   * [fuser](#tool-fuser)
   * [lsof](#tool-lsof)
@@ -1780,7 +1781,16 @@ for i in {1..10} ; do echo $i ; done
 
 ```bash
 unset MAIL; export MAILCHECK=1; export MAILPATH='$FILE_TO_WATCH?$MESSAGE'
+```
 
+---
+
+##### Tool: [busybox](https://www.busybox.net/)
+
+###### Static HTTP web server
+
+```bash
+busybox httpd -p $PORT -h $HOME [-c httpd.conf]
 ```
 
 ___
