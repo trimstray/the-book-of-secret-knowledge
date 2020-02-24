@@ -258,6 +258,8 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://gitlab.com/davidjpeacock/kurly"><b>kurly</b></a> - is an alternative to the widely popular curl program, written in Golang.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jakubroztocil/httpie"><b>HTTPie</b></a> - is an user-friendly HTTP client.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/asciimoo/wuzz"><b>wuzz</b></a> - is an interactive cli tool for HTTP inspection.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/summerwind/h2spec"><b>h2spec</b></a> - is a conformance testing tool for HTTP/2 implementation.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/gildasio/h2t"><b>h2t</b></a> - is a simple tool to help sysadmins to hardening their websites.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/trimstray/htrace.sh"><b>htrace.sh</b></a> - is a simple Swiss Army knife for http/https troubleshooting and profiling.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/reorx/httpstat"><b>httpstat</b></a> - is a tool that visualizes curl statistics in a way of beauty and clarity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/gchaincl/httplab"><b>httplab</b></a> - is an interactive web server.<br>
