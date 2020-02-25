@@ -1982,16 +1982,35 @@ cd /var/www/site && find . -type d -exec chmod g+x {} \;
 cd /var/www/site && find . -type d -exec chmod g+rwx {} +
 ```
 
-###### Find files and directories for specific user
+###### Find files and directories for specific user/group
 
 ```bash
+# User:
 find . -user <username> -print
+find /etc -type f -user <username> -name "*.conf"
+
+# Group:
+find /opt -group <group>
+find /etc -type f -group <group> -iname "*.conf"
 ```
 
-###### Find files and directories for all without specific user
+###### Find files and directories for all without specific user/group
 
 ```bash
-find . \!-user <username> -print
+# User:
+find . \! -user <username> -print
+
+# Group:
+find . \! -group <group>
+```
+
+###### Looking for files/directories that only have certain permission
+
+```bash
+# User:
+find . -user <username> -perm -u+rw # -rw-r--r--
+find /home -user $(whoami) -perm 777 # -rwxrwxrwx
+find /home -type d -group <group> -perm 755 # -rwxr-xr-x
 ```
 
 ###### Delete older files than 60 days
