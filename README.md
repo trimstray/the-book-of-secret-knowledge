@@ -2007,9 +2007,11 @@ find . \! -group <group>
 ###### Looking for files/directories that only have certain permission
 
 ```bash
-# User:
+# User
 find . -user <username> -perm -u+rw # -rw-r--r--
 find /home -user $(whoami) -perm 777 # -rwxrwxrwx
+
+# Group:
 find /home -type d -group <group> -perm 755 # -rwxr-xr-x
 ```
 
