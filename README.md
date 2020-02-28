@@ -4224,7 +4224,6 @@ Unsuccessful domain name resolution.
 ```bash
 # Dependencies:
 #   - curl
-#   - python
 
 function GetASN() {
 
@@ -4233,8 +4232,7 @@ function GetASN() {
   local _curl_base="curl --request GET"
   local _timeout="15"
 
-  _asn=$($_curl_base -ks -m "$_timeout" "http://ip-api.com/json/${_ip}" | \
-  python -c 'import sys, json; print json.load(sys.stdin)["as"]' 2>/dev/null)
+  _asn=$($_curl_base -ks -m "$_timeout" "http://ip-api.com/line/${_ip}?fields=as")
 
   _state=$(echo $?)
 
