@@ -998,6 +998,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://wiki.archlinux.org/index.php/List_of_applications"><b>List of applications</b></a> - huge collection of applications sorted by category, as a reference for those looking for packages.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/InterviewMap/CS-Interview-Knowledge-Map"><b>CS-Interview-Knowledge-Map</b></a> - build the best interview map.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Tikam02/DevOps-Guide"><b>DevOps-Guide</b></a> - DevOps Guide from basic to advanced with Interview Questions and Notes.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://issue.freebsdfoundation.org/publication/?m=33057&l=1&view=issuelistBrowser"><b>FreeBSD Journal</b></a> - it is a great list of periodical magazines about FreeBSD and other important things.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/bregman-arie/devops-interview-questions"><b>devops-interview-questions</b></a> - contains interview questions on various DevOps and SRE related topics.<br></p>
 
 ##### :black_small_square: Developers
