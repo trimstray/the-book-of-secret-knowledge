@@ -2612,7 +2612,7 @@ __EOF__
 
 Other values in `[ dn ]`:
 
-  > Look at this great explanation: [How to create multidomain certificates using config files](https://apfelboymchen.net/gnu/notes/openssl%20multidomain%20with%20config%20files.html)
+  > Look at these great explanations: [How to create multidomain certificates using config files](https://apfelboymchen.net/gnu/notes/openssl%20multidomain%20with%20config%20files.html) and [Generate a multi domains certificate using config files](https://gist.github.com/romainnorberg/464758a6620228b977212a3cf20c3e08).
 
 ```
 countryName            = "DE"                     # C=
