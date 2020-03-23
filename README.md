@@ -2619,6 +2619,7 @@ countryName            = "DE"                     # C=
 stateOrProvinceName    = "Hessen"                 # ST=
 localityName           = "Keller"                 # L=
 postalCode             = "424242"                 # L/postalcode=
+postalAddress          = "Keller"                 # L/postalAddress=
 streetAddress          = "Crater 1621"            # L/street=
 organizationName       = "apfelboymschule"        # O=
 organizationalUnitName = "IT Department"          # OU=
