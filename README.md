@@ -2612,20 +2612,38 @@ __EOF__
 
 Other values in `[ dn ]`:
 
-  > Look at these great explanations: [How to create multidomain certificates using config files](https://apfelboymchen.net/gnu/notes/openssl%20multidomain%20with%20config%20files.html) and [Generate a multi domains certificate using config files](https://gist.github.com/romainnorberg/464758a6620228b977212a3cf20c3e08).
-
 ```
 countryName            = "DE"                     # C=
 stateOrProvinceName    = "Hessen"                 # ST=
 localityName           = "Keller"                 # L=
 postalCode             = "424242"                 # L/postalcode=
-postalAddress          = "Keller"                 # L/postalAddress=
+postalAddress          = "Keller"                 # L/postaladdress=
 streetAddress          = "Crater 1621"            # L/street=
 organizationName       = "apfelboymschule"        # O=
 organizationalUnitName = "IT Department"          # OU=
 commonName             = "example.com"            # CN=
 emailAddress           = "webmaster@example.com"  # CN/emailAddress=
 ```
+
+Example of `oids` (you'll probably also have to make OpenSSL know about the new fields required for EV by adding the following under `[new_oids]`):
+
+```
+[req]
+...
+oid_section         = new_oids
+
+[ new_oids ]
+postalCode = 2.5.4.17
+streetAddress = 2.5.4.9
+```
+
+For more information please look at these great explanations:
+
+- [RFC 5280](https://tools.ietf.org/html/rfc5280)
+- [How to create multidomain certificates using config files](https://apfelboymchen.net/gnu/notes/openssl%20multidomain%20with%20config%20files.html)
+- [Generate a multi domains certificate using config files](https://gist.github.com/romainnorberg/464758a6620228b977212a3cf20c3e08)
+- [Your OpenSSL CSR command is out of date](https://expeditedsecurity.com/blog/openssl-csr-command/)
+- [OpenSSL example configuration file](https://www.tbs-certificats.com/openssl-dem-server-cert.cnf)
 
 ###### List available EC curves
 
