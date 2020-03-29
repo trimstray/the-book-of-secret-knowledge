@@ -360,6 +360,8 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dbcli/mycli"><b>mycli</b></a> - terminal client for MySQL with autocompletion and syntax highlighting.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dbcli/litecli"><b>litecli</b></a> - SQLite CLI with autocompletion and syntax highlighting.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/osquery/osquery"><b>OSQuery</b></a> - is a SQL powered operating system instrumentation, monitoring, and analytics framework.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/ankane/pgsync"><b>pgsync</b></a> - sync data from one Postgres database to another.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/laixintao/iredis"><b>iredis</b></a> - a terminal client for redis with autocompletion and syntax highlighting.<br>
 </p>
 
 ##### :black_small_square: TOR
