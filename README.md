@@ -31,23 +31,9 @@
   <a href="https://github.com/trimstray/the-book-of-secret-knowledge/graphs/contributors">contributors</a>
 </div>
 
-<br><br>
-
-<p align="center">
-  <a href="https://triplebyte.com/a/YW39WD4/d">
-    <b>Looking for a job?</b>
-    <br>
-    No resume needed. Just prove you can code.
-    <br>
-    <img src="https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/static/img/triplebyte-logo.png" width="260" alt="triplebyte">
-  </a>
-  <br>
-  <sub><i>Clicking this helps fund this project</i></sub>
-</p>
-
 <br>
 
-***
+****
 
 ## :notebook_with_decorative_cover: &nbsp;What is it?
 
