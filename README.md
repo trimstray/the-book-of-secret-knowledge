@@ -1300,6 +1300,9 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/streaak/keyhacks"><b>KeyHacks</b></a> - shows quick ways in which API keys leaked by a bug bounty program can be checked.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/securitum/research"><b>securitum/research</b></a> - various Proof of Concepts of security research performed by Securitum.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/juliocesarfort/public-pentesting-reports"><b>public-pentesting-reports</b></a> - is a list of public penetration test reports released by several consulting security groups.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/djadmin/awesome-bug-bounty"><b>awesome-bug-bounty</b></a> - is a comprehensive curated list of available Bug Bounty.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/ngalongc/bug-bounty-reference"><b>bug-bounty-reference</b></a> - is a list of bug bounty write-ups.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/devanshbatham/Awesome-Bugbounty-Writeups"><b>Awesome-Bugbounty-Writeups</b></a> - is a curated list of bugbounty writeups.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://hackso.me/"><b>hackso.me</b></a> - a great journey into security.<br>
 </p>
 
