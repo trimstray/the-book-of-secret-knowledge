@@ -1305,6 +1305,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/djadmin/awesome-bug-bounty"><b>awesome-bug-bounty</b></a> - is a comprehensive curated list of available Bug Bounty.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/ngalongc/bug-bounty-reference"><b>bug-bounty-reference</b></a> - is a list of bug bounty write-ups.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/devanshbatham/Awesome-Bugbounty-Writeups"><b>Awesome-Bugbounty-Writeups</b></a> - is a curated list of bugbounty writeups.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://pentester.land/list-of-bug-bounty-writeups.html"><b>Bug bounty writeups</b></a> - list of bug bounty writeups (2012-2020).<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://hackso.me/"><b>hackso.me</b></a> - a great journey into security.<br>
 </p>
 
