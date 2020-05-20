@@ -1545,15 +1545,29 @@ AWS deployment tool.<br>
 | **`HTML5 Auditor`** | Scans for usage of risky HTML5 features. |
 | **`Software Vulnerability Scanner`** | Software vulnerability scanner based on Vulners.com audit API. |
 
-###### Hack Mozilla Firefox addressbar
+###### Hack Mozilla Firefox address bar
 
-In Firefox's addressbar, you can limit results by typing special characters before or after your term:
+In Firefox's address bar, you can limit results by typing special characters before or after your term:
 
 - `^` - for matches in your browsing history
 - `*` - for matches in your bookmarks.
 - `%` - for matches in your currently open tabs.
 - `#` - for matches in page titles.
 - `@` - for matches in web addresses.
+
+###### Chrome hidden commands
+
+- `chrome://chrome-urls` - list of all commands
+- `chrome://flags` - enable experiments and development features
+- `chrome://interstitials` - errors and warnings
+- `chrome://net-internals` - network internals (events, dns, cache)
+- `chrome://network-errors` - network errors
+- `chrome://net-export` - start logging future network activity to a file
+- `chrome://safe-browsing` - safe browsing options
+- `chrome://user-actions` - record all user actions
+- `chrome://restart` - restart chrome
+- `chrome://dino` - ERR_INTERNET_DISCONNECTED...
+- `cache:<website-address>` - view the cached version of the web page
 
 ###### Bypass WAFs by Shortening IP Address (by [0xInfection](https://twitter.com/0xInfection))
 
