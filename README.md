@@ -861,6 +861,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://peteris.rocks/blog/htop/"><b>htop explained</b></a> - explanation of everything you can see in htop/top on Linux.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://linuxguideandhints.com/"><b>Linux Guide and Hints</b></a> - tutorials on system administration in Fedora and CentOS.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/NanXiao/strace-little-book"><b>strace-little-book</b></a> - a little book which introduces strace.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/goldshtn/linux-tracing-workshop"><b>linux-tracing-workshop</b></a> - examples and hands-on labs for Linux tracing tools workshops.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/bagder/http2-explained"><b>http2-explained</b></a> - a detailed document explaining and documenting HTTP/2.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/bagder/http3-explained"><b>http3-explained</b></a> - a document describing the HTTP/3 and QUIC protocols.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.manning.com/books/http2-in-action"><b>HTTP/2 in Action</b></a> - an excellent introduction to the new HTTP/2 standard.<br>
