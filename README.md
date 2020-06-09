@@ -2758,6 +2758,16 @@ openssl pkcs12 -in ${_fd_pfx} -nocerts -nodes -out ${_fd_key} )
 openssl pkcs12 -in ${_fd_pfx} -nodes -out ${_fd_pem} )
 ```
 
+###### Extract certs from p7b
+
+```bash
+# PKCS#7 file doesn't include private keys.
+( _fd_p7b="cert.p7b" ; _fd_pem="cert.pem" ; \
+openssl pkcs7 -inform DER -outform PEM -in ${_fd_p7b} -print_certs > ${_fd_pem})
+# or:
+openssl pkcs7 -print_certs -in -in ${_fd_p7b} -out ${_fd_pem})
+```
+
 ###### Convert DER to PEM
 
 ```bash
