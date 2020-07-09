@@ -243,7 +243,7 @@ Only main chapters:
 ##### :black_small_square: Network (HTTP)
 
 <p>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://curl.haxx.se/"><b>Curl</b></a> - is a command line tool and library for transferring data with URLs.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://curl.haxx.se/"><b>curl</b></a> - is a command line tool and library for transferring data with URLs.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://gitlab.com/davidjpeacock/kurly"><b>kurly</b></a> - is an alternative to the widely popular curl program, written in Golang.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jakubroztocil/httpie"><b>HTTPie</b></a> - is an user-friendly HTTP client.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/asciimoo/wuzz"><b>wuzz</b></a> - is an interactive cli tool for HTTP inspection.<br>
@@ -1212,6 +1212,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/s0md3v/XSStrike"><b>XSStrike</b></a> - most advanced XSS detection suite.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/1N3/Sn1per"><b>Sn1per</b></a> - automated pentest framework for offensive security experts.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/future-architect/vuls"><b>vuls</b></a> - is an agent-less vulnerability scanner for Linux, FreeBSD, and other.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/google/tsunami-security-scanner"><b>tsunami</b></a> - is a general purpose network security scanner with an extensible plugin system.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/michenriksen/aquatone"><b>aquatone</b></a> - a tool for domain flyovers.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/GitHackTools/BillCipher"><b>BillCipher</b></a> - information gathering tool for a website or IP address.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Ekultek/WhatWaf"><b>WhatWaf</b></a> - detect and bypass web application firewalls and protection systems.<br>
