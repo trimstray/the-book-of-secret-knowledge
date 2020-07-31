@@ -828,12 +828,14 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://pubs.opengroup.org/onlinepubs/9699919799/utilities/contents.html"><b>Shell & Utilities</b></a> - describes the commands and utilities offered to application programs by POSIX-conformant systems.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jlevy/the-art-of-command-line"><b>the-art-of-command-line</b></a> - master the command line, in one page.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://google.github.io/styleguide/shellguide.html"><b>Shell Style Guide</b></a> - a shell style guide for Google-originated open-source projects.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://gnulinux.guru/?bash"><b>Bourne-Again SHell and Linux CLI</b></a> - cheat sheet from <a href="http://gnulinux.guru"/>GNU/Linux.guru</a>.<br>
 </p>
 
 ##### :black_small_square: Text Editors
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://vim.rtorr.com/"><b>Vim Cheat Sheet</b></a> - great multi language vim guide.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://gnulinux.guru/?ViM"><b>Vi IMproved</b></a> - cheat sheet from <a href="http://gnulinux.guru"/>GNU/Linux.guru</a>.<br>
 </p>
 
 ##### :black_small_square: Python
@@ -873,6 +875,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://gravitational.com/blog/ssh-handshake-explained/"><b>SSH Handshake Explained</b></a> - is a relatively brief description of the SSH handshake.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://kb.isc.org/docs/using-this-knowledgebase"><b>ISC's Knowledgebase</b></a> - you'll find some general information about BIND 9, ISC DHCP, and Kea DHCP.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://packetlife.net/"><b>PacketLife.net</b></a> - a place to record notes while studying for Cisco's CCNP certification.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://gnulinux.guru/?Networking"><b>Linux Network Administration</b></a> - cheat sheet from <a href="http://gnulinux.guru"/>GNU/Linux.guru</a>.<br>
 </p>
 
 ##### :black_small_square: Microsoft
