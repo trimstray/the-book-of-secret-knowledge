@@ -2539,7 +2539,7 @@ openssl s_client -connect ${_host}:443 -tls1_3 -sess_in session.pem -early_data 
 
 ```bash
 # _len: 2048, 4096
-( _fd="private.key" ; _len="4096" ; \
+( _fd="private.key" ; _len="2048" ; \
 openssl genrsa -out ${_fd} ${_len} )
 ```
 
@@ -2548,7 +2548,7 @@ openssl genrsa -out ${_fd} ${_len} )
 ```bash
 # _ciph: des3, aes128, aes256
 # _len: 2048, 4096
-( _ciph="aes128" ; _fd="private.key" ; _len="4096" ; \
+( _ciph="aes128" ; _fd="private.key" ; _len="2048" ; \
 openssl genrsa -${_ciph} -out ${_fd} ${_len} )
 ```
 
@@ -2584,7 +2584,7 @@ openssl rsa -pubout -in ${_fd} -out ${_fd_pub} )
 ###### Generate private key and CSR
 
 ```bash
-( _fd="private.key" ; _fd_csr="request.csr" ; _len="4096" ; \
+( _fd="private.key" ; _fd_csr="request.csr" ; _len="2048" ; \
 openssl req -out ${_fd_csr} -new -newkey rsa:${_len} -nodes -keyout ${_fd} )
 ```
 
@@ -2678,6 +2678,17 @@ For more information please look at these great explanations:
 openssl ecparam -list_curves
 ```
 
+###### Print ECDSA private and public keys
+
+```bash
+( _fd="private.key" ; \
+openssl ec -in ${_fd} -noout -text )
+
+# For x25519 only extracting public key
+( _fd="private.key" ; _fd_pub="public.key" ; \
+openssl pkey -in ${_fd} -pubout -out ${_fd_pub} )
+```
+
 ###### Generate ECDSA private key
 
 ```bash
@@ -2690,18 +2701,7 @@ openssl ecparam -out ${_fd} -name ${_curve} -genkey )
 openssl genpkey -algorithm ${_curve} -out ${_fd} )
 ```
 
-###### Print ECDSA private and public keys
-
-```bash
-( _fd="private.key" ; \
-openssl ec -in ${_fd} -noout -text )
-
-# For x25519 only extracting public key
-( _fd="private.key" ; _fd_pub="public.key" ; \
-openssl pkey -in ${_fd} -pubout -out ${_fd_pub} )
-```
-
-###### Generate private key with CSR (ECC)
+###### Generate private key and CSR (ECC)
 
 ```bash
 # _curve: prime256v1, secp521r1, secp384r1
@@ -2714,7 +2714,7 @@ openssl req -new -key ${_fd} -out ${_fd_csr} -sha256 )
 
 ```bash
 # _len: 2048, 4096
-( _fd="domain.key" ; _fd_out="domain.crt" ; _len="4096" ; _days="365" ; \
+( _fd="domain.key" ; _fd_out="domain.crt" ; _len="2048" ; _days="365" ; \
 openssl req -newkey rsa:${_len} -nodes \
 -keyout ${_fd} -x509 -days ${_days} -out ${_fd_out} )
 ```
@@ -2822,14 +2822,14 @@ openssl x509 -noout -text -in ${_fd} )
 openssl req -text -noout -in ${_fd_csr} )
 ```
 
-###### Check whether the private key and the certificate match
+###### Check the private key and the certificate are match
 
 ```bash
 (openssl rsa -noout -modulus -in private.key | openssl md5 ; \
 openssl x509 -noout -modulus -in certificate.crt | openssl md5) | uniq
 ```
 
-###### Check whether the private key and the CSR match
+###### Check the private key and the CSR are match
 
 ```bash
 (openssl rsa -noout -modulus -in private.key | openssl md5 ; \
