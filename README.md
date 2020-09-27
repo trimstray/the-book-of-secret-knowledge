@@ -680,7 +680,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.qwant.com/"><b>Qwant</b></a> - the search engine that respects your privacy.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://duckduckgo.com/"><b>DuckDuckGo</b></a> - the search engine that doesn't track you.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://swisscows.com/"><b>Swisscows</b></a> - privacy safe web search<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://search.disconnect.me/"><b>Disconnect Search</b></a> - the search engine that anonymizes your searches.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://search.disconnect.me/"><b>Disconnect</b></a> - the search engine that anonymizes your searches.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://metager.org/"><b>MetaGer</b></a> - the search engine that uses anonymous proxy and hidden Tor branches.<br>
 </p>
 
