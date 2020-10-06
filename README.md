@@ -85,14 +85,6 @@ This project exists thanks to all the people who contribute.
   </a>
 </p>
 
-#### Individuals
-
-Become a financial contributor and help us sustain our community **[» contribute](https://opencollective.com/the-book-of-secret-knowledge/contribute)**.
-
-#### Organizations
-
-Support this project with your organization. Your logo will show up here with a link to your website **[» contribute](https://opencollective.com/the-book-of-secret-knowledge/contribute)**.
-
 ## :gift_heart: &nbsp;Support
 
 If this project is useful and important for you or if you really like _the-book-of-secret-knowledge_, you can bring **positive energy** by giving some **good words** or **supporting this project**. Thank you!
@@ -1168,7 +1160,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/TinkerSec"><b>@TinkerSec</b></a> - tinkerer, cypherpunk, hacker.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/alisaesage"><b>@alisaesage</b></a> - independent hacker and researcher.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/SwiftOnSecurity"><b>@SwiftOnSecurity</b></a> - systems security, industrial safety, sysadmin, author of decentsecurity.com.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/dakami"><b>@dakami</b></a> - chief scientist at White Ops, is one of just seven people with the authority to restore the DNS root keys.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/dakami"><b>@dakami</b></a> - is one of just seven people with the authority to restore the DNS root keys.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/samykamkar"><b>@samykamkar</b></a> - is a famous "grey hat" hacker, security researcher, creator of the MySpace "Samy" worm.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/securityweekly"><b>@securityweekly</b></a> - founder & CTO of Security Weekly podcast network.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/jack_daniel"><b>@jack_daniel</b></a> - @SecurityBSides co-founder.<br>
@@ -1193,7 +1185,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 ##### :black_small_square: A piece of history
 
 <p>
-&nbsp;&nbsp;:small_orange_diamond: <a href="http://ftp.arl.army.mil/~mike/howto/"><b>How to Do Things at ARL</b></a> - how to configure modems, scan images, record CD-ROMs, and other useful techniques.<b>*</b><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://ftp.arl.army.mil/~mike/howto/"><b>How to Do Things at ARL</b></a> - how to configure modems, scan images, record CD-ROMs, and other.<b>*</b><br>
 </p>
 
 ##### :black_small_square: Other
@@ -1209,7 +1201,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.syhunt.com/sandcat/"><b>Sandcat Browser</b></a> - a penetration-oriented browser with plenty of advanced functionality already built in.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.metasploit.com/"><b>Metasploit</b></a> - tool and framework for pentesting system, web and many more, contains a lot a ready to use exploit.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://portswigger.net/burp"><b>Burp Suite</b></a> - tool for testing web application security, intercepting proxy to replay, inject, scan and fuzz HTTP requests.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://portswigger.net/burp"><b>Burp Suite</b></a> - tool for testing web app security, intercepting proxy to replay, inject, scan and fuzz HTTP requests.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project"><b>OWASP Zed Attack Proxy</b></a> - intercepting proxy to replay, inject, scan and fuzz HTTP requests.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://w3af.org/"><b>w3af</b></a> - is a Web Application Attack and Audit Framework.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://mitmproxy.org/"><b>mitmproxy</b></a> - an interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.<br>
@@ -1241,7 +1233,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/bl4de/security-tools"><b>security-tools</b></a> - collection of small security tools created mostly in Python. CTFs, pentests and so on.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/leonteale/pentestpackage"><b>pentestpackage</b></a> - is a package of Pentest scripts.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dloss/python-pentest-tools"><b>python-pentest-tools</b></a> - python tools for penetration testers.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/fuzzdb-project/fuzzdb"><b>fuzzdb</b></a> - dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/fuzzdb-project/fuzzdb"><b>fuzzdb</b></a> - dictionary of attack patterns and primitives for black-box application fault injection.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/google/AFL"><b>AFL</b></a> - is a free software fuzzer maintained by Google.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/AFLplusplus/AFLplusplus"><b>AFL++</b></a> - is AFL with community patches.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/google/syzkaller"><b>syzkaller</b></a> - is an unsupervised, coverage-guided kernel fuzzer.<br>
@@ -1293,7 +1285,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/payloadbox/command-injection-payload-list"><b>command-injection-payload-list</b></a> - command injection payload list.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/s0md3v/AwesomeXSS"><b>AwesomeXSS</b></a> - is a collection of Awesome XSS resources.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/JohnTroony/php-webshells"><b>php-webshells</b></a> - common php webshells.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/"><b>Pentesting Tools Cheat Sheet</b></a> - a quick reference high level overview for typical penetration testing engagements.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/"><b>Pentesting Tools Cheat Sheet</b></a> - a quick reference high level overview for typical penetration testing.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://cheatsheetseries.owasp.org/"><b>OWASP Cheat Sheet Series</b></a> - is a collection of high value information on specific application security topics.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://jeremylong.github.io/DependencyCheck/index.html"><b>OWASP dependency-check</b></a> - is an open source solution the OWASP Top 10 2013 entry.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.owasp.org/index.php/OWASP_Proactive_Controls"><b>OWASP ProActive Controls</b></a> - OWASP Top 10 Proactive Controls 2018.<br>
@@ -1315,7 +1307,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/sdcampbell/Internal-Pentest-Playbook"><b>Internal-Pentest-Playbook</b></a> - notes on the most common things for an Internal Network Penetration Test.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/streaak/keyhacks"><b>KeyHacks</b></a> - shows quick ways in which API keys leaked by a bug bounty program can be checked.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/securitum/research"><b>securitum/research</b></a> - various Proof of Concepts of security research performed by Securitum.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/juliocesarfort/public-pentesting-reports"><b>public-pentesting-reports</b></a> - is a list of public penetration test reports released by several consulting security groups.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/juliocesarfort/public-pentesting-reports"><b>public-pentesting-reports</b></a> - is a list of public pentest reports released by several consulting security groups.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/djadmin/awesome-bug-bounty"><b>awesome-bug-bounty</b></a> - is a comprehensive curated list of available Bug Bounty.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/ngalongc/bug-bounty-reference"><b>bug-bounty-reference</b></a> - is a list of bug bounty write-ups.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/devanshbatham/Awesome-Bugbounty-Writeups"><b>Awesome-Bugbounty-Writeups</b></a> - is a curated list of bugbounty writeups.<br>
@@ -1338,7 +1330,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/berzerk0/Probable-Wordlists"><b>Probable-Wordlists</b></a> - sorted by probability originally created for password generation and testing.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://wiki.skullsecurity.org/index.php?title=Passwords"><b>skullsecurity passwords</b></a> - password dictionaries and leaked passwords repository.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://bezpieka.org/polski-slownik-premium-polish-wordlist"><b>Polish PREMIUM Dictionary</b></a> - official dictionary created by the team on the forum bezpieka.org.<b>*</b> <sup><a href="https://sourceforge.net/projects/kali-linux/files/Wordlist/">1</sup><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/insidetrust/statistically-likely-usernames"><b>statistically-likely-usernames</b></a> - wordlists for creating statistically likely username lists for use in password attacks.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/insidetrust/statistically-likely-usernames"><b>statistically-likely-usernames</b></a> - wordlists for creating statistically likely username lists.<br>
 </p>
 
 ##### :black_small_square: Bounty platforms
@@ -1363,7 +1355,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/stamparm/DSVW"><b>DSVW</b></a> - is a deliberately vulnerable web application written in under 100 lines of code.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://sourceforge.net/projects/mutillidae/"><b>OWASP Mutillidae II</b></a> - free, open source, deliberately vulnerable web-application.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.owasp.org/index.php/OWASP_Juice_Shop_Project"><b>OWASP Juice Shop Project</b></a> - the most bug-free vulnerable application in existence.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.owasp.org/index.php/Projects/OWASP_Node_js_Goat_Project"><b>OWASP Node js Goat Project</b></a> - OWASP Top 10 security risks apply to web applications developed using Node.js.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.owasp.org/index.php/Projects/OWASP_Node_js_Goat_Project"><b>OWASP Node js Goat Project</b></a> - OWASP Top 10 security risks apply to web apps developed using Node.js.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/iteratec/juicy-ctf"><b>juicy-ctf</b></a> - run Capture the Flags and Security Trainings with OWASP Juice Shop.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/OWASP/SecurityShepherd"><b>SecurityShepherd</b></a> - web and mobile application security training platform.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/opendns/Security_Ninjas_AppSec_Training"><b>Security Ninjas</b></a> - open source application security training program.<br>
@@ -1387,10 +1379,10 @@ AWS deployment tool.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.offensive-security.com/"><b>Offensive Security</b></a> - true performance-based penetration testing training for over a decade.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hackthebox.eu/"><b>Hack The Box</b></a> - online platform allowing you to test your penetration testing skills.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hacking-lab.com/index.html"><b>Hacking-Lab</b></a> - online ethical hacking, computer network and security challenge platform.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="http://pwnable.kr/index.php"><b>pwnable.kr</b></a> - non-commercial wargame site which provides various pwn challenges regarding system exploitation.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://pwnable.kr/index.php"><b>pwnable.kr</b></a> - non-commercial wargame site which provides various pwn challenges.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://pwnable.tw/"><b>Pwnable.tw</b></a> - is a wargame site for hackers to test and expand their binary exploiting skills.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://picoctf.com/"><b>picoCTF</b></a> - is a free computer security game targeted at middle and high school students.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://ctflearn.com/"><b>CTFlearn</b></a> - is an online platform built to help ethical hackers learn and practice their cybersecurity knowledge and skills.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://ctflearn.com/"><b>CTFlearn</b></a> - is an online platform built to help ethical hackers learn and practice their cybersecurity knowledge.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://ctftime.org/"><b>ctftime</b></a> - CTF archive and a place, where you can get some another CTF-related info.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://silesiasecuritylab.com/"><b>Silesia Security Lab</b></a> - high quality security testing services.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://practicalpentestlabs.com/"><b>Practical Pentest Labs</b></a> - pentest lab, take your Hacking skills to the next level.<br>
@@ -1405,7 +1397,7 @@ AWS deployment tool.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://ringzer0ctf.com/"><b>RingZer0</b></a> - tons of challenges designed to test and improve your hacking skills.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.try2hack.nl/"><b>try2hack</b></a> - several security-oriented challenges for your entertainment.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.ubeeri.com/preconfig-labs"><b>Ubeeri</b></a> - preconfigured lab environments.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://lab.pentestit.ru/"><b>Pentestit</b></a> - emulate IT infrastructures of real companies for legal pen testing and improving penetration testing skills.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://lab.pentestit.ru/"><b>Pentestit</b></a> - emulate IT infrastructures of real companies for legal pen testing and improving pentest skills.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://microcorruption.com/login"><b>Microcorruption</b></a> - reversal challenges done in the web interface.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://crackmes.one/"><b>Crackmes</b></a> - download crackmes to help improve your reverse engineering skills.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://domgo.at/cxss/intro"><b>DomGoat</b></a> - DOM XSS security learning and practicing platform.<br>
@@ -1413,8 +1405,8 @@ AWS deployment tool.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.vulnhub.com/"><b>Vulnhub</b></a> - allows anyone to gain practical 'hands-on' experience in digital security.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://w3challs.com/"><b>W3Challs</b></a> - is a penetration testing training platform, which offers various computer challenges.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://ringzer0ctf.com/challenges"><b>RingZer0 CTF</b></a> - offers you tons of challenges designed to test and improve your hacking skills.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://hack.me/"><b>Hack.me</b></a> - a platform where you can build, host and share vulnerable web apps for educational and research purposes.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hackthis.co.uk/levels/"><b>HackThis!</b></a> - discover how hacks, dumps and defacements are performed and secure your website against hackers.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://hack.me/"><b>Hack.me</b></a> - a platform where you can build, host and share vulnerable web apps for educational purposes.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hackthis.co.uk/levels/"><b>HackThis!</b></a> - discover how hacks, dumps and defacements are performed and secure your website.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.enigmagroup.org/#"><b>Enigma Group WebApp Training</b></a> - these challenges cover the exploits listed in the OWASP Top 10 Project.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://challenges.re/"><b>Reverse Engineering Challenges</b></a> - challenges, exercises, problems and tasks - by level, by type, and more.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://0x00sec.org/"><b>0x00sec</b></a> - the home of the Hacker - Malware, Reverse Engineering, and Computer Science.<br>
@@ -1502,7 +1494,7 @@ AWS deployment tool.<br>
 ###### Build your own Certificate Authority
 
 <p>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://jamielinux.com/docs/openssl-certificate-authority/"><b>OpenSSL Certificate Authority</b></a> - build your own certificate authority (CA) using the OpenSSL command-line tools.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://jamielinux.com/docs/openssl-certificate-authority/"><b>OpenSSL Certificate Authority</b></a> - build your own certificate authority (CA) using the OpenSSL tools.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/smallstep/certificates"><b>step-ca Certificate Authority</b></a> - build your own certificate authority (CA) using open source step-ca.<br>
 </p>
 
