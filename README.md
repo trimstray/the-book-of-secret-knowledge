@@ -949,6 +949,14 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://devdocs.io/"><b>DevDocs API</b></a> - combines multiple API documentations in a fast, organized, and searchable interface.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://cheat.sh/"><b>cheat.sh</b></a> - the only cheat sheet you need.<br>
 </p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://gnulinux.guru/"><b>gnulinux.guru</b></a> - collection of cheat sheets about bash, vim and networking.<br>
+</p>
+
+##### :black_small_square: Ebooks
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/EbookFoundation/free-programming-books"><b>free-programming-books</b></a> - list of free learning resources in many languages.<br>
+</p>
 
 ##### :black_small_square: Other
 
