@@ -1517,6 +1517,7 @@ AWS deployment tool.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://justinmeiners.github.io/lc3-vm/"><b>Write your Own Virtual Machine</b></a> - how to write your own virtual machine (VM).<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/cirosantilli/x86-bare-metal-examples"><b>x86 Bare Metal Examples</b></a> - dozens of minimal operating systems to learn x86 system programming.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/djhworld/simple-computer"><b>simple-computer</b></a> - the scott CPU from "But How Do It Know?" by J. Clark Scott.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://littleosbook.github.io/"><b>littleosbook</b></a> - the little book about OS development.<br>
 </p>
 
 ###### DNS Servers list (privacy)
