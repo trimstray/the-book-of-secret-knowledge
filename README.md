@@ -508,10 +508,10 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://dnssec-debugger.verisignlabs.com/"><b>dnssec-debugger</b></a> - DS or DNSKEY records validator.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://ptrarchive.com/"><b>PTRarchive.com</b></a> - this site is responsible for the safekeeping of historical reverse DNS records.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://xip.io/"><b>xip.io</b></a> - wildcard DNS for everyone.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://nip.io/"><b>nip.io</b></a> - dead simple wildcard DNS for any IP Address.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://ceipam.eu/en/dnslookup.php"><b>dnslookup (ceipam)</b></a> - one of the best DNS propagation checker (and not only).<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://whatsmydns.com"><b>What's My DNS</b></a> - DNS propagation checking tool.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://blog.erbbysam.com/index.php/2019/02/09/dnsgrep/"><b>DNSGrep</b></a> - quickly searching large DNS datasets.<br>
-
 </p>
 
 ##### :black_small_square: Mail
