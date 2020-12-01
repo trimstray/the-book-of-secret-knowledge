@@ -435,6 +435,7 @@ Only main chapters:
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.sublimetext.com/3"><b>Sublime Text</b></a> - is a lightweight, cross-platform code editor known for its speed, ease of use.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://code.visualstudio.com/"><b>Visual Studio Code</b></a> - an open-source and free source code editor developed by Microsoft.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://vscodium.com/"><b>VSCodium</b></a> - VSCodium is a community-driven, freely-licensed binary distribution of Microsoft’s editor VSCode.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://atom.io/"><b>Atom</b></a> - a hackable text editor for the 21st Century.<br>
 </p>
 
