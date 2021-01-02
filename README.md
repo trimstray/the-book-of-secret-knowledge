@@ -900,6 +900,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.lisenet.com/2017/centos-7-server-hardening-guide/"><b>CentOS 7 Server Hardening Guide</b></a> - great guide for hardening CentOS; familiar with OpenSCAP.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/decalage2/awesome-security-hardening"><b>awesome-security-hardening</b></a> - is a collection of security hardening guides, tools and other resources.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/trimstray/the-practical-linux-hardening-guide"><b>The Practical Linux Hardening Guide</b></a> - provides a high-level overview of hardening GNU/Linux systems.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://madaidans-insecurities.github.io/guides/linux-hardening.html"><b>Linux Hardening Guide</b></a> - how to harden Linux as much as possible for security and privacy.<br>
 </p>
 
 ##### :black_small_square: Security & Privacy
