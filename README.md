@@ -1616,8 +1616,8 @@ For more information please see [How to Obscure Any URL](http://www.pc-help.org/
 
 _Hashing_
 
-hash :no_entry: plaintext<br>
-plaintext :arrow_right: hash
+plaintext :arrow_right: hash<br>
+hash :no_entry: plaintext
 
 _Symmetric encryption_
 
