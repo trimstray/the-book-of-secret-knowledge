@@ -1614,22 +1614,26 @@ For more information please see [How to Obscure Any URL](http://www.pc-help.org/
 
 ###### Hashing, encryption and encoding (by [Michal Špaček](https://twitter.com/spazef0rze))
 
-**Hashing**
-hash :no_entry: plaintext
+_Hashing_
+
+hash :no_entry: plaintext<br>
 plaintext :arrow_right: hash
 
-**Symmetric encryption**
-plaintext :arrow_right: :key: :arrow_right: ciphertext
-plaintext :arrow_left: :key: :arrow_left: ciphertext
+_Symmetric encryption_
+
+plaintext :arrow_right: :key: :arrow_right: ciphertext<br>
+plaintext :arrow_left: :key: :arrow_left: ciphertext<br>
 (:key: shared key)
 
-**Asymmetric encryption**
-plaintext :arrow_right: :key: :arrow_right: ciphertext
-plaintext :arrow_left: :part_alternation_mark: :arrow_left: ciphertext
-(:key: public key, :part_alternation_mark: private key)
+_Asymmetric encryption_
 
-**Encoding**
-text :arrow_right: encoded
+plaintext :arrow_right: :key: :arrow_right: ciphertext<br>
+plaintext :arrow_left: :part_alternation_mark: :arrow_left: ciphertext<br>
+(:key: public key, :part_alternation_mark: private key)<br>
+
+_Encoding_
+
+text :arrow_right: encoded<br>
 text :arrow_left: encoded
 
 #### One-liners &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
