@@ -1612,6 +1612,26 @@ http://192.168.516 → 192.168.2.4
 
 For more information please see [How to Obscure Any URL](http://www.pc-help.org/obscure.htm) and [Magic IP Address Shortcuts](https://stuff-things.net/2014/09/25/magic-ip-address-shortcuts/).
 
+###### Hashing, encryption and encoding (by [Michal Špaček](https://twitter.com/spazef0rze))
+
+**Hashing**
+hash :no_entry: plaintext
+plaintext :arrow_right: hash
+
+**Symmetric encryption**
+plaintext :arrow_right: :key: :arrow_right: ciphertext
+plaintext :arrow_left: :key: :arrow_left: ciphertext
+(:key: shared key)
+
+**Asymmetric encryption**
+plaintext :arrow_right: :key: :arrow_right: ciphertext
+plaintext :arrow_left: :part_alternation_mark: :arrow_left: ciphertext
+(:key: public key, :part_alternation_mark: private key)
+
+**Encoding**
+text :arrow_right: encoded
+text :arrow_left: encoded
+
 #### One-liners &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
 
 ##### Table of Contents
