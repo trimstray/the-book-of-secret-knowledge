@@ -466,7 +466,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://csp-evaluator.withgoogle.com/"><b>CSP Evaluator</b></a> - allows developers and security experts to check if a Content Security Policy.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://uselesscsp.com/"><b>Useless CSP</b></a> - public list about CSP in some big players (might make them care a bit more).<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://whynohttps.com/"><b>Why No HTTPS?</b></a> - top 100 websites by Alexa rank not automatically redirecting insecure requests.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://ciphersuite.info/"><b>TLS Cipher Suite Search</b></a><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://ciphersuite.info/"><b>TLS Cipher Suite Search</b></a>- cipher suite search engine.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/RaymiiOrg/cipherli.st"><b>cipherli.st</b></a> - strong ciphers for Apache, Nginx, Lighttpd, and more.<b>*</b><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://2ton.com.au/dhtool/"><b>dhtool</b></a> - public Diffie-Hellman parameter service/tool.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://badssl.com/"><b>badssl.com</b></a> - memorable site for testing clients against bad SSL configs.<br>
