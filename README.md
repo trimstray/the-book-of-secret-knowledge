@@ -364,6 +364,12 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://weechat.org/"><b>WeeChat</b></a> - is an extremely extensible and lightweight IRC client.<br>
 </p>
 
+##### :black_small_square: Productivity
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://taskwarrior.org"><b>taskwarrior</b></a> - task management system, todo list <br>
+</p
+
 ##### :black_small_square: Other
 
 <p>
