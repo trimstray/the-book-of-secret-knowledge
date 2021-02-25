@@ -368,7 +368,7 @@ Only main chapters:
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://taskwarrior.org"><b>taskwarrior</b></a> - task management system, todo list <br>
-</p
+</p>
 
 ##### :black_small_square: Other
 
