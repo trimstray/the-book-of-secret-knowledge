@@ -1284,7 +1284,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/sherlock-project/sherlock"><b>sherlock</b></a> - hunt down social media accounts by username across social networks.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://owasp.org/www-project-threat-dragon/"><b>OWASP Threat Dragon</b></a> - is a tool used to create threat model diagrams and to record possible threats.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://tools.kali.org/web-applications/dirb"><b>DIRB</b></a> - is a Web Content Scanner. It looks for existing (and/or hidden) Web
-Objects. It basically works by launching a dictionary based attack against a web server and analizing the response.<br>
+Objects.<br>
 </p>
 
 ##### :black_small_square: Pentests bookmarks collection
