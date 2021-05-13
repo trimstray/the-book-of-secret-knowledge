@@ -417,7 +417,7 @@ Only main chapters:
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://keepassxc.org/"><b>KeePassXC</b></a> - store your passwords safely and auto-type them into your everyday websites and apps.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.enpass.io/"><b>Enpass</b></a> - password manager and secure wallet.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://bitwarden.com/"><b>Bitwarden</b></a> - open source password manager with built-in sync.<br>
 </p>
 
 ##### :black_small_square: Messengers/IRC Clients
