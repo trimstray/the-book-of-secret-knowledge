@@ -85,10 +85,6 @@ This project exists thanks to all the people who contribute.
   </a>
 </p>
 
-## :gift_heart: &nbsp;Support
-
-If this project is useful and important for you or if you really like _the-book-of-secret-knowledge_, you can bring **positive energy** by giving some **good words** or **supporting this project**. Thank you!
-
 ## :newspaper: &nbsp;RSS Feed & Updates
 
 GitHub exposes an [RSS/Atom](https://github.com/trimstray/the-book-of-secret-knowledge/commits.atom) feed of the commits, which may also be useful if you want to be kept informed about all changes.
