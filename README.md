@@ -1401,6 +1401,7 @@ AWS deployment tool.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/globocom/secDevLabs"><b>secDevLabs</b></a> - is a laboratory for learning secure web development in a practical manner.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/incredibleindishell/CORS-vulnerable-Lab"><b>CORS-vulnerable-Lab</b></a> - sample vulnerable code and its exploit code.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/moloch--/RootTheBox"><b>RootTheBox</b></a> - a Game of Hackers (CTF Scoreboard & Game Manager).<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://application.security/"><b>KONTRA</b></a> - application security training (OWASP Top Web & Api).<br>
 </p>
 
 ##### :black_small_square: Labs (ethical hacking platforms/trainings/CTFs)
