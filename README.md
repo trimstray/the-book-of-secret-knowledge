@@ -2602,7 +2602,7 @@ openssl genrsa -out ${_fd} ${_len} )
 ###### Generate private key with passphrase
 
 ```bash
-# _ciph: des3, aes128, aes256
+# _ciph: aes128, aes256
 # _len: 2048, 4096
 ( _ciph="aes128" ; _fd="private.key" ; _len="2048" ; \
 openssl genrsa -${_ciph} -out ${_fd} ${_len} )
@@ -2618,7 +2618,7 @@ openssl rsa -in ${_fd} -out ${_fd_unp} )
 ###### Encrypt existing private key with a passphrase
 
 ```bash
-# _ciph: des3, aes128, aes256
+# _ciph: aes128, aes256
 ( _ciph="aes128" ; _fd="private.key" ; _fd_pass="private_pass.key" ; \
 openssl rsa -${_ciph} -in ${_fd} -out ${_fd_pass}
 ```
