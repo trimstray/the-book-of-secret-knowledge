@@ -4028,7 +4028,7 @@ awk 'length($0)>80{print FNR,$0}' filename
 ###### Print only lines of less than 80 characters
 
 ```bash
-awk 'length < 80 filename
+awk 'length < 80' filename
 ```
 
 ###### Print double new lines a file
