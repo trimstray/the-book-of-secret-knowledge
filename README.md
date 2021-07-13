@@ -1487,7 +1487,6 @@ AWS deployment tool.<br>
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://wiki.hackerspaces.org/IRC_Channel"><b>#hackerspaces</b></a> - hackerspace IRC channels.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://libera.chat/"><b>#Libera</b></a> - Free IRC network hosted by a Swiss non-profit. Used by many projects.<br>
 </p>
 
 ##### :black_small_square: Security
