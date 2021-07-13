@@ -638,7 +638,6 @@ performance of any of your sites from across the globe.<br>
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://thispersondoesnotexist.com/"><b>thispersondoesnotexist</b></a> - generate fake faces in one click - endless possibilities.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://generated.photos"><b>AI Generated Photos</b></a> - 100.000 AI generated faces.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://fakeface.co/"><b>fakeface</b></a> - fake faces browser.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.fakenamegenerator.com/"><b>fakenamegenerator</b></a> - your randomly generated identity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://tools.intigriti.io/redirector/"><b>Intigriti Redirector</b></a> - open redirect/SSRF payload generator.<br>
 </p>
