@@ -189,6 +189,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/traviscross/mtr"><b>mtr</b></a> - is a tool that combines the functionality of the 'traceroute' and 'ping' programs in a single tool.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/mehrdadrad/mylg"><b>mylg</b></a> - utility which combines the functions of the different network probes in one diagnostic tool.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://netcat.sourceforge.net/"><b>netcat</b></a> - utility which reads and writes data across network connections, using the TCP/IP protocol.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://www.dest-unreach.org/socat/"><b>socat</b></a> - utility which transfers data between two objects.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.tcpdump.org/"><b>tcpdump</b></a> - is a powerful command-line packet analyzer.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.wireshark.org/docs/man-pages/tshark.html"><b>tshark</b></a> - is a tool that allows us to dump and analyze network traffic (wireshark cli).<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://termshark.io/"><b>Termshark</b></a> - is a simple terminal user-interface for tshark.<br>
@@ -1271,6 +1272,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/radare/radare2"><b>radare2</b></a> - framework for reverse-engineering and analyzing binaries.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/threat9/routersploit"><b>routersploit</b></a> - exploitation framework for embedded devices.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/NationalSecurityAgency/ghidra"><b>Ghidra</b></a> - is a software reverse engineering (SRE) framework.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://cutter.re/"><b>Cutter</b></a> - is an SRE platform integrating Ghidra's decompiler.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/salesforce/vulnreport"><b>Vulnreport</b></a> - open-source pentesting management and automation platform by Salesforce Product Security.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/sc0tfree/mentalist"><b>Mentalist</b></a> - is a graphical tool for custom wordlist generation.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/archerysec/archerysec"><b>archerysec</b></a> - vulnerability assessment and management helps to perform scans and manage vulnerabilities.<br>
