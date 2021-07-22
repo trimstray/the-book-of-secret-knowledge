@@ -165,6 +165,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://neovim.io/"><b>neovim</b></a> - is a free open source, powerful, extensible and usable code editor.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.spacemacs.org/"><b>spacemacs</b></a> - a community-driven Emacs distribution.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://spacevim.org/"><b>spacevim</b></a> - a community-driven vim distribution.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.nano-editor.org/"><b>nano</b></a> - is a text editor for Unix-like computing systems or operating environments using a command line interface.<br>
 </p>
 
 ##### :black_small_square: Files and directories
