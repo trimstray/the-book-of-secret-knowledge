@@ -2729,6 +2729,7 @@ For more information please look at these great explanations:
 - [Generate a multi domains certificate using config files](https://gist.github.com/romainnorberg/464758a6620228b977212a3cf20c3e08)
 - [Your OpenSSL CSR command is out of date](https://expeditedsecurity.com/blog/openssl-csr-command/)
 - [OpenSSL example configuration file](https://www.tbs-certificats.com/openssl-dem-server-cert.cnf)
+- [Object Identifiers (OIDs)](https://www.alvestrand.no/objectid/)
 
 ###### List available EC curves
 
