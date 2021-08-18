@@ -2722,6 +2722,49 @@ postalCode = 2.5.4.17
 streetAddress = 2.5.4.9
 ```
 
+Full example:
+
+```bash
+( _fd="private.key" ; _fd_csr="request.csr" ; \
+openssl req -new -sha256 -key ${_fd} -out ${_fd_csr} \
+-config <(
+cat << __EOF__
+[req]
+default_bits        = 2048
+default_md          = sha256
+prompt              = no
+distinguished_name  = dn
+req_extensions      = req_ext
+oid_section         = new_oids
+
+[ new_oids ]
+serialNumber = 2.5.4.5
+streetAddress = 2.5.4.9
+postalCode = 2.5.4.17
+businessCategory = 2.5.4.15
+
+[ dn ]
+serialNumber=00001111
+businessCategory=Private Organization
+jurisdictionC=DE
+C=DE
+ST=Hessen
+L=Keller
+postalCode=424242
+streetAddress=Crater 1621
+O=AV Company
+OU=IT
+CN=example.com
+
+[ req_ext ]
+subjectAltName = @alt_names
+
+[ alt_names ]
+DNS.1 = example.com
+__EOF__
+))
+```
+
 For more information please look at these great explanations:
 
 - [RFC 5280](https://tools.ietf.org/html/rfc5280)
@@ -2730,6 +2773,7 @@ For more information please look at these great explanations:
 - [Your OpenSSL CSR command is out of date](https://expeditedsecurity.com/blog/openssl-csr-command/)
 - [OpenSSL example configuration file](https://www.tbs-certificats.com/openssl-dem-server-cert.cnf)
 - [Object Identifiers (OIDs)](https://www.alvestrand.no/objectid/)
+- [openssl objects.txt](https://github.com/openssl/openssl/blob/master/crypto/objects/objects.txt)
 
 ###### List available EC curves
 
