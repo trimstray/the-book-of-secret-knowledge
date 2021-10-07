@@ -1550,6 +1550,7 @@ AWS deployment tool.<br>
 | **`94.247.43.254`** | [opennic.org](https://www.opennic.org/) |
 | **`64.6.64.6`** | [verisign.com](https://www.verisign.com/en_US/security-services/public-dns/index.xhtml) |
 | **`89.233.43.71`** | [censurfridns.dk](https://blog.uncensoreddns.org/) |
+| **`9.9.9.9`** | [quad9](https://www.quad9.net/) |
 | **`1.1.1.1`** | [cloudflare.com](https://1.1.1.1/) |
 | **`94.130.110.185`** | [dnsprivacy.at](https://dnsprivacy.at/) |
 
