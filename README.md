@@ -1710,6 +1710,7 @@ text :arrow_left: encoded
   * [sed](#tool-sed)
   * [grep](#tool-grep)
   * [perl](#tool-perl)
+  * [servers](https://github.com/W1LDN16H7/Server)
 
 ##### Tool: [terminal](https://en.wikipedia.org/wiki/Linux_console)
 
