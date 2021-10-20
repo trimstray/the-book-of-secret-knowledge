@@ -1288,6 +1288,8 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/crypt0rr/hash-cracker/"><b>hash-cracker</b></a> - Script to perform some hashcracking logic automagically.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/byt3bl33d3r/CrackMapExec/"><b>CrackMapExec</b></a> - A swiss army knife for pentesting networks.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/BloodHoundAD/BloodHound/"><b>BloodHound</b></a> - Active Directory information gathering - Six Degrees of Domain Admin.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Orange-Cyberdefense/arsenal/"><b>Arsenal</b></a> - Arsenal is just a quick inventory and launcher for hacking programs.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Hackplayers/evil-winrm"><b>Evil-WinRM</b></a> - The ultimate WinRM shell for hacking/pentesting.<br>
 </p>
 
 ##### :black_small_square: Pentests bookmarks collection
