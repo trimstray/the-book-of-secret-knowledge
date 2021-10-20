@@ -1286,6 +1286,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/sherlock-project/sherlock"><b>sherlock</b></a> - hunt down social media accounts by username across social networks.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://owasp.org/www-project-threat-dragon/"><b>OWASP Threat Dragon</b></a> - is a tool used to create threat model diagrams and to record possible threats.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/crypt0rr/hash-cracker/"><b>hash-cracker</b></a> - Script to perform some hashcracking logic automagically.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/byt3bl33d3r/CrackMapExec/"><b>CrackMapExec</b></a> - A swiss army knife for pentesting networks.<br>
 </p>
 
 ##### :black_small_square: Pentests bookmarks collection
