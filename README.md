@@ -417,6 +417,7 @@ Only main chapters:
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://keepassxc.org/"><b>KeePassXC</b></a> - store your passwords safely and auto-type them into your everyday websites and apps.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://bitwarden.com/"><b>Bitwarden</b></a> - open source password manager with built-in sync.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dani-garcia/vaultwarden/"><b>Vaultwarden</b></a> - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs.<br>
 </p>
 
 ##### :black_small_square: Messengers/IRC Clients
