@@ -1126,6 +1126,10 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://raymii.org/s/index.html"><b>raymii.org</b></a> - sysadmin specializing in building high availability cloud environments.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://robert.penz.name/"><b>Robert Penz</b></a> - IT security expert.<br>
 </p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://magda-on-cyber.com"><b>Magda Chelly</b></a> - security professional, author, keynote speaker and entrepreneur.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.k3r3n3.com"><b>Keren Elazari</b></a> - security researcher, speaker and TED speaker.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.blackhat.com/asia-18/speakers/Lidia-Giuliano.html"><b>Lidia Giuliano</b></a> - security professional and member of Black Hat executive commity.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://shehackspurple.ca"><b>Tanya Janca</b></a> - security researcher, author, speaker and founder of #WeHackPurple academy.<br>
 
 ##### :black_small_square: Geeky Blogs
 
@@ -1136,6 +1140,8 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools, a
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.grymoire.com/"><b>The Grymoire</b></a> - collection of useful incantations for wizards, be you computer wizards, magicians, or whatever.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.secjuice.com"><b>Secjuice</b></a> - is the only non-profit, independent and volunteer led publication in the information security space.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://duo.com/decipher"><b>Decipher</b></a> - security news that informs and inspires.<br>
+</p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://m49d4ch3lly.medium.com/"><b>Magda Blog</b></a> - cyber risk quantification, and much more.<br>
 </p>
 
 ##### :black_small_square: Geeky Vendor Blogs
@@ -1196,6 +1202,12 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/jack_daniel"><b>@jack_daniel</b></a> - @SecurityBSides co-founder.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/thegrugq"><b>@thegrugq</b></a> - Security Researcher.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/matthew_d_green"><b>@matthew_d_green</b></a> - a cryptographer and professor at Johns Hopkins University.<br>
+</p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/m49D4ch3lly"><b>@m49D4ch3lly</b></a> - a cybersecurity entertainer.<br>
+</p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/shehackspurple"><b>@shehackspurple</b></a> - a cybersecurity professional.<br>
+</p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/k3r3n3"><b>@k3r3n3</b></a> - a cybersecurity professional, researcher and hacker.<br>
 </p>
 
 ##### :black_small_square: Best Commercial Twitter Accounts
