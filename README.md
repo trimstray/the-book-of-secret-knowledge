@@ -1096,7 +1096,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools, a
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.secjuice.com"><b>Secjuice</b></a> - is the only non-profit, independent and volunteer led publication in the information security space.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://duo.com/decipher"><b>Decipher</b></a> - security news that informs and inspires.<br>
 </p>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://m49d4ch3lly.medium.com/"><b>Magda Blog</b></a> - cyber risk quantification, and much more.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://blog.magda-on-cyber.com"><b>Magda Blog</b></a> - cyber risk quantification, and much more.<br>
 </p>
 
 ##### :black_small_square: Geeky Vendor Blogs
