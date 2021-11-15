@@ -1008,6 +1008,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://howhttps.works/"><b>howhttps.works</b></a> - how HTTPS works ...in a comic!<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://howdns.works/"><b>howdns.works</b></a> - a fun and colorful explanation of how DNS works.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://postgresqlco.nf/en/doc/param/"><b>POSTGRESQLCO.NF</b></a> - your postgresql.conf documentation and recommendations.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://cyber.wizard.institute"><b>Cyberwizard Institute</b></a> - Free programming school with notes/videos on networking, node, vim &c.<br>
 </p>
 
 #### Inspiring Lists &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
