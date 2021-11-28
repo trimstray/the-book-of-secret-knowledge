@@ -260,6 +260,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/OJ/gobuster"><b>gobuster</b></a> - is a free and open source directory/file & DNS busting tool written in Go.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/ssllabs/ssllabs-scan"><b>ssllabs-scan</b></a> - command-line reference-implementation client for SSL Labs APIs.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/mozilla/http-observatory"><b>http-observatory</b></a> - Mozilla HTTP Observatory cli version.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://hurl.dev"><b>Hurl</b></a> - is a command line tool to run and test HTTP requests with plain text.<br>
 </p>
 
 ##### :black_small_square: SSL
