@@ -209,7 +209,6 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/packetfu/packetfu"><b>packetfu</b></a> - a mid-level packet manipulation library for Ruby.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://scapy.net/"><b>Scapy</b></a> - packet manipulation library; forge, send, decode, capture packets of a wide number of protocols.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/SecureAuthCorp/impacket"><b>impacket</b></a> - is a collection of Python classes for working with network protocols.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/arthepsy/ssh-audit"><b>ssh-audit</b></a> - is a tool for SSH server auditing.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://aria2.github.io/"><b>aria2</b></a> - is a lightweight multi-protocol & multi-source command-line download utility.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/x-way/iptables-tracer"><b>iptables-tracer</b></a> - observe the path of packets through the iptables chains.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/proabiral/inception"><b>inception</b></a> - a highly configurable tool to check for whatever you like against any number of hosts.<br>
@@ -262,6 +261,13 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/mozilla/http-observatory"><b>http-observatory</b></a> - Mozilla HTTP Observatory cli version.<br>
 </p>
 
+##### :black_small_square: SSH
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://gitlab.com/coroner/cryptolyzer"><b>CryptoLyzer</b></a> - Fast and flexible server cryptographic (TLS/SSL/SSH/HTTP) settings analyzer.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/arthepsy/ssh-audit"><b>ssh-audit</b></a> - is a tool for SSH server auditing.<br>
+</p>
+
 ##### :black_small_square: SSL
 
 <p>
@@ -272,6 +278,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rbsec/sslscan"><b>sslscan</b></a> - tests SSL/TLS enabled services to discover supported cipher suites.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/drwetter/testssl.sh"><b>testssl.sh</b></a> - testing TLS/SSL encryption anywhere on any port.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/mozilla/cipherscan"><b>cipherscan</b></a> - a very simple way to find out which SSL ciphersuites are supported by a target.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://gitlab.com/coroner/cryptolyzer"><b>CryptoLyzer</b></a> - Fast and flexible server cryptographic (TLS/SSL/SSH/HTTP) settings analyzer.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.tarsnap.com/spiped.html"><b>spiped</b></a> - is a utility for creating symmetrically encrypted and authenticated pipes between socket addresses.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/certbot/certbot"><b>Certbot</b></a> - is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/FiloSottile/mkcert"><b>mkcert</b></a> - simple zero-config tool to make locally trusted development certificates with any names you'd like.<br>
@@ -1686,6 +1693,7 @@ text :arrow_left: encoded
   * [du](#tool-du)
   * [inotifywait](#tool-inotifywait)
   * [openssl](#tool-openssl)
+  * [cryptolyzer](#tool-cryptolyzer)
   * [secure-delete](#tool-secure-delete)
   * [dd](#tool-dd)
   * [gpg](#tool-gpg)
@@ -2939,6 +2947,28 @@ openssl x509 -noout -modulus -in certificate.crt | openssl md5) | uniq
 ```bash
 (openssl rsa -noout -modulus -in private.key | openssl md5 ; \
 openssl req -noout -modulus -in request.csr | openssl md5) | uniq
+```
+
+___
+
+##### Tool: [cryptolyzer](https://gitlab.com/coroner/cryptolyzer)
+
+###### Check the cryptographic setting of a generic TLS server
+
+```bash
+cryptolyze tls all www.example.com
+```
+
+###### Check the cryptographic setting of a oppotunistic TLS server
+
+```bash
+cryptolyze tls all smtp://mail.example.com:25
+```
+
+###### Check the cryptographic setting of an SSH server
+
+```bash
+cryptolyze ssh all gitlab.com
 ```
 
 ___
