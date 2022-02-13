@@ -810,6 +810,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/docker/docker-bench-security"><b>docker-bench-security</b></a> - checks for dozens of common best-practices around deploying Docker.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/aquasecurity/trivy"><b>trivy</b></a> - vulnerability scanner for containers, suitable for CI.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://goharbor.io/"><b>Harbor</b></a> - cloud native registry project that stores, signs, and scans content.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://houdini.secsi.io/"><b>Houdini</b></a> - hundreds of offensive and useful docker images for network intrusion.<br>
 </p>
 
 ##### :black_small_square: Manuals/Tutorials/Best Practices
