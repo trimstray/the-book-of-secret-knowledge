@@ -492,6 +492,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.urlvoid.com/"><b>urlvoid</b></a> - this service helps you detect potentially malicious websites.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://securitytxt.org/"><b>security.txt</b></a> - a proposed standard (generator) which allows websites to define security policies.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/mozilla/ssl-config-generator"><b>ssl-config-generator</b></a> - help you follow the Mozilla Server Side TLS configuration guidelines.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/mjol/TLScan"><b>TLScan</b></a> - pure python, SSL/TLS protocol and cipher scanner/enumerator.<br>
 </p>
 
 ##### :black_small_square: HTTP Headers & Web Linters
