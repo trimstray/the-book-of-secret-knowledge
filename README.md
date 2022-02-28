@@ -116,6 +116,7 @@ Only main chapters:
 - **[Other Cheat Sheets](#other-cheat-sheets-toc)**
 - **[One-liners](#one-liners-toc)**
 - **[Shell functions](#shell-functions-toc)**
+- **[Shell tricks](#shell-tricks-toc)**
 
 ## :trident: &nbsp;The Book of Secret Knowledge (Chapters)
 
@@ -4438,3 +4439,13 @@ shell> GetASN 1.1.1.1
 shell> GetASN 0.0.0.0
 Unsuccessful ASN gathering.
 ```
+#### Shell tricks &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
+  When you get a shell, it is generally not very clean, but after following these steps, you will have a fairly clean and comfortable shell to work with.
+
+  1) ```script /dev/null -c bash```
+  2) Ctrl-Z (to send it to background)
+  3) ```stty raw -echo; fg``` (returns the shell to foreground)
+  4) ```reset``` (to reset terminal)
+  5) ```xterm``` (when asked for terminal type)
+  6) ```export TERM=xterm; export SHELL=bash```
+
