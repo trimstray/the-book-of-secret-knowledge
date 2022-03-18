@@ -784,12 +784,6 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/digitalocean/netbox"><b>netbox</b></a> - IP address management (IPAM) and data center infrastructure management (DCIM) tool.<br>
 </p>
 
-##### :black_small_square: Labs
-
-<p>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://labs.networkreliability.engineering/"><b>NRE Labs</b></a> - learn automation by doing it. Right now, right here, in your browser.<br>
-</p>
-
 ##### :black_small_square: Other
 
 <p>
