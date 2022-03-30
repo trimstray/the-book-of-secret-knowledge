@@ -1568,6 +1568,7 @@ AWS deployment tool.<br>
 | **`89.233.43.71`** | [censurfridns.dk](https://blog.uncensoreddns.org/) |
 | **`1.1.1.1`** | [cloudflare.com](https://1.1.1.1/) |
 | **`94.130.110.185`** | [dnsprivacy.at](https://dnsprivacy.at/) |
+| **`9.9.9.9`** | [quad9](https://www.quad9.net/) |
 
 ###### TOP Browser extensions
 
