@@ -1262,7 +1262,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/future-architect/vuls"><b>vuls</b></a> - is an agent-less vulnerability scanner for Linux, FreeBSD, and other.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/google/tsunami-security-scanner"><b>tsunami</b></a> - is a general purpose network security scanner with an extensible plugin system.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/michenriksen/aquatone"><b>aquatone</b></a> - a tool for domain flyovers.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/GitHackTools/BillCipher"><b>BillCipher</b></a> - information gathering tool for a website or IP address.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/bahatiphill/BillCipher"><b>BillCipher</b></a> - information gathering tool for a website or IP address.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Ekultek/WhatWaf"><b>WhatWaf</b></a> - detect and bypass web application firewalls and protection systems.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/s0md3v/Corsy"><b>Corsy</b></a> - CORS misconfiguration scanner.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/evyatarmeged/Raccoon"><b>Raccoon</b></a> - is a high performance offensive security tool for reconnaissance and vulnerability scanning.<br>
