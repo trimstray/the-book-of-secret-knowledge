@@ -1088,6 +1088,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/k4m4/movies-for-hackers"><b>Movies for Hackers</b></a> - list of movies every hacker & cyberpunk must watch.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/danieldizzy/Cryptography_1"><b>Cryptography_1</b></a> - materials used whilst taking Prof. Dan Boneh Stanford Crypto course.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/ashutosh1206/Crypton"><b>Crypton</b></a> - library to learn and practice Offensive and Defensive Cryptography.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/crowdsecurity/crowdsec"><b>CrowdSec</b></a> - an open source crowdfunded IPS/IDS platform to protect your servers from attacks.<br>
 </p>
 
 ##### :black_small_square: Other
