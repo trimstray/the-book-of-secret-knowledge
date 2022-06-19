@@ -1,8 +1,6 @@
 <p align="center">
-  <a href="https://github.com/trimstray/the-book-of-secret-knowledge">
-    <img src="./static/img/the-book-of-secret-knowledge-preview-black.png#gh-light-mode-only" alt="Master">
-    <img src="./static/img/the-book-of-secret-knowledge-preview-white.png#gh-dark-mode-only" alt="Master">
-  </a>
+  <img src="./static/img/the-book-of-secret-knowledge-preview-black.png#gh-light-mode-only" alt="Master">
+  <img src="./static/img/the-book-of-secret-knowledge-preview-white.png#gh-dark-mode-only" alt="Master">
 </p>
 
 <p align="center">"<i>Knowledge is powerful, be careful how you use it!</i>"</p>
