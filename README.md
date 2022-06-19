@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://github.com/trimstray/the-book-of-secret-knowledge">
-    <img src="https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/static/img/the-book-of-secret-knowledge-preview.png" alt="Master">
+    <img src="./static/img/the-book-of-secret-knowledge-preview-black.png#gh-light-mode-only" alt="Master">
+    <img src="./static/img/the-book-of-secret-knowledge-preview-white.png#gh-dark-mode-only" alt="Master">
   </a>
 </p>
 
