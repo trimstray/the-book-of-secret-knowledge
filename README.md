@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="./static/img/the-book-of-secret-knowledge-preview-black.png#gh-light-mode-only" alt="Master">
-  <img src="./static/img/the-book-of-secret-knowledge-preview-white.png#gh-dark-mode-only" alt="Master">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./static/img/the-book-of-secret-knowledge-preview-white.png">
+    <source media="(prefers-color-scheme: light)" srcset="./static/img/the-book-of-secret-knowledge-preview-black.png">
+    <img alt="Master">
+  </picture>
 </p>
 
 <p align="center">"<i>Knowledge is powerful, be careful how you use it!</i>"</p>
