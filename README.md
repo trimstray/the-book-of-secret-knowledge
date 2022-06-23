@@ -787,7 +787,7 @@ performance of any of your sites from across the globe.<br>
 ##### :black_small_square: Labs
 
 <p>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://labs.networkreliability.engineering/"><b>NRE Labs</b></a> - learn automation by doing it. Right now, right here, in your browser.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://nrelabs.io/"><b>NRE Labs</b></a> - learn automation by doing it. Right now, right here, in your browser.<br>
 </p>
 
 ##### :black_small_square: Other
