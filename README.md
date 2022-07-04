@@ -389,6 +389,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/tj/commander.js"><b>commander.js</b></a> - minimal CLI creator in JavaScript.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/tomnomnom/gron"><b>gron</b></a> - make JSON greppable!<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/itchyny/bed"><b>bed</b></a> - binary editor written in Go.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jpmens/jo"><b>jo</b></a> - is a small utility to create JSON objects.<br>
 </p>
 
 #### GUI Tools &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
