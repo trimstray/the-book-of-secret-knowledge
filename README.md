@@ -442,6 +442,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://wire.com/en/"><b>Wire</b></a> - secure messaging, file sharing, voice calls and video conferences. All protected with end-to-end encryption.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/prof7bit/TorChat"><b>TorChat</b></a> - decentralized anonymous instant messenger on top of Tor Hidden Services.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://matrix.org/"><b>Matrix</b></a> - an open network for secure, decentralized, real-time communication.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://jitsi.org/"><b>Jitsi</b></a> - Jitsi is a collection of Open Source projects which provide state-of-the-art video conferencing capabilities that are secure, easy to use and easy to self-host..<br>
 </p>
 
 ##### :black_small_square: Text editors
