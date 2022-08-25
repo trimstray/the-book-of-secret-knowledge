@@ -842,6 +842,8 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://learnk8s.io/production-best-practices/"><b>kubernetes-production-best-practices</b></a> - checklists with best-practices for production-ready Kubernetes.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/freach/kubernetes-security-best-practice"><b>kubernetes-production-best-practices</b></a> - kubernetes security - best practice guide.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/hjacobs/kubernetes-failure-stories"><b>kubernetes-failure-stories</b></a> - is a compilation of public failure/horror stories related to Kubernetes.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://spacelift.io/blog/kubernetes-cheat-sheet"><b>kubernetes-cheat-sheet</b></a> - Kubernetes Cheat Sheet – 15 Kubectl Commands & Objects.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://spacelift.io/blog/kubernetes-best-practices"><b>kubernetes-best-practices</b></a> - 15 Kubernetes Best Practices Every Developer Should Know.<br>
 </p>
 
 #### Manuals/Howtos/Tutorials &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
