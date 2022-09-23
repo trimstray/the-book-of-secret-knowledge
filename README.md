@@ -831,7 +831,7 @@ performance of any of your sites from across the globe.<br>
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/wsargent/docker-cheat-sheet"><b>docker-cheat-sheet</b></a> - a quick reference cheat sheet on Docker.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/veggiemonk/awesome-docker"><b>awesome-docker</b></a> - a curated list of Docker resources and projects.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/yeasy/docker_practice"><b>docker_practice</b></a> - learn and understand Docker technologies, with real DevOps practice!<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/yeasy/docker_practice"><b>docker_practice(Chinese)</b></a> - learn and understand Docker technologies, with real DevOps practice!<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/docker/labs"><b>labs
 </b></a> - is a collection of tutorials for learning how to use Docker with various tools.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jessfraz/dockerfiles"><b>dockerfiles</b></a> - various Dockerfiles I use on the desktop and on servers.<br>
