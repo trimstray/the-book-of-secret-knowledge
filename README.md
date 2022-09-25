@@ -1301,6 +1301,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/gentilkiwi/mimikatz"><b>mimikatz</b></a> - a little tool to play with Windows security.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/sherlock-project/sherlock"><b>sherlock</b></a> - hunt down social media accounts by username across social networks.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://owasp.org/www-project-threat-dragon/"><b>OWASP Threat Dragon</b></a> - is a tool used to create threat model diagrams and to record possible threats.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/ffuf/ffuf"><b>ffuf</b></a> - A tool for directory and virtual host discovery (without DNS records), GET and POST parameter fuzzing.<br>
 </p>
 
 ##### :black_small_square: Pentests bookmarks collection
