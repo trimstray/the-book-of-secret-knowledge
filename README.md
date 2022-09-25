@@ -3028,7 +3028,7 @@ gpg -e -r "<username>" dump.sql
 ```
 
   * `-e|--encrypt` - encrypt data
-  * `-r|--recipient` - encrypt for specific <username>
+  * `-r|--recipient` - encrypt for specific username
 
 ###### Decrypt file
 
