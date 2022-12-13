@@ -592,6 +592,7 @@ Only main chapters:
 ##### :black_small_square: Performance
 
 <p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.debugbear.com/test/website-speed"><b>DebugBear Speed Test</b></a> - test and optimize page load speed.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://gtmetrix.com/"><b>GTmetrix</b></a> - analyze your site’s speed and make it faster.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://performance.sucuri.net/"><b>Sucuri loadtimetester</b></a> - test here the
 performance of any of your sites from across the globe.<br>
