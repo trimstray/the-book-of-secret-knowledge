@@ -166,6 +166,9 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://neovim.io/"><b>neovim</b></a> - is a free open source, powerful, extensible and usable code editor.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.spacemacs.org/"><b>spacemacs</b></a> - a community-driven Emacs distribution.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://spacevim.org/"><b>spacevim</b></a> - a community-driven vim distribution.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.sublimetext.com/3"><b>Sublime Text</b></a> - is a lightweight, cross-platform code editor known for its speed, ease of use.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://code.visualstudio.com/"><b>Visual Studio Code</b></a> - an open-source and free source code editor developed by Microsoft.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://atom.io/"><b>Atom</b></a> - a hackable text editor for the 21st Century.<br>
 </p>
 
 ##### :black_small_square: Files and directories
@@ -442,14 +445,6 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://wire.com/en/"><b>Wire</b></a> - secure messaging, file sharing, voice calls and video conferences. All protected with end-to-end encryption.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/prof7bit/TorChat"><b>TorChat</b></a> - decentralized anonymous instant messenger on top of Tor Hidden Services.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://matrix.org/"><b>Matrix</b></a> - an open network for secure, decentralized, real-time communication.<br>
-</p>
-
-##### :black_small_square: Text editors
-
-<p>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.sublimetext.com/3"><b>Sublime Text</b></a> - is a lightweight, cross-platform code editor known for its speed, ease of use.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://code.visualstudio.com/"><b>Visual Studio Code</b></a> - an open-source and free source code editor developed by Microsoft.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://atom.io/"><b>Atom</b></a> - a hackable text editor for the 21st Century.<br>
 </p>
 
 #### Web Tools &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
