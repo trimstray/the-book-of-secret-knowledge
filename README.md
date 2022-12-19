@@ -424,6 +424,7 @@ Only main chapters:
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://keepassxc.org/"><b>KeePassXC</b></a> - store your passwords safely and auto-type them into your everyday websites and apps.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://1password.com/"><b>1Password</b></a> - a secure and account syncing password manager with auto-type, 2FA and more features. <br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://bitwarden.com/"><b>Bitwarden</b></a> - open source password manager with built-in sync.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dani-garcia/vaultwarden/"><b>Vaultwarden</b></a> - unofficial Bitwarden compatible server written in Rust.<br>
 </p>
