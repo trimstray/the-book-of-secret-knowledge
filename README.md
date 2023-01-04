@@ -675,6 +675,8 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://cxsecurity.com/exploit/"><b>cxsecurity</b></a> - free vulnerability database.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.vulncode-db.com/"><b>Vulncode-DB</b></a> - is a database for vulnerabilities and their corresponding source code if available.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://cveapi.com/"><b>cveapi</b></a> - free API for CVE data.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://nvd.nist.gov/"><b>NVD</b></a> - U.S. government repository of standards based vulnerability.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://ossindex.sonatype.org/"><b>Sonatype OSS Index</b></a> - free vulnerability database hosted by Sonatype.<br>
 </p>
 
 ##### :black_small_square: Mobile apps scanners
