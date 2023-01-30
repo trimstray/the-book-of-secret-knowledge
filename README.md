@@ -122,7 +122,7 @@ Only main chapters:
 
 #### CLI Tools &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
 
-##### ▪️ Shells
+##### 🐚 Shells
 
 <p>
 &nbsp;&nbsp;🔸 <a href="https://www.gnu.org/software/bash/"><b>GNU Bash</b></a> - is an sh-compatible shell that incorporates useful features from the Korn shell and C shell.<br>
@@ -135,7 +135,7 @@ Only main chapters:
 &nbsp;&nbsp;🔸 <a href="https://github.com/romkatv/powerlevel10k"><b>powerlevel10k</b></a> - is a fast reimplementation of Powerlevel9k ZSH theme.<br>
 </p>
 
-##### ▪️ Shell plugins
+##### 🐚 Shell plugins
 
 <p>
 &nbsp;&nbsp;🔸 <a href="https://github.com/rupa/z"><b>z</b></a> - tracks the folder you use the most and allow you to jump, without having to type the whole path.<br>
@@ -145,7 +145,7 @@ Only main chapters:
 &nbsp;&nbsp;🔸 <a href="https://github.com/unixorn/awesome-zsh-plugins"><b>Awesome ZSH Plugins</b></a> - A list of frameworks, plugins, themes and tutorials for ZSH.<br>
 </p>
 
-##### ▪️ Managers
+##### 🧑‍💼 Managers
 
 <p>
 &nbsp;&nbsp;🔸 <a href="https://midnight-commander.org/"><b>Midnight Commander</b></a> - is a visual file manager, licensed under GNU General Public License.<br>
@@ -156,7 +156,7 @@ Only main chapters:
 &nbsp;&nbsp;🔸 <a href="https://github.com/peikk0/tmux-cssh"><b>tmux-cssh</b></a> - is a tool to set comfortable and easy to use functionality, clustering and synchronizing tmux-sessions.<br>
 </p>
 
-##### ▪️ Text editors
+##### 🗒 Text editors
 
 <p>
 &nbsp;&nbsp;🔸 <a href="http://ex-vi.sourceforge.net/"><b>vi</b></a> - is one of the most common text editors on Unix.<br>
@@ -168,14 +168,14 @@ Only main chapters:
 &nbsp;&nbsp;🔸 <a href="https://spacevim.org/"><b>spacevim</b></a> - a community-driven vim distribution.<br>
 </p>
 
-##### ▪️ Files and directories
+##### 📁 Files and directories
 
 <p>
 &nbsp;&nbsp;🔸 <a href="https://github.com/sharkdp/fd"><b>fd</b></a> - is a simple, fast and user-friendly alternative to find.<br>
 &nbsp;&nbsp;🔸 <a href="https://dev.yorhel.nl/ncdu"><b>ncdu</b></a> - is an easy to use, fast disk usage analyzer.<br>
 </p>
 
-##### ▪️ Network
+##### 🖧 Network
 
 <p>
 &nbsp;&nbsp;🔸 <a href="https://www.putty.org/"><b>PuTTY</b></a> - is an SSH and telnet client, developed originally by Simon Tatham.<br>
@@ -217,7 +217,7 @@ Only main chapters:
 &nbsp;&nbsp;🔸 <a href="https://mremoteng.org/"><b>mRemoteNG</b></a> - a fork of mRemote, multi-tabbed PuTTy on steroids!<br>
 </p>
 
-##### ▪️ Network (DNS)
+##### 🖧 Network (DNS)
 
 <p>
 &nbsp;&nbsp;🔸 <a href="https://github.com/farrokhi/dnsdiag"><b>dnsdiag</b></a> - is a DNS diagnostics and performance measurement tools.<br>
@@ -235,7 +235,7 @@ Only main chapters:
   &nbsp;&nbsp;🔸 <a href="https://github.com/elceef/dnstwist"><b>dnstwist</b></a> - detect typosquatters, phishing attacks, fraud, and brand impersonation.<br>
 </p>
 
-##### ▪️ Network (HTTP)
+##### 🖧 Network (HTTP)
 
 <p>
 &nbsp;&nbsp;🔸 <a href="https://curl.haxx.se/"><b>curl</b></a> - is a command line tool and library for transferring data with URLs.<br>
@@ -266,7 +266,7 @@ Only main chapters:
 &nbsp;&nbsp;🔸 <a href="https://hurl.dev"><b>Hurl</b></a> - is a command line tool to run and test HTTP requests with plain text.<br>
 </p>
 
-##### ▪️ SSL
+##### 🔐 SSL
 
 <p>
 &nbsp;&nbsp;🔸 <a href="https://www.openssl.org/"><b>openssl</b></a> - is a robust, commercial-grade, and full-featured toolkit for the TLS and SSL protocols.<br>
@@ -285,7 +285,7 @@ Only main chapters:
 &nbsp;&nbsp;🔸 <a href="https://github.com/Matty9191/ssl-cert-check"><b>ssl-cert-check</b></a> - SSL Certification Expiration Checker.<br>
 </p>
 
-##### ▪️ Security
+##### 🔒 Security
 
 <p>
 &nbsp;&nbsp;🔸 <a href="https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/5/html/deployment_guide/ch-selinux"><b>SELinux</b></a> - provides a flexible Mandatory Access Control (MAC) system built into the Linux kernel.<br>
@@ -294,7 +294,7 @@ Only main chapters:
 &nbsp;&nbsp;🔸 <a href="https://github.com/dev-sec/"><b>DevSec Hardening Framework</b></a> - Security + DevOps: Automatic Server Hardening.<br>
 </p>
 
-##### ▪️ Auditing Tools
+##### 🛃 Auditing Tools
 
 <p>
 &nbsp;&nbsp;🔸 <a href="https://www.ossec.net/"><b>ossec</b></a> - actively monitoring all aspects of system activity with file integrity monitoring.<br>
@@ -307,7 +307,7 @@ Only main chapters:
 &nbsp;&nbsp;🔸 <a href="https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite"><b>PEASS</b></a> - privilege escalation tools for Windows and Linux/Unix and MacOS.<br>
 </p>
 
-##### ▪️ System Diagnostics/Debuggers
+##### 🧑‍⚕️ System Diagnostics/Debuggers
 
 <p>
 &nbsp;&nbsp;🔸 <a href="https://github.com/strace/strace"><b>strace</b></a> - diagnostic, debugging and instructional userspace utility for Linux.<br>
@@ -333,7 +333,7 @@ Only main chapters:
 &nbsp;&nbsp;🔸 <a href="https://github.com/p403n1x87/austin"><b>Austin</b></a> - Python frame stack sampler for CPython.<br>
 </p>
 
-##### ▪️ Log Analyzers
+##### 📜 Log Analyzers
 
 <p>
 &nbsp;&nbsp;🔸 <a href="https://github.com/rcoh/angle-grinder"><b>angle-grinder</b></a> - slice and dice log files on the command line.<br>
@@ -356,7 +356,7 @@ Only main chapters:
 &nbsp;&nbsp;🔸 <a href="https://www.schemacrawler.com/diagramming.html"><b>SchemaCrawler</b></a> - generates an E-R diagram of your database.<br>
 </p>
 
-##### ▪️ TOR
+##### 🧅 TOR
 
 <p>
 &nbsp;&nbsp;🔸 <a href="https://github.com/GouveaHeitor/nipe"><b>Nipe</b></a> - script to make Tor Network your default gateway.<br>
@@ -402,7 +402,7 @@ Only main chapters:
 &nbsp;&nbsp;🔸 <a href="https://github.com/alacritty/alacritty"><b>Alacritty</b></a> - is a fast, cross-platform, OpenGL terminal emulator.<br>
 </p>
 
-##### ▪️ Network
+##### 🖧 Network
 
 <p>
 &nbsp;&nbsp;🔸 <a href="https://www.wireshark.org/"><b>Wireshark</b></a> - is the world’s foremost and widely-used network protocol analyzer.<br>
@@ -414,7 +414,7 @@ Only main chapters:
 &nbsp;&nbsp;🔸 <a href="https://github.com/locustio/locust"><b>locust</b></a> - scalable user load testing tool written in Python.<br>
 </p>
 
-##### ▪️ Browsers
+##### 🌐 Browsers
 
 <p>
 &nbsp;&nbsp;🔸 <a href="https://www.torproject.org/"><b>TOR Browser</b></a> - protect your privacy and defend yourself against network surveillance and traffic analysis.<br>
@@ -435,7 +435,7 @@ Only main chapters:
 &nbsp;&nbsp;🔸 <a href="https://pidgin.im/"><b>Pidgin</b></a> - is an easy to use and free chat client used by millions.<br>
 </p>
 
-##### ▪️ Messengers (end-to-end encryption)
+##### 🔏 Messengers (end-to-end encryption)
 
 <p>
 &nbsp;&nbsp;🔸 <a href="https://www.signal.org/"><b>Signal</b></a> - is an encrypted communications app.<br>
@@ -444,7 +444,7 @@ Only main chapters:
 &nbsp;&nbsp;🔸 <a href="https://matrix.org/"><b>Matrix</b></a> - an open network for secure, decentralized, real-time communication.<br>
 </p>
 
-##### ▪️ Text editors
+##### 🗒 Text editors
 
 <p>
 &nbsp;&nbsp;🔸 <a href="https://www.sublimetext.com/3"><b>Sublime Text</b></a> - is a lightweight, cross-platform code editor known for its speed, ease of use.<br>
@@ -454,7 +454,7 @@ Only main chapters:
 
 #### Web Tools &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
 
-##### ▪️ Browsers
+##### 🌐 Browsers
 
 <p>
 &nbsp;&nbsp;🔸 <a href="https://www.ssllabs.com/ssltest/viewMyClient.html"><b>SSL/TLS Capabilities of Your Browser</b></a> - test your browser's SSL implementation.<br>
@@ -466,7 +466,7 @@ Only main chapters:
 &nbsp;&nbsp;🔸 <a href="https://suche.org/sslClientInfo"><b>sslClientInfo</b></a> - client test (incl TLSv1.3 information).<br>
 </p>
 
-##### ▪️ SSL/Security
+##### 🔐 SSL/Security
 
 <p>
 &nbsp;&nbsp;🔸 <a href="https://www.ssllabs.com/ssltest/"><b>SSLLabs Server Test</b></a> - performs a deep analysis of the configuration of any SSL web server.<br>
@@ -529,7 +529,7 @@ Only main chapters:
 &nbsp;&nbsp;🔸 <a href="https://blog.erbbysam.com/index.php/2019/02/09/dnsgrep/"><b>DNSGrep</b></a> - quickly searching large DNS datasets.<br>
 </p>
 
-##### ▪️ Mail
+##### 📧 Mail
 
 <p>
 &nbsp;&nbsp;🔸 <a href="https://luxsci.com/smtp-tls-checker"><b>smtp-tls-checker</b></a> - check an email domain for SMTP TLS support.<br>
@@ -552,7 +552,7 @@ Only main chapters:
 &nbsp;&nbsp;🔸 <a href="https://gchq.github.io/CyberChef/"><b>The Cyber Swiss Army Knife</b></a> - a web app for encryption, encoding, compression and data analysis.<br>
 </p>
 
-##### ▪️ Net-tools
+##### 🖧 Net-tools
 
 <p>
 &nbsp;&nbsp;🔸 <a href="https://toolbar.netcraft.com/site_report"><b>Netcraft</b></a> - detailed report about the site, helping you to make informed choices about their integrity.<b>*</b><br>
@@ -569,7 +569,7 @@ Only main chapters:
 &nbsp;&nbsp;🔸 <a href="https://www.virustotal.com/gui/home/upload"><b>VirusTotal</b></a> - analyze suspicious files and URLs to detect types of malware.<br>
 </p>
 
-##### ▪️ Privacy
+##### 🔒 Privacy
 
 <p>
 &nbsp;&nbsp;🔸 <a href="https://www.privacyguides.org/"><b>privacyguides.org</b></a> - provides knowledge and tools to protect your privacy against global mass surveillance.<br>
@@ -602,7 +602,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;🔸 <a href="https://github.com/GoogleChrome/lighthouse"><b>Lighthouse</b></a> - automated auditing, performance metrics, and best practices for the web.<br>
 </p>
 
-##### ▪️ Mass scanners (search engines)
+##### 🔍 Mass scanners (search engines)
 
 <p>
 &nbsp;&nbsp;🔸 <a href="https://censys.io/"><b>Censys</b></a> - platform that helps information security practitioners discover, monitor, and analyze devices.<br>
@@ -677,7 +677,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;🔸 <a href="https://cveapi.com/"><b>cveapi</b></a> - free API for CVE data.<br>
 </p>
 
-##### ▪️ Mobile apps scanners
+##### 🔍 Mobile apps scanners
 
 <p>
 &nbsp;&nbsp;🔸 <a href="https://www.immuniweb.com/mobile/"><b>ImmuniWeb® Mobile App Scanner</b></a> - test security and privacy of mobile apps (iOS & Android).<br>
@@ -685,7 +685,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;🔸 <a href="https://www.ostorlab.co/scan/mobile/"><b>Ostorlab</b></a> - analyzes mobile application to identify vulnerabilities and potential weaknesses.<br>
 </p>
 
-##### ▪️ Private Search Engines
+##### 🔍 Private Search Engines
 
 <p>
 &nbsp;&nbsp;🔸 <a href="https://www.startpage.com/"><b>Startpage</b></a> - the world's most private search engine.<br>
@@ -698,7 +698,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;🔸 <a href="https://metager.org/"><b>MetaGer</b></a> - the search engine that uses anonymous proxy and hidden Tor branches.<br>
 </p>
 
-##### ▪️ Secure Webmail Providers
+##### 📧 Secure Webmail Providers
 
 <p>
 &nbsp;&nbsp;🔸 <a href="https://countermail.com/"><b>CounterMail</b></a> - online email service, designed to provide maximum security and privacy.<br>
@@ -708,13 +708,13 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;🔸 <a href="https://www.startmail.com/en/"><b>Startmail</b></a> - private & encrypted email made easy.<br>
 </p>
 
-##### ▪️ Crypto
+##### 🔏 Crypto
 
 <p>
 &nbsp;&nbsp;🔸 <a href="https://keybase.io/"><b>Keybase</b></a> - it's open source and powered by public-key cryptography.<br>
 </p>
 
-##### ▪️ PGP Keyservers
+##### 🔐 PGP Keyservers
 
 <p>
 &nbsp;&nbsp;🔸 <a href="https://keyserver.ubuntu.com/"><b>SKS OpenPGP Key server</b></a> - services for the SKS keyservers used by OpenPGP.<br>
@@ -764,7 +764,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;🔸 <a href="https://github.com/z3APA3A/3proxy"><b>3proxy</b></a> - tiny free proxy server.<br>
 </p>
 
-##### ▪️ Security/hardening
+##### 🛃 Security/hardening
 
 <p>
 &nbsp;&nbsp;🔸 <a href="https://twitter.com/EmeraldOnion"><b>Emerald Onion</b></a> - is a 501(c)(3) nonprofit organization and transit internet service provider (ISP).<br>
@@ -777,14 +777,14 @@ performance of any of your sites from across the globe.<br>
 
 #### Networks &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
 
-##### ▪️ Tools
+##### 🪛 Tools
 
 <p>
 &nbsp;&nbsp;🔸 <a href="https://www.capanalysis.net/ca/"><b>CapAnalysis</b></a> - web visual tool to analyze large amounts of captured network traffic (PCAP analyzer).<br>
 &nbsp;&nbsp;🔸 <a href="https://github.com/digitalocean/netbox"><b>netbox</b></a> - IP address management (IPAM) and data center infrastructure management (DCIM) tool.<br>
 </p>
 
-##### ▪️ Labs
+##### 🔬 Labs
 
 <p>
 &nbsp;&nbsp;🔸 <a href="https://labs.networkreliability.engineering/"><b>NRE Labs</b></a> - learn automation by doing it. Right now, right here, in your browser.<br>
@@ -859,13 +859,13 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;🔸 <a href="https://google.github.io/styleguide/shellguide.html"><b>Shell Style Guide</b></a> - a shell style guide for Google-originated open-source projects.<br>
 </p>
 
-##### ▪️ Text Editors
+##### 🗒 Text Editors
 
 <p>
 &nbsp;&nbsp;🔸 <a href="https://vim.rtorr.com/"><b>Vim Cheat Sheet</b></a> - great multi language vim guide.<br>
 </p>
 
-##### ▪️ Python
+##### 🐍 Python
 
 <p>
 &nbsp;&nbsp;🔸 <a href="https://awesome-python.com/"><b>Awesome Python</b></a> - a curated list of awesome Python frameworks, libraries, software and resources.<br>
@@ -981,7 +981,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;🔸 <a href="https://andreasbm.github.io/web-skills/"><b>Web Skills</b></a> - visual overview of useful skills to learn as a web developer.<br>
 </p>
 
-##### ▪️ Ebooks
+##### 📚 Ebooks
 
 <p>
 &nbsp;&nbsp;🔸 <a href="https://github.com/EbookFoundation/free-programming-books"><b>free-programming-books</b></a> - list of free learning resources in many languages.<br>
@@ -1046,7 +1046,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;🔸 <a href="https://issue.freebsdfoundation.org/publication/?m=33057&l=1&view=issuelistBrowser"><b>FreeBSD Journal</b></a> - it is a great list of periodical magazines about FreeBSD and other important things.<br>
 &nbsp;&nbsp;🔸 <a href="https://github.com/bregman-arie/devops-interview-questions"><b>devops-interview-questions</b></a> - contains interview questions on various DevOps and SRE related topics.<br></p>
 
-##### ▪️ Developers
+##### 🧑‍💻 Developers
 
 <p>
 &nbsp;&nbsp;🔸 <a href="https://github.com/kamranahmedse/developer-roadmap"><b>Web Developer Roadmap</b></a> - roadmaps, articles and resources to help you choose your path, learn and improve.<br>
@@ -1058,7 +1058,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;🔸 <a href="https://github.com/RomuloOliveira/commit-messages-guide"><b>Commit messages guide</b></a> - a guide to understand the importance of commit messages.<br>
 </p>
 
-##### ▪️ Security/Pentesting
+##### 🐱‍💻 Security/Pentesting
 
 <p>
 &nbsp;&nbsp;🔸 <a href="https://github.com/qazbnm456/awesome-web-security"><b>Awesome Web Security</b></a> - a curated list of Web Security materials and resources.<br>
@@ -1114,13 +1114,13 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;🔸 <a href="https://www.youtube.com/watch?v=CZ3wIuvmHeM"><b>A Netflix Guide to Microservices</b></a> - talks about the chaotic and vibrant world of microservices at Netflix.<br>
 </p>
 
-##### ▪️ Developers
+##### 🧑‍💻 Developers
 
 <p>
 &nbsp;&nbsp;🔸 <a href="https://www.youtube.com/watch?v=yOyaJXpAYZQ"><b>Comparing C to machine lang</b></a> - compare a simple C app with the compiled machine code of that program.<br>
 </p>
 
-##### ▪️ Geeky Persons
+##### 🤓 Geeky Persons
 
 <p>
 &nbsp;&nbsp;🔸 <a href="http://www.brendangregg.com/"><b>Brendan Gregg's Blog</b></a> - is an industry expert in computing performance and cloud computing.<br>
@@ -1191,7 +1191,7 @@ Cybercrime Investigations</b></a> - podcast by Geoff White about cybercrimes.<br
 CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 </p>
 
-##### ▪️ Best Personal Twitter Accounts
+##### 🐦 Best Personal Twitter Accounts
 
 <p>
 &nbsp;&nbsp;🔸 <a href="https://twitter.com/blackroomsec"><b>@blackroomsec</b></a> - a white-hat hacker/pentester. Intergalactic Minesweeper Champion 1990.<br>
@@ -1214,7 +1214,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;🔸 <a href="https://twitter.com/matthew_d_green"><b>@matthew_d_green</b></a> - a cryptographer and professor at Johns Hopkins University.<br>
 </p>
 
-##### ▪️ Best Commercial Twitter Accounts
+##### 🐦 Best Commercial Twitter Accounts
 
 <p>
 &nbsp;&nbsp;🔸 <a href="https://twitter.com/haveibeenpwned"><b>@haveibeenpwned</b></a> - check if you have an account that has been compromised in a data breach.<br>
@@ -1228,7 +1228,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;🔸 <a href="https://twitter.com/Synacktiv"><b>@Synacktiv</b></a> - IT security experts.<br>
 </p>
 
-##### ▪️ A piece of history
+##### 📜 A piece of history
 
 <p>
 &nbsp;&nbsp;🔸 <a href="http://web.archive.org/web/20190221103734/https://ftp.arl.army.mil/~mike/howto/"><b>How to Do Things at ARL</b></a> - how to configure modems, scan images, record CD-ROMs, and other.<b>*</b><br>
@@ -1363,7 +1363,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;🔸 <a href="https://hackso.me/"><b>hackso.me</b></a> - a great journey into security.<br>
 </p>
 
-##### ▪️ Backdoors/exploits
+##### 🚪 Backdoors/exploits
 
 <p>
 &nbsp;&nbsp;🔸 <a href="https://github.com/bartblaze/PHP-backdoors"><b>PHP-backdoors</b></a> - a collection of PHP backdoors. For educational or testing purposes only.<br>
@@ -1381,7 +1381,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;🔸 <a href="https://github.com/insidetrust/statistically-likely-usernames"><b>statistically-likely-usernames</b></a> - wordlists for creating statistically likely username lists.<br>
 </p>
 
-##### ▪️ Bounty platforms
+##### 🤑 Bounty platforms
 
 <p>
 &nbsp;&nbsp;🔸 <a href="https://www.yeswehack.com/"><b>YesWeHack</b></a> - bug bounty platform with infosec jobs.<br>
@@ -1422,7 +1422,7 @@ AWS deployment tool.<br>
 &nbsp;&nbsp;🔸 <a href="https://application.security/"><b>KONTRA</b></a> - application security training (OWASP Top Web & Api).<br>
 </p>
 
-##### ▪️ Labs (ethical hacking platforms/trainings/CTFs)
+##### 🔬 Labs (ethical hacking platforms/trainings/CTFs)
 
 <p>
 &nbsp;&nbsp;🔸 <a href="https://www.offensive-security.com/"><b>Offensive Security</b></a> - true performance-based penetration testing training for over a decade.<br>
@@ -1473,7 +1473,7 @@ AWS deployment tool.<br>
 &nbsp;&nbsp;🔸 <a href="https://cryptopals.com/"><b>Cryptopals</b></a> - the cryptopals crypto challenges.<br>
 </p>
 
-##### ▪️ CTF platforms
+##### 🏴 CTF platforms
 
 <p>
 &nbsp;&nbsp;🔸 <a href="https://github.com/facebook/fbctf"><b>fbctf</b></a> - platform to host Capture the Flag competitions.<br>
