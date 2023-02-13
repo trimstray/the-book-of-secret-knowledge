@@ -824,6 +824,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/aquasecurity/trivy"><b>trivy</b></a> - vulnerability scanner for containers, suitable for CI.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://goharbor.io/"><b>Harbor</b></a> - cloud native registry project that stores, signs, and scans content.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://houdini.secsi.io/"><b>Houdini</b></a> - hundreds of offensive and useful docker images for network intrusion.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/magnologan/awesome-k8s-security"><b>awesome-k8s-security</b></a> - A curated list for Kubernetes (K8s) Security resources such as articles, books, tools, talks and videos.<br>
 </p>
 
 ##### :black_small_square: Manuals/Tutorials/Best Practices
