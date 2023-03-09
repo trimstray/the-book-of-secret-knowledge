@@ -2148,6 +2148,18 @@ find . -depth -name '*test*' -execdir bash -c 'mv -v "$1" "${1//foo/bar}"' _ {} 
 find / \( -perm -4000 -o -perm -2000 \) -type f -exec ls -la {} \;
 ```
 
+###### Recursively find/replace files extension ext1 with ext2
+
+```bash
+find . -name "*.ext1" | while read i; do mv "$i" "${i%.ext1}.ext2"; done
+```
+
+###### Recursively find/replace link extension ext1 with ext2 in files of extension ext
+
+```bash
+find . -name '*.ext' -exec sed -i 's/\.ext1/\.ext2/g' "{}" \;
+```
+
 ___
 
 ##### Tool: [top](https://en.wikipedia.org/wiki/Top_(software))
