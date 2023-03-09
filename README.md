@@ -2154,7 +2154,7 @@ find / \( -perm -4000 -o -perm -2000 \) -type f -exec ls -la {} \;
 find . -name "*.ext1" | while read i; do mv "$i" "${i%.ext1}.ext2"; done
 ```
 
-###### Recursively find/replace link extension ext1 with ext2 in files with extension ext
+###### Recursively find/replace links extension ext1 with ext2 in files with extension ext
 
 ```bash
 find . -name '*.ext' -exec sed -i 's/\.ext1/\.ext2/g' "{}" \;
