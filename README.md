@@ -1123,6 +1123,7 @@ performance of any of your sites from across the globe.<br>
 ##### :black_small_square: Geeky Persons
 
 <p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.rdegges.com/"><b>Randall Degges Blog</b></a> - I'm just a happy programmer that likes to hack stuff.<br>  
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.brendangregg.com/"><b>Brendan Gregg's Blog</b></a> - is an industry expert in computing performance and cloud computing.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://gynvael.coldwind.pl/"><b>Gynvael "GynDream" Coldwind</b></a> - is a IT security engineer at Google.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://lcamtuf.coredump.cx/"><b>Michał "lcamtuf" Zalewski</b></a> - white hat hacker, computer security expert.<br>
