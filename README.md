@@ -154,6 +154,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.gnu.org/software/screen/"><b>screen</b></a> - is a full-screen window manager that multiplexes a physical terminal.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/tmux/tmux/wiki"><b>tmux</b></a> - is a terminal multiplexer, lets you switch easily between several programs in one terminal.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/peikk0/tmux-cssh"><b>tmux-cssh</b></a> - is a tool to set comfortable and easy to use functionality, clustering and synchronizing tmux-sessions.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/KDE/yakuake"><b>yakuake</b></a> - is a highly customizeable terminal emulator that makes your terminal always accessable as popup window.<br>
 </p>
 
 ##### :black_small_square: Text editors
@@ -389,6 +390,8 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/tj/commander.js"><b>commander.js</b></a> - minimal CLI creator in JavaScript.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/tomnomnom/gron"><b>gron</b></a> - make JSON greppable!<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/itchyny/bed"><b>bed</b></a> - binary editor written in Go.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jesseduffield/lazygit"><b>lazygit</b></a> - is the most simple and customizeable GIT GUI for your CLI.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/derailed/k9s"><b>k9s</b></a> - is a full kubernetes (k8) manager that provides a UI inside your terminal.<br>
 </p>
 
 #### GUI Tools &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
