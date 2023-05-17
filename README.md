@@ -3938,6 +3938,16 @@ dig google.com ANY +noall +answer
 ```bash
 dig -x 172.217.16.14 +short
 ```
+ 
+###### List DNS Servers for a Domain 
+
+```bash 
+dig +short ns google.com
+``` 
+ 
+###### AXFR Zone Transfer 
+
+dig axfr zonetransfer.me @DNSServer
 
 ___
 
