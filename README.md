@@ -527,6 +527,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://ceipam.eu/en/dnslookup.php"><b>dnslookup (ceipam)</b></a> - one of the best DNS propagation checker (and not only).<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://whatsmydns.com"><b>What's My DNS</b></a> - DNS propagation checking tool.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://blog.erbbysam.com/index.php/2019/02/09/dnsgrep/"><b>DNSGrep</b></a> - quickly searching large DNS datasets.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://columbus.elmasy.com/"><b>Columbus Project</b></a> - an advanced subdomain discovery service with fast, powerful and easy to use API.<br>
 </p>
 
 ##### :black_small_square: Mail
