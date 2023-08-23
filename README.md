@@ -133,6 +133,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/oh-my-fish/oh-my-fish"><b>Oh My Fish</b></a> - the Fishshell framework.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/starship/starship"><b>Starship</b></a> - the cross-shell prompt written in Rust.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/romkatv/powerlevel10k"><b>powerlevel10k</b></a> - is a fast reimplementation of Powerlevel9k ZSH theme.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/romkatv/powerlevel10k"><b>Gogh</b></a> - is a collection of color schemes designed for terminal applications.<br>
 </p>
 
 ##### :black_small_square: Shell plugins
