@@ -1056,6 +1056,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/satwikkansal/wtfpython"><b>wtfpython</b></a> - a collection of surprising Python snippets and lesser-known features.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/twhite96/js-dev-reads"><b>js-dev-reads</b></a> - a list of books and articles for the discerning web developer to read.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/RomuloOliveira/commit-messages-guide"><b>Commit messages guide</b></a> - a guide to understand the importance of commit messages.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/taranjeet/awesome-gpts/"><b>Custom GPTs List</b></a> - a collection of all awesome unofficial GPTs created by developers.<br>
 </p>
 
 ##### :black_small_square: Security/Pentesting
