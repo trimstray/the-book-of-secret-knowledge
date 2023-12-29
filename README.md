@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" src="/static/img/black-the-book-of-secret-knowledge-preview.png" alt="Master" href="https://github.com/trimstray/the-book-of-secret-knowledge">
-    <source media="(prefers-color-scheme: light)" srcset="/static/img/black-the-book-of-secret-knowledge-preview.png" alt="Master" href="https://github.com/trimstray/the-book-of-secret-knowledge">
+    <source media="(prefers-color-scheme: dark)" srcset="./static/img/white-the-book-of-secret-knowledge-preview.png" alt="Master" href="https://github.com/trimstray/the-book-of-secret-knowledge">
+    <source media="(prefers-color-scheme: light)" srcset="./static/img/black-the-book-of-secret-knowledge-preview.png" alt="Master" href="https://github.com/trimstray/the-book-of-secret-knowledge">
     <img>
   </picture>
 </p>
