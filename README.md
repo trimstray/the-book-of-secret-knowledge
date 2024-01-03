@@ -166,6 +166,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://neovim.io/"><b>neovim</b></a> - is a free open source, powerful, extensible and usable code editor.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.spacemacs.org/"><b>spacemacs</b></a> - a community-driven Emacs distribution.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://spacevim.org/"><b>spacevim</b></a> - a community-driven vim distribution.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/codebrainz/mousepad"><b>mousepad</b></a> - Mousepad is a simple text editor for the Xfce desktop environment.<br>
 </p>
 
 ##### :black_small_square: Files and directories
@@ -222,6 +223,7 @@ Only main chapters:
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/farrokhi/dnsdiag"><b>dnsdiag</b></a> - is a DNS diagnostics and performance measurement tools.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/mschwager/fierce"><b>fierce</b></a> - is a DNS reconnaissance tool for locating non-contiguous IP space.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/bing0o/SubEnum"><b>SubEnum</b></a> - Subdomain Enumeration using 4 tools and 3 online services.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/subfinder/subfinder"><b>subfinder</b></a> - is a subdomain discovery tool that discovers valid subdomains for websites.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/aboul3la/Sublist3r"><b>sublist3r</b></a> - is a fast subdomains enumeration tool for penetration testers.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/OWASP/Amass"><b>amass</b></a> - is tool that obtains subdomain names by scraping data sources, crawling web archives, and more.<br>
@@ -232,7 +234,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jedisct1/dnscrypt-proxy"><b>dnscrypt-proxy 2</b></a> - a flexible DNS proxy, with support for encrypted DNS protocols.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dnsdb/dnsdbq"><b>dnsdbq</b></a> - API client providing access to passive DNS database systems.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/looterz/grimd"><b>grimd</b></a> - fast dns proxy, built to black-hole internet advertisements and malware servers.<br>
-  &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/elceef/dnstwist"><b>dnstwist</b></a> - detect typosquatters, phishing attacks, fraud, and brand impersonation.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/elceef/dnstwist"><b>dnstwist</b></a> - detect typosquatters, phishing attacks, fraud, and brand impersonation.<br>
 </p>
 
 ##### :black_small_square: Network (HTTP)
@@ -426,6 +428,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://keepassxc.org/"><b>KeePassXC</b></a> - store your passwords safely and auto-type them into your everyday websites and apps.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://bitwarden.com/"><b>Bitwarden</b></a> - open source password manager with built-in sync.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dani-garcia/vaultwarden/"><b>Vaultwarden</b></a> - unofficial Bitwarden compatible server written in Rust.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/GTekSD/SINS-CipherSec"><b>SINS-CipherSec</b></a> - Tool for checking and generating strongest passwords .<br>
 </p>
 
 ##### :black_small_square: Messengers/IRC Clients
@@ -550,6 +553,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.regextester.com/"><b>RegEx Testing</b></a> - online regex testing tool.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.regexpal.com/"><b>RegEx Pal</b></a> - online regex testing tool + other tools.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://gchq.github.io/CyberChef/"><b>The Cyber Swiss Army Knife</b></a> - a web app for encryption, encoding, compression and data analysis.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/GTekSD/RGX"><b>RGX</b></a> - Regex checklist for text editors.<br>
 </p>
 
 ##### :black_small_square: Net-tools
