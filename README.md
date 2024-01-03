@@ -1657,13 +1657,13 @@ _Symmetric encryption_
 
 plaintext :arrow_right: :key: :arrow_right: ciphertext<br>
 plaintext :arrow_left: :key: :arrow_left: ciphertext<br>
-(:key: shared key)
+( :key: shared key)
 
 _Asymmetric encryption_
 
 plaintext :arrow_right: :key: :arrow_right: ciphertext<br>
 plaintext :arrow_left: :part_alternation_mark: :arrow_left: ciphertext<br>
-(:key: public key, :part_alternation_mark: private key)<br>
+( :key: public key, :part_alternation_mark: private key)<br>
 
 _Encoding_
 
