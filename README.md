@@ -153,7 +153,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://github.com/jarun/nnn"><b>nnn</b></a> - is a tiny, lightning fast, feature-packed file manager.<br>
 &nbsp;&nbsp; <a href="https://www.gnu.org/software/screen/"><b>screen</b></a> - is a full-screen window manager that multiplexes a physical terminal.<br>
 &nbsp;&nbsp; <a href="https://github.com/tmux/tmux/wiki"><b>tmux</b></a> - is a terminal multiplexer, lets you switch easily between several programs in one terminal.<br>
-&nbsp;&nbsp; <a href="https://github.com/peikk0/tmux-cssh"><b>tmux-cssh</b></a> - is a tool to set comfortable and easy to use functionality, clustering and synchronizing tmux-sessions.<br>
+&nbsp;&nbsp; <a href="https://github.com/peikk0/tmux-cssh"><b>tmux-cssh</b></a> - is a tool to set comfortable and easy to use functionality tmux-sessions.<br>
 </p>
 
 ##### :black_small_square: Text editors
@@ -439,7 +439,7 @@ Only main chapters:
 
 <p>
 &nbsp;&nbsp; <a href="https://www.signal.org/"><b>Signal</b></a> - is an encrypted communications app.<br>
-&nbsp;&nbsp; <a href="https://wire.com/en/"><b>Wire</b></a> - secure messaging, file sharing, voice calls and video conferences. All protected with end-to-end encryption.<br>
+&nbsp;&nbsp; <a href="https://wire.com/en/"><b>Wire</b></a> - secure messaging, file sharing, voice calls and video conferences.<br>
 &nbsp;&nbsp; <a href="https://github.com/prof7bit/TorChat"><b>TorChat</b></a> - decentralized anonymous instant messenger on top of Tor Hidden Services.<br>
 &nbsp;&nbsp; <a href="https://matrix.org/"><b>Matrix</b></a> - an open network for secure, decentralized, real-time communication.<br>
 </p>
@@ -631,7 +631,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="http://zorexeye.com/"><b>zorexeye</b></a> - search for sites, images, apps, softwares & more.<br>
 &nbsp;&nbsp; <a href="https://www.mmnt.net/"><b>Mamont's open FTP Index</b></a> - if a target has an open FTP site with accessible content it will be listed here.<br>
 &nbsp;&nbsp; <a href="https://osintframework.com/"><b>OSINT Framework</b></a> - focused on gathering information from free tools or resources.<br>
-&nbsp;&nbsp; <a href="https://www.maltiverse.com/search"><b>maltiverse</b></a> - is a service oriented to cybersecurity analysts for the advanced analysis of indicators of compromise.<br>
+&nbsp;&nbsp; <a href="https://www.maltiverse.com/search"><b>maltiverse</b></a> - is a service oriented to cybersecurity analysts.<br>
 &nbsp;&nbsp; <a href="https://leakedsource.ru/main/"><b>Leaked Source</b></a> - is a collaboration of data found online in the form of a lookup.<br>
 &nbsp;&nbsp; <a href="https://search.weleakinfo.com/"><b>We Leak Info</b></a> - to help everyday individuals secure their online life, avoiding getting hacked.<br>
 &nbsp;&nbsp; <a href="https://pipl.com/"><b>pipl</b></a> - is the place to find the person behind the email address, social username or phone number.<br>
@@ -1014,8 +1014,8 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://cstack.github.io/db_tutorial/"><b>Let's Build a Simple Database</b></a> - writing a sqlite clone from scratch in C.<br>
 &nbsp;&nbsp; <a href="https://djhworld.github.io/post/2019/05/21/i-dont-know-how-cpus-work-so-i-simulated-one-in-code/"><b>simple-computer</b></a> - great resource to understand how computers work under the hood.<br>
 &nbsp;&nbsp; <a href="https://www.troyhunt.com/working-with-154-million-records-on/"><b>The story of "Have I been pwned?"</b></a> - working with 154 million records on Azure Table Storage.<br>
-&nbsp;&nbsp; <a href="https://www.top500.org/"><b>TOP500 Supercomputers</b></a> - shows the 500 most powerful commercially available computer systems known to us.<br>
-&nbsp;&nbsp; <a href="https://www.shellntel.com/blog/2017/2/8/how-to-build-a-8-gpu-password-cracker"><b>How to build a 8 GPU password cracker</b></a> - any "black magic" or hours of frustration like desktop components do.<br>
+&nbsp;&nbsp; <a href="https://www.top500.org/"><b>TOP500 Supercomputers</b></a> - shows the 500 most powerful commercially available computer systems.<br>
+&nbsp;&nbsp; <a href="https://www.shellntel.com/blog/2017/2/8/how-to-build-a-8-gpu-password-cracker"><b>How to build a 8 GPU password cracker</b></a> - hours of frustration like desktop components do.<br>
 &nbsp;&nbsp; <a href="https://home.cern/science/computing"><b>CERN Data Centre</b></a> - 3D visualizations of the CERN computing environments (and more).<br>
 &nbsp;&nbsp; <a href="http://howfuckedismydatabase.com/"><b>How fucked is my database</b></a> - evaluate how fucked your database is with this handy website.<br>
 &nbsp;&nbsp; <a href="https://krisbuytaert.be/blog/linux-troubleshooting-101-2016-edition/index.html"><b>Linux Troubleshooting 101 , 2016 Edition</b></a> - everything is a DNS Problem...<br>
@@ -1246,7 +1246,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 
 <p>
 &nbsp;&nbsp; <a href="http://www.syhunt.com/sandcat/"><b>Sandcat Browser</b></a> - a penetration-oriented browser with plenty of advanced functionality already built in.<br>
-&nbsp;&nbsp; <a href="https://www.metasploit.com/"><b>Metasploit</b></a> - tool and framework for pentesting system, web and many more, contains a lot a ready to use exploit.<br>
+&nbsp;&nbsp; <a href="https://www.metasploit.com/"><b>Metasploit</b></a> - tool and framework for pentesting system, web and many more.<br>
 &nbsp;&nbsp; <a href="https://portswigger.net/burp"><b>Burp Suite</b></a> - tool for testing web app security, intercepting proxy to replay, inject, scan and fuzz.<br>
 &nbsp;&nbsp; <a href="https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project"><b>OWASP Zed Attack Proxy</b></a> - intercepting proxy to replay, inject, scan and fuzz HTTP requests.<br>
 &nbsp;&nbsp; <a href="http://w3af.org/"><b>w3af</b></a> - is a Web Application Attack and Audit Framework.<br>
