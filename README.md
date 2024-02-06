@@ -452,6 +452,12 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://atom.io/"><b>Atom</b></a> - a hackable text editor for the 21st Century.<br>
 </p>
 
+##### :black_small_square: Productivity
+
+<p>
+&nbsp;&nbsp; <a href="https://pieces.app/"><b>Pieces</b></a> - Personalized AI Development Assistant with copilot features<br>
+</p>
+
 #### Web Tools &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
 
 ##### :black_small_square: Browsers
