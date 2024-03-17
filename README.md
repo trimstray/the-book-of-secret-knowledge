@@ -972,7 +972,7 @@ performance of any of your sites from across the globe.<br>
 ##### :black_small_square: All-in-one
 
 <p>
-&nbsp;&nbsp; <a href="https://lzone.de/cheat-sheet/"><b>LZone Cheat Sheets</b></a> - all cheat sheets.<br>
+&nbsp;&nbsp; <a href="https://lzone.de/#/LZone%20Cheat%20Sheets"><b>LZone Cheat Sheets</b></a> - all cheat sheets.<br>
 &nbsp;&nbsp; <a href="https://github.com/rstacruz/cheatsheets"><b>Dan’s Cheat Sheets’s</b></a> - massive cheat sheets documentation.<br>
 &nbsp;&nbsp; <a href="https://devhints.io/"><b>Rico's cheatsheets</b></a> - this is a modest collection of cheatsheets.<br>
 &nbsp;&nbsp; <a href="https://devdocs.io/"><b>DevDocs API</b></a> - combines multiple API documentations in a fast, organized, and searchable interface.<br>
