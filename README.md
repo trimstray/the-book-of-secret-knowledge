@@ -3794,6 +3794,49 @@ nc -l -u -p 2000 -c "nc -u [ip|hostname] 3000"
 nc -l -u -p 2000 -c "nc [ip|hostname] 3000"
 ```
 
+###### Video and Audio call 
+
+```bash
+server> PORT=1234
+server> ffmpeg \
+		-f alsa -i hw:1 \
+		-acodec flac \
+		-f matroska \
+		-f video4linux2 -i /dev/video0 \
+		-vcodec mpeg4 \
+		-f matroska \
+		-tune zerolatency -y /dev/stdout \
+		2>/dev/null | nc -l ${PORT} | mplayer - &>/dev/null \
+```
+```bash
+client> SERVER_IP=192.168.1.4
+client> PORT=1234
+client> ffmpeg \
+		-f alsa -i hw:1 \
+		-acodec flac \
+		-f matroska \
+		-f video4linux2 -i /dev/video0 \
+		-vcodec mpeg4 \
+		-f matroska \
+		-tune zerolatency -y /dev/stdout \
+		2>/dev/null | nc ${SERVER_IP} ${PORT} | mplayer - &>/dev/null
+```
+Requirements
+  * `ffmpeg` - to record video and audio
+  * `mplayer` - to play recieved video and audio
+
+
+###### Colorfull network chat
+
+```bash
+server> PORT=1234
+server> sed -u "s/^/\x1b\[31m/g; s/$/\x1b\[0m/g" | nc -l ${PORT} | sed "s/^/\x1b\[0m/g; s/$/\x1b\[31m/g"
+
+client> PORT=1234
+client> SERVER_IP=192.168.1.4
+client> nc ${SERVER_IP} ${PORT}
+```
+
 ___
 
 ##### Tool: [gnutls-cli](https://gnutls.org/manual/html_node/gnutls_002dcli-Invocation.html)
