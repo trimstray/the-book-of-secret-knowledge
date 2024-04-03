@@ -418,6 +418,7 @@ Only main chapters:
 
 <p>
 &nbsp;&nbsp; <a href="https://www.torproject.org/"><b>TOR Browser</b></a> - protect your privacy and defend yourself against network surveillance and traffic analysis.<br>
+&nbsp;&nbsp; <a href="https://ungoogled-software.github.io/"><b>Ungoogled Chromium</b></a> - a lightweight approach to removing Google web service dependency.<br>
 </p>
 
 ##### :black_small_square: Password Managers
