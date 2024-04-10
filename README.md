@@ -690,7 +690,7 @@ performance of any of your sites from across the globe.<br>
 <p>
 &nbsp;&nbsp; <a href="https://www.startpage.com/"><b>Startpage</b></a> - the world's most private search engine.<br>
 &nbsp;&nbsp; <a href="https://searx.me/"><b>searX</b></a> - a privacy-respecting, hackable metasearch engine.<br>
-&nbsp;&nbsp; <a href="https://darksearch.io/"><b>darksearch</b></a> - the 1st real Dark Web search engine.<br>
+&nbsp;&nbsp; <a href="https://darksearch.io/"><b>darksearch</b></a>* - the 1st real Dark Web search engine.<br>
 &nbsp;&nbsp; <a href="https://www.qwant.com/"><b>Qwant</b></a> - the search engine that respects your privacy.<br>
 &nbsp;&nbsp; <a href="https://duckduckgo.com/"><b>DuckDuckGo</b></a> - the search engine that doesn't track you.<br>
 &nbsp;&nbsp; <a href="https://swisscows.com/"><b>Swisscows</b></a> - privacy safe web search<br>
