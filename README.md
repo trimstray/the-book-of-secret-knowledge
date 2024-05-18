@@ -1103,6 +1103,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://github.com/mahmoud/awesome-python-applications"><b>awesome-python-applications</b></a> - free software that works great, and also happens to be open-source Python.<br>
 &nbsp;&nbsp; <a href="https://github.com/awesomedata/awesome-public-datasets"><b>awesome-public-datasets</b></a> - a topic-centric list of HQ open datasets.<br>
 &nbsp;&nbsp; <a href="https://github.com/Sahith02/machine-learning-algorithms"><b>machine-learning-algorithms</b></a> - a curated list of all machine learning algorithms and concepts.<br>
+&nbsp;&nbsp; <a href="https://github.com/slevithan/awesome-regex"><b>Awesome Regex</b></a> - a curated list of regular expression tools, tutorials, libraries, etc.<br>
 </p>
 
 #### Blogs/Podcasts/Videos &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
