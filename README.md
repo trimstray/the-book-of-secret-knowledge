@@ -545,10 +545,8 @@ Only main chapters:
 <p>
 &nbsp;&nbsp; <a href="https://www.url-encode-decode.com/"><b>URL Encode/Decode</b></a> - tool from above to either encode or decode a string of text.<br>
 &nbsp;&nbsp; <a href="https://uncoder.io/"><b>Uncoder</b></a> - the online translator for search queries on log data.<br>
-&nbsp;&nbsp; <a href="https://regex101.com/"><b>Regex101</b></a> - online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript.<br>
-&nbsp;&nbsp; <a href="https://regexr.com/"><b>RegExr</b></a> - online tool to learn, build, & test Regular Expressions (RegEx / RegExp).<br>
-&nbsp;&nbsp; <a href="https://www.regextester.com/"><b>RegEx Testing</b></a> - online regex testing tool.<br>
-&nbsp;&nbsp; <a href="https://www.regexpal.com/"><b>RegEx Pal</b></a> - online regex testing tool + other tools.<br>
+&nbsp;&nbsp; <a href="https://regex101.com/"><b>regex101</b></a> - online regex tester and debugger: PCRE, JavaScript, Python, Golang, Java, .NET, Rust.<br>
+&nbsp;&nbsp; <a href="https://regexr.com/"><b>RegExr</b></a> - online tool to learn, build, & test regular expressions.<br>
 &nbsp;&nbsp; <a href="https://gchq.github.io/CyberChef/"><b>The Cyber Swiss Army Knife</b></a> - a web app for encryption, encoding, compression and data analysis.<br>
 </p>
 
