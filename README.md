@@ -389,6 +389,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://github.com/tj/commander.js"><b>commander.js</b></a> - minimal CLI creator in JavaScript.<br>
 &nbsp;&nbsp; <a href="https://github.com/tomnomnom/gron"><b>gron</b></a> - make JSON greppable!<br>
 &nbsp;&nbsp; <a href="https://github.com/itchyny/bed"><b>bed</b></a> - binary editor written in Go.<br>
+&nbsp;&nbsp; <a href="https://github.com/x-cmd/x-cmd"><b>x-cmd</b></a> - A vast and interesting collection of tools that can then bootstrap lots of other programs / functions in a consistent and structured way.<br>
 </p>
 
 #### GUI Tools &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
