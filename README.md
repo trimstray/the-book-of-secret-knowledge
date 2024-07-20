@@ -4,9 +4,9 @@
   </a>
 </p>
 
-<p align="center">"<i>Knowledge is powerful, be careful how you use it!</i>"</p>   
+<p align="center"><i>"Knowledge is powerful, be careful how you use it!"</i></p>   
 
-<h4 align="center">A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.</h4>
+<h4 align="center">A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, CLI/web tools, and more.</h4>
 
 <br>
 
@@ -26,44 +26,42 @@
 </p>
 
 <div align="center">
-  <sub>Created by
-  <a href="https://twitter.com/trimstray">trimstray</a> and
-  <a href="https://github.com/trimstray/the-book-of-secret-knowledge/graphs/contributors">contributors</a>
+  <sub>Created by <a href="https://twitter.com/trimstray">trimstray</a> and <a href="https://github.com/trimstray/the-book-of-secret-knowledge/graphs/contributors">contributors</a></sub>
 </div>
 
 <br>
 
 ****
 
-## :notebook_with_decorative_cover: &nbsp;What is it?
+## 📔 What is it?
 
-This repository is a collection of various materials and tools that I use every day in my work. It contains a lot of useful information gathered in one piece. It is an invaluable source of knowledge for me that I often look back on.
+This repository is a collection of various materials and tools that I use every day in my work. It contains a lot of useful information gathered in one place. It is an invaluable source of knowledge for me that I often refer back to.
 
-## :restroom: &nbsp;For whom?
+## 🚻 For whom?
 
-For everyone, really. Here everyone can find their favourite tastes. But to be perfectly honest, it is aimed towards System and Network administrators, DevOps, Pentesters, and Security Researchers.
+For everyone, really. Here everyone can find something useful. But to be perfectly honest, it is aimed towards System and Network administrators, DevOps, Pentesters, and Security Researchers.
 
-## :information_source: &nbsp;Contributing
+## ℹ️ Contributing
 
-If you find something which doesn't make sense, or something doesn't seem right, please make a pull request and please add valid and well-reasoned explanations about your changes or comments.
+If you find something that doesn't make sense, or something doesn't seem right, please make a pull request and add valid and well-reasoned explanations about your changes or comments.
 
 A few simple rules for this project:
 
-- inviting and clear
-- not tiring
-- useful
+- Inviting and clear
+- Not tiring
+- Useful
 
-These below rules may be better:
+These rules may be better:
 
-- easy to contribute to (Markdown + HTML ...)
-- easy to find (simple TOC, maybe it's worth extending them?)
+- Easy to contribute to (Markdown + HTML ...)
+- Easy to find (simple TOC, maybe it's worth extending?)
 
-Url marked **\*** is temporary unavailable. Please don't delete it without confirming that it has permanently expired.
+Urls marked **\*** are temporarily unavailable. Please don't delete them without confirming they have permanently expired.
 
-Before adding a pull request, please see the **[contributing guidelines](.github/CONTRIBUTING.md)**. You should also remember about this:
+Before adding a pull request, please see the **[contributing guidelines](.github/CONTRIBUTING.md)**. You should also remember this:
 
 ```diff
-+ This repository is not meant to contain everything but only good quality stuff.
++ This repository is not meant to contain everything, but only good quality stuff.
 ```
 
 All **suggestions/PR** are welcome!
