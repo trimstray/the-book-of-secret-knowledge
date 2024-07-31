@@ -2347,7 +2347,7 @@ Save [diffchar](https://raw.githubusercontent.com/vim-scripts/diffchar.vim/maste
 
 Click `F7` to switch between diff modes
 
-Usefull `vimdiff` commands:
+Useful `vimdiff` commands:
 
 * `qa` to exit all windows
 * `:vertical resize 70` to resize window
