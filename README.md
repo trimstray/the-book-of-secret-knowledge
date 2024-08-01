@@ -622,7 +622,6 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://hunter.io/"><b>hunter</b></a> - lets you find email addresses in seconds and connect with the people that matter for your business.<br>
 &nbsp;&nbsp; <a href="https://ghostproject.fr/"><b>GhostProject?</b></a> - search by full email address or username.<br>
 &nbsp;&nbsp; <a href="https://www.databreaches.live/"><b>databreaches</b></a> - was my email affected by data breach?<br>
-&nbsp;&nbsp; <a href="https://weleakinfo.com"><b>We Leak Info</b></a> - world's fastest and largest data breach search engine.<br>
 &nbsp;&nbsp; <a href="https://pulsedive.com/"><b>Pulsedive</b></a> - scans of malicious URLs, IPs, and domains, including port scans and web requests.<br>
 &nbsp;&nbsp; <a href="https://buckets.grayhatwarfare.com/"><b>Buckets by Grayhatwarfar</b></a> - database with public search for Open Amazon S3 Buckets and their contents.<br>
 &nbsp;&nbsp; <a href="https://vigilante.pw/"><b>Vigilante.pw</b></a> - the breached database directory.<br>
@@ -633,7 +632,6 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://osintframework.com/"><b>OSINT Framework</b></a> - focused on gathering information from free tools or resources.<br>
 &nbsp;&nbsp; <a href="https://www.maltiverse.com/search"><b>maltiverse</b></a> - is a service oriented to cybersecurity analysts.<br>
 &nbsp;&nbsp; <a href="https://leakedsource.ru/main/"><b>Leaked Source</b></a> - is a collaboration of data found online in the form of a lookup.<br>
-&nbsp;&nbsp; <a href="https://search.weleakinfo.com/"><b>We Leak Info</b></a> - to help everyday individuals secure their online life, avoiding getting hacked.<br>
 &nbsp;&nbsp; <a href="https://pipl.com/"><b>pipl</b></a> - is the place to find the person behind the email address, social username or phone number.<br>
 &nbsp;&nbsp; <a href="https://abuse.ch/"><b>abuse.ch</b></a> - is operated by a random swiss guy fighting malware for non-profit.<br>
 &nbsp;&nbsp; <a href="http://malc0de.com/database/"><b>malc0de</b></a> - malware search engine.<br>
