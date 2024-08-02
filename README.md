@@ -389,6 +389,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://github.com/tj/commander.js"><b>commander.js</b></a> - minimal CLI creator in JavaScript.<br>
 &nbsp;&nbsp; <a href="https://github.com/tomnomnom/gron"><b>gron</b></a> - make JSON greppable!<br>
 &nbsp;&nbsp; <a href="https://github.com/itchyny/bed"><b>bed</b></a> - binary editor written in Go.<br>
+&nbsp;&nbsp; <a href="https://github.com/arunsupe/semantic-grep"><b>w2vgrep</b></a> - A semantic grep tool using word embeddings to find semantically similar matches rather than keyword matches. e.g., searching for "death" will find "dead", "killing", "murder". <br>
 </p>
 
 #### GUI Tools &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
