@@ -1426,6 +1426,7 @@ AWS deployment tool.<br>
 
 <p>
 &nbsp;&nbsp; <a href="https://www.offensive-security.com/"><b>Offensive Security</b></a> - true performance-based penetration testing training for over a decade.<br>
+&nbsp;&nbsp; <a href="https://pwn.guide/"><b>pwn.guide</b></a> - online cybersecurity learning platform allowing you to learn radio, web hacking, forensics and more... <br>
 &nbsp;&nbsp; <a href="https://www.hackthebox.eu/"><b>Hack The Box</b></a> - online platform allowing you to test your penetration testing skills.<br>
 &nbsp;&nbsp; <a href="https://www.hacking-lab.com/index.html"><b>Hacking-Lab</b></a> - online ethical hacking, computer network and security challenge platform.<br>
 &nbsp;&nbsp; <a href="http://pwnable.kr/index.php"><b>pwnable.kr</b></a> - non-commercial wargame site which provides various pwn challenges.<br>
