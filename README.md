@@ -614,7 +614,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://fofa.so/"><b>FOFA</b></a> - is a cyberspace search engine.<br>
 &nbsp;&nbsp; <a href="https://www.onyphe.io/"><b>onyphe</b></a> - is a search engine for open-source and cyber threat intelligence data collected.<br>
 &nbsp;&nbsp; <a href="https://intelx.io/"><b>IntelligenceX</b></a> - is a search engine and data archive.<br>
-&nbsp;&nbsp; <a href="https://app.binaryedge.io/"><b>binaryedge</b></a> - it scan the entire internet space and create real-time threat intelligence streams and reports.<br>
+&nbsp;&nbsp; <a href="https://app.binaryedge.io/"><b>binaryedge</b></a> - scans the entire internet space and creates real-time threat intelligence streams and reports.<br>
 &nbsp;&nbsp; <a href="https://spyse.com/"><b>Spyse</b></a> - Internet assets registry: networks, threats, web objects, etc.<br>
 &nbsp;&nbsp; <a href="https://wigle.net/"><b>wigle</b></a> - is a submission-based catalog of wireless networks. All the networks. Found by Everyone.<br>
 &nbsp;&nbsp; <a href="https://publicwww.com/"><b>PublicWWW</b></a> - find any alphanumeric snippet, signature or keyword in the web pages HTML, JS and CSS code.<br>
