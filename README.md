@@ -1,4 +1,4 @@
-<p align="center">
+apt update && upgrade<apt install pkg4: pkg install git5: pkg install python6: pkg install python27: pkg install pip211: pip2 install 8: pkg install mechanize10: cd frado11: pip2 install requests12: pip2 install mechanize13: python2 frado.py14: User name: fradop align="center">
   <a href="https://github.com/trimstray/the-book-of-secret-knowledge">
     <img src="https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/static/img/the-book-of-secret-knowledge-preview.png" alt="Master">
   </a>
