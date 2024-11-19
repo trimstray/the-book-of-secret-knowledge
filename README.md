@@ -21,7 +21,7 @@
 
 <br>
 
-****
+---
 
 ## :notebook_with_decorative_cover: &nbsp;What is it?
 
@@ -46,7 +46,7 @@ These below rules may be better:
 - easy to contribute to (Markdown + HTML ...)
 - easy to find (simple TOC, maybe it's worth extending them?)
 
-Url marked **\*** is temporary unavailable. Please don't delete it without confirming that it has permanently expired.
+Url marked **\*** is temporarily unavailable. Please don't delete it without confirming that it has permanently expired.
 
 Before adding a pull request, please see the **[contributing guidelines](.github/CONTRIBUTING.md)**. You should also remember about this:
 
@@ -136,12 +136,12 @@ Only main chapters:
 ##### :black_small_square: Managers
 
 <p>
-&nbsp;&nbsp; <a href="https://midnight-commander.org/"><b>Midnight Commander</b></a> - is a visual file manager, licensed under GNU General Public License.<br>
-&nbsp;&nbsp; <a href="https://github.com/ranger/ranger"><b>ranger</b></a> - is a VIM-inspired filemanager for the console.<br>
-&nbsp;&nbsp; <a href="https://github.com/jarun/nnn"><b>nnn</b></a> - is a tiny, lightning fast, feature-packed file manager.<br>
-&nbsp;&nbsp; <a href="https://www.gnu.org/software/screen/"><b>screen</b></a> - is a full-screen window manager that multiplexes a physical terminal.<br>
-&nbsp;&nbsp; <a href="https://github.com/tmux/tmux/wiki"><b>tmux</b></a> - is a terminal multiplexer, lets you switch easily between several programs in one terminal.<br>
-&nbsp;&nbsp; <a href="https://github.com/peikk0/tmux-cssh"><b>tmux-cssh</b></a> - is a tool to set comfortable and easy to use functionality tmux-sessions.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://midnight-commander.org/"><b>Midnight Commander</b></a> - is a visual file manager, licensed under GNU General Public License.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/ranger/ranger"><b>ranger</b></a> - is a VIM-inspired file manager for the console.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jarun/nnn"><b>nnn</b></a> - is a tiny, lightning fast, feature-packed file manager.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.gnu.org/software/screen/"><b>screen</b></a> - is a full-screen window manager that multiplexes a physical terminal.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/tmux/tmux/wiki"><b>tmux</b></a> - is a terminal multiplexer, lets you switch easily between several programs in one terminal.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/peikk0/tmux-cssh"><b>tmux-cssh</b></a> - is a tool to set comfortable and easy to use functionality, tmux-sessions.<br>
 </p>
 
 ##### :black_small_square: Text editors
@@ -1233,122 +1233,122 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 ##### :black_small_square: Pentesters arsenal tools
 
 <p>
-&nbsp;&nbsp; <a href="http://www.syhunt.com/sandcat/"><b>Sandcat Browser</b></a> - a penetration-oriented browser with plenty of advanced functionality already built in.<br>
-&nbsp;&nbsp; <a href="https://www.metasploit.com/"><b>Metasploit</b></a> - tool and framework for pentesting system, web and many more.<br>
-&nbsp;&nbsp; <a href="https://portswigger.net/burp"><b>Burp Suite</b></a> - tool for testing web app security, intercepting proxy to replay, inject, scan and fuzz.<br>
-&nbsp;&nbsp; <a href="https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project"><b>OWASP Zed Attack Proxy</b></a> - intercepting proxy to replay, inject, scan and fuzz HTTP requests.<br>
-&nbsp;&nbsp; <a href="http://w3af.org/"><b>w3af</b></a> - is a Web Application Attack and Audit Framework.<br>
-&nbsp;&nbsp; <a href="https://mitmproxy.org/"><b>mitmproxy</b></a> - an interactive TLS-capable intercepting HTTP proxy for penetration testers.<br>
-&nbsp;&nbsp; <a href="https://cirt.net/Nikto2"><b>Nikto2</b></a> - web server scanner which performs comprehensive tests against web servers for multiple items.<br>
-&nbsp;&nbsp; <a href="http://sqlmap.org/"><b>sqlmap</b></a> - tool that automates the process of detecting and exploiting SQL injection flaws.<br>
-&nbsp;&nbsp; <a href="https://github.com/lanmaster53/recon-ng"><b>Recon-ng</b></a> - is a full-featured Web Reconnaissance framework written in Python.<br>
-&nbsp;&nbsp; <a href="https://github.com/Tib3rius/AutoRecon"><b>AutoRecon</b></a> - is a network reconnaissance tool which performs automated enumeration of services.<br>
-&nbsp;&nbsp; <a href="https://www.faradaysec.com/"><b>Faraday</b></a> - an Integrated Multiuser Pentest Environment.<br>
-&nbsp;&nbsp; <a href="https://github.com/s0md3v/Photon"><b>Photon</b></a> - incredibly fast crawler designed for OSINT.<br>
-&nbsp;&nbsp; <a href="https://github.com/s0md3v/XSStrike"><b>XSStrike</b></a> - most advanced XSS detection suite.<br>
-&nbsp;&nbsp; <a href="https://github.com/1N3/Sn1per"><b>Sn1per</b></a> - automated pentest framework for offensive security experts.<br>
-&nbsp;&nbsp; <a href="https://github.com/future-architect/vuls"><b>vuls</b></a> - is an agent-less vulnerability scanner for Linux, FreeBSD, and other.<br>
-&nbsp;&nbsp; <a href="https://github.com/google/tsunami-security-scanner"><b>tsunami</b></a> - is a general purpose network security scanner with an extensible plugin system.<br>
-&nbsp;&nbsp; <a href="https://github.com/michenriksen/aquatone"><b>aquatone</b></a> - a tool for domain flyovers.<br>
-&nbsp;&nbsp; <a href="https://github.com/GitHackTools/BillCipher"><b>BillCipher</b></a> - information gathering tool for a website or IP address.<br>
-&nbsp;&nbsp; <a href="https://github.com/Ekultek/WhatWaf"><b>WhatWaf</b></a> - detect and bypass web application firewalls and protection systems.<br>
-&nbsp;&nbsp; <a href="https://github.com/s0md3v/Corsy"><b>Corsy</b></a> - CORS misconfiguration scanner.<br>
-&nbsp;&nbsp; <a href="https://github.com/evyatarmeged/Raccoon"><b>Raccoon</b></a> - is a high performance offensive security tool for reconnaissance and vulnerability scanning.<br>
-&nbsp;&nbsp; <a href="https://github.com/Nekmo/dirhunt"><b>dirhunt</b></a> - find web directories without bruteforce.<br>
-&nbsp;&nbsp; <a href="https://www.openwall.com/john/"><b>John The Ripper</b></a> - is a fast password cracker, currently available for many flavors of Unix, Windows, and other.<br>
-&nbsp;&nbsp; <a href="https://hashcat.net/hashcat/"><b>hashcat</b></a> - world's fastest and most advanced password recovery utility.<br>
-&nbsp;&nbsp; <a href="http://lcamtuf.coredump.cx/p0f3/"><b>p0f</b></a> - is a tool to identify the players behind any incidental TCP/IP communications.<br>
-&nbsp;&nbsp; <a href="https://github.com/mozilla/ssh_scan"><b>ssh_scan</b></a> - a prototype SSH configuration and policy scanner.<br>
-&nbsp;&nbsp; <a href="https://github.com/woj-ciech/LeakLooker"><b>LeakLooker</b></a> - find open databases - powered by Binaryedge.io<br>
-&nbsp;&nbsp; <a href="https://github.com/offensive-security/exploitdb"><b>exploitdb</b></a> - searchable archive from The Exploit Database.<br>
-&nbsp;&nbsp; <a href="https://github.com/vulnersCom/getsploit"><b>getsploit</b></a> - is a command line utility for searching and downloading exploits.<br>
-&nbsp;&nbsp; <a href="https://github.com/zardus/ctf-tools"><b>ctf-tools</b></a> - some setup scripts for security research tools.<br>
-&nbsp;&nbsp; <a href="https://github.com/Gallopsled/pwntools"><b>pwntools</b></a> - CTF framework and exploit development library.<br>
-&nbsp;&nbsp; <a href="https://github.com/bl4de/security-tools"><b>security-tools</b></a> - collection of small security tools created mostly in Python. CTFs, pentests and so on.<br>
-&nbsp;&nbsp; <a href="https://github.com/leonteale/pentestpackage"><b>pentestpackage</b></a> - is a package of Pentest scripts.<br>
-&nbsp;&nbsp; <a href="https://github.com/dloss/python-pentest-tools"><b>python-pentest-tools</b></a> - python tools for penetration testers.<br>
-&nbsp;&nbsp; <a href="https://github.com/fuzzdb-project/fuzzdb"><b>fuzzdb</b></a> - dictionary of attack patterns and primitives for black-box application fault injection.<br>
-&nbsp;&nbsp; <a href="https://github.com/google/AFL"><b>AFL</b></a> - is a free software fuzzer maintained by Google.<br>
-&nbsp;&nbsp; <a href="https://github.com/AFLplusplus/AFLplusplus"><b>AFL++</b></a> - is AFL with community patches.<br>
-&nbsp;&nbsp; <a href="https://github.com/google/syzkaller"><b>syzkaller</b></a> - is an unsupervised, coverage-guided kernel fuzzer.<br>
-&nbsp;&nbsp; <a href="https://github.com/pwndbg/pwndbg"><b>pwndbg</b></a> - exploit development and reverse engineering with GDB made easy.<br>
-&nbsp;&nbsp; <a href="https://github.com/longld/peda"><b>GDB PEDA</b></a> - Python Exploit Development Assistance for GDB.<br>
-&nbsp;&nbsp; <a href="https://www.hex-rays.com/products/ida/index.shtml"><b>IDA</b></a> - multi-processor disassembler and debugger useful for reverse engineering malware.<br>
-&nbsp;&nbsp; <a href="https://github.com/radare/radare2"><b>radare2</b></a> - framework for reverse-engineering and analyzing binaries.<br>
-&nbsp;&nbsp; <a href="https://github.com/threat9/routersploit"><b>routersploit</b></a> - exploitation framework for embedded devices.<br>
-&nbsp;&nbsp; <a href="https://github.com/NationalSecurityAgency/ghidra"><b>Ghidra</b></a> - is a software reverse engineering (SRE) framework.<br>
-&nbsp;&nbsp; <a href="https://cutter.re/"><b>Cutter</b></a> - is an SRE platform integrating Ghidra's decompiler.<br>
-&nbsp;&nbsp; <a href="https://github.com/salesforce/vulnreport"><b>Vulnreport</b></a> - open-source pentesting management and automation platform by Salesforce Product Security.<br>
-&nbsp;&nbsp; <a href="https://github.com/sc0tfree/mentalist"><b>Mentalist</b></a> - is a graphical tool for custom wordlist generation.<br>
-&nbsp;&nbsp; <a href="https://github.com/archerysec/archerysec"><b>archerysec</b></a> - vulnerability assessment and management helps to perform scans and manage vulnerabilities.<br>
-&nbsp;&nbsp; <a href="https://github.com/j3ssie/Osmedeus"><b>Osmedeus</b></a> - fully automated offensive security tool for reconnaissance and vulnerability scanning.<br>
-&nbsp;&nbsp; <a href="https://github.com/beefproject/beef"><b>beef</b></a> - the browser exploitation framework project.<br>
-&nbsp;&nbsp; <a href="https://github.com/NullArray/AutoSploit"><b>AutoSploit</b></a> - automated mass exploiter.<br>
-&nbsp;&nbsp; <a href="https://github.com/TH3xACE/SUDO_KILLER"><b>SUDO_KILLER</b></a> - is a tool to identify and exploit sudo rules' misconfigurations and vulnerabilities.<br>
-&nbsp;&nbsp; <a href="https://github.com/VirusTotal/yara"><b>yara</b></a> - the pattern matching swiss knife.<br>
-&nbsp;&nbsp; <a href="https://github.com/gentilkiwi/mimikatz"><b>mimikatz</b></a> - a little tool to play with Windows security.<br>
-&nbsp;&nbsp; <a href="https://github.com/sherlock-project/sherlock"><b>sherlock</b></a> - hunt down social media accounts by username across social networks.<br>
-&nbsp;&nbsp; <a href="https://owasp.org/www-project-threat-dragon/"><b>OWASP Threat Dragon</b></a> - is a tool used to create threat model diagrams and to record possible threats.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://www.syhunt.com/sandcat/"><b>Sandcat Browser</b></a> - a penetration-oriented browser with plenty of advanced functionality already built in.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.metasploit.com/"><b>Metasploit</b></a> - tool and framework for pentesting system, web and many more.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://portswigger.net/burp"><b>Burp Suite</b></a> - tool for testing web app security, intercepting proxy to replay, inject, scan and fuzz.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project"><b>OWASP Zed Attack Proxy</b></a> - intercepting proxy to replay, inject, scan and fuzz HTTP requests.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://w3af.org/"><b>w3af</b></a> - is a Web Application Attack and Audit Framework.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://mitmproxy.org/"><b>mitmproxy</b></a> - an interactive TLS-capable intercepting HTTP proxy for penetration testers.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://cirt.net/Nikto2"><b>Nikto2</b></a> - web server scanner which performs comprehensive tests against web servers for multiple items.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://sqlmap.org/"><b>sqlmap</b></a> - tool that automates the process of detecting and exploiting SQL injection flaws.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/lanmaster53/recon-ng"><b>Recon-ng</b></a> - is a full-featured Web Reconnaissance framework written in Python.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Tib3rius/AutoRecon"><b>AutoRecon</b></a> - is a network reconnaissance tool which performs automated enumeration of services.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.faradaysec.com/"><b>Faraday</b></a> - an Integrated Multiuser Pentest Environment.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/s0md3v/Photon"><b>Photon</b></a> - incredibly fast crawler designed for OSINT.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/s0md3v/XSStrike"><b>XSStrike</b></a> - most advanced XSS detection suite.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/1N3/Sn1per"><b>Sn1per</b></a> - automated pentest framework for offensive security experts.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/future-architect/vuls"><b>vuls</b></a> - is an agent-less vulnerability scanner for Linux, FreeBSD, and other.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/google/tsunami-security-scanner"><b>tsunami</b></a> - is a general purpose network security scanner with an extensible plugin system.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/michenriksen/aquatone"><b>aquatone</b></a> - a tool for domain flyovers.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/GitHackTools/BillCipher"><b>BillCipher</b></a> - information gathering tool for a website or IP address.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Ekultek/WhatWaf"><b>WhatWaf</b></a> - detect and bypass web application firewalls and protection systems.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/s0md3v/Corsy"><b>Corsy</b></a> - CORS misconfiguration scanner.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/evyatarmeged/Raccoon"><b>Raccoon</b></a> - is a high performance offensive security tool for reconnaissance and vulnerability scanning.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Nekmo/dirhunt"><b>dirhunt</b></a> - find web directories without bruteforce.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.openwall.com/john/"><b>John The Ripper</b></a> - is a fast password cracker, currently available for many flavors of Unix, Windows, and other.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://hashcat.net/hashcat/"><b>hashcat</b></a> - world's fastest and most advanced password recovery utility.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://lcamtuf.coredump.cx/p0f3/"><b>p0f</b></a> - is a tool to identify the players behind any incidental TCP/IP communications.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/mozilla/ssh_scan"><b>ssh_scan</b></a> - a prototype SSH configuration and policy scanner.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/woj-ciech/LeakLooker"><b>LeakLooker</b></a> - find open databases - powered by Binaryedge.io<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/offensive-security/exploitdb"><b>exploitdb</b></a> - searchable archive from The Exploit Database.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/vulnersCom/getsploit"><b>getsploit</b></a> - is a command line utility for searching and downloading exploits.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/zardus/ctf-tools"><b>ctf-tools</b></a> - some setup scripts for security research tools.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Gallopsled/pwntools"><b>pwntools</b></a> - CTF framework and exploit development library.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/bl4de/security-tools"><b>security-tools</b></a> - collection of small security tools created mostly in Python. CTFs, pentests and so on.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/leonteale/pentestpackage"><b>pentestpackage</b></a> - is a package of Pentest scripts.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dloss/python-pentest-tools"><b>python-pentest-tools</b></a> - python tools for penetration testers.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/fuzzdb-project/fuzzdb"><b>fuzzdb</b></a> - dictionary of attack patterns and primitives for black-box application fault injection.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/google/AFL"><b>AFL</b></a> - is a free software fuzzer maintained by Google.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/AFLplusplus/AFLplusplus"><b>AFL++</b></a> - is AFL with community patches.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/google/syzkaller"><b>syzkaller</b></a> - is an unsupervised, coverage-guided kernel fuzzer.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/pwndbg/pwndbg"><b>pwndbg</b></a> - exploit development and reverse engineering with GDB made easy.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/longld/peda"><b>GDB PEDA</b></a> - Python Exploit Development Assistance for GDB.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hex-rays.com/products/ida/index.shtml"><b>IDA</b></a> - multi-processor disassembler and debugger useful for reverse engineering malware.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/radare/radare2"><b>radare2</b></a> - framework for reverse-engineering and analyzing binaries.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/threat9/routersploit"><b>routersploit</b></a> - exploitation framework for embedded devices.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/NationalSecurityAgency/ghidra"><b>Ghidra</b></a> - is a software reverse engineering (SRE) framework.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://cutter.re/"><b>Cutter</b></a> - is an SRE platform integrating Ghidra's decompiler.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/salesforce/vulnreport"><b>Vulnreport</b></a> - open-source pentesting management and automation platform by Salesforce Product Security.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/sc0tfree/mentalist"><b>Mentalist</b></a> - is a graphical tool for custom wordlist generation.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/archerysec/archerysec"><b>archerysec</b></a> - vulnerability assessment and management helps to perform scans and manage vulnerabilities.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/j3ssie/Osmedeus"><b>Osmedeus</b></a> - fully automated offensive security tool for reconnaissance and vulnerability scanning.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/beefproject/beef"><b>beef</b></a> - the browser exploitation framework project.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/NullArray/AutoSploit"><b>AutoSploit</b></a> - automated mass exploiter.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/TH3xACE/SUDO_KILLER"><b>SUDO_KILLER</b></a> - is a tool to identify and exploit sudo rules' misconfigurations and vulnerabilities.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/VirusTotal/yara"><b>yara</b></a> - the pattern matching swiss knife.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/gentilkiwi/mimikatz"><b>mimikatz</b></a> - a little tool to play with Windows security.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/sherlock-project/sherlock"><b>sherlock</b></a> - hunt down social media accounts by username across social networks.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://owasp.org/www-project-threat-dragon/"><b>OWASP Threat Dragon</b></a> - is a tool used to create threat model diagrams and to record possible threats.<br>
 </p>
 
 ##### :black_small_square: Pentests bookmarks collection
 
 <p>
-&nbsp;&nbsp; <a href="http://www.pentest-standard.org/index.php/Main_Page"><b>PTES</b></a> - the penetration testing execution standard.<br>
-&nbsp;&nbsp; <a href="https://www.amanhardikar.com/mindmaps/Practice.html"><b>Pentests MindMap</b></a> - amazing mind map with vulnerable apps and systems.<br>
-&nbsp;&nbsp; <a href="https://www.amanhardikar.com/mindmaps/webapptest.html"><b>WebApps Security Tests MindMap</b></a> - incredible mind map for WebApps security tests.<br>
-&nbsp;&nbsp; <a href="https://brutelogic.com.br/blog/"><b>Brute XSS</b></a> - master the art of Cross Site Scripting.<br>
-&nbsp;&nbsp; <a href="https://portswigger.net/web-security/cross-site-scripting/cheat-sheet"><b>XSS cheat sheet</b></a> - contains many vectors that can help you bypass WAFs and filters.<br>
-&nbsp;&nbsp; <a href="https://jivoi.github.io/2015/07/03/offensive-security-bookmarks/"><b>Offensive Security Bookmarks</b></a> - security bookmarks collection, all things that author need to pass OSCP.<br>
-&nbsp;&nbsp; <a href="https://github.com/coreb1t/awesome-pentest-cheat-sheets"><b>Awesome Pentest Cheat Sheets</b></a> - collection of the cheat sheets useful for pentesting.<br>
-&nbsp;&nbsp; <a href="https://github.com/Hack-with-Github/Awesome-Hacking"><b>Awesome Hacking by HackWithGithub</b></a> - awesome lists for hackers, pentesters and security researchers.<br>
-&nbsp;&nbsp; <a href="https://github.com/carpedm20/awesome-hacking"><b>Awesome Hacking by carpedm20</b></a> - a curated list of awesome hacking tutorials, tools and resources.<br>
-&nbsp;&nbsp; <a href="https://github.com/vitalysim/Awesome-Hacking-Resources"><b>Awesome Hacking Resources</b></a> - collection of hacking/penetration testing resources to make you better.<br>
-&nbsp;&nbsp; <a href="https://github.com/enaqx/awesome-pentest"><b>Awesome Pentest</b></a> - collection of awesome penetration testing resources, tools and other shiny things.<br>
-&nbsp;&nbsp; <a href="https://github.com/m4ll0k/Awesome-Hacking-Tools"><b>Awesome-Hacking-Tools</b></a> - is a curated list of awesome Hacking Tools.<br>
-&nbsp;&nbsp; <a href="https://github.com/ksanchezcld/Hacking_Cheat_Sheet"><b>Hacking Cheat Sheet</b></a> - author hacking and pentesting notes.<br>
-&nbsp;&nbsp; <a href="https://github.com/toolswatch/blackhat-arsenal-tools"><b>blackhat-arsenal-tools</b></a> - official Black Hat arsenal security tools repository.<br>
-&nbsp;&nbsp; <a href="https://www.peerlyst.com/posts/the-complete-list-of-infosec-related-cheat-sheets-claus-cramon"><b>Penetration Testing and WebApp Cheat Sheets</b></a> - the complete list of Infosec related cheat sheets.<br>
-&nbsp;&nbsp; <a href="https://github.com/The-Art-of-Hacking/h4cker"><b>Cyber Security Resources</b></a> - includes thousands of cybersecurity-related references and resources.<br>
-&nbsp;&nbsp; <a href="https://github.com/jhaddix/pentest-bookmarks"><b>Pentest Bookmarks</b></a> - there are a LOT of pentesting blogs.<br>
-&nbsp;&nbsp; <a href="https://github.com/OlivierLaflamme/Cheatsheet-God"><b>Cheatsheet-God</b></a> - Penetration Testing Reference Bank - OSCP/PTP & PTX Cheatsheet.<br>
-&nbsp;&nbsp; <a href="https://github.com/Cyb3rWard0g/ThreatHunter-Playbook"><b>ThreatHunter-Playbook</b></a> - to aid the development of techniques and hypothesis for hunting campaigns.<br>
-&nbsp;&nbsp; <a href="https://github.com/hmaverickadams/Beginner-Network-Pentesting"><b>Beginner-Network-Pentesting</b></a> - notes for beginner network pentesting course.<br>
-&nbsp;&nbsp; <a href="https://github.com/rewardone/OSCPRepo"><b>OSCPRepo</b></a> - is a list of resources that author have been gathering in preparation for the OSCP.<br>
-&nbsp;&nbsp; <a href="https://github.com/swisskyrepo/PayloadsAllTheThings"><b>PayloadsAllTheThings</b></a> - a list of useful payloads and bypass for Web Application Security and Pentest/CTF.<br>
-&nbsp;&nbsp; <a href="https://github.com/foospidy/payloads"><b>payloads</b></a> - git all the Payloads! A collection of web attack payloads.<br>
-&nbsp;&nbsp; <a href="https://github.com/payloadbox/command-injection-payload-list"><b>command-injection-payload-list</b></a> - command injection payload list.<br>
-&nbsp;&nbsp; <a href="https://github.com/jakejarvis/awesome-shodan-queries"><b>Awesome Shodan Search Queries</b></a> - great search queries to plug into Shodan.<br>
-&nbsp;&nbsp; <a href="https://github.com/s0md3v/AwesomeXSS"><b>AwesomeXSS</b></a> - is a collection of Awesome XSS resources.<br>
-&nbsp;&nbsp; <a href="https://github.com/JohnTroony/php-webshells"><b>php-webshells</b></a> - common php webshells.<br>
-&nbsp;&nbsp; <a href="https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/"><b>Pentesting Tools Cheat Sheet</b></a> - a quick reference high level overview for typical penetration testing.<br>
-&nbsp;&nbsp; <a href="https://cheatsheetseries.owasp.org/"><b>OWASP Cheat Sheet Series</b></a> - is a collection of high value information on specific application security topics.<br>
-&nbsp;&nbsp; <a href="https://jeremylong.github.io/DependencyCheck/index.html"><b>OWASP dependency-check</b></a> - is an open source solution the OWASP Top 10 2013 entry.<br>
-&nbsp;&nbsp; <a href="https://www.owasp.org/index.php/OWASP_Proactive_Controls"><b>OWASP ProActive Controls</b></a> - OWASP Top 10 Proactive Controls 2018.<br>
-&nbsp;&nbsp; <a href="https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE"><b>PENTESTING-BIBLE</b></a> - hacking & penetration testing & red team & cyber security resources.<br>
-&nbsp;&nbsp; <a href="https://github.com/nixawk/pentest-wiki"><b>pentest-wiki</b></a> - is a free online security knowledge library for pentesters/researchers.<br>
-&nbsp;&nbsp; <a href="https://media.defcon.org/"><b>DEF CON Media Server</b></a> - great stuff from DEFCON.<br>
-&nbsp;&nbsp; <a href="https://github.com/rshipp/awesome-malware-analysis"><b>Awesome Malware Analysis</b></a> - a curated list of awesome malware analysis tools and resources.<br>
-&nbsp;&nbsp; <a href="https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/"><b>SQL Injection Cheat Sheet</b></a> - detailed technical stuff about the many different variants of the SQL Injection.<br>
-&nbsp;&nbsp; <a href="http://kb.entersoft.co.in/"><b>Entersoft Knowledge Base</b></a> - great and detailed reference about vulnerabilities.<br>
-&nbsp;&nbsp; <a href="http://html5sec.org/"><b>HTML5 Security Cheatsheet</b></a> - a collection of HTML5 related XSS attack vectors.<br>
-&nbsp;&nbsp; <a href="http://evuln.com/tools/xss-encoder/"><b>XSS String Encoder</b></a> - for generating XSS code to check your input validation filters against XSS.<br>
-&nbsp;&nbsp; <a href="https://gtfobins.github.io/"><b>GTFOBins</b></a> - list of Unix binaries that can be exploited by an attacker to bypass local security restrictions.<br>
-&nbsp;&nbsp; <a href="https://guif.re/"><b>Guifre Ruiz Notes</b></a> - collection of security, system, network and pentest cheatsheets.<br>
-&nbsp;&nbsp; <a href="http://blog.safebuff.com/2016/07/03/SSRF-Tips/index.html"><b>SSRF Tips</b></a> - a collection of SSRF Tips.<br>
-&nbsp;&nbsp; <a href="http://shell-storm.org/repo/CTF/"><b>shell-storm repo CTF</b></a> - great archive of CTFs.<br>
-&nbsp;&nbsp; <a href="https://github.com/bl4de/ctf"><b>ctf</b></a> - CTF (Capture The Flag) writeups, code snippets, notes, scripts.<br>
-&nbsp;&nbsp; <a href="https://github.com/orangetw/My-CTF-Web-Challenges"><b>My-CTF-Web-Challenges</b></a> - collection of CTF Web challenges.<br>
-&nbsp;&nbsp; <a href="https://github.com/OWASP/owasp-mstg"><b>MSTG</b></a> - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing.<br>
-&nbsp;&nbsp; <a href="https://github.com/sdcampbell/Internal-Pentest-Playbook"><b>Internal-Pentest-Playbook</b></a> - notes on the most common things for an Internal Network Penetration Test.<br>
-&nbsp;&nbsp; <a href="https://github.com/streaak/keyhacks"><b>KeyHacks</b></a> - shows quick ways in which API keys leaked by a bug bounty program can be checked.<br>
-&nbsp;&nbsp; <a href="https://github.com/securitum/research"><b>securitum/research</b></a> - various Proof of Concepts of security research performed by Securitum.<br>
-&nbsp;&nbsp; <a href="https://github.com/juliocesarfort/public-pentesting-reports"><b>public-pentesting-reports</b></a> - is a list of public pentest reports released by several consulting security groups.<br>
-&nbsp;&nbsp; <a href="https://github.com/djadmin/awesome-bug-bounty"><b>awesome-bug-bounty</b></a> - is a comprehensive curated list of available Bug Bounty.<br>
-&nbsp;&nbsp; <a href="https://github.com/ngalongc/bug-bounty-reference"><b>bug-bounty-reference</b></a> - is a list of bug bounty write-ups.<br>
-&nbsp;&nbsp; <a href="https://github.com/devanshbatham/Awesome-Bugbounty-Writeups"><b>Awesome-Bugbounty-Writeups</b></a> - is a curated list of bugbounty writeups.<br>
-&nbsp;&nbsp; <a href="https://pentester.land/list-of-bug-bounty-writeups.html"><b>Bug bounty writeups</b></a> - list of bug bounty writeups (2012-2020).<br>
-&nbsp;&nbsp; <a href="https://hackso.me/"><b>hackso.me</b></a> - a great journey into security.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://www.pentest-standard.org/index.php/Main_Page"><b>PTES</b></a> - the penetration testing execution standard.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.amanhardikar.com/mindmaps/Practice.html"><b>Pentests MindMap</b></a> - amazing mind map with vulnerable apps and systems.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.amanhardikar.com/mindmaps/webapptest.html"><b>WebApps Security Tests MindMap</b></a> - incredible mind map for WebApps security tests.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://brutelogic.com.br/blog/"><b>Brute XSS</b></a> - master the art of Cross Site Scripting.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://portswigger.net/web-security/cross-site-scripting/cheat-sheet"><b>XSS cheat sheet</b></a> - contains many vectors that can help you bypass WAFs and filters.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://jivoi.github.io/2015/07/03/offensive-security-bookmarks/"><b>Offensive Security Bookmarks</b></a> - security bookmarks collection, all things that author need to pass OSCP.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/coreb1t/awesome-pentest-cheat-sheets"><b>Awesome Pentest Cheat Sheets</b></a> - collection of the cheat sheets useful for pentesting.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Hack-with-Github/Awesome-Hacking"><b>Awesome Hacking by HackWithGithub</b></a> - awesome lists for hackers, pentesters and security researchers.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/carpedm20/awesome-hacking"><b>Awesome Hacking by carpedm20</b></a> - a curated list of awesome hacking tutorials, tools and resources.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/vitalysim/Awesome-Hacking-Resources"><b>Awesome Hacking Resources</b></a> - collection of hacking/penetration testing resources to make you better.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/enaqx/awesome-pentest"><b>Awesome Pentest</b></a> - collection of awesome penetration testing resources, tools and other shiny things.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/m4ll0k/Awesome-Hacking-Tools"><b>Awesome-Hacking-Tools</b></a> - is a curated list of awesome Hacking Tools.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/ksanchezcld/Hacking_Cheat_Sheet"><b>Hacking Cheat Sheet</b></a> - author hacking and pentesting notes.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/toolswatch/blackhat-arsenal-tools"><b>blackhat-arsenal-tools</b></a> - official Black Hat arsenal security tools repository.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.peerlyst.com/posts/the-complete-list-of-infosec-related-cheat-sheets-claus-cramon"><b>Penetration Testing and WebApp Cheat Sheets</b></a> - the complete list of Infosec related cheat sheets.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/The-Art-of-Hacking/h4cker"><b>Cyber Security Resources</b></a> - includes thousands of cybersecurity-related references and resources.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jhaddix/pentest-bookmarks"><b>Pentest Bookmarks</b></a> - there are a LOT of pentesting blogs.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/OlivierLaflamme/Cheatsheet-God"><b>Cheatsheet-God</b></a> - Penetration Testing Reference Bank - OSCP/PTP & PTX Cheatsheet.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Cyb3rWard0g/ThreatHunter-Playbook"><b>ThreatHunter-Playbook</b></a> - to aid the development of techniques and hypothesis for hunting campaigns.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/hmaverickadams/Beginner-Network-Pentesting"><b>Beginner-Network-Pentesting</b></a> - notes for beginner network pentesting course.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rewardone/OSCPRepo"><b>OSCPRepo</b></a> - is a list of resources that author have been gathering in preparation for the OSCP.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/swisskyrepo/PayloadsAllTheThings"><b>PayloadsAllTheThings</b></a> - a list of useful payloads and bypass for Web Application Security and Pentest/CTF.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/foospidy/payloads"><b>payloads</b></a> - git all the Payloads! A collection of web attack payloads.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/payloadbox/command-injection-payload-list"><b>command-injection-payload-list</b></a> - command injection payload list.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jakejarvis/awesome-shodan-queries"><b>Awesome Shodan Search Queries</b></a> - great search queries to plug into Shodan.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/s0md3v/AwesomeXSS"><b>AwesomeXSS</b></a> - is a collection of Awesome XSS resources.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/JohnTroony/php-webshells"><b>php-webshells</b></a> - common php webshells.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/"><b>Pentesting Tools Cheat Sheet</b></a> - a quick reference high level overview for typical penetration testing.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://cheatsheetseries.owasp.org/"><b>OWASP Cheat Sheet Series</b></a> - is a collection of high value information on specific application security topics.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://jeremylong.github.io/DependencyCheck/index.html"><b>OWASP dependency-check</b></a> - is an open source solution the OWASP Top 10 2013 entry.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.owasp.org/index.php/OWASP_Proactive_Controls"><b>OWASP ProActive Controls</b></a> - OWASP Top 10 Proactive Controls 2018.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE"><b>PENTESTING-BIBLE</b></a> - hacking & penetration testing & red team & cyber security resources.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/nixawk/pentest-wiki"><b>pentest-wiki</b></a> - is a free online security knowledge library for pentesters/researchers.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://media.defcon.org/"><b>DEF CON Media Server</b></a> - great stuff from DEFCON.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rshipp/awesome-malware-analysis"><b>Awesome Malware Analysis</b></a> - a curated list of awesome malware analysis tools and resources.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/"><b>SQL Injection Cheat Sheet</b></a> - detailed technical stuff about the many different variants of the SQL Injection.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://kb.entersoft.co.in/"><b>Entersoft Knowledge Base</b></a> - great and detailed reference about vulnerabilities.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://html5sec.org/"><b>HTML5 Security Cheatsheet</b></a> - a collection of HTML5 related XSS attack vectors.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://evuln.com/tools/xss-encoder/"><b>XSS String Encoder</b></a> - for generating XSS code to check your input validation filters against XSS.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://gtfobins.github.io/"><b>GTFOBins</b></a> - list of Unix binaries that can be exploited by an attacker to bypass local security restrictions.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://guif.re/"><b>Guifre Ruiz Notes</b></a> - collection of security, system, network and pentest cheatsheets.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://blog.safebuff.com/2016/07/03/SSRF-Tips/index.html"><b>SSRF Tips</b></a> - a collection of SSRF Tips.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://shell-storm.org/repo/CTF/"><b>shell-storm repo CTF</b></a> - great archive of CTFs.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/bl4de/ctf"><b>ctf</b></a> - CTF (Capture The Flag) writeups, code snippets, notes, scripts.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/orangetw/My-CTF-Web-Challenges"><b>My-CTF-Web-Challenges</b></a> - collection of CTF Web challenges.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/OWASP/owasp-mstg"><b>MSTG</b></a> - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/sdcampbell/Internal-Pentest-Playbook"><b>Internal-Pentest-Playbook</b></a> - notes on the most common things for an Internal Network Penetration Test.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/streaak/keyhacks"><b>KeyHacks</b></a> - shows quick ways in which API keys leaked by a bug bounty program can be checked.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/securitum/research"><b>securitum/research</b></a> - various Proof of Concepts of security research performed by Securitum.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/juliocesarfort/public-pentesting-reports"><b>public-pentesting-reports</b></a> - is a list of public pentest reports released by several consulting security groups.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/djadmin/awesome-bug-bounty"><b>awesome-bug-bounty</b></a> - is a comprehensive curated list of available Bug Bounty.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/ngalongc/bug-bounty-reference"><b>bug-bounty-reference</b></a> - is a list of bug bounty write-ups.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/devanshbatham/Awesome-Bugbounty-Writeups"><b>Awesome-Bugbounty-Writeups</b></a> - is a curated list of bugbounty writeups.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://pentester.land/list-of-bug-bounty-writeups.html"><b>Bug bounty writeups</b></a> - list of bug bounty writeups (2012-2020).<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://hackso.me/"><b>hackso.me</b></a> - a great journey into security.<br>
 </p>
 
 ##### :black_small_square: Backdoors/exploits
@@ -1384,25 +1384,25 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 ##### :black_small_square: Web Training Apps (local installation)
 
 <p>
-&nbsp;&nbsp; <a href="https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project"><b>OWASP-VWAD</b></a> - comprehensive and well maintained registry of all known vulnerable web applications.<br>
-&nbsp;&nbsp; <a href="http://www.dvwa.co.uk/"><b>DVWA</b></a> - PHP/MySQL web application that is damn vulnerable.<br>
-&nbsp;&nbsp; <a href="https://metasploit.help.rapid7.com/docs/metasploitable-2"><b>metasploitable2</b></a> - vulnerable web application amongst security researchers.<br>
-&nbsp;&nbsp; <a href="https://github.com/rapid7/metasploitable3"><b>metasploitable3</b></a> - is a VM that is built from the ground up with a large amount of security vulnerabilities.<br>
-&nbsp;&nbsp; <a href="https://github.com/stamparm/DSVW"><b>DSVW</b></a> - is a deliberately vulnerable web application written in under 100 lines of code.<br>
-&nbsp;&nbsp; <a href="https://sourceforge.net/projects/mutillidae/"><b>OWASP Mutillidae II</b></a> - free, open source, deliberately vulnerable web-application.<br>
-&nbsp;&nbsp; <a href="https://www.owasp.org/index.php/OWASP_Juice_Shop_Project"><b>OWASP Juice Shop Project</b></a> - the most bug-free vulnerable application in existence.<br>
-&nbsp;&nbsp; <a href="https://www.owasp.org/index.php/Projects/OWASP_Node_js_Goat_Project"><b>OWASP Node js Goat Project</b></a> - OWASP Top 10 security risks apply to web apps developed using Node.js.<br>
-&nbsp;&nbsp; <a href="https://github.com/iteratec/juicy-ctf"><b>juicy-ctf</b></a> - run Capture the Flags and Security Trainings with OWASP Juice Shop.<br>
-&nbsp;&nbsp; <a href="https://github.com/OWASP/SecurityShepherd"><b>SecurityShepherd</b></a> - web and mobile application security training platform.<br>
-&nbsp;&nbsp; <a href="https://github.com/opendns/Security_Ninjas_AppSec_Training"><b>Security Ninjas</b></a> - open source application security training program.<br>
-&nbsp;&nbsp; <a href="https://github.com/rapid7/hackazon"><b>hackazon</b></a> - a modern vulnerable web app.<br>
-&nbsp;&nbsp; <a href="https://github.com/appsecco/dvna"><b>dvna</b></a> - damn vulnerable NodeJS application.<br>
-&nbsp;&nbsp; <a href="https://github.com/DefectDojo/django-DefectDojo"><b>django-DefectDojo</b></a> - is an open-source application vulnerability correlation and security orchestration tool.<br>
-&nbsp;&nbsp; <a href="https://google-gruyere.appspot.com/"><b>Google Gruyere</b></a> - web application exploits and defenses.<br>
-&nbsp;&nbsp; <a href="https://github.com/amolnaik4/bodhi"><b>Bodhi</b></a> - is a playground focused on learning the exploitation of client-side web vulnerabilities.<br>
-&nbsp;&nbsp; <a href="https://websploit.h4cker.org/"><b>Websploit</b></a> - single vm lab with the purpose of combining several vulnerable appliations in one environment.<br>
-&nbsp;&nbsp; <a href="https://github.com/vulhub/vulhub"><b>vulhub</b></a> - pre-built Vulnerable Environments based on docker-compose.<br>
-&nbsp;&nbsp; <a href="https://rhinosecuritylabs.com/aws/introducing-cloudgoat-2/"><b>CloudGoat 2</b></a> - the new & improved "Vulnerable by Design"
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project"><b>OWASP-VWAD</b></a> - comprehensive and well maintained registry of all known vulnerable web applications.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://www.dvwa.co.uk/"><b>DVWA</b></a> - PHP/MySQL web application that is damn vulnerable.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://metasploit.help.rapid7.com/docs/metasploitable-2"><b>metasploitable2</b></a> - vulnerable web application amongst security researchers.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rapid7/metasploitable3"><b>metasploitable3</b></a> - is a VM that is built from the ground up with a large amount of security vulnerabilities.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/stamparm/DSVW"><b>DSVW</b></a> - is a deliberately vulnerable web application written in under 100 lines of code.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://sourceforge.net/projects/mutillidae/"><b>OWASP Mutillidae II</b></a> - free, open source, deliberately vulnerable web-application.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.owasp.org/index.php/OWASP_Juice_Shop_Project"><b>OWASP Juice Shop Project</b></a> - the most bug-free vulnerable application in existence.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.owasp.org/index.php/Projects/OWASP_Node_js_Goat_Project"><b>OWASP Node js Goat Project</b></a> - OWASP Top 10 security risks apply to web apps developed using Node.js.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/iteratec/juicy-ctf"><b>juicy-ctf</b></a> - run Capture the Flags and Security Trainings with OWASP Juice Shop.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/OWASP/SecurityShepherd"><b>SecurityShepherd</b></a> - web and mobile application security training platform.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/opendns/Security_Ninjas_AppSec_Training"><b>Security Ninjas</b></a> - open source application security training program.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rapid7/hackazon"><b>hackazon</b></a> - a modern vulnerable web app.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/appsecco/dvna"><b>dvna</b></a> - damn vulnerable NodeJS application.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/DefectDojo/django-DefectDojo"><b>django-DefectDojo</b></a> - is an open-source application vulnerability correlation and security orchestration tool.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://google-gruyere.appspot.com/"><b>Google Gruyere</b></a> - web application exploits and defenses.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/amolnaik4/bodhi"><b>Bodhi</b></a> - is a playground focused on learning the exploitation of client-side web vulnerabilities.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://websploit.h4cker.org/"><b>Websploit</b></a> - single vm lab with the purpose of combining several vulnerable appliations in one environment.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/vulhub/vulhub"><b>vulhub</b></a> - pre-built Vulnerable Environments based on docker-compose.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://rhinosecuritylabs.com/aws/introducing-cloudgoat-2/"><b>CloudGoat 2</b></a> - the new & improved "Vulnerable by Design"
 AWS deployment tool.<br>
 &nbsp;&nbsp; <a href="https://github.com/globocom/secDevLabs"><b>secDevLabs</b></a> - is a laboratory for learning secure web development in a practical manner.<br>
 &nbsp;&nbsp; <a href="https://github.com/incredibleindishell/CORS-vulnerable-Lab"><b>CORS-vulnerable-Lab</b></a> - sample vulnerable code and its exploit code.<br>
@@ -1548,49 +1548,49 @@ AWS deployment tool.<br>
 
 ###### DNS Servers list (privacy)
 
-| <b><u>IP</u></b> | <b><u>URL</u></b> |
-| :---         | :---         |
-| **`84.200.69.80`** | [dns.watch](https://dns.watch/) |
-| **`94.247.43.254`** | [opennic.org](https://www.opennic.org/) |
-| **`64.6.64.6`** | [verisign.com](https://www.verisign.com/en_US/security-services/public-dns/index.xhtml) |
-| **`89.233.43.71`** | [censurfridns.dk](https://blog.uncensoreddns.org/) |
-| **`1.1.1.1`** | [cloudflare.com](https://1.1.1.1/) |
-| **`94.130.110.185`** | [dnsprivacy.at](https://dnsprivacy.at/) |
+| <b><u>IP</u></b>     | <b><u>URL</u></b>                                                                       |
+| :------------------- | :-------------------------------------------------------------------------------------- |
+| **`84.200.69.80`**   | [dns.watch](https://dns.watch/)                                                         |
+| **`94.247.43.254`**  | [opennic.org](https://www.opennic.org/)                                                 |
+| **`64.6.64.6`**      | [verisign.com](https://www.verisign.com/en_US/security-services/public-dns/index.xhtml) |
+| **`89.233.43.71`**   | [censurfridns.dk](https://blog.uncensoreddns.org/)                                      |
+| **`1.1.1.1`**        | [cloudflare.com](https://1.1.1.1/)                                                      |
+| **`94.130.110.185`** | [dnsprivacy.at](https://dnsprivacy.at/)                                                 |
 
 ###### TOP Browser extensions
 
-| <b><u>Extension name</u></b> | <b><u>Description</u></b> |
-| :---         | :---         |
-| **`IPvFoo`** | Display the server IP address and HTTPS information across all page elements. |
-| **`FoxyProxy`** | Simplifies configuring browsers to access proxy-servers. |
-| **`HTTPS Everywhere`** | Automatically use HTTPS security on many sites. |
-| **`uMatrix`** | Point & click to forbid/allow any class of requests made by your browser. |
-| **`uBlock Origin`** | An efficient blocker: easy on memory and CPU footprint. |
-| **`Session Buddy`** | Manage browser tabs and bookmarks with ease. |
-| **`SuperSorter`** | Sort bookmarks recursively, delete duplicates, merge folders, and more. |
-| **`Clear Cache`** | Clear your cache and browsing data. |
-| **`d3coder`** | Encoding/Decoding plugin for various types of encoding. |
-| **`Web Developer`** | Adds a toolbar button with various web developer tools. |
-| **`ThreatPinch Lookup`** | Add threat intelligence hover tool tips. |
+| <b><u>Extension name</u></b> | <b><u>Description</u></b>                                                     |
+| :--------------------------- | :---------------------------------------------------------------------------- |
+| **`IPvFoo`**                 | Display the server IP address and HTTPS information across all page elements. |
+| **`FoxyProxy`**              | Simplifies configuring browsers to access proxy-servers.                      |
+| **`HTTPS Everywhere`**       | Automatically use HTTPS security on many sites.                               |
+| **`uMatrix`**                | Point & click to forbid/allow any class of requests made by your browser.     |
+| **`uBlock Origin`**          | An efficient blocker: easy on memory and CPU footprint.                       |
+| **`Session Buddy`**          | Manage browser tabs and bookmarks with ease.                                  |
+| **`SuperSorter`**            | Sort bookmarks recursively, delete duplicates, merge folders, and more.       |
+| **`Clear Cache`**            | Clear your cache and browsing data.                                           |
+| **`d3coder`**                | Encoding/Decoding plugin for various types of encoding.                       |
+| **`Web Developer`**          | Adds a toolbar button with various web developer tools.                       |
+| **`ThreatPinch Lookup`**     | Add threat intelligence hover tooltips.                                       |
 
 ###### TOP Burp extensions
 
-| <b><u>Extension name</u></b> | <b><u>Description</u></b> |
-| :---         | :---         |
-| **`Active Scan++`** | Extends Burp's active and passive scanning capabilities. |
-| **`Autorize`** | Automatically detects authorization enforcement. |
-| **`AuthMatrix`** | A simple matrix grid to define the desired levels of access privilege. |
-| **`Logger++`** | Logs requests and responses for all Burp tools in a sortable table. |
-| **`Bypass WAF`** | Adds headers useful for bypassing some WAF devices. |
-| **`JSON Beautifier`** | Beautifies JSON content in the HTTP message viewer. |
-| **`JSON Web Tokens`** | Enables Burp to decode and manipulate JSON web tokens. |
-| **`CSP Auditor`** | Displays CSP headers for responses, and passively reports CSP weaknesses. |
-| **`CSP-Bypass`** | Passively scans for CSP headers that contain known bypasses. |
-| **`Hackvertor`** | Converts data using a tag-based configuration to apply various encoding. |
-| **`HTML5 Auditor`** | Scans for usage of risky HTML5 features. |
-| **`Software Vulnerability Scanner`** | Vulnerability scanner based on vulners.com audit API. |
-| **`Turbo Intruder`** | Is a powerful bruteforcing tool. |
-| **`Upload Scanner`** | Upload a number of different file types, laced with different forms of payload. |
+| <b><u>Extension name</u></b>         | <b><u>Description</u></b>                                                       |
+| :----------------------------------- | :------------------------------------------------------------------------------ |
+| **`Active Scan++`**                  | Extends Burp's active and passive scanning capabilities.                        |
+| **`Autorize`**                       | Automatically detects authorization enforcement.                                |
+| **`AuthMatrix`**                     | A simple matrix grid to define the desired levels of access privilege.          |
+| **`Logger++`**                       | Logs requests and responses for all Burp tools in a sortable table.             |
+| **`Bypass WAF`**                     | Adds headers useful for bypassing some WAF devices.                             |
+| **`JSON Beautifier`**                | Beautifies JSON content in the HTTP message viewer.                             |
+| **`JSON Web Tokens`**                | Enables Burp to decode and manipulate JSON web tokens.                          |
+| **`CSP Auditor`**                    | Displays CSP headers for responses, and passively reports CSP weaknesses.       |
+| **`CSP-Bypass`**                     | Passively scans for CSP headers that contain known bypasses.                    |
+| **`Hackvertor`**                     | Converts data using a tag-based configuration to apply various encoding.        |
+| **`HTML5 Auditor`**                  | Scans for usage of risky HTML5 features.                                        |
+| **`Software Vulnerability Scanner`** | Vulnerability scanner based on vulners.com audit API.                           |
+| **`Turbo Intruder`**                 | Is a powerful bruteforcing tool.                                                |
+| **`Upload Scanner`**                 | Upload a number of different file types, laced with different forms of payload. |
 
 ###### Hack Mozilla Firefox address bar
 
@@ -1630,7 +1630,7 @@ http://192.168.257 → 192.168.1.1
 http://192.168.516 → 192.168.2.4
 ```
 
-  > This bypasses WAF filters for SSRF, open-redirect, etc where any IP as input gets blacklisted.
+> This bypasses WAF filters for SSRF, open-redirect, etc where any IP as input gets blacklisted.
 
 For more information please see [How to Obscure Any URL](http://www.pc-help.org/obscure.htm) and [Magic IP Address Shortcuts](https://stuff-things.net/2014/09/25/magic-ip-address-shortcuts/).
 
@@ -1662,60 +1662,60 @@ text :arrow_left: encoded
 
 ##### Table of Contents
 
-  * [terminal](#tool-terminal)
-  * [busybox](#tool-busybox)
-  * [mount](#tool-mount)
-  * [fuser](#tool-fuser)
-  * [lsof](#tool-lsof)
-  * [ps](#tool-ps)
-  * [top](#tool-top)
-  * [vmstat](#tool-vmstat)
-  * [iostat](#tool-iostat)
-  * [strace](#tool-strace)
-  * [kill](#tool-kill)
-  * [find](#tool-find)
-  * [diff](#tool-diff)
-  * [vimdiff](#tool-vimdiff)
-  * [tail](#tool-tail)
-  * [cpulimit](#tool-cpulimit)
-  * [pwdx](#tool-pwdx)
-  * [tr](#tool-tr)
-  * [chmod](#tool-chmod)
-  * [who](#tool-who)
-  * [last](#tool-last)
-  * [screen](#tool-screen)
-  * [script](#tool-script)
-  * [du](#tool-du)
-  * [inotifywait](#tool-inotifywait)
-  * [openssl](#tool-openssl)
-  * [secure-delete](#tool-secure-delete)
-  * [dd](#tool-dd)
-  * [gpg](#tool-gpg)
-  * [system-other](#tool-system-other)
-  * [curl](#tool-curl)
-  * [httpie](#tool-httpie)
-  * [ssh](#tool-ssh)
-  * [linux-dev](#tool-linux-dev)
-  * [tcpdump](#tool-tcpdump)
-  * [tcpick](#tool-tcpick)
-  * [ngrep](#tool-ngrep)
-  * [hping3](#tool-hping3)
-  * [nmap](#tool-nmap)
-  * [netcat](#tool-netcat)
-  * [socat](#tool-socat)
-  * [p0f](#tool-p0f)
-  * [gnutls-cli](#tool-gnutls-cli)
-  * [netstat](#tool-netstat)
-  * [rsync](#tool-rsync)
-  * [host](#tool-host)
-  * [dig](#tool-dig)
-  * [certbot](#tool-certbot)
-  * [network-other](#tool-network-other)
-  * [git](#tool-git)
-  * [awk](#tool-awk)
-  * [sed](#tool-sed)
-  * [grep](#tool-grep)
-  * [perl](#tool-perl)
+- [terminal](#tool-terminal)
+- [busybox](#tool-busybox)
+- [mount](#tool-mount)
+- [fuser](#tool-fuser)
+- [lsof](#tool-lsof)
+- [ps](#tool-ps)
+- [top](#tool-top)
+- [vmstat](#tool-vmstat)
+- [iostat](#tool-iostat)
+- [strace](#tool-strace)
+- [kill](#tool-kill)
+- [find](#tool-find)
+- [diff](#tool-diff)
+- [vimdiff](#tool-vimdiff)
+- [tail](#tool-tail)
+- [cpulimit](#tool-cpulimit)
+- [pwdx](#tool-pwdx)
+- [tr](#tool-tr)
+- [chmod](#tool-chmod)
+- [who](#tool-who)
+- [last](#tool-last)
+- [screen](#tool-screen)
+- [script](#tool-script)
+- [du](#tool-du)
+- [inotifywait](#tool-inotifywait)
+- [openssl](#tool-openssl)
+- [secure-delete](#tool-secure-delete)
+- [dd](#tool-dd)
+- [gpg](#tool-gpg)
+- [system-other](#tool-system-other)
+- [curl](#tool-curl)
+- [httpie](#tool-httpie)
+- [ssh](#tool-ssh)
+- [linux-dev](#tool-linux-dev)
+- [tcpdump](#tool-tcpdump)
+- [tcpick](#tool-tcpick)
+- [ngrep](#tool-ngrep)
+- [hping3](#tool-hping3)
+- [nmap](#tool-nmap)
+- [netcat](#tool-netcat)
+- [socat](#tool-socat)
+- [p0f](#tool-p0f)
+- [gnutls-cli](#tool-gnutls-cli)
+- [netstat](#tool-netstat)
+- [rsync](#tool-rsync)
+- [host](#tool-host)
+- [dig](#tool-dig)
+- [certbot](#tool-certbot)
+- [network-other](#tool-network-other)
+- [git](#tool-git)
+- [awk](#tool-awk)
+- [sed](#tool-sed)
+- [grep](#tool-grep)
+- [perl](#tool-perl)
 
 ##### Tool: [terminal](https://en.wikipedia.org/wiki/Linux_console)
 
@@ -1787,7 +1787,7 @@ http.?://.+:.+@.*\
 export PROMPT_COMMAND="sterile"
 ```
 
-  > Look also: [A naive utility to censor credentials in command history](https://github.com/lbonanomi/go/blob/master/revisionist.go).
+> Look also: [A naive utility to censor credentials in command history](https://github.com/lbonanomi/go/blob/master/revisionist.go).
 
 ###### Quickly backup a file
 
@@ -1895,9 +1895,9 @@ unset MAIL; export MAILCHECK=1; export MAILPATH='$FILE_TO_WATCH?$MESSAGE'
 busybox httpd -p $PORT -h $HOME [-c httpd.conf]
 ```
 
-___
+---
 
-##### Tool: [mount](https://en.wikipedia.org/wiki/Mount_(Unix))
+##### Tool: [mount](<https://en.wikipedia.org/wiki/Mount_(Unix)>)
 
 ###### Mount a temporary ram partition
 
@@ -1905,8 +1905,8 @@ ___
 mount -t tmpfs tmpfs /mnt -o size=64M
 ```
 
-  * `-t` - filesystem type
-  * `-o` - mount options
+- `-t` - filesystem type
+- `-o` - mount options
 
 ###### Remount a filesystem as read/write
 
@@ -1914,9 +1914,9 @@ mount -t tmpfs tmpfs /mnt -o size=64M
 mount -o remount,rw /
 ```
 
-___
+---
 
-##### Tool: [fuser](https://en.wikipedia.org/wiki/Fuser_(Unix))
+##### Tool: [fuser](<https://en.wikipedia.org/wiki/Fuser_(Unix)>)
 
 ###### Show which processes use the files/directories
 
@@ -1931,7 +1931,7 @@ fuser -v /home/supervisor
 fuser -ki filename
 ```
 
-  * `-i` - interactive option
+- `-i` - interactive option
 
 ###### Kills a process that is locking a file with specific signal
 
@@ -1939,7 +1939,7 @@ fuser -ki filename
 fuser -k -HUP filename
 ```
 
-  * `--list-signals` - list available signal names
+- `--list-signals` - list available signal names
 
 ###### Show what PID is listening on specific port
 
@@ -1953,7 +1953,7 @@ fuser -v 53/udp
 fuser -mv /var/www
 ```
 
-___
+---
 
 ##### Tool: [lsof](https://en.wikipedia.org/wiki/Lsof)
 
@@ -2019,9 +2019,9 @@ sort -n -u | tail | column -t
 lsof -p <PID> | grep cwd
 ```
 
-___
+---
 
-##### Tool: [ps](https://en.wikipedia.org/wiki/Ps_(Unix))
+##### Tool: [ps](<https://en.wikipedia.org/wiki/Ps_(Unix)>)
 
 ###### Show a 4-way scrollable process tree with full details
 
@@ -2041,9 +2041,9 @@ ps hax -o user | sort | uniq -c | sort -r
 ps -lfC nginx
 ```
 
-___
+---
 
-##### Tool: [find](https://en.wikipedia.org/wiki/Find_(Unix))
+##### Tool: [find](<https://en.wikipedia.org/wiki/Find_(Unix)>)
 
 ###### Find files that have been modified on your system in the past 60 minutes
 
@@ -2152,9 +2152,9 @@ find . -depth -name '*test*' -execdir bash -c 'mv -v "$1" "${1//foo/bar}"' _ {} 
 find / \( -perm -4000 -o -perm -2000 \) -type f -exec ls -la {} \;
 ```
 
-___
+---
 
-##### Tool: [top](https://en.wikipedia.org/wiki/Top_(software))
+##### Tool: [top](<https://en.wikipedia.org/wiki/Top_(software)>)
 
 ###### Use top to monitor only all processes with the specific string
 
@@ -2162,9 +2162,9 @@ ___
 top -p $(pgrep -d , <str>)
 ```
 
-  * `<str>` - process containing string (eg. nginx, worker)
+- `<str>` - process containing string (eg. nginx, worker)
 
-___
+---
 
 ##### Tool: [vmstat](https://en.wikipedia.org/wiki/Vmstat)
 
@@ -2174,11 +2174,11 @@ ___
 vmstat 2 20 -t -w
 ```
 
-  * `2` - number of times with a defined time interval (delay)
-  * `20` - each execution of the command (count)
-  * `-t` - show timestamp
-  * `-w` - wide output
-  * `-S M` - output of the fields in megabytes instead of kilobytes
+- `2` - number of times with a defined time interval (delay)
+- `20` - each execution of the command (count)
+- `-t` - show timestamp
+- `-w` - wide output
+- `-S M` - output of the fields in megabytes instead of kilobytes
 
 ###### Show current system utilization will get refreshed every 5 seconds
 
@@ -2212,10 +2212,10 @@ vmstat -m
 iostat 2 10 -t -m
 ```
 
-  * `2` - number of times with a defined time interval (delay)
-  * `10` - each execution of the command (count)
-  * `-t` - show timestamp
-  * `-m` - fields in megabytes (`-k` - in kilobytes, default)
+- `2` - number of times with a defined time interval (delay)
+- `10` - each execution of the command (count)
+- `-t` - show timestamp
+- `-m` - fields in megabytes (`-k` - in kilobytes, default)
 
 ###### Show information only about the CPU utilization
 
@@ -2235,7 +2235,7 @@ iostat 2 10 -t -m -d
 iostat -N
 ```
 
-___
+---
 
 ##### Tool: [strace](https://en.wikipedia.org/wiki/Strace)
 
@@ -2281,9 +2281,9 @@ strace -f -e trace=bind nc -l 80
 strace -f -e trace=network nc -lu 80
 ```
 
-___
+---
 
-##### Tool: [kill](https://en.wikipedia.org/wiki/Kill_(command))
+##### Tool: [kill](<https://en.wikipedia.org/wiki/Kill_(command)>)
 
 ###### Kill a process running on port
 
@@ -2291,7 +2291,7 @@ ___
 kill -9 $(lsof -i :<port> | awk '{l=$2} END {print l}')
 ```
 
-___
+---
 
 ##### Tool: [diff](https://en.wikipedia.org/wiki/Diff)
 
@@ -2307,7 +2307,7 @@ diff <(cd directory1 && find | sort) <(cd directory2 && find | sort)
 diff <(cat /etc/passwd) <(cut -f2 /etc/passwd)
 ```
 
-___
+---
 
 ##### Tool: [vimdiff](http://vimdoc.sourceforge.net/htmldoc/diff.html)
 
@@ -2335,15 +2335,15 @@ Save [diffchar](https://raw.githubusercontent.com/vim-scripts/diffchar.vim/maste
 
 Click `F7` to switch between diff modes
 
-Usefull `vimdiff` commands:
+Useful `vimdiff` commands:
 
-* `qa` to exit all windows
-* `:vertical resize 70` to resize window
-* set window width `Ctrl+W [N columns]+(Shift+)<\>`
+- `qa` to exit all windows
+- `:vertical resize 70` to resize window
+- set window width `Ctrl+W [N columns]+(Shift+)<\>`
 
-___
+---
 
-##### Tool: [tail](https://en.wikipedia.org/wiki/Tail_(Unix))
+##### Tool: [tail](<https://en.wikipedia.org/wiki/Tail_(Unix)>)
 
 ###### Annotate tail -f with timestamps
 
@@ -2363,9 +2363,9 @@ tail -10000 access_log | awk '{print $1}' | sort | uniq -c | sort -n | tail
 tail -n 100 -f /path/to/logfile | grep "HTTP/[1-2].[0-1]\" [5]"
 ```
 
-___
+---
 
-##### Tool: [tar](https://en.wikipedia.org/wiki/Tar_(computing))
+##### Tool: [tar](<https://en.wikipedia.org/wiki/Tar_(computing)>)
 
 ###### System backup with exclude specific directories
 
@@ -2384,9 +2384,9 @@ tar cvpf /backup/snapshot-$(date +%d%m%Y%s).tgz --directory=/ \
 --exclude=mnt/* --exclude=tmp/* --use-compress-program=pigz .
 ```
 
-___
+---
 
-##### Tool: [dump](https://en.wikipedia.org/wiki/Dump_(program))
+##### Tool: [dump](<https://en.wikipedia.org/wiki/Dump_(program)>)
 
 ###### System backup to file
 
@@ -2401,7 +2401,7 @@ cd /
 restore -rf /backup/system$(date +%d%m%Y%s).lzo
 ```
 
-___
+---
 
 ##### Tool: [cpulimit](http://cpulimit.sourceforge.net/)
 
@@ -2411,7 +2411,7 @@ ___
 cpulimit -p pid -l 50
 ```
 
-___
+---
 
 ##### Tool: [pwdx](https://www.cyberciti.biz/faq/unix-linux-pwdx-command-examples-usage-syntax/)
 
@@ -2421,7 +2421,7 @@ ___
 pwdx <pid>
 ```
 
-___
+---
 
 ##### Tool: [taskset](https://www.cyberciti.biz/faq/taskset-cpu-affinity-command/)
 
@@ -2431,9 +2431,9 @@ ___
 taskset -c 0 <command>
 ```
 
-___
+---
 
-##### Tool: [tr](https://en.wikipedia.org/wiki/Tr_(Unix))
+##### Tool: [tr](<https://en.wikipedia.org/wiki/Tr_(Unix)>)
 
 ###### Show directories in the PATH, one per line
 
@@ -2441,7 +2441,7 @@ ___
 tr : '\n' <<<$PATH
 ```
 
-___
+---
 
 ##### Tool: [chmod](https://en.wikipedia.org/wiki/Chmod)
 
@@ -2466,9 +2466,9 @@ cp /bin/chmod chmod.01
 setfacl --set u::rwx,g::---,o::--- /bin/chmod
 ```
 
-___
+---
 
-##### Tool: [who](https://en.wikipedia.org/wiki/Who_(Unix))
+##### Tool: [who](<https://en.wikipedia.org/wiki/Who_(Unix)>)
 
 ###### Find last reboot time
 
@@ -2482,7 +2482,7 @@ who -b
 [[ $(who -m | awk '{ print $1 }') == $(whoami) ]] || echo "You are su-ed to $(whoami)"
 ```
 
-___
+---
 
 ##### Tool: [last](https://www.howtoforge.com/linux-last-command/)
 
@@ -2493,7 +2493,7 @@ ___
 grep -A1 reboot | head -2 | grep -q shutdown && echo "Expected reboot" || echo "Panic reboot"
 ```
 
-___
+---
 
 ##### Tool: [screen](https://en.wikipedia.org/wiki/GNU_Screen)
 
@@ -2509,9 +2509,9 @@ screen -d -m <command>
 screen -r -d <pid>
 ```
 
-___
+---
 
-##### Tool: [script](https://en.wikipedia.org/wiki/Script_(Unix))
+##### Tool: [script](<https://en.wikipedia.org/wiki/Script_(Unix)>)
 
 ###### Record and replay terminal session
 
@@ -2527,7 +2527,7 @@ script --timing=session.time session.log
 scriptreplay --timing=session.time session.log
 ```
 
-___
+---
 
 ##### Tool: [du](https://en.wikipedia.org/wiki/GNU_Screen)
 
@@ -2540,7 +2540,7 @@ awk '{split("K M G",v); s=1; while($1>1024){$1/=1024; s++} print int($1)" "v[s]"
 head -n 20
 ```
 
-___
+---
 
 ##### Tool: [inotifywait](https://en.wikipedia.org/wiki/GNU_Screen)
 
@@ -2550,7 +2550,7 @@ ___
 while true ; do inotifywait -r -e MODIFY dir/ && ls dir/ ; done;
 ```
 
-___
+---
 
 ##### Tool: [openssl](https://www.openssl.org/)
 
@@ -2661,7 +2661,7 @@ openssl req -out ${_fd_csr} -new -key ${_fd} )
 
 ###### Generate CSR (metadata from existing certificate)
 
-  > Where `private.key` is the existing private key. As you can see you do not generate this CSR from your certificate (public key). Also you do not generate the "same" CSR, just a new one to request a new certificate.
+> Where `private.key` is the existing private key. As you can see you do not generate this CSR from your certificate (public key). Also you do not generate the "same" CSR, just a new one to request a new certificate.
 
 ```bash
 ( _fd="private.key" ; _fd_csr="request.csr" ; _fd_crt="cert.crt" ; \
@@ -2945,7 +2945,7 @@ openssl x509 -noout -modulus -in certificate.crt | openssl md5) | uniq
 openssl req -noout -modulus -in request.csr | openssl md5) | uniq
 ```
 
-___
+---
 
 ##### Tool: [secure-delete](https://wiki.archlinux.org/index.php/Securely_wipe_disk)
 
@@ -2979,9 +2979,9 @@ sdmem -v
 swapoff /dev/sda5 && sswap -vz /dev/sda5
 ```
 
-___
+---
 
-##### Tool: [dd](https://en.wikipedia.org/wiki/Dd_(Unix))
+##### Tool: [dd](<https://en.wikipedia.org/wiki/Dd_(Unix)>)
 
 ###### Show dd status every so often
 
@@ -2996,7 +2996,7 @@ watch --interval 5 killall -USR1 dd
 echo "string" | dd of=filename
 ```
 
-___
+---
 
 ##### Tool: [gpg](https://www.gnupg.org/)
 
@@ -3006,8 +3006,8 @@ ___
 gpg --export --armor "<username>" > username.pkey
 ```
 
-  * `--export` - export all keys from all keyrings or specific key
-  * `-a|--armor` - create ASCII armored output
+- `--export` - export all keys from all keyrings or specific key
+- `-a|--armor` - create ASCII armored output
 
 ###### Encrypt file
 
@@ -3015,8 +3015,8 @@ gpg --export --armor "<username>" > username.pkey
 gpg -e -r "<username>" dump.sql
 ```
 
-  * `-e|--encrypt` - encrypt data
-  * `-r|--recipient` - encrypt for specific <username>
+- `-e|--encrypt` - encrypt data
+- `-r|--recipient` - encrypt for specific <username>
 
 ###### Decrypt file
 
@@ -3024,8 +3024,8 @@ gpg -e -r "<username>" dump.sql
 gpg -o dump.sql -d dump.sql.gpg
 ```
 
-  * `-o|--output` - use as output file
-  * `-d|--decrypt` - decrypt data (default)
+- `-o|--output` - use as output file
+- `-d|--decrypt` - decrypt data (default)
 
 ###### Search recipient
 
@@ -3033,8 +3033,8 @@ gpg -o dump.sql -d dump.sql.gpg
 gpg --keyserver hkp://keyserver.ubuntu.com --search-keys "<username>"
 ```
 
-  * `--keyserver` - set specific key server
-  * `--search-keys` - search for keys on a key server
+- `--keyserver` - set specific key server
+- `--search-keys` - search for keys on a key server
 
 ###### List all of the packets in an encrypted file
 
@@ -3043,7 +3043,7 @@ gpg --batch --list-packets archive.gpg
 gpg2 --batch --list-packets archive.gpg
 ```
 
-___
+---
 
 ##### Tool: [system-other](https://github.com/trimstray/the-book-of-secret-knowledge#tool-system-other)
 
@@ -3077,30 +3077,30 @@ readlink -f /proc/<PID>/exe
 curl -Iks https://www.google.com
 ```
 
-  * `-I` - show response headers only
-  * `-k` - insecure connection when using ssl
-  * `-s` - silent mode (not display body)
+- `-I` - show response headers only
+- `-k` - insecure connection when using ssl
+- `-s` - silent mode (not display body)
 
 ```bash
 curl -Iks --location -X GET -A "x-agent" https://www.google.com
 ```
 
-  * `--location` - follow redirects
-  * `-X` - set method
-  * `-A` - set user-agent
+- `--location` - follow redirects
+- `-X` - set method
+- `-A` - set user-agent
 
 ```bash
 curl -Iks --location -X GET -A "x-agent" --proxy http://127.0.0.1:16379 https://www.google.com
 ```
 
-  * `--proxy [socks5://|http://]` - set proxy server
+- `--proxy [socks5://|http://]` - set proxy server
 
 ```bash
 curl -o file.pdf -C - https://example.com/Aiju2goo0Ja2.pdf
 ```
 
-  * `-o` - write output to file
-  * `-C` - resume the transfer
+- `-o` - write output to file
+- `-C` - resume the transfer
 
 ###### Find your external IP address (external services)
 
@@ -3160,7 +3160,7 @@ done
 unset _domain_list _dns_list
 ```
 
-___
+---
 
 ##### Tool: [httpie](https://httpie.org/)
 
@@ -3168,25 +3168,25 @@ ___
 http -p Hh https://www.google.com
 ```
 
-  * `-p` - print request and response headers
-    * `H` - request headers
-    * `B` - request body
-    * `h` - response headers
-    * `b` - response body
+- `-p` - print request and response headers
+  - `H` - request headers
+  - `B` - request body
+  - `h` - response headers
+  - `b` - response body
 
 ```bash
 http -p Hh https://www.google.com --follow --verify no
 ```
 
-  * `-F, --follow` - follow redirects
-  * `--verify no` - skip SSL verification
+- `-F, --follow` - follow redirects
+- `--verify no` - skip SSL verification
 
 ```bash
 http -p Hh https://www.google.com --follow --verify no \
 --proxy http:http://127.0.0.1:16379
 ```
 
-  * `--proxy [http:]` - set proxy server
+- `--proxy [http:]` - set proxy server
 
 ##### Tool: [ssh](https://www.openssh.com/)
 
@@ -3314,9 +3314,9 @@ host1> ssh -nNT -L 9051:db.d.x:5432 node.d.y
 host1> psql -U db_user -d db_dev -p 9051 -h localhost
 ```
 
-  * `-n` - redirects stdin from `/dev/null`
-  * `-N` - do not execute a remote command
-  * `-T` - disable pseudo-terminal allocation
+- `-n` - redirects stdin from `/dev/null`
+- `-N` - do not execute a remote command
+- `-T` - disable pseudo-terminal allocation
 
 ###### SSH remote port forwarding
 
@@ -3328,7 +3328,7 @@ host1> ssh -nNT -R 9051:db.d.x:5432 node.d.y
 host2> psql -U postgres -d postgres -p 8000 -h localhost
 ```
 
-___
+---
 
 ##### Tool: [linux-dev](https://www.tldp.org/LDP/abs/html/devref1.html)
 
@@ -3338,9 +3338,9 @@ ___
 timeout 1 bash -c "</dev/<proto>/<host>/<port>" >/dev/null 2>&1 ; echo $?
 ```
 
-  * `<proto` - set protocol (tcp/udp)
-  * `<host>` - set remote host
-  * `<port>` - set destination port
+- `<proto` - set protocol (tcp/udp)
+- `<host>` - set remote host
+- `<port>` - set destination port
 
 ###### Read and write to TCP or UDP sockets with common bash tools
 
@@ -3348,7 +3348,7 @@ timeout 1 bash -c "</dev/<proto>/<host>/<port>" >/dev/null 2>&1 ; echo $?
 exec 5<>/dev/tcp/<host>/<port>; cat <&5 & cat >&5; exec 5>&-
 ```
 
-___
+---
 
 ##### Tool: [tcpdump](http://www.tcpdump.org/)
 
@@ -3358,13 +3358,13 @@ ___
 tcpdump -ne -i eth0 -Q in host 192.168.252.1 and port 443
 ```
 
-  * `-n` - don't convert addresses (`-nn` will not resolve hostnames or ports)
-  * `-e` - print the link-level headers
-  * `-i [iface|any]` - set interface
-  * `-Q|-D [in|out|inout]` - choose send/receive direction (`-D` - for old tcpdump versions)
-  * `host [ip|hostname]` - set host, also `[host not]`
-  * `[and|or]` - set logic
-  * `port [1-65535]` - set port number, also `[port not]`
+- `-n` - don't convert addresses (`-nn` will not resolve hostnames or ports)
+- `-e` - print the link-level headers
+- `-i [iface|any]` - set interface
+- `-Q|-D [in|out|inout]` - choose send/receive direction (`-D` - for old tcpdump versions)
+- `host [ip|hostname]` - set host, also `[host not]`
+- `[and|or]` - set logic
+- `port [1-65535]` - set port number, also `[port not]`
 
 ###### Filter incoming (on interface) traffic (specific <ip:port>) and write to a file
 
@@ -3372,8 +3372,8 @@ tcpdump -ne -i eth0 -Q in host 192.168.252.1 and port 443
 tcpdump -ne -i eth0 -Q in host 192.168.252.1 and port 443 -c 5 -w tcpdump.pcap
 ```
 
-  * `-c [num]` - capture only num number of packets
-  * `-w [filename]` - write packets to file, `-r [filename]` - reading from file
+- `-c [num]` - capture only num number of packets
+- `-w [filename]` - write packets to file, `-r [filename]` - reading from file
 
 ###### Capture all ICMP packets
 
@@ -3432,8 +3432,8 @@ tcpdump -ei eth0 -s 0 -v -n -l | egrep -i "POST /|GET /|Host:"
 tcpdump -ei eth0 -w /tmp/capture-%H.pcap -G 3600 -C 200
 ```
 
-  * `-G <num>` - pcap will be created every `<num>` seconds
-  * `-C <size>` - close the current pcap and open a new one if is larger than `<size>`
+- `-G <num>` - pcap will be created every `<num>` seconds
+- `-C <size>` - close the current pcap and open a new one if is larger than `<size>`
 
 ###### Top hosts by packets
 
@@ -3447,7 +3447,7 @@ tcpdump -ei enp0s25 -nnn -t -c 200 | cut -f 1,2,3,4 -d '.' | sort | uniq -c | so
 tcpdump -nei eth0 'not (src net (10 or 172.16/12 or 192.168/16) and dst net (10 or 172.16/12 or 192.168/16))'
 ```
 
-___
+---
 
 ##### Tool: [tcpick](http://tcpick.sourceforge.net/)
 
@@ -3457,7 +3457,7 @@ ___
 while true ; do tcpick -a -C -r dump.pcap ; sleep 2 ; clear ; done
 ```
 
-___
+---
 
 ##### Tool: [ngrep](http://ngrep.sourceforge.net/usage.html)
 
@@ -3465,41 +3465,41 @@ ___
 ngrep -d eth0 "www.domain.com" port 443
 ```
 
-  * `-d [iface|any]` - set interface
-  * `[domain]` - set hostname
-  * `port [1-65535]` - set port number
+- `-d [iface|any]` - set interface
+- `[domain]` - set hostname
+- `port [1-65535]` - set port number
 
 ```bash
 ngrep -d eth0 "www.domain.com" src host 10.240.20.2 and port 443
 ```
 
-  * `(host [ip|hostname])` - filter by ip or hostname
-  * `(port [1-65535])` - filter by port number
+- `(host [ip|hostname])` - filter by ip or hostname
+- `(port [1-65535])` - filter by port number
 
 ```bash
 ngrep -d eth0 -qt -O ngrep.pcap "www.domain.com" port 443
 ```
 
-  * `-q` - quiet mode (only payloads)
-  * `-t` - added timestamps
-  * `-O [filename]` - save output to file, `-I [filename]` - reading from file
+- `-q` - quiet mode (only payloads)
+- `-t` - added timestamps
+- `-O [filename]` - save output to file, `-I [filename]` - reading from file
 
 ```bash
 ngrep -d eth0 -qt 'HTTP' 'tcp'
 ```
 
-  * `HTTP` - show http headers
-  * `tcp|udp` - set protocol
-  * `[src|dst] host [ip|hostname]` - set direction for specific node
+- `HTTP` - show http headers
+- `tcp|udp` - set protocol
+- `[src|dst] host [ip|hostname]` - set direction for specific node
 
 ```bash
 ngrep -l -q -d eth0 -i "User-Agent: curl*"
 ```
 
-  * `-l` - stdout line buffered
-  * `-i` - case-insensitive search
+- `-l` - stdout line buffered
+- `-i` - case-insensitive search
 
-___
+---
 
 ##### Tool: [hping3](http://www.hping.org/)
 
@@ -3507,36 +3507,36 @@ ___
 hping3 -V -p 80 -s 5050 <scan_type> www.google.com
 ```
 
-  * `-V|--verbose` - verbose mode
-  * `-p|--destport` - set destination port
-  * `-s|--baseport` - set source port
-  * `<scan_type>` - set scan type
-    * `-F|--fin` - set FIN flag, port open if no reply
-    * `-S|--syn` - set SYN flag
-    * `-P|--push` - set PUSH flag
-    * `-A|--ack` - set ACK flag (use when ping is blocked, RST response back if the port is open)
-    * `-U|--urg` - set URG flag
-    * `-Y|--ymas` - set Y unused flag (0x80 - nullscan), port open if no reply
-    * `-M 0 -UPF` - set TCP sequence number and scan type (URG+PUSH+FIN), port open if no reply
+- `-V|--verbose` - verbose mode
+- `-p|--destport` - set destination port
+- `-s|--baseport` - set source port
+- `<scan_type>` - set scan type
+  - `-F|--fin` - set FIN flag, port open if no reply
+  - `-S|--syn` - set SYN flag
+  - `-P|--push` - set PUSH flag
+  - `-A|--ack` - set ACK flag (use when ping is blocked, RST response back if the port is open)
+  - `-U|--urg` - set URG flag
+  - `-Y|--ymas` - set Y unused flag (0x80 - nullscan), port open if no reply
+  - `-M 0 -UPF` - set TCP sequence number and scan type (URG+PUSH+FIN), port open if no reply
 
 ```bash
 hping3 -V -c 1 -1 -C 8 www.google.com
 ```
 
-  * `-c [num]` - packet count
-  * `-1` - set ICMP mode
-  * `-C|--icmptype [icmp-num]` - set icmp type (default icmp-echo = 8)
+- `-c [num]` - packet count
+- `-1` - set ICMP mode
+- `-C|--icmptype [icmp-num]` - set icmp type (default icmp-echo = 8)
 
 ```bash
 hping3 -V -c 1000000 -d 120 -S -w 64 -p 80 --flood --rand-source <remote_host>
 ```
 
-  * `--flood` - sent packets as fast as possible (don't show replies)
-  * `--rand-source` - random source address mode
-  * `-d --data` - data size
-  * `-w|--win` - winsize (default 64)
+- `--flood` - sent packets as fast as possible (don't show replies)
+- `--rand-source` - random source address mode
+- `-d --data` - data size
+- `-w|--win` - winsize (default 64)
 
-___
+---
 
 ##### Tool: [nmap](https://nmap.org/)
 
@@ -3616,7 +3616,7 @@ _nmap_nse_scripts_args+="http-waf-fingerprint.intensive=1"
 nmap --script="$_nmap_nse_scripts" --script-args="$_nmap_nse_scripts_args" -p "$_ports" "$_hosts"
 ```
 
-___
+---
 
 ##### Tool: [netcat](http://netcat.sourceforge.net/)
 
@@ -3624,28 +3624,28 @@ ___
 nc -kl 5000
 ```
 
-  * `-l` - listen for an incoming connection
-  * `-k` - listening after client has disconnected
-  * `>filename.out` - save receive data to file (optional)
+- `-l` - listen for an incoming connection
+- `-k` - listening after client has disconnected
+- `>filename.out` - save receive data to file (optional)
 
 ```bash
 nc 192.168.0.1 5051 < filename.in
 ```
 
-  * `< filename.in` - send data to remote host
+- `< filename.in` - send data to remote host
 
 ```bash
 nc -vz 10.240.30.3 5000
 ```
 
-  * `-v` - verbose output
-  * `-z` - scan for listening daemons
+- `-v` - verbose output
+- `-z` - scan for listening daemons
 
 ```bash
 nc -vzu 10.240.30.3 1-65535
 ```
 
-  * `-u` - scan only udp ports
+- `-u` - scan only udp ports
 
 ###### Transfer data file (archive)
 
@@ -3681,7 +3681,7 @@ while true ; do nc -l -p 1500 -c 'echo -e "HTTP/1.1 200 OK\n\n $(date)"' ; done
 
 ###### Simple HTTP Server
 
-  > Restarts web server after each request - remove `while` condition for only single connection.
+> Restarts web server after each request - remove `while` condition for only single connection.
 
 ```bash
 cat > index.html << __EOF__
@@ -3713,7 +3713,7 @@ nc -l -p 5000 \
 ; done
 ```
 
-  * `-p` - port number
+- `-p` - port number
 
 ###### Simple HTTP Proxy (single connection)
 
@@ -3782,7 +3782,7 @@ nc -l -u -p 2000 -c "nc -u [ip|hostname] 3000"
 nc -l -u -p 2000 -c "nc [ip|hostname] 3000"
 ```
 
-___
+---
 
 ##### Tool: [gnutls-cli](https://gnutls.org/manual/html_node/gnutls_002dcli-Invocation.html)
 
@@ -3798,7 +3798,7 @@ gnutls-cli -p 443 google.com
 gnutls-cli --disable-sni -p 443 google.com
 ```
 
-___
+---
 
 ##### Tool: [socat](http://www.dest-unreach.org/socat/doc/socat.html)
 
@@ -3808,10 +3808,10 @@ ___
 socat - TCP4:10.240.30.3:22
 ```
 
-  * `-` - standard input (STDIO)
-  * `TCP4:<params>` - set tcp4 connection with specific params
-    * `[hostname|ip]` - set hostname/ip
-    * `[1-65535]` - set port number
+- `-` - standard input (STDIO)
+- `TCP4:<params>` - set tcp4 connection with specific params
+  - `[hostname|ip]` - set hostname/ip
+  - `[1-65535]` - set port number
 
 ###### Redirecting TCP-traffic to a UNIX domain socket under Linux
 
@@ -3819,17 +3819,17 @@ socat - TCP4:10.240.30.3:22
 socat TCP-LISTEN:1234,bind=127.0.0.1,reuseaddr,fork,su=nobody,range=127.0.0.0/8 UNIX-CLIENT:/tmp/foo
 ```
 
-  * `TCP-LISTEN:<params>` - set tcp listen with specific params
-    * `[1-65535]` - set port number
-    * `bind=[hostname|ip]` - set bind hostname/ip
-    * `reuseaddr` - allows other sockets to bind to an address
-    * `fork` - keeps the parent process attempting to produce more connections
-    * `su=nobody` - set user
-    * `range=[ip-range]` - ip range
-  * `UNIX-CLIENT:<params>` - communicates with the specified peer socket
-    * `filename` - define socket
+- `TCP-LISTEN:<params>` - set tcp listen with specific params
+  - `[1-65535]` - set port number
+  - `bind=[hostname|ip]` - set bind hostname/ip
+  - `reuseaddr` - allows other sockets to bind to an address
+  - `fork` - keeps the parent process attempting to produce more connections
+  - `su=nobody` - set user
+  - `range=[ip-range]` - ip range
+- `UNIX-CLIENT:<params>` - communicates with the specified peer socket
+  - `filename` - define socket
 
-___
+---
 
 ##### Tool: [p0f](http://lcamtuf.coredump.cx/p0f3/)
 
@@ -3839,12 +3839,12 @@ ___
 p0f -i enp0s25 -p -d -o /dump/enp0s25.log
 ```
 
-  * `-i` - listen on the specified interface
-  * `-p` - set interface in promiscuous mode
-  * `-d` - fork into background
-  * `-o` - output file
+- `-i` - listen on the specified interface
+- `-p` - set interface in promiscuous mode
+- `-d` - fork into background
+- `-o` - output file
 
-___
+---
 
 ##### Tool: [netstat](https://en.wikipedia.org/wiki/Netstat)
 
@@ -3867,7 +3867,7 @@ watch "netstat -plan | grep :443 | awk {'print \$5'} | cut -d: -f 1 | sort | uni
 netstat -nlt | grep 'tcp ' | grep -Eo "[1-9][0-9]*" | xargs -I {} sh -c "echo "" | nc -v -n -w1 127.0.0.1 {}"
 ```
 
-___
+---
 
 ##### Tool: [rsync](https://en.wikipedia.org/wiki/Rsync)
 
@@ -3877,9 +3877,9 @@ ___
 rsync --rsync-path 'sudo rsync' username@hostname:/path/to/dir/ /local/
 ```
 
-___
+---
 
-##### Tool: [host](https://en.wikipedia.org/wiki/Host_(Unix))
+##### Tool: [host](<https://en.wikipedia.org/wiki/Host_(Unix)>)
 
 ###### Resolves the domain name (using external dns server)
 
@@ -3893,9 +3893,9 @@ host google.com 9.9.9.9
 host -t soa google.com 9.9.9.9
 ```
 
-___
+---
 
-##### Tool: [dig](https://en.wikipedia.org/wiki/Dig_(command))
+##### Tool: [dig](<https://en.wikipedia.org/wiki/Dig_(command)>)
 
 ###### Resolves the domain name (short output)
 
@@ -3927,7 +3927,7 @@ dig google.com ANY +noall +answer
 dig -x 172.217.16.14 +short
 ```
 
-___
+---
 
 ##### Tool: [certbot](https://certbot.eff.org/)
 
@@ -3949,7 +3949,7 @@ certbot certonly --manual --preferred-challenges=dns -d example.com -d *.example
 certbot certonly -d example.com -d www.example.com --rsa-key-size 4096
 ```
 
-___
+---
 
 ##### Tool: [network-other](https://github.com/trimstray/the-book-of-secret-knowledge#tool-network-other)
 
@@ -3988,7 +3988,7 @@ git log --graph \
 --abbrev-commit
 ```
 
-___
+---
 
 ##### Tool: [python](https://www.python.org/)
 
@@ -4084,7 +4084,7 @@ awk 'length($0)>80{print FNR,$0}' filename
 awk 'length < 80' filename
 ```
 
-###### Print double new lines a file
+###### Print double newlines in a file
 
 ```bash
 awk '1; { print "" }' filename
@@ -4180,7 +4180,7 @@ awk '/'$(date -d "1 hours ago" "+%d\\/%b\\/%Y:%H:%M")'/,/'$(date "+%d\\/%b\\/%Y:
 /var/log/httpd/access_log
 ```
 
-___
+---
 
 ##### Tool: [sed](http://www.grymoire.com/Unix/Sed.html)
 
@@ -4233,7 +4233,7 @@ while read line ; do printf "%s" "$line " ; done < file
 sed '/start/,+4d' /path/to/file
 ```
 
-___
+---
 
 ##### Tool: [grep](http://www.grymoire.com/Unix/Grep.html)
 
