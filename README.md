@@ -642,6 +642,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://generated.photos"><b>AI Generated Photos</b></a> - 100.000 AI generated faces.<br>
 &nbsp;&nbsp; <a href="https://www.fakenamegenerator.com/"><b>fakenamegenerator</b></a> - your randomly generated identity.<br>
 &nbsp;&nbsp; <a href="https://tools.intigriti.io/redirector/"><b>Intigriti Redirector</b></a> - open redirect/SSRF payload generator.<br>
+&nbsp;&nbsp; <a href="https://usdtqrtool.com"><b>USDT QR Code Generator</b></a> - instantly create QR codes for USDT addresses across multiple networks.<br>
 </p>
 
 ##### :black_small_square: Passwords
