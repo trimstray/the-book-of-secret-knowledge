@@ -1459,6 +1459,7 @@ AWS deployment tool.<br>
 &nbsp;&nbsp; <a href="https://attackdefense.com"><b>Attack & Defense</b></a> - is a browser-based cloud labs.<br>
 &nbsp;&nbsp; <a href="https://cryptohack.org/"><b>Cryptohack</b></a> - a fun platform for learning modern cryptography.<br>
 &nbsp;&nbsp; <a href="https://cryptopals.com/"><b>Cryptopals</b></a> - the cryptopals crypto challenges.<br>
+&nbsp;&nbsp; <a href="https://labex.io/skilltrees/cybersecurity"><b>LabEx</b></a> - hands-on labs and challenges for cyber security.<br>
 </p>
 
 ##### :black_small_square: CTF platforms
