@@ -299,7 +299,7 @@ Only main chapters:
 
 <p>
 &nbsp;&nbsp; <a href="https://github.com/strace/strace"><b>strace</b></a> - diagnostic, debugging and instructional userspace utility for Linux.<br>
-&nbsp;&nbsp; <a href="http://dtrace.org/blogs/about/"><b>DTrace</b></a> - is a performance analysis and troubleshooting tool.<br>
+&nbsp;&nbsp; <a href="https://dtrace.org/about/"><b>DTrace</b></a> - is a performance analysis and troubleshooting tool.<br>
 &nbsp;&nbsp; <a href="https://en.wikipedia.org/wiki/Ltrace"><b>ltrace</b></a> - is a library call tracer, used to trace calls made by programs to library functions.<br>
 &nbsp;&nbsp; <a href="https://github.com/brainsmoke/ptrace-burrito"><b>ptrace-burrito</b></a> - is a friendly wrapper around ptrace.<br>
 &nbsp;&nbsp; <a href="https://github.com/brendangregg/perf-tools"><b>perf-tools</b></a> - performance analysis tools based on Linux perf_events (aka perf) and ftrace.<br>
