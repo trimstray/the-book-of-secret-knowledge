@@ -957,6 +957,11 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://github.com/GitGuardian/APISecurityBestPractices"><b>APISecurityBestPractices</b></a> - help you keep secrets (API keys, db credentials, certificates) out of source code.<br>
 </p>
 
+##### :black_small_square: Cryptocurrency
+<p>
+&nbsp;&nbsp; <a href="https://github.com/tm01013/how-to-make-your-own-crypto"><b>how-to-make-your-own-crypto</b></a> - Up to date guide on how to create a Solana token. <br>
+
+
 ##### :black_small_square: All-in-one
 
 <p>
