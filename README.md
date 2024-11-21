@@ -834,6 +834,11 @@ performance of any of your sites from across the globe.<br>
 
 #### Manuals/Howtos/Tutorials &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
 
+##### ▪ Universal
+<p>
+  &nbsp;&nbsp;:small_orange_diamond: <a hrer="https://devhints.io/"><b>devhints.io</b></a> - is a collection of modest cheatsheets almost about everythin in one tab.
+</p>
+
 ##### :black_small_square: Shell/Command line
 
 <p>
