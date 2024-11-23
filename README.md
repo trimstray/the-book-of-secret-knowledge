@@ -1615,6 +1615,7 @@ In Firefox's address bar, you can limit results by typing special characters bef
 - `chrome://restart` - restart chrome
 - `chrome://dino` - ERR_INTERNET_DISCONNECTED...
 - `cache:<website-address>` - view the cached version of the web page
+- `chrome://discards` - toggle auto discard settings of tabs (useful for keeping important tabs from reloading)
 
 ###### Bypass WAFs by Shortening IP Address (by [0xInfection](https://twitter.com/0xInfection))
 
