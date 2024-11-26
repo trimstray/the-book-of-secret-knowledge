@@ -4004,7 +4004,7 @@ python -m SimpleHTTPServer 8000
 
 ###### Static HTTP web server with SSL support
 
-```bash
+```py
 # Python 3.x
 from http.server import HTTPServer, BaseHTTPRequestHandler
 import ssl
