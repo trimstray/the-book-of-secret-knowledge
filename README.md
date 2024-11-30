@@ -1,7 +1,9 @@
 <p align="center">
-  <a href="https://github.com/trimstray/the-book-of-secret-knowledge">
-    <img src="https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/static/img/the-book-of-secret-knowledge-preview.png" alt="Master">
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./static/img/the-book-of-secret-knowledge-preview-white.png">
+    <source media="(prefers-color-scheme: light)" srcset="./static/img/the-book-of-secret-knowledge-preview-black.png">
+    <img alt="Master">
+  </picture>
 </p>
 
 <p align="center">"<i>Knowledge is powerful, be careful how you use it!</i>"</p>
