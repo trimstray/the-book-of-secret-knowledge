@@ -452,6 +452,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://browserleaks.com/"><b>Web Browser Security</b></a> - it's all about Web Browser fingerprinting.<br>
 &nbsp;&nbsp; <a href="https://www.howsmyssl.com/"><b>How's My SSL?</b></a> - help a web server developer learn what real world TLS clients were capable of.<br>
 &nbsp;&nbsp; <a href="https://suche.org/sslClientInfo"><b>sslClientInfo</b></a> - client test (incl TLSv1.3 information).<br>
+&nbsp;&nbsp; <a href="https://screensharing.net"><b>Screen Sharing via Browser</b></a> - A lightweight, browser-based screen sharing solution. Share your screen instantly with anyone, no downloads needed. Perfect for quick remote collaboration.<br>
 </p>
 
 ##### :black_small_square: SSL/Security
