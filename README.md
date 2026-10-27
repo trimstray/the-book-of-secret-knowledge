@@ -491,6 +491,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://securityheaders.com/"><b>Security Headers</b></a> - analyse the HTTP response headers (with rating system to the results).<br>
 &nbsp;&nbsp; <a href="https://observatory.mozilla.org/"><b>Observatory by Mozilla</b></a> - set of tools to analyze your website.<br>
 &nbsp;&nbsp; <a href="https://webhint.io/"><b>webhint</b></a> - is a linting tool that will help you with your site's accessibility, speed, security, and more.<br>
+&nbsp;&nbsp; <a href="https://iframecheck.com/"><b>iframecheck</b></a> - check if a page can show in an iframe (X-Frame-Options, CSP frame-ancestors) and get the header fix.<br>
 </p>
 
 ##### :black_small_square: DNS
