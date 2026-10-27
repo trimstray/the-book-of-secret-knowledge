@@ -4440,3 +4440,4 @@ shell> GetASN 1.1.1.1
 shell> GetASN 0.0.0.0
 Unsuccessful ASN gathering.
 ```
+- [SubDomainWatch](https://subdomainwatch.com) - Continuous subdomain discovery, SSL expiration tracking, and DNS takeover prevention for teams. (Freemium)
