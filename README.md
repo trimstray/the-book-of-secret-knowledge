@@ -184,6 +184,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://termshark.io/"><b>Termshark</b></a> - is a simple terminal user-interface for tshark.<br>
 &nbsp;&nbsp; <a href="https://github.com/jpr5/ngrep"><b>ngrep</b></a> - is like GNU grep applied to the network layer.<br>
 &nbsp;&nbsp; <a href="http://netsniff-ng.org/"><b>netsniff-ng</b></a> - is a Swiss army knife for your daily Linux network plumbing if you will.<br>
+&nbsp;&nbsp;<a href="https://github.com/darrenburns/posting"><b>posting</b></a> - is an HTTP client for the terminal, designed for creating and sending HTTP requests.<br>
 &nbsp;&nbsp; <a href="https://github.com/mechpen/sockdump"><b>sockdump</b></a> - dump unix domain socket traffic.<br>
 &nbsp;&nbsp; <a href="https://github.com/google/stenographer"><b>stenographer</b></a> - is a packet capture solution which aims to quickly spool all packets to disk.<br>
 &nbsp;&nbsp; <a href="https://github.com/sachaos/tcpterm"><b>tcpterm</b></a> - visualize packets in TUI.<br>
