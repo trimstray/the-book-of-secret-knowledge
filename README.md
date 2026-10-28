@@ -450,6 +450,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://panopticlick.eff.org/"><b>Panopticlick 3.0</b></a> - is your browser safe against tracking?<br>
 &nbsp;&nbsp; <a href="https://privacy.net/analyzer/"><b>Privacy Analyzer</b></a> - see what data is exposed from your browser.<br>
 &nbsp;&nbsp; <a href="https://browserleaks.com/"><b>Web Browser Security</b></a> - it's all about Web Browser fingerprinting.<br>
+&nbsp;&nbsp; <a href="https://demo.shieldlabs.ai/anonymity-checker"><b>ShieldLabs Anonymity Checker</b></a> - free current-browser diagnostic showing device identifiers, a risk score, and VPN, proxy, Tor and bot signals.<br>
 &nbsp;&nbsp; <a href="https://www.howsmyssl.com/"><b>How's My SSL?</b></a> - help a web server developer learn what real world TLS clients were capable of.<br>
 &nbsp;&nbsp; <a href="https://suche.org/sslClientInfo"><b>sslClientInfo</b></a> - client test (incl TLSv1.3 information).<br>
 </p>
