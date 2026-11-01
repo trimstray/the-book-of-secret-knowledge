@@ -177,6 +177,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="http://www.hping.org/"><b>hping</b></a> - is a command-line oriented TCP/IP packet assembler/analyzer.<br>
 &nbsp;&nbsp; <a href="https://github.com/traviscross/mtr"><b>mtr</b></a> - is a tool that combines the functionality of the 'traceroute' and 'ping' programs in a single tool.<br>
 &nbsp;&nbsp; <a href="https://github.com/mehrdadrad/mylg"><b>mylg</b></a> - utility which combines the functions of the different network probes in one diagnostic tool.<br>
+&nbsp;&nbsp; <a href="https://github.com/seifip/kilobat-cli"><b>Kilobat CLI</b></a> - network monitoring and layered host/API connectivity diagnostics for macOS 14+, with JSON output.<br>
 &nbsp;&nbsp; <a href="http://netcat.sourceforge.net/"><b>netcat</b></a> - utility which reads and writes data across network connections, using the TCP/IP protocol.<br>
 &nbsp;&nbsp; <a href="http://www.dest-unreach.org/socat/"><b>socat</b></a> - utility which transfers data between two objects.<br>
 &nbsp;&nbsp; <a href="https://www.tcpdump.org/"><b>tcpdump</b></a> - is a powerful command-line packet analyzer.<br>
