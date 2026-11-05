@@ -1140,7 +1140,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools, a
 &nbsp;&nbsp; <a href="http://www.grymoire.com/"><b>The Grymoire</b></a> - collection of useful incantations for wizards, be you computer wizards, magicians, or whatever.<br>
 &nbsp;&nbsp; <a href="https://www.secjuice.com"><b>Secjuice</b></a> - is the only non-profit, independent and volunteer led publication in the information security space.<br>
 &nbsp;&nbsp; <a href="https://duo.com/decipher"><b>Decipher</b></a> - security news that informs and inspires.<br>
-</p>
+&nbsp;&nbsp; <a href="https://opensource-analytics.com/"><b>Open Source Analytics</b></a> - practical posts on self-hosted Matomo, Plausible CE, Umami and open-source web analytics.<br>
 
 ##### :black_small_square: Geeky Vendor Blogs
 
