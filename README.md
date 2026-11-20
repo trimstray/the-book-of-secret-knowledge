@@ -1286,6 +1286,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp; <a href="https://github.com/NullArray/AutoSploit"><b>AutoSploit</b></a> - automated mass exploiter.<br>
 &nbsp;&nbsp; <a href="https://github.com/TH3xACE/SUDO_KILLER"><b>SUDO_KILLER</b></a> - is a tool to identify and exploit sudo rules' misconfigurations and vulnerabilities.<br>
 &nbsp;&nbsp; <a href="https://github.com/VirusTotal/yara"><b>yara</b></a> - the pattern matching swiss knife.<br>
+&nbsp;&nbsp; <a href="https://github.com/debugactiveprocess/MaldocTrace"><b>MaldocTrace</b></a> - static analyzer for malicious Office, RTF and OneNote documents that emulates macros and scripts to recover the commands they would run.<br>
 &nbsp;&nbsp; <a href="https://github.com/gentilkiwi/mimikatz"><b>mimikatz</b></a> - a little tool to play with Windows security.<br>
 &nbsp;&nbsp; <a href="https://github.com/sherlock-project/sherlock"><b>sherlock</b></a> - hunt down social media accounts by username across social networks.<br>
 &nbsp;&nbsp; <a href="https://owasp.org/www-project-threat-dragon/"><b>OWASP Threat Dragon</b></a> - is a tool used to create threat model diagrams and to record possible threats.<br>
