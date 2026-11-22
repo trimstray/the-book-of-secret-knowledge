@@ -532,6 +532,7 @@ Only main chapters:
 
 <p>
 &nbsp;&nbsp; <a href="https://www.url-encode-decode.com/"><b>URL Encode/Decode</b></a> - tool from above to either encode or decode a string of text.<br>
+&nbsp;&nbsp; <a href="https://bestjson.com/json-escape"><b>BestJSON JSON Escape</b></a> - escape text for JSON string embedding or unescape JSON strings locally in a browser worker.<br>
 &nbsp;&nbsp; <a href="https://uncoder.io/"><b>Uncoder</b></a> - the online translator for search queries on log data.<br>
 &nbsp;&nbsp; <a href="https://regex101.com/"><b>Regex101</b></a> - online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript.<br>
 &nbsp;&nbsp; <a href="https://regexr.com/"><b>RegExr</b></a> - online tool to learn, build, & test Regular Expressions (RegEx / RegExp).<br>
