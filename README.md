@@ -641,6 +641,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://thispersondoesnotexist.com/"><b>thispersondoesnotexist</b></a> - generate fake faces in one click - endless possibilities.<br>
 &nbsp;&nbsp; <a href="https://generated.photos"><b>AI Generated Photos</b></a> - 100.000 AI generated faces.<br>
 &nbsp;&nbsp; <a href="https://www.fakenamegenerator.com/"><b>fakenamegenerator</b></a> - your randomly generated identity.<br>
+&nbsp;&nbsp; <a href="https://fakexlab.com/"><b>FakeXLab</b></a> - free online generators for fake addresses, phone numbers, names and other test data.<br>
 &nbsp;&nbsp; <a href="https://tools.intigriti.io/redirector/"><b>Intigriti Redirector</b></a> - open redirect/SSRF payload generator.<br>
 </p>
 
