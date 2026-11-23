@@ -483,6 +483,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://securitytxt.org/"><b>security.txt</b></a> - a proposed standard (generator) which allows websites to define security policies.<br>
 &nbsp;&nbsp; <a href="https://github.com/mozilla/ssl-config-generator"><b>ssl-config-generator</b></a> - help you follow the Mozilla Server Side TLS configuration guidelines.<br>
 &nbsp;&nbsp; <a href="https://github.com/mjol/TLScan"><b>TLScan</b></a> - pure python, SSL/TLS protocol and cipher scanner/enumerator.<br>
+&nbsp;&nbsp; <a href="https://trythehandle.eu/"><b>TryTheHandle</b></a> - free external security scanner for servers and domains: TLS, security headers, DNS, SPF/DKIM/DMARC and exposed files.<br>
 </p>
 
 ##### :black_small_square: HTTP Headers & Web Linters
