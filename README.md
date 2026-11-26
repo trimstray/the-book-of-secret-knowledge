@@ -1281,6 +1281,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp; <a href="https://github.com/salesforce/vulnreport"><b>Vulnreport</b></a> - open-source pentesting management and automation platform by Salesforce Product Security.<br>
 &nbsp;&nbsp; <a href="https://github.com/sc0tfree/mentalist"><b>Mentalist</b></a> - is a graphical tool for custom wordlist generation.<br>
 &nbsp;&nbsp; <a href="https://github.com/archerysec/archerysec"><b>archerysec</b></a> - vulnerability assessment and management helps to perform scans and manage vulnerabilities.<br>
+&nbsp;&nbsp; <a href="https://github.com/momenbasel/vulnhawk"><b>VulnHawk</b></a> - AI-powered code security scanner that finds vulnerabilities in Python, JS, TS, and Go with SARIF output.<br>
 &nbsp;&nbsp; <a href="https://github.com/j3ssie/Osmedeus"><b>Osmedeus</b></a> - fully automated offensive security tool for reconnaissance and vulnerability scanning.<br>
 &nbsp;&nbsp; <a href="https://github.com/beefproject/beef"><b>beef</b></a> - the browser exploitation framework project.<br>
 &nbsp;&nbsp; <a href="https://github.com/NullArray/AutoSploit"><b>AutoSploit</b></a> - automated mass exploiter.<br>
