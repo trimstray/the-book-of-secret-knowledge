@@ -563,6 +563,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://www.privacyguides.org/"><b>privacyguides.org</b></a> - provides knowledge and tools to protect your privacy against global mass surveillance.<br>
 &nbsp;&nbsp; <a href="https://dnsprivacy.org/wiki/display/DP/DNS+Privacy+Test+Servers"><b>DNS Privacy Test Servers</b></a> - DNS privacy recursive servers list (with a 'no logging' policy).<br>
 &nbsp;&nbsp; <a href="https://freeusername.com/"><b>FreeUsername</b></a> - checks a username across 3,450+ public sites to see where a handle is taken or still free.<br>
+&nbsp;&nbsp; <a href="https://play.google.com/store/apps/details?id=whatsmyname.app.us"><b>FreeUsername (Android)</b></a> - Android app that runs the same username check on-device and exports results as JSON or CSV.<br>
 </p>
 
 ##### :black_small_square: Code parsers/playgrounds
