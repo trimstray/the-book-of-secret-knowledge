@@ -400,6 +400,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://ostinato.org/"><b>Ostinato</b></a> - is a packet crafter and traffic generator.<br>
 &nbsp;&nbsp; <a href="https://jmeter.apache.org/"><b>JMeter™</b></a> - open source software to load test functional behavior and measure performance.<br>
 &nbsp;&nbsp; <a href="https://github.com/locustio/locust"><b>locust</b></a> - scalable user load testing tool written in Python.<br>
+&nbsp;&nbsp; <a href="https://gitlab.com/YKupriyanov/Kage"><b>Kage</b></a> - native macOS menu-bar network stealth and telemetry shield with TLS SNI fragmentation, DNS-over-TLS sinkholing, and live C2 process freezing.<br>
 </p>
 
 ##### :black_small_square: Browsers
@@ -430,6 +431,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://wire.com/en/"><b>Wire</b></a> - secure messaging, file sharing, voice calls and video conferences.<br>
 &nbsp;&nbsp; <a href="https://github.com/prof7bit/TorChat"><b>TorChat</b></a> - decentralized anonymous instant messenger on top of Tor Hidden Services.<br>
 &nbsp;&nbsp; <a href="https://matrix.org/"><b>Matrix</b></a> - an open network for secure, decentralized, real-time communication.<br>
+&nbsp;&nbsp; <a href="https://gitlab.com/YKupriyanov/NullMessenger"><b>Null Messenger</b></a> - decentralized zero-storage RAM-only messenger and C ABI AI agent bridge over the BitTorrent DHT (BEP-44) with 20s message ash burn and 60s room coordinate teleportation.<br>
 </p>
 
 ##### :black_small_square: Text editors
